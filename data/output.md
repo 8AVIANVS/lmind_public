@@ -1,190 +1,129 @@
-3/4/25, 11:08 PM
+3/10/25, 4:53 PM
 
-aapl-20220924
+Table of Contents
+
+nvda-20250126
 
 UNITED STATES
 SECURITIES AND EXCHANGE COMMISSION
 Washington, D.C. 20549
+____________________________________________________________________________________________
 
 FORM 10-K
 
-(Mark One)
-
 ☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
-For the fiscal year ended September 24, 2022
-or
+
+    For the fiscal year ended January 26, 2025
+
+OR
+
 ☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
 
-For the transition period from              to             .
+Commission file number: 0-23985
 
-Commission File Number: 001-36743
+NVIDIA CORPORATION
+(Exact name of registrant as specified in its charter)
 
-Apple Inc.
+Delaware
+(State or other jurisdiction of
+incorporation or organization)
 
-(Exact name of Registrant as specified in its charter)
+   2788 San Tomas Expressway, Santa Clara, California
+  (Address of principal executive offices)
 
-California
-(State or other jurisdiction
-of incorporation or organization)
+94-3177549
+(I.R.S. Employer
+Identification No.)
 
-One Apple Park Way
-Cupertino, California
-(Address of principal executive offices)
+95051
 
-94-2404110
-(I.R.S. Employer Identification No.)
-
-95014
 (Zip Code)
 
-(408) 996-1010
-(Registrant’s telephone number, including area code)
+Title of each class
+Common Stock, $0.001 par value per share
+
+Trading Symbol(s)
+NVDA
+
+Name of each exchange on which registered
+The Nasdaq Global Select Market
+
+Registrant’s telephone number, including area code: (408) 486-2000
 
 Securities registered pursuant to Section 12(b) of the Act:
 
-Title of each class
-Common Stock, $0.00001 par value per share
+Securities registered pursuant to Section 12(g) of the Act:
+None
 
-1.000% Notes due 2022
-1.375% Notes due 2024
-0.000% Notes due 2025
-0.875% Notes due 2025
-1.625% Notes due 2026
-2.000% Notes due 2027
-1.375% Notes due 2029
-3.050% Notes due 2029
-0.500% Notes due 2031
-3.600% Notes due 2042
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.    Yes ☐ No ☒
 
-Trading
-symbol(s)
-AAPL
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.    Yes ☐ No ☒
 
-Name of each exchange on which registered
-The Nasdaq Stock Market LLC
-The Nasdaq Stock Market LLC
-The Nasdaq Stock Market LLC
-The Nasdaq Stock Market LLC
-The Nasdaq Stock Market LLC
-The Nasdaq Stock Market LLC
-The Nasdaq Stock Market LLC
-The Nasdaq Stock Market LLC
-The Nasdaq Stock Market LLC
-The Nasdaq Stock Market LLC
-The Nasdaq Stock Market LLC
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12
+months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐
 
-Securities registered pursuant to Section 12(g) of the Act: None
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T
+(§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).    Yes ☒ No ☐
 
-Indicate by check mark if the Registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.
+Indicate  by  check  mark  whether  the  registrant  is  a  large  accelerated  filer,  an  accelerated  filer,  a  non-accelerated  filer,  a  smaller  reporting  company,  or  an  emerging  growth
+company. See the definitions of “large accelerated filer," “accelerated filer," “smaller reporting company," and "emerging growth company" in Rule 12b-2 of the Exchange Act.
 
-Yes  ☒     No  ☐
+Large accelerated filer ☒ Accelerated filer ☐ Non-accelerated filer ☐ Smaller reporting company ☐
 
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-1/78
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-Indicate by check mark if the Registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.
-
-Yes  ☐     No  ☒
-
-Indicate by check mark whether the Registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934
-during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports), and (2) has been subject to such filing
-requirements for the past 90 days.
-
-Yes  ☒     No  ☐
-
-Indicate by check mark whether the Registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of
-Regulation  S-T  (§232.405  of  this  chapter)  during  the  preceding  12  months  (or  for  such  shorter  period  that  the  Registrant  was  required  to  submit  such
-files).
-
-Yes  ☒     No  ☐
-
-Indicate by check mark whether the Registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an
-emerging  growth  company.  See  the  definitions  of  “large  accelerated  filer,”  “accelerated  filer,”  “smaller  reporting  company,”  and  “emerging  growth
-company” in Rule 12b-2 of the Exchange Act.
-
-Large accelerated filer
-
-Non-accelerated filer
-
-☒
-☐
-
-Accelerated filer
-
-Smaller reporting company
-
-Emerging growth company
+Emerging growth
+company
 
 ☐
-☐
-☐
 
-If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new
-or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act.    ☐
 
-Indicate by check mark whether the Registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal
-control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared
-or issued its audit report. ☒
+Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial
+reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. ☒
 
-Indicate by check mark whether the Registrant is a shell company (as defined in Rule 12b-2 of the Act).
+If  securities  are  registered  pursuant  to  Section  12(b)  of  the Act,  indicate  by  check  mark  whether  the  financial  statements  of  the  registrant  included  in  the  filing  reflect  the
+correction of an error to previously issued financial statements. ☐
 
-Yes  ☐     No  ☒
+Indicate  by  check  mark  whether  any  of  those  error  corrections  are  restatements  that  required  a  recovery  analysis  of  incentive-based  compensation  received  by  any  of  the
+registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐
 
-The aggregate market value of the voting and non-voting stock held by non-affiliates of the Registrant, as of March 25, 2022, the last business day of the
-Registrant’s  most  recently  completed  second  fiscal  quarter,  was  approximately  $2,830,067,000,000.  Solely  for  purposes  of  this  disclosure,  shares  of
-common stock held by executive officers and directors of the Registrant as of such date have been excluded because such persons may be deemed to
-be affiliates. This determination of executive officers and directors as affiliates is not necessarily a conclusive determination for any other purposes.
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act).    Yes ☐ No ☒
 
-15,908,118,000 shares of common stock were issued and outstanding as of October 14, 2022.
+The aggregate market value of the voting stock held by non-affiliates of the registrant as of July 26, 2024 was approximately $2.7 trillion (based on the closing sales price of the
+registrant's  common  stock  as  reported  by  the  Nasdaq  Global  Select  Market  on  July  26,  2024).  This  calculation  excludes  1.0  billion  shares  held  by  directors  and  executive
+officers of the registrant. This calculation does not exclude shares held by such organizations whose ownership exceeds 5% of the registrant's outstanding common stock that
+have represented to the registrant that they are registered investment advisers or investment companies registered under section 8 of the Investment Company Act of 1940.
 
-Portions of the Registrant’s definitive proxy statement relating to its 2023 annual meeting of shareholders are incorporated by reference into Part III of this
-Annual Report on Form 10-K where indicated. The Registrant’s definitive proxy statement will be filed with the U.S. Securities and Exchange Commission
-within 120 days after the end of the fiscal year to which this report relates.
+The number of shares of common stock outstanding as of February 21, 2025 was 24.4 billion.
+
+Portions of the registrant's Proxy Statement for its 2025 Annual Meeting of Shareholders to be filed with the Securities and Exchange Commission pursuant to Regulation 14A
+not later than 120 days after the end of the fiscal year covered by this Annual Report on Form 10-K are incorporated by reference into Part III, Items 10-14 of this Annual Report
+on Form 10-K.
 
 DOCUMENTS INCORPORATED BY REFERENCE
 
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
 
-2/78
+1/119
 
-3/4/25, 11:08 PM
+3/10/25, 4:53 PM
 
-aapl-20220924
+Table of Contents
 
-Apple Inc.
+nvda-20250126
 
-Form 10-K
-
-For the Fiscal Year Ended September 24, 2022
-
-TABLE OF CONTENTS
-
-Part I
+NVIDIA Corporation
+Table of Contents
 
 Item 1.
 Item 1A.
 Item 1B.
+Item 1C
 Item 2.
 Item 3.
 Item 4.
 
 Item 5.
-
 Item 6.
 Item 7.
 Item 7A.
@@ -200,21 +139,17 @@ Item 12.
 Item 13.
 Item 14.
 
-Item 15.
-Item 16.
-
+Part I
 Business
 Risk Factors
 Unresolved Staff Comments
+Cybersecurity
 Properties
 Legal Proceedings
 Mine Safety Disclosures
-
 Part II
-Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity
-
+Market  for  Registrant’s  Common  Equity,  Related  Stockholder  Matters  and  Issuer  Purchases  of  Equity
 Securities
-
 [Reserved]
 Management’s Discussion and Analysis of Financial Condition and Results of Operations
 Quantitative and Qualitative Disclosures About Market Risk
@@ -223,2659 +158,4642 @@ Changes in and Disagreements with Accountants on Accounting and Financial Disclo
 Controls and Procedures
 Other Information
 Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
-
 Part III
-
 Directors, Executive Officers and Corporate Governance
 Executive Compensation
 Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
 Certain Relationships and Related Transactions, and Director Independence
 Principal Accountant Fees and Services
 
-Exhibit and Financial Statement Schedules
+Part IV
+Exhibits and Financial Statement Schedules
 Form 10-K Summary
 
-Part IV
+Item 15.
+Item 16.
+Signatures
+
+2
 
 Page
 
-1
+ 4
+ 13
+ 32
+ 32
+ 33
+ 33
+ 33
+
+ 33
+35
+ 36
+ 45
+ 46
+ 46
+ 46
+ 47
+47
+
+ 47
+ 48
+48
+48
+ 48
+
+ 49
+ 85
+ 86
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+2/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+Where You Can Find More Information
+
+Investors and others should note that we announce material financial information to our investors using our investor relations website,
+press releases, SEC filings and public conference calls and webcasts. We also use the following social media channels as a means of
+disclosing information about the company, our products, our planned financial and other announcements and attendance at upcoming
+investor and industry conferences, and other matters and for complying with our disclosure obligations under Regulation FD:
+
+NVIDIA Corporate Blog (https://blogs.nvidia.com/)
+
+NVIDIA Technical Blog (https://developer.nvidia.com/blog/)
+
+NVIDIA LinkedIn Page (https://www.linkedin.com/company/nvidia)
+
+NVIDIA Facebook Page (https://www.facebook.com/nvidia)
+
+NVIDIA Instagram Page (https://www.instagram.com/nvidia)
+
+NVIDIA X Account (https://x.com/nvidia)
+
+In addition, investors and others can view NVIDIA videos on YouTube (https://www.YouTube.com/nvidia).
+
+The  information  we  post  through  these  social  media  channels  may  be  deemed  material. Accordingly,  investors  should  monitor  these
+accounts and the blog, in addition to following our press releases, SEC filings and public conference calls and webcasts. This list may be
+updated  from  time  to  time. The  information  we  post  through  these  channels  is  not  a  part  of  this Annual  Report  on  Form  10-K. These
+channels may be updated from time to time on NVIDIA's investor relations website.
+
+Forward-Looking Statements
+
+This Annual Report on Form 10-K contains forward-looking statements which are based on our management's beliefs and assumptions
+and on information currently available to our management. In some cases, you can identify forward-looking statements by terms such as
+“may,”  “will,”  “should,”  “could,”  “goal,”  “would,”  “expect,”  “plan,”  “anticipate,”  “believe,”  “estimate,”  “project,”  “predict,”  “potential,”  and
+similar expressions intended to identify forward-looking statements. These statements involve known and unknown risks, uncertainties
+and  other  factors,  which  may  cause  our  actual  results,  performance,  time  frames  or  achievements  to  be  materially  different  from  any
+future results, performance, time frames or achievements expressed or implied by the forward-looking statements. We discuss many of
+these risks, uncertainties, and other factors in this Annual Report on Form 10-K in greater detail under the heading “Risk Factors.” Given
+these  risks,  uncertainties,  and  other  factors,  you  should  not  place  undue  reliance  on  these  forward-looking  statements.  Also,  these
+forward-looking  statements  represent  our  estimates  and  assumptions  only  as  of  the  date  of  this  filing.  You  should  read  this  Annual
+Report  on  Form  10-K  completely  and  with  the  understanding  that  our  actual  future  results  may  be  materially  different  from  what  we
+expect.  We  hereby  qualify  our  forward-looking  statements  by  these  cautionary  statements.  Except  as  required  by  law,  we  assume  no
+obligation to update these forward-looking statements publicly, or to update the reasons actual results could differ materially from those
+anticipated in these forward-looking statements, even if new information becomes available in the future.
+
+All references to “NVIDIA,” “we,” “us,” “our,” or the “Company” mean NVIDIA Corporation and its subsidiaries.
+
+In  addition,  statements  that  “we  believe”  and  similar  statements  reflect  our  beliefs  and  opinions  on  the  relevant  subject.  These
+statements are based upon information available to us as of the filing date of this Annual Report on Form 10-K, and while we believe
+such  information  forms  a  reasonable  basis  for  such  statements,  such  information  may  be  limited  or  incomplete,  and  our  statements
+should  not  be  read  to  indicate  that  we  have  conducted  an  exhaustive  inquiry  into,  or  review  of,  all  potentially  available  relevant
+information. These statements are inherently uncertain and investors are cautioned not to unduly rely upon these statements.
+
+© 2025 NVIDIA Corporation. All rights reserved.
+
+3
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+3/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+Part I
+
+Item 1. Business
+
+Our Company
+
+nvda-20250126
+
+NVIDIA  pioneered  accelerated  computing  to  help  solve  the  most  challenging  computational  problems.  NVIDIA  is  now  a  full-stack
+computing infrastructure company with data-center-scale offerings that are reshaping industry.
+
+Our  full-stack  includes  the  foundational  CUDA  programming  model  that  runs  on  all  NVIDIA  GPUs,  as  well  as  hundreds  of  domain-
+specific software libraries, software development kits, or SDKs, and Application Programming Interfaces, or APIs. This deep and broad
+software stack accelerates the performance and eases the deployment of NVIDIA accelerated computing for computationally intensive
+workloads such as artificial intelligence, or AI, model training and inference, data analytics, scientific computing, and 3D graphics, with
+vertical-specific optimizations to address industries ranging from healthcare and telecom to automotive and manufacturing.
+
+Our  data-center-scale  offerings  are  comprised  of  compute  and  networking  solutions  that  can  scale  to  tens  of  thousands  of  GPU-
+accelerated servers interconnected to function as a single giant computer; this type of data center architecture and scale is needed for
+the development and deployment of modern AI applications.
+
+The GPU was initially used to simulate human imagination, enabling the virtual worlds of video games and films. Today, it also simulates
+human intelligence, enabling a deeper understanding of the physical world. Its parallel processing capabilities, supported by thousands
+of  computing  cores,  are  essential  for  deep  learning  algorithms.  This  form  of AI,  in  which  software  writes  itself  by  learning  from  large
+amounts of data, can serve as the brain of computers, robots, and self-driving cars that can perceive and understand the world. GPU-
+powered AI solutions are being developed by thousands of enterprises to deliver services and products that would have been immensely
+difficult  or  even  impossible  with  traditional  coding.  Examples  include  generative AI,  which  can  create  new  content  such  as  text,  code,
+images,  audio,  video,  molecule  structures,  and  recommendation  systems,  which  can  recommend  highly  relevant  content  such  as
+products, services, media, or ads using deep neural networks trained on vast datasets that capture the user's preferences.
+
+NVIDIA has a platform strategy, bringing together hardware, systems, software, algorithms, libraries, and services to create unique value
+for  the  markets  we  serve.  While  the  computing  requirements  of  these  end  markets  are  diverse,  we  address  them  with  a  unified
+underlying architecture leveraging our GPUs and networking and software stacks. The programmable nature of our architecture allows
+us  to  support  several  multi-billion-dollar  end  markets  with  the  same  underlying  technology  by  using  a  variety  of  software  stacks
+developed either internally or by third-party developers and partners. The large and growing number of developers and installed base
+across our platforms strengthens our ecosystem and increases the value of our platform to our customers.
+
+Innovation is at our core. We have invested over $58.2 billion in research and development since our inception, yielding inventions that
+are  essential  to  modern  computing.  Our  invention  of  the  GPU  in  1999  sparked  the  growth  of  the  PC  gaming  market  and  redefined
+computer graphics. With our introduction of the CUDA programming model in 2006, we opened the parallel processing capabilities of our
+GPU to a broad range of compute-intensive applications, paving the way for the emergence of modern AI. In 2012, the AlexNet neural
+network, trained on NVIDIA GPUs, won the ImageNet computer image recognition competition, marking the “Big Bang” moment of AI.
+We  introduced  our  first  Tensor  Core  GPU  in  2017,  built  from  the  ground-up  for  the  new  era  of AI,  and  our  first  autonomous  driving
+system-on-chips, or SoC, in 2018. Our acquisition of Mellanox in 2020 expanded our innovation canvas to include networking, enabled
+our platforms to be data center scale, and led to the introduction of a new processor class – the data processing unit, or DPU. Over the
+past  5  years,  we  have  built  full  software  stacks  that  run  on  top  of  our  GPUs  and  CUDA  to  bring AI  to  the  world’s  largest  industries,
+including NVIDIA DRIVE stack for autonomous driving, Clara for healthcare, and Omniverse for industrial digitalization; and introduced
+the NVIDIA AI Enterprise software – essentially an operating system for enterprise AI applications. In 2023, we introduced our first data
+center CPU, Grace, built for giant-scale AI and high performance computing, or HPC. With a strong engineering culture, we drive fast,
+yet harmonized, product and technology innovations in all dimensions of computing including silicon, systems, networking, software and
+algorithms. More than half of our engineers work on software.
+
+The  world’s  leading  cloud  service  providers,  or  CSPs,  and  consumer  internet  companies  use  our  data  center-scale  accelerated
+computing platforms to enable, accelerate, develop, or enrich the services and offerings they deliver to billions of end users, including AI
+solutions  and  assistants,  AI  foundation  models,  search,  recommendations,  social  networking,  online  shopping,  live  video,  and
+translation.
+
+Enterprises  and  startups  across  a  broad  range  of  industries  use  our  accelerated  computing  platforms  to  build  new  generative  and
+agentic AI-enabled products and services, and/or to dramatically accelerate and reduce the costs of their workloads and workflows. The
+enterprise software industry uses them for new AI assistants, chatbots, and agents; the transportation industry for autonomous driving;
+the healthcare industry for accelerated and computer-aided drug discovery; and the financial services industry for customer support and
+fraud detection.
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+4/119
+
+4
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+Researchers  and  developers  use  our  computing  solutions  to  accelerate  a  wide  range  of  important  applications,  from  simulating
+molecular dynamics to climate forecasting. With support for more than 4,400 applications, NVIDIA computing enables some of the most
+promising areas of discovery, from climate prediction to materials science and from wind tunnel simulation to genomics. Including GPUs
+and networking, NVIDIA powers over 75% of the supercomputers on the global TOP500 list, including 38 of the top 50 systems on the
+Green500 list.
+
+Gamers choose NVIDIA GPUs to enjoy immersive, increasingly cinematic virtual worlds. In addition to serving the growing number of
+gamers,  the  market  for  PC  GPUs  is  expanding  because  of  the  burgeoning  population  of  live  streamers,  broadcasters,  artists,  and
+creators.  With  the  advent  of  generative AI,  we  expect  a  broader  set  of  PC  users  to  choose  NVIDIA  GPUs  for  running  generative AI
+applications locally on their PC, which is critical for privacy, latency, and cost-sensitive AI applications.
+
+Professional artists, architects and designers use NVIDIA partner products accelerated with our GPUs and software platform for a range
+of creative and design use cases, such as creating visual effects in movies or designing buildings and products. In addition, generative
+AI is expanding the market for our workstation-class GPUs, as more enterprise customers develop and deploy AI applications with their
+data on-premises.
+
+Headquartered in Santa Clara, California, NVIDIA was incorporated in California in April 1993 and reincorporated in Delaware in April
+1998.
+
+Our Businesses
+
+We report our business results in two segments.
+
+The  Compute  &  Networking  segment  includes  our  Data  Center  accelerated  computing  platforms  and  AI  solutions  and  software;
+networking; automotive platforms and autonomous and electric vehicle solutions; Jetson for robotics and other embedded platforms; and
+DGX Cloud computing services.
+
+The  Graphics  segment  includes  GeForce  GPUs  for  gaming  and  PCs,  the  GeForce  NOW  game  streaming  service  and  related
+infrastructure, and solutions for gaming platforms; Quadro/NVIDIA RTX GPUs for enterprise workstation graphics; virtual GPU, or vGPU,
+software  for  cloud-based  visual  and  virtual  computing;  automotive  platforms  for  infotainment  systems;  and  Omniverse  Enterprise
+software for building and operating industrial AI and digital twin applications.
+
+Our Markets
+We  specialize  in  markets  where  our  computing  platforms  can  provide  tremendous  acceleration  for  applications.  These  platforms
+incorporate processors, interconnects, software, algorithms, systems, and services to deliver unique value. Our platforms address four
+large markets where our expertise is critical: Data Center, Gaming, Professional Visualization, and Automotive.
+
+Data Center
+
+The  NVIDIA  Data  Center  platform  is  focused  on  accelerating  the  most  compute-intensive  workloads,  such  as  AI,  data  analytics,
+graphics,  and  scientific  computing,  delivering  significantly  better  performance  and  power  efficiency  relative  to  conventional  CPU-only
+approaches. It is deployed in cloud, hyperscale, on-premises and edge data centers. The platform consists of compute and networking
+offerings typically delivered to customers as systems, subsystems, or modules, along with software and services.
+
+Our compute offerings include supercomputing platforms and servers, bringing together our energy efficient GPUs, CPUs, interconnects,
+and fully optimized AI and HPC software stacks. In addition, they include NVIDIA AI Enterprise software; our DGX Cloud service; and a
+growing body of acceleration libraries, APIs, SDKs, and domain-specific application frameworks.
+
+Our networking offerings include end-to-end platforms for InfiniBand and Ethernet, consisting of network adapters, cables, DPUs, switch
+chips  and  systems,  as  well  as  a  full  software  stack. This  has  enabled  us  to  architect  data  center-scale  computing  platforms  that  can
+interconnect thousands of compute nodes with high-performance networking. While historically the server was the unit of computing, as
+AI and HPC workloads have become extremely large spanning thousands of compute nodes, the data center has become the new unit
+of computing, with networking as an integral part.
+
+Our customers include the world’s leading public cloud and consumer internet companies, thousands of enterprises and startups, and
+public sector entities. We work with industry leaders to help build or transform their applications and data center infrastructure. Our direct
+customers  include  original  equipment  manufacturers,  or  OEMs,  original  device  manufacturers,  or  ODMs,  system  integrators  and
+distributors which we partner with to help bring our products to market. We also have partnerships in automotive, healthcare, financial
+services, manufacturing, retail, and technology among others, to accelerate the adoption of AI.
+
+At the foundation of the NVIDIA accelerated computing platform are our GPUs, which excel at parallel workloads such as the training
+and inferencing of neural networks. They are available in the NVIDIA accelerated computing platform and in
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+5/119
+
 5
-17
-17
-17
-17
 
-18
+3/10/25, 4:53 PM
 
-19
-20
-26
-28
-53
-53
-54
-54
+nvda-20250126
 
-54
-54
-54
-54
-54
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
 
-55
-57
+6/119
 
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
+3/10/25, 4:53 PM
 
-3/78
+Table of Contents
 
-3/4/25, 11:08 PM
+nvda-20250126
 
-aapl-20220924
+industry  standard  servers  from  every  major  cloud  provider  and  server  maker.  Beyond  GPUs,  our  data  center  platform  expanded  to
+include DPUs in fiscal year 2022 and CPUs in fiscal year 2024. We can optimize across the entire computing, networking and storage
+stack to deliver data center-scale computing solutions.
 
-This  Annual  Report  on  Form  10-K  (“Form  10-K”)  contains  forward-looking  statements,  within  the  meaning  of  the  Private  Securities
-Litigation Reform Act of 1995, that involve risks and uncertainties. Many of the forward-looking statements are located in Part I, Item 1 of
-this Form 10-K under the heading “Business” and Part II, Item 7 of this Form 10-K under the heading “Management’s Discussion and
-Analysis  of  Financial  Condition  and  Results  of  Operations.”  Forward-looking  statements  provide  current  expectations  of  future  events
-based  on  certain  assumptions  and  include  any  statement  that  does  not  directly  relate  to  any  historical  or  current  fact.  For  example,
-statements in this Form 10-K regarding the potential future impact of the COVID-19 pandemic on the Company’s business and results of
-operations are forward-looking statements. Forward-looking statements can also be identified by words such as “future,” “anticipates,”
-“believes,” “estimates,” “expects,” “intends,” “plans,” “predicts,” “will,” “would,” “could,” “can,” “may,” and similar terms. Forward-looking
-statements  are  not  guarantees  of  future  performance  and  the  Company’s  actual  results  may  differ  significantly  from  the  results
-discussed in the forward-looking statements. Factors that might cause such differences include, but are not limited to, those discussed in
-Part  I,  Item  1A  of  this  Form  10-K  under  the  heading  “Risk  Factors.”  The  Company  assumes  no  obligation  to  revise  or  update  any
-forward-looking statements for any reason, except as required by law.
+While our approach starts with powerful chips, what makes it a full-stack computing platform is our large body of software, including the
+CUDA  parallel  programming  model,  the  CUDA-X  collection  of  acceleration  libraries,  APIs,  SDKs,  and  domain-specific  application
+frameworks.
 
-Unless otherwise stated, all information presented herein is based on the Company’s fiscal calendar, and references to particular years,
-quarters, months or periods refer to the Company’s fiscal years ended in September and the associated quarters, months and periods of
-those fiscal years. Each of the terms the “Company” and “Apple” as used herein refers collectively to Apple Inc. and its wholly owned
-subsidiaries, unless otherwise stated.
+In addition to software delivered to customers as an integral part of our data center computing platform, we offer paid licenses to NVIDIA
+AI Enterprise, a comprehensive suite of enterprise-grade AI software and NVIDIA vGPU software for graphics-rich virtual desktops and
+workstations.  We  also  offer  the  NVIDIA  DGX  Cloud,  a  fully  managed  AI-training-as-a-service  platform  which  includes  cloud-based
+infrastructure and software for AI, customizable pretrained AI models, and access to NVIDIA experts.
 
-PART I
+In  fiscal  year  2025,  we  launched  the  NVIDIA  Blackwell  architecture,  a  full  set  of  data  center  scale  infrastructure  that  includes  GPUs,
+CPUs, DPUs, interconnects, switch chips and systems, and networking adapters. Blackwell excels at processing cutting edge generative
+AI and accelerated computing workloads with market leading performance and efficiency. Offered in a number of configurations, it can
+address the needs of customers across industries and a diverse set of AI and accelerated computing use cases.
 
-Item 1.    Business
+Gaming
 
-Company Background
+Gaming is the largest entertainment industry, with PC gaming as the predominant platform. Many factors propel its growth, including new
+high production value games and franchises, the continued rise of competitive gaming, or eSports, social connectivity and the increasing
+popularity of game streamers, modders, or gamers who remaster games, and creators.
 
-The Company designs, manufactures and markets smartphones, personal computers, tablets, wearables and accessories, and sells a
-variety of related services. The Company’s fiscal year is the 52- or 53-week period that ends on the last Saturday of September.
+Our gaming platforms leverage our GPUs and sophisticated software to enhance the gaming experience with smoother, higher quality
+graphics. We developed NVIDIA RTX to bring next generation graphics and AI to games. NVIDIA RTX features ray tracing technology for
+real-time,  cinematic-quality  rendering.  Ray  tracing,  which  has  long  been  used  for  special  effects  in  the  movie  industry,  is  a
+computationally  intensive  technique  that  simulates  the  physical  behavior  of  light  to  achieve  greater  realism  in  computer-generated
+scenes.  NVIDIA  RTX  also  features  deep  learning  super  sampling,  or  NVIDIA  DLSS,  our AI  technology  that  boosts  frame  rates  while
+generating beautiful, sharp images for games. RTX GPUs will also accelerate a new generation of AI applications. With an installed base
+of over 100 million AI capable PCs, more than 700 RTX AI-enabled applications and games, and a robust suite of development tools,
+RTX is already the AI PC leader.
 
-Products
+Our products for the gaming market include GeForce RTX and GeForce GTX GPUs for gaming desktop and laptop PCs, GeForce NOW
+cloud gaming for playing PC games on underpowered devices, as well as SoCs and development services for game consoles.
 
-iPhone
+In  fiscal  year  2025,  we  launched  the  NVIDIA  Blackwell  GeForce  RTX  50  Series  family  of  desktop  and  laptop  GPUs.  The  Blackwell
+architecture introduced neural graphics which combines AI models with traditional rendering to unlock a new era of graphics innovation.
+The  RTX  50  Series  also  features  the  next  generation  of  our  DLSS  technology  powered  for  the  first  time  by  a  transformer  model
+architecture.  Together  these  technologies  help  deliver  up  to  a  2x  leap  in  performance  and  stunning  visual  realism  for  PC  gamers,
+developers, and creatives.
 
-®
+Professional Visualization
 
-iPhone  is the Company’s line of smartphones based on its iOS operating system. The iPhone line includes iPhone 14 Pro, iPhone 14,
-iPhone 13, iPhone SE , iPhone 12 and iPhone 11.
+We  serve  the  Professional  Visualization  market  by  working  closely  with  independent  software  vendors,  or  ISVs,  to  optimize  their
+offerings for NVIDIA GPUs. Our GPU computing platform enhances productivity and introduces new capabilities for critical workflows in
+many  fields,  such  as  design  and  manufacturing  and  digital  content  creation.  Design  and  manufacturing  encompass  computer-aided
+design,  architectural  design,  consumer-products  manufacturing,  medical  instrumentation,  and  aerospace.  Digital  content  creation
+includes  professional  video  editing  and  post-production,  special  effects  for  films,  and  broadcast-television  graphics.  Additionally,  the
+infusion of generative AI into an increasing number of applications is giving rise to the need for the enhanced AI processing capabilities
+of our RTX GPUs.
 
-®
+The  NVIDIA  RTX  platform  makes  it  possible  to  render  film-quality,  photorealistic  objects  and  environments  with  physically  accurate
+shadows, reflections and refractions using ray tracing in real-time. Many leading 3D design and content creation applications developed
+by our ecosystem partners now support RTX, allowing professionals to accelerate and transform their workflows with NVIDIA RTX GPUs
+and software.
 
-Mac
+We  offer  NVIDIA  Omniverse  as  a  development  platform  and  operating  system  for  building  and  running  virtual  world  simulation
+applications,  available  as  a  software  subscription  for  enterprise  use  and  free  for  individual  use.  Industrial  enterprises  are  adopting
+Omniverse’s 3D and simulation technologies to digitalize their complex physical assets, processes, and environments – building digital
+twins  of  factories,  real  time  3D  product  configurators,  testing  and  validating  autonomous  robots  and  vehicles,  powered  by  NVIDIA
+accelerated computing infrastructure on-premises and in the cloud.
 
-Mac  is the Company’s line of personal computers based on its macOS  operating system. The Mac line includes laptops MacBook Air
-®
-and MacBook Pro , as well as desktops iMac , Mac mini , Mac Studio™ and Mac Pro .
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
 
-®
+7/119
 
-®
+6
 
-®
+3/10/25, 4:53 PM
 
-®
+nvda-20250126
 
-®
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
 
-iPad
+8/119
 
-®
+3/10/25, 4:53 PM
 
-®
-iPad  is the Company’s line of multipurpose tablets based on its iPadOS  operating system. The iPad line includes iPad Pro , iPad Air ,
-®
-iPad and iPad mini .
+Table of Contents
 
-®
+Automotive
 
-®
+nvda-20250126
 
-Wearables, Home and Accessories
+Automotive is comprised of platform solutions for automated driving from the cloud to the car. Leveraging our technology leadership in AI
+and building on our long-standing automotive relationships, we are delivering a complete end-to-end solution for the AV market under the
+DRIVE  Hyperion  brand.  We  have  demonstrated  multiple  applications  of AI  within  the  car: AI  can  drive  the  car  itself  as  a  pilot  in  fully
+autonomous mode or it can also be a co-pilot, assisting the human driver while creating a safer driving experience.
+
+We  are  working  with  several  hundred  partners  in  the  automotive  ecosystem  including  automakers,  truck  makers,  tier-one  suppliers,
+sensor manufacturers, automotive research institutions, HD mapping companies, and startups to develop and deploy AI systems for self-
+driving  vehicles.  Our  unified  AI  computing  architecture  starts  with  training  deep  neural  networks  using  our  Data  Center  computing
+solutions,  and  then  running  a  full  perception,  fusion,  planning,  and  control  stack  within  the  vehicle  on  the  NVIDIA  DRIVE  Hyperion
+platform.  DRIVE  Hyperion  consists  of  the  high-performance,  energy  efficient  DRIVE AGX  computing  hardware  running  an  in-vehicle
+operating  system  (DRIVE  OS),  a  reference  sensor  set  that  supports  full  self-driving  capability  as  well  as  an  open,  modular  DRIVE
+software platform for autonomous driving, mapping, and parking services, and intelligent in-vehicle experiences.
+
+In addition, we offer a scalable data center-based simulation solution based on NVIDIA Omniverse software to develop synthetic data for
+AI  model  training,  as  well  as  for  testing  and  validating  a  self-driving  platform.  Our  unique  end-to-end,  software-defined  approach  is
+designed for continuous innovation and continuous development, enabling cars to receive over-the-air updates to add new features and
+capabilities throughout the life of a vehicle.
+
+Business Strategies
+
+NVIDIA’s key strategies that shape our overall business approach include:
+
+Advancing  the  NVIDIA  accelerated  computing  platform.  Our  accelerated  computing  platform  can  solve  complex  problems  in
+significantly less time and with lower power consumption than alternative computational approaches. Indeed, it can help solve problems
+that  were  previously  deemed  unsolvable.  We  work  to  deliver  continued  performance  leaps  that  outpace  Moore’s  Law  by  leveraging
+innovation across the architecture, chip design, system, interconnect, algorithm, and software layers. This full-stack innovation approach
+allows us to deliver order-of-magnitude performance advantages relative to legacy approaches in our target markets, which include Data
+Center,  Gaming,  Professional  Visualization,  and Automotive.  While  the  computing  requirements  of  these  end  markets  are  diverse,  we
+address them with a unified underlying architecture leveraging our GPUs, CPUs, CUDA and networking technologies as the fundamental
+building blocks. The programmable nature of our architecture allows us to make leveraged investments in research and development:
+we  can  support  several  multi-billion-dollar  end  markets  with  shared  underlying  technology  by  using  a  variety  of  software  stacks
+developed either internally or by third-party developers and partners. We utilize this platform approach in each of our target markets.
+
+Extending our technology and platform leadership in AI. We provide a complete, end-to-end accelerated computing platform for AI,
+addressing both training and inferencing. This includes full-stack data center-scale compute and networking solutions across processing
+units, interconnects, systems, and software. Our compute solutions include all three major processing units in AI servers – GPUs, CPUs,
+and DPUs. GPUs are uniquely suited to AI, and we will continue to add AI-specific features to our GPU architecture to further extend our
+leadership position.
+
+In addition, we offer DGX Cloud, a fully managed AI-training-as-a-service platform, along with NVIDIA AI Enterprise—a comprehensive
+software suite designed to simplify the development and deployment of production-grade, end-to-end generative AI applications. NVIDIA
+AI  Enterprise  includes:  NVIDIA  NIM,  which  delivers  a  2.5x  increase  in  token  throughput  using  industry-leading  open  and  proprietary
+models;  NVIDIA  NeMo,  a  complete  solution  for  curating,  fine-tuning,  evaluating,  and  safeguarding  domain-adapted  models;  and  AI
+Blueprints, pre-built, runnable templates that help enterprises build, optimize, and deploy AI agents while preserving privacy. These tools
+enable organizations to securely develop and run AI applications on NVIDIA-accelerated infrastructure anywhere.
+
+Our AI  technology  leadership  is  reinforced  by  our  large  and  expanding  ecosystem  in  a  virtuous  cycle.  Our  computing  platforms  are
+available  from  virtually  every  major  server  maker  and  CSP,  as  well  as  on  our  own  AI  supercomputers.  There  are  over  5.9  million
+developers worldwide using CUDA and our other software tools to help deploy our technology in our target markets. We evangelize AI
+through  partnerships  with  hundreds  of  universities  and  thousands  of  startups  through  our  Inception  program.  Additionally,  our  Deep
+Learning Institute provides instruction on the latest techniques on how to design, train, and deploy neural networks in applications using
+our accelerated computing platform.
+
+Extending  our  technology  and  platform  leadership  in  computer  graphics.  We  believe  that  computer  graphics  infused  with AI  is
+fundamental to the continued expansion and evolution of computing. We apply our research and development resources to enhance the
+user  experience  for  consumer  entertainment  and  professional  visualization  applications  and  create  new  virtual  world  and  simulation
+capabilities. Our technologies are instrumental in driving the gaming, design, and creative industries forward, as developers leverage our
+libraries and algorithms to deliver an optimized experience on our GeForce and NVIDIA RTX platforms. Our computer graphics platforms
+leverage AI end-to-end, from the developer tools and cloud services to the Tensor Cores included in all RTX-class GPUs. For example,
+NVIDIA Avatar Cloud Engine, or ACE, is
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+9/119
+
+3/10/25, 4:53 PM
+
+nvda-20250126
 
-Wearables, Home and Accessories includes:
-
-®
-
-®
-
-AirPods , the Company’s wireless headphones, including AirPods, AirPods Pro  and AirPods Max™;
-Apple TV , the Company’s media streaming and gaming device based on its tvOS  operating system, including Apple TV 4K
-and Apple TV HD;
-Apple Watch , the Company’s line of smartwatches based on its watchOS  operating system, including Apple Watch Ultra™,
-Apple Watch Series 8 and Apple Watch SE ; and
-Beats  products, HomePod mini  and accessories.
-
-®
-
-®
-
-®
-
-®
-
-®
-
-®
-
-®
-
-®
-
-•
-•
-
-•
-
-•
-
-Apple Inc. | 2022 Form 10-K | 1
-
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-4/78
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-Services
-
-Advertising
-
-The Company’s advertising services include various third-party licensing arrangements and the Company’s own advertising platforms.
-
-AppleCare
-
-The Company offers a portfolio of fee-based service and support products under the AppleCare  brand. The offerings provide priority
-access  to Apple  technical  support,  access  to  the  global Apple  authorized  service  network  for  repair  and  replacement  services,  and  in
-many cases additional coverage for instances of accidental damage and/or theft and loss, depending on the country and type of product.
-
-®
-
-Cloud Services
-
-The Company’s cloud services store and keep customers’ content up-to-date and available across multiple Apple devices and Windows
-personal computers.
-
-Digital Content
-
-®
-The  Company  operates  various  platforms,  including  the App  Store ,  that  allow  customers  to  discover  and  download  applications  and
-digital content, such as books, music, video, games and podcasts.
-
-The  Company  also  offers  digital  content  through  subscription-based  services,  including Apple Arcade ,  a  game  subscription  service;
-Apple Fitness+ , a personalized fitness service; Apple Music , which offers users a curated listening experience with on-demand radio
-stations; Apple  News+ ,  a  subscription  news  and  magazine  service;  and Apple TV+ ,  which  offers  exclusive  original  content  and  live
-sports.
-
-SM
-
-®
-
-®
-
-®
-
-®
-
-Payment Services
-
-The Company offers payment services, including Apple Card , a co-branded credit card, and Apple Pay , a cashless payment service.
-
-®
-
-®
-
-Markets and Distribution
-
-The Company’s customers are primarily in the consumer, small and mid-sized business, education, enterprise and government markets.
-The Company sells its products and resells third-party products in most of its major markets directly to consumers, small and mid-sized
-businesses,  and  education,  enterprise  and  government  customers  through  its  retail  and  online  stores  and  its  direct  sales  force.  The
-Company also employs a variety of indirect distribution channels, such as third-party cellular network carriers, wholesalers, retailers and
-resellers.  During  2022,  the  Company’s  net  sales  through  its  direct  and  indirect  distribution  channels  accounted  for  38%  and  62%,
-respectively, of total net sales.
+7
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+10/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+a  suite  of  technologies  that  help  developers  bring  digital  avatars  to  life  with  generative AI,  running  in  the  cloud  or  locally  on  the  PC.
+GeForce Experience enhances each gamer’s experience by optimizing their PC’s settings, as well as enabling the recording and sharing
+of gameplay. Our Studio drivers enhance and accelerate a number of popular creative applications. Omniverse is real-time 3D design
+collaboration and virtual world simulation software that empowers artists, designers, and creators to connect and collaborate in leading
+design applications. We also enable interactive graphics applications - such as games, movie and photo editing and design software - to
+be accessed by almost any device, almost anywhere, through our cloud platforms such as vGPU for enterprise and GeForce NOW for
+gaming.
+
+Advancing the leading autonomous vehicle platform. We believe the advent of autonomous vehicles, or AV, and electric vehicles, or
+EV, is revolutionizing the transportation industry. The algorithms required for autonomous driving - such as perception, localization, and
+planning - are too complex for legacy hand-coded approaches and will use multiple neural networks instead. Therefore, we provide an
+AI-based hardware and software solution, designed and implemented from the ground up based on automotive safety standards, for the
+AV  and  EV  market  under  the  DRIVE  brand,  which  we  are  bringing  to  market  through  our  partnerships  with  automotive  OEMs,  tier-1
+suppliers,  and  start-ups.  Our AV  solution  also  includes  the  GPU-based  hardware  required  to  train  the  neural  networks  before  their  in-
+vehicle deployment, as well as to re-simulate their operation prior to any over-the-air software updates. We believe our comprehensive,
+top-to-bottom  and  end-to-end  approach  will  enable  the  transportation  industry  to  solve  the  complex  problems  arising  from  the  shift  to
+autonomous driving.
+
+Leveraging our intellectual property, or IP. We believe our IP is a valuable asset that can be accessed by our customers and partners
+through license and development agreements when they desire to build such capabilities directly into their own products or have us do
+so through a custom development. Such license and development arrangements can further enhance the reach of our technology.
+
+Sales and Marketing
+
+Our  worldwide  sales  and  marketing  strategy  is  key  to  achieving  our  objective  of  providing  markets  with  our  high-performance  and
+efficient  computing  platforms  and  software.  Our  sales  and  marketing  teams,  located  across  our  global  markets,  work  closely  with
+customers  and  various  industry  ecosystems  through  our  partner  network.  Our  partner  network  incorporates  global,  regional  and
+specialized  CSPs,  OEMs,  ODMs,  ISVs,  global  system  integrators,  add-in  board  manufacturers,  or  AIBs,  distributors,  automotive
+manufacturers and tier-1 automotive suppliers, and other ecosystem participants.
+
+Members  of  our  sales  team  have  technical  expertise  and  product  and  industry  knowledge.  We  also  employ  a  team  of  application
+engineers  and  solution  architects  to  provide  pre-sales  assistance  to  our  partner  network  in  designing,  testing,  and  qualifying  system
+designs that incorporate our platforms. For example, our solution architects work with CSPs to provide pre-sales assistance to enable
+our customers to optimize their hardware and software infrastructure for generative AI and LLM training and deployment. They also work
+with  foundation  model  and  enterprise  software  developers  to  enable  our  customers  to  optimize  the  training  and  fine-tuning  of  their
+models  and  services,  and  with  enterprise  end-users,  often  in  collaboration  with  their  global  system  integrator  of  choice,  to  fine-tune
+models and build AI applications. We believe that the depth and quality of our design support are key to improving our partner network’s
+time-to-market, maintaining a high level of customer satisfaction, and fostering relationships that encourage our customers and partner
+network to use the next generation of our products within each platform.
+
+To  encourage  the  development  of  applications  optimized  for  our  platforms  and  software,  we  seek  to  establish  and  maintain  strong
+relationships  in  the  software  development  community.  Engineering  and  marketing  personnel  engage  with  key  software  developers  to
+promote and discuss our platforms, as well as to ascertain individual product requirements and solve technical problems. Our developer
+program supports the development of AI frameworks, SDKs, and APIs for software applications and game titles that are optimized for
+our platforms. Our Deep Learning Institute provides in-person and online training for developers in industries and organizations around
+the world to build AI and accelerated computing applications that leverage our platforms.
+
+Seasonality
+
+Our computing platforms serve a diverse set of markets such as data centers, gaming, professional visualization, and automotive. Our
+desktop  gaming  products  typically  see  stronger  revenue  in  the  second  half  of  our  fiscal  year.  Historical  seasonality  trends  may  not
+repeat.
+
+Manufacturing
+
+We  utilize  a  fabless  and  contracting  manufacturing  strategy,  whereby  we  employ  and  partner  with  key  suppliers  for  all  phases  of  the
+manufacturing process, including wafer fabrication, assembly, testing, and packaging. We use the expertise of industry-leading suppliers
+that  are  certified  by  the  International  Organization  for  Standardization  in  such  areas  as  fabrication,  assembly,  quality  control  and
+assurance,  reliability,  and  testing.  Additionally,  we  can  avoid  many  of  the  significant  costs  and  risks  associated  with  owning  and
+operating manufacturing operations. While we may directly procure certain raw materials used in the production of our products, such as
+memory,  substrates,  and  a  variety  of  components,  our  suppliers  are  responsible  for  procurement  of  most  raw  materials  used  in  the
+production  of  our  products. As  a  result,  we  can  focus  our  resources  on  product  design,  quality  assurance,  marketing,  and  customer
+support. In periods
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+11/119
+
+3/10/25, 4:53 PM
+
+nvda-20250126
+
+8
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+12/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+of growth, we may place non-cancellable inventory orders for certain product components in advance of our historical lead times, pay
+premiums, or provide deposits to secure future supply and capacity and may need to continue to do so.
+
+We have expanded our supplier relationships to build redundancy and resilience in our operations to provide long-term manufacturing
+capacity aligned with growing customer demand. Our supply chain is mainly concentrated in the Asia-Pacific region. We utilize foundries,
+such as Taiwan Semiconductor Manufacturing Company Limited, or TSMC, and Samsung Electronics Co., Ltd., or Samsung, to produce
+our  semiconductor  wafers.  We  purchase  memory  from  SK  Hynix  Inc.,  Micron  Technology,  Inc.,  and  Samsung.  We  utilize  CoWoS
+technology  for  semiconductor  packaging.  We  engage  with  independent  subcontractors  and  contract  manufacturers  such  as  Hon  Hai
+Precision Industry Co., Ltd., Wistron Corporation, and Fabrinet to perform assembly, testing and packaging of our final products.
 
 Competition
 
-The markets for the Company’s products and services are highly competitive, and are characterized by aggressive price competition and
-resulting downward pressure on gross margins, frequent introduction of new products and services, short product life cycles, evolving
-industry  standards,  continual  improvement  in  product  price  and  performance  characteristics,  rapid  adoption  of  technological
-advancements by competitors, and price sensitivity on the part of consumers and businesses. Many of the Company’s competitors seek
-to compete primarily through aggressive pricing and very low cost structures, and by imitating the Company’s products and infringing on
-its intellectual property.
+The market for our products is intensely competitive and is characterized by rapid technological change and evolving industry standards.
+We believe that the principal competitive factors in this market are performance, breadth of product offerings, access to customers and
+partners and distribution channels, software support, conformity to industry standard APIs, manufacturing capabilities, processor pricing,
+and total system costs. We believe that our ability to remain competitive will depend on how well we are able to anticipate the features
+and  functions  that  customers  and  partners  will  demand  and  whether  we  are  able  to  deliver  consistent  volumes  of  our  products  at
+acceptable levels of quality and at competitive prices. We expect competition to increase from both existing competitors and new market
+entrants with products that may be lower priced than ours or may provide better performance or additional features not provided by our
+products.  In  addition,  it  is  possible  that  new  competitors  or  alliances  among  competitors  could  emerge  and  acquire  significant  market
+share.
 
-The  Company’s  ability  to  compete  successfully  depends  heavily  on  ensuring  the  continuing  and  timely  introduction  of  innovative  new
-products, services and technologies to the marketplace. The Company designs and develops nearly the entire solution for its products,
-including the hardware, operating system, numerous software applications and related services. Principal competitive factors important
-to  the  Company  include  price,  product  and  service  features  (including  security  features),  relative  price  and  performance,  product  and
-service  quality  and  reliability,  design  innovation,  a  strong  third-party  software  and  accessories  ecosystem,  marketing  and  distribution
-capability, service and support, and corporate reputation.
+A significant source of competition comes from companies that provide or intend to provide GPUs, CPUs, DPUs, embedded SoCs, and
+other  accelerated,  AI  computing  processor  products,  and  providers  of  semiconductor-based  high-performance  interconnect  products
+based  on  InfiniBand,  Ethernet,  Fibre  Channel,  and  proprietary  technologies.  Some  of  our  competitors  may  have  greater  marketing,
+financial, distribution and manufacturing resources than we do and may be more able to adapt to customers or technological changes.
+We expect an increasingly competitive environment in the future.
 
-Apple Inc. | 2022 Form 10-K | 2
+Our current competitors include:
 
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
+•
 
-5/78
+•
 
-3/4/25, 11:08 PM
+•
 
-aapl-20220924
+•
 
-The  Company  is  focused  on  expanding  its  market  opportunities  related  to  smartphones,  personal  computers,  tablets,  wearables  and
-accessories, and services. The Company faces substantial competition in these markets from companies that have significant technical,
-marketing, distribution and other resources, as well as established hardware, software, and service offerings with large customer bases.
-In addition, some of the Company’s competitors have broader product lines, lower-priced products and a larger installed base of active
-devices. Competition has been particularly intense as competitors have aggressively cut prices and lowered product margins. Certain
-competitors have the resources, experience or cost structures to provide products at little or no profit or even at a loss. The Company’s
-services  compete  with  business  models  that  provide  content  to  users  for  free  and  use  illegitimate  means  to  obtain  third-party  digital
-content  and  applications.  The  Company  faces  significant  competition  as  competitors  imitate  the  Company’s  product  features  and
-applications within their products, or collaborate to offer integrated solutions that are more competitive than those they currently offer.
+•
 
-Supply of Components
+suppliers  and  licensors  of  hardware  and  software  for  discrete  and  integrated  GPUs,  custom  chips  and  other  accelerated
+computing solutions, including solutions offered for AI, such as Advanced Micro Devices, Inc., or AMD, Huawei Technologies
+Co. Ltd., or Huawei, and Intel Corporation, or Intel;
 
-Although most components essential to the Company’s business are generally available from multiple sources, certain components are
-currently  obtained  from  single  or  limited  sources.  The  Company  also  competes  for  various  components  with  other  participants  in  the
-markets for smartphones, personal computers, tablets, wearables and accessories. Therefore, many components used by the Company,
-including those that are available from multiple sources, are at times subject to industry-wide shortage and significant commodity pricing
-fluctuations.
+large  cloud  services  companies  with  internal  teams  designing  hardware  and  software  that  incorporate  accelerated  or  AI
+computing functionality as part of their internal solutions or platforms, such as Alibaba Group, Alphabet Inc., Amazon, Inc., or
+Amazon, Baidu, Inc., Huawei, and Microsoft Corporation, or Microsoft;
 
-The  Company  uses  some  custom  components  that  are  not  commonly  used  by  its  competitors,  and  new  products  introduced  by  the
-Company often utilize custom components available from only one source. When a component or product uses new technologies, initial
-capacity constraints may exist until the suppliers’ yields have matured or their manufacturing capacities have increased. The continued
-availability of these components at acceptable prices, or at all, may be affected if suppliers decide to concentrate on the production of
-common components instead of components customized to meet the Company’s requirements.
+suppliers  of  Arm-based  CPUs  and  companies  that  incorporate  hardware  and  software  for  CPUs  as  part  of  their  internal
+solutions or platforms, such as Amazon, Huawei, and Microsoft;
 
-The Company has entered into agreements for the supply of many components; however, there can be no guarantee that the Company
-will be able to extend or renew these agreements on similar terms, or at all.
+suppliers  of  hardware  and  software  for  SoC  products  that  are  used  in  servers  or  embedded  into  automobiles,  autonomous
+machines,  and  gaming  devices,  such  as Ambarella,  Inc., AMD,  Broadcom,  Inc.,  or  Broadcom,  Intel,  Qualcomm  Incorporated,
+Renesas  Electronics  Corporation,  and  Samsung,  or  companies  with  internal  teams  designing  SoC  products  for  their  own
+products and services, such as Tesla, Inc.; and
 
-Substantially all of the Company’s hardware products are manufactured by outsourcing partners that are located primarily in Asia, with
-some Mac computers manufactured in the U.S. and Ireland.
+networking products consisting of switches, network adapters (including DPUs), and cable solutions (including optical modules)
+include such as AMD, Arista Networks, Broadcom, Cisco Systems, Inc., Hewlett Packard Enterprise Company, Huawei, Intel,
+Lumentum  Holdings  Inc.,  and  Marvell Technology,  Inc.  as  well  as  internal  teams  of  system  vendors  and  large  cloud  services
+companies.
 
-Research and Development
+Patents and Proprietary Rights
 
-Because  the  industries  in  which  the  Company  competes  are  characterized  by  rapid  technological  advances,  the  Company’s  ability  to
-compete  successfully  depends  heavily  upon  its  ability  to  ensure  a  continual  and  timely  flow  of  competitive  products,  services  and
-technologies to the marketplace. The Company continues to develop new technologies to enhance existing products and services, and
-to expand the range of its offerings through research and development (“R&D”), licensing of intellectual property and acquisition of third-
-party businesses and technology.
+We  rely  primarily  on  a  combination  of  patents,  trademarks,  trade  secrets,  employee  and  third-party  nondisclosure  agreements,  and
+licensing arrangements to protect our IP in the United States and internationally. Our currently issued patents have expiration dates from
+February 2025 to June 2045. We have numerous patents issued, allowed, and pending in the United States and in foreign jurisdictions.
+Our patents and pending patent applications primarily relate to our products and the technology used in connection with our products.
+We also rely on international treaties, organizations, and foreign laws to protect our IP. The laws of certain foreign countries in which our
+products are or may be manufactured or sold, including various countries in Asia, may not protect our products or IP rights to the same
+extent as the laws of the United States. This decreased protection makes the possibility of piracy of our technology and products more
+likely. We continuously assess whether and where to seek formal protection for innovations and technologies based on such factors as:
 
-Intellectual Property
+•
 
-The  Company  currently  holds  a  broad  collection  of  intellectual  property  rights  relating  to  certain  aspects  of  its  hardware  devices,
-accessories, software and services. This includes patents, designs, copyrights, trademarks and other forms of intellectual property rights
-in  the  U.S.  and  various  foreign  countries.  Although  the  Company  believes  the  ownership  of  such  intellectual  property  rights  is  an
-important factor in differentiating its business and that its success does depend in part on such ownership, the Company relies primarily
-on the innovative skills, technical competence and marketing abilities of its personnel.
+the location in which our products are manufactured;
 
-The  Company  regularly  files  patent,  design,  copyright  and  trademark  applications  to  protect  innovations  arising  from  its  research,
-development, design and marketing, and is currently pursuing thousands of applications around the world. Over time, the Company has
-accumulated a large portfolio of issued and registered intellectual property rights around the world. No single intellectual property right is
-solely  responsible  for  protecting  the  Company’s  products  and  services. The  Company  believes  the  duration  of  its  intellectual  property
-rights is adequate relative to the expected lives of its products and services.
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
 
-In addition to Company-owned intellectual property, many of the Company’s products and services are designed to include intellectual
-property owned by third parties. It may be necessary in the future to seek or renew licenses relating to various aspects of the Company’s
-products,  processes  and  services.  While  the  Company  has  generally  been  able  to  obtain  such  licenses  on  commercially  reasonable
-terms in the past, there is no guarantee that such licenses could be obtained in the future on reasonable terms or at all.
+13/119
 
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
+3/10/25, 4:53 PM
 
-6/78
+nvda-20250126
 
-Apple Inc. | 2022 Form 10-K | 3
+9
 
-3/4/25, 11:08 PM
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
 
-aapl-20220924
+14/119
 
-Business Seasonality and Product Introductions
+3/10/25, 4:53 PM
 
-The Company has historically experienced higher net sales in its first quarter compared to other quarters in its fiscal year due in part to
-seasonal  holiday  demand.  Additionally,  new  product  and  service  introductions  can  significantly  impact  net  sales,  cost  of  sales  and
-operating expenses. The timing of product introductions can also impact the Company’s net sales to its indirect distribution channels as
-these channels are filled with new inventory following a product launch, and channel inventory of an older product often declines as the
-launch  of  a  newer  product  approaches.  Net  sales  can  also  be  affected  when  consumers  and  distributors  anticipate  a  product
-introduction.
+Table of Contents
 
-Human Capital
+nvda-20250126
 
-The  Company  believes  it  has  a  talented,  motivated  and  dedicated  team,  and  works  to  create  an  inclusive,  safe  and  supportive
-environment  for  all  of  its  team  members.  As  of  September  24,  2022,  the  Company  had  approximately  164,000  full-time  equivalent
-employees.
+•
 
-Workplace Practices and Policies
+•
 
-The Company is an equal opportunity employer committed to inclusion and diversity and to providing a workplace free of harassment or
-discrimination.
+•
 
-Compensation and Benefits
+our strategic technology or product directions in different countries;
 
-The  Company  believes  that  compensation  should  be  competitive  and  equitable,  and  should  enable  employees  to  share  in  the
-Company’s success. The Company recognizes its people are most likely to thrive when they have the resources to meet their needs and
-the time and support to succeed in their professional and personal lives. In support of this, the Company offers a wide variety of benefits
-for  employees  around  the  world  and  invests  in  tools  and  resources  that  are  designed  to  support  employees’  individual  growth  and
-development.
+the degree to which IP laws exist and are meaningfully enforced in different jurisdictions; and
 
-Inclusion and Diversity
+the commercial significance of our operations and our competitors' operations in particular countries and regions.
 
-The Company remains committed to its vision to build and sustain a more inclusive workforce that is representative of the communities it
-serves.  The  Company  continues  to  work  to  increase  diverse  representation  at  every  level,  foster  an  inclusive  culture,  and  support
-equitable pay and access to opportunity for all employees.
+We have licensed technology from third parties and expect to continue entering such license agreements.
 
-Engagement
+Government Regulations
+Our  worldwide  business  activities  are  subject  to  various  laws,  rules,  and  regulations  of  the  United  States  as  well  as  of  foreign
+governments.
 
-The  Company  believes  that  open  and  honest  communication  among  team  members,  managers  and  leaders  helps  create  an  open,
-collaborative  work  environment  where  everyone  can  contribute,  grow  and  succeed.  Team  members  are  encouraged  to  come  to  their
-managers  with  questions,  feedback  or  concerns,  and  the  Company  conducts  surveys  that  gauge  employee  sentiment  in  areas  like
-career development, manager performance and inclusivity.
+Over the past three years, we have been subject to a series of shifting and expanding export control restrictions, impacting our ability to
+serve customers outside the United States.
 
-Health and Safety
+In August  2022,  the  U.S.  government,  or  the  USG,  announced  licensing  requirements  that,  with  certain  exceptions,  impact  exports  to
+China  (including  Hong  Kong  and  Macau)  and  Russia  of  our A100  and  H100  integrated  circuits,  DGX  or  any  other  systems  or  boards
+which incorporate A100 or H100 integrated circuits.
 
-The Company is committed to protecting its team members everywhere it operates. The Company identifies potential workplace risks in
-order  to  develop  measures  to  mitigate  possible  hazards.  The  Company  supports  employees  with  general  safety,  security  and  crisis
-management training, and by putting specific programs in place for those working in potentially high-hazard environments. Additionally,
-the Company works to protect the safety and security of its team members, visitors and customers through its global security team. The
-Company has also taken additional health and safety measures during the COVID-19 pandemic.
+In July 2023, the USG informed us of an additional licensing requirement for a subset of A100 and H100 products destined to certain
+customers and other regions, including some countries in the Middle East.
+
+In October 2023, the USG announced new and updated licensing requirements that became effective in our fourth quarter of fiscal year
+2024 for exports to China and Country Groups D1, D4, and D5 (including but not limited to Saudi Arabia, the United Arab Emirates, and
+Vietnam, but excluding Israel) of our products exceeding certain performance thresholds, including, but not limited to, the A100, A800,
+H100,  H800,  L4,  L40,  L40S  and  RTX  4090.  The  licensing  requirements  also  apply  to  the  export  of  products  exceeding  certain
+performance thresholds to a party headquartered in, or with an ultimate parent headquartered in, Country Group D5, including China. On
+October  23,  2023,  the  USG  informed  us  that  the  licensing  requirements  were  effective  immediately  for  shipments  of  our A100, A800,
+H100, H800, and L40S products (removing the grace period granted by the official rule). Blackwell systems, such as GB200 NVL 72 and
+NVL 36 as well as B200 are also subject to these requirements and therefore require a license for any shipment to certain entities and to
+China and Country Groups D1, D4 and D5, excluding Israel. To date, we have not received licenses to ship these restricted products to
+China. Additionally, we understand that partners and customers have also not received a license to ship these restricted products.
+
+On January 15, 2025, the USG published the “AI Diffusion” IFR in the Federal Register. After a 120-day delayed compliance period, the
+IFR  will,  unless  modified,  impose  a  worldwide  licensing  requirement  on  all  products  classified  under  Export  Control  Classification
+Numbers,  or  ECCNs,  3A090.a,  4A090.a,  or  corresponding  .z  ECCNs,  including  all  related  software  and  technology. Any  system  that
+incorporates one or more of the covered integrated circuits, or ICs, (including but not limited to NVIDIA DGX, HGX, and MGX systems)
+will be covered by the new licensing requirement. The licensing requirement will include future NVIDIA ICs, boards, or systems classified
+with  ECCN  3A090.a  or  4A090.a,  or  corresponding  .z  ECCNs,  achieving  certain  total  processing  performance  and/or  performance
+density.
+
+Unless a license exception is available, the worldwide licensing requirements will apply to the following NVIDIA products, and any others
+we  develop  that  meet  the  characteristics  of  3A090.a  or  4A090.a,  including  but  not  limited  to: A100, A800,  H100,  H200,  H800,  B100,
+B200, GB200, L4, L40S, and RTX 6000 Ada.
+
+Our competitive position has been harmed by the existing export controls, and our competitive position and future results may be further
+harmed, over the long term, if there are further changes in the USG’s export controls. Given the increasing strategic importance of AI
+and rising geopolitical tensions, the USG has changed and may again change the export control rules at any time and further subject a
+wider range of our products to export restrictions and licensing requirements, negatively impacting our business and financial results. In
+the event of such change, we may be unable to sell our inventory of such products and may be unable to develop replacement products
+not subject to the licensing requirements, effectively excluding us from all or part of the China market, as well as other impacted markets,
+including the Middle East and countries designated “Tier 2” by the AI Diffusion IFR. In addition to export controls, the USG may impose
+restrictions on the import and sale of products that incorporate technologies developed or manufactured in whole or in part in China. For
+example, the USG is considering restrictions on the import and sale of certain automotive products in the United States, which if adopted
+and interpreted broadly, could impact our ability to develop and supply solutions for our automotive customers.
+
+While we work to enhance the resiliency and redundancy of our supply chain, which is currently concentrated in the Asia-Pacific region,
+new  and  existing  export  controls  or  changes  to  existing  export  controls  could  limit  alternative  manufacturing  locations  and  negatively
+impact  our  business.  Refer  to  “Item  1A.  Risk  Factors  –  Risks  Related  to  Regulatory,  Legal,  Our  Stock  and  Other  Matters”  for  a
+discussion of this potential impact.
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+15/119
+
+10
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+Compliance with laws, rules, and regulations has not otherwise had a material effect upon our capital expenditures, results of operations,
+or competitive position and we do not currently anticipate material capital expenditures for environmental control facilities. Compliance
+with existing or future governmental regulations, including, but not limited to, those pertaining to IP ownership and infringement, taxes,
+import  and  export  requirements  and  tariffs,  anti-corruption,  business  acquisitions,  foreign  exchange  controls  and  cash  repatriation
+restrictions,  data  privacy  requirements,  competition  and  antitrust,  advertising,  employment,  product  regulations,  cybersecurity,
+environmental,  health  and  safety  requirements,  the  responsible  use  of AI,  climate  change,  cryptocurrency,  and  consumer  laws,  could
+further increase our costs, impact our competitive position, and otherwise may have a material adverse impact on our business, financial
+condition and results of operations in subsequent periods. Refer to “Item 1A. Risk Factors” for a discussion of these potential impacts.
+
+Sustainability and Governance
+
+NVIDIA invents computing technologies that improve lives and address global challenges. Our goal is to integrate sound environmental,
+social,  and  corporate  governance  principles  and  practices  into  every  aspect  of  the  Company.  The  Nominating  and  Corporate
+Governance Committee of our Board of Directors is responsible for reviewing and discussing with management our practices related to
+sustainability and corporate governance. We assess our programs annually in consideration of stakeholder expectations, market trends,
+and business risks and opportunities. These issues are important for our continued business success and reflect the topics of highest
+concern to NVIDIA and our stakeholders.
+
+The  following  section  and  the  Human  Capital  Management  Section  below  provide  an  overview  of  our  principles  and  practices.  More
+information can be found on our website and in our annual Sustainability Report. Information contained on our website or in our annual
+Sustainability Report is not incorporated by reference into this or any other report we file with the Securities and Exchange Commission,
+or the SEC. Refer to “Item 1A. Risk Factors” for a discussion of risks and uncertainties we face related to sustainability.
+
+Climate Change
+
+In the area of environmental sustainability, we work to address our climate impacts across our product lifecycle and assess related risks,
+including current and emerging regulations and market impacts.
+
+In May 2024, we published metrics related to our environmental impact for fiscal year 2024. Fiscal year 2025 metrics are expected to be
+published  in  the  first  half  of  fiscal  year  2026. There  has  been  no  material  impact  to  our  capital  expenditures,  results  of  operations  or
+competitive  position  associated  with  global  environmental  sustainability  regulations,  compliance,  or  costs  from  sourcing  renewable
+energy. We committed to purchase or generate enough renewable energy to match 100% of our global electricity usage for offices and
+data centers under our operational control starting with our fiscal year 2025. In fiscal year 2024, we made progress towards this goal and
+increased the percentage of our electricity use matched by renewable energy to 76%. By the end of fiscal year 2026, we also aim to
+engage  manufacturing  suppliers  comprising  at  least  67%  of  NVIDIA’s  scope  3  category  1  GHG  emissions  with  the  goal  of  effecting
+supplier adoption of science-based targets.
+
+Whether  it  is  creation  of  technology  to  power  next-generation  laptops  or  designs  to  support  high-performance  supercomputers,
+improving energy efficiency is important in our research, development, and design processes. GPU-accelerated computing is inherently
+more energy efficient than traditional computing for many workloads because it is optimized for throughput, performance per watt, and
+certain AI workloads. We continue to have a strong presence on the Green500 list of the most energy-efficient systems—we powered 8
+of the top 10 most energy efficient systems, including the top supercomputer, on the November 2024 Green500 list.
+
+We launched our Earth-2 initiative to create a digital twin of the Earth on NVIDIA AI and NVIDIA Omniverse platforms. Earth-2 will enable
+scientists, companies, and policy makers to do ultra-high-resolution predictions of the impact of climate change and explore mitigation
+and adaptation strategies.
+
+Human Capital Management
+
+We believe that our employees are our greatest assets, and they play a key role in creating long-term value for our stakeholders. As of
+the  end  of  fiscal  year  2025,  we  had  approximately  36,000  employees  in  38  countries;  27,100  were  engaged  in  research  and
+development and 8,900 were engaged in sales, marketing, operations, and administrative positions. The Compensation Committee of
+our Board of Directors assists in the oversight of policies and strategies relating to human capital management.
+
+To execute our business strategy successfully, we must recruit, develop, and retain the very best talent globally, including exceptional
+executives, scientists, engineers, and technical and non-technical staff.
+
+Recruitment
+
+As  the  demand  for  global  technical  talent  continues  to  be  high,  we  have  grown  our  technical  workforce  and  have  been  successful  in
+attracting top talent to NVIDIA. We have attracted talent worldwide through our strong employer brand and differentiated hiring strategies
+for college, professional, and leadership talent. Our workforce is 82% technical and 51%
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+16/119
+
+11
+
+3/10/25, 4:53 PM
+
+nvda-20250126
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+17/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+hold  advanced  degrees.  Additionally,  we  have  increased  our  focus  on  diversity  recruiting  and  we  welcome  employees  of  all
+backgrounds.  Our  own  employees  also  help  to  surface  top  talent,  with  over  41%  of  our  new  hires  in  fiscal  year  2025  coming  from
+employee referrals.
+
+Development and Retention
+
+To  support  employee  development,  we  provide  opportunities  to  learn  on-the-job  through  training  courses,  targeted  development
+programs,  mentoring  and  peer  coaching  and  ongoing  feedback.  We  constantly  upgrade  our  learning  offerings  to  ensure  that  our
+employees are exposed to the most current content and technologies available. We offer tuition reimbursement programs to subsidize
+educational programs and advanced certifications and encourage internal job mobility. We have also implemented specifically designed
+mentoring  and  development  programs  for  women  and  employees  from  traditionally  underrepresented  groups  to  ensure  widespread
+readiness for future advancement.
+
+To evaluate employee sentiment and engagement, we use pulse surveys, a suggestion box, and an anonymous third-party platform. We
+want NVIDIA to be a place where people can grow their careers over their lifetime and our employees tend to come and stay. In fiscal
+year 2025, our overall turnover rate was 2.5%.
+
+Compensation, Benefits, and Well-Being
+
+Our  compensation  program  rewards  performance  and  is  structured  to  encourage  employees  to  invest  in  the  Company’s  future.
+Employees receive equity, except where unavailable due to local regulations, that is tied to the value of our stock price and vests over
+time to retain employees while simultaneously aligning their interests with those of our shareholders.
+
+We offer comprehensive benefits to support our employees’ and their families’ physical health, well-being, and financial health. Programs
+include  401(k)  programs  in  the  U.S.,  statutory  and  supplemental  pension  programs  outside  the  U.S.,  our  employee  stock  purchase
+program,  flexible  work  hours,  and  time  off  policies.  We  evaluate  our  benefit  offerings  globally  and  aim  to  provide  comparable  support
+across the regions where we operate. We offer tailored benefits based on the needs of our employees including continuing support for
+parents; both new birth parents and those who wish to become parents. Our support is enhanced during times of crisis, such as war or
+economic volatility, to take care of our existing team of world-class talent and their families.
+
+Diversity, Inclusion and Belonging at NVIDIA
+
+We believe that diverse teams fuel innovation, and we are committed to creating an inclusive culture that supports all our employees.
+
+When  recruiting  new  talent  or  developing  our  current  employees,  we  strive  to  build  a  diverse  talent  pipeline  that  includes  those
+underrepresented in the technology field, including women, Black/African American, and Hispanic/Latino candidates.
+
+To this end, we:
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+Hire, promote and compensate our employees based on merit;
+
+Partner with institutions and professional organizations serving historically underrepresented communities;
+
+Enlist dedicated recruiting teams to shepherd underrepresented candidates through the interview process and identify internal
+opportunities;
+
+Support the development and growth of women employees through programs aimed at building a pipeline of future leaders;
+
+Provide peer support and executive sponsors for our internal community resource groups;
+
+Provide training and education to managers and peers on fostering supportive environments that allow all our employees to do
+their best work;
+
+Track equity and parity in retention, promotions, pay, and employee engagement scores; and
+
+• Measure year over year progress and provide leadership visibility on talent and diversity efforts.
+
+As of the end of fiscal year 2025, our global workforce was 78% male, 21% female, and 1% not declared, with 6% of our workforce in
+the United States composed of Black or African American and Hispanic or Latino employees.
+
+Flexible Working Environment
+
+We  support  a  flexible  work  environment  allowing  us  to  recruit  the  very  best  employees,  regardless  of  where  they  live.  This  flexibility
+supports diverse hiring, retention of talent, including working parents and other caregivers and employee engagement, which we believe
+makes NVIDIA a great place to work. We also provide company-wide 2-days off per quarter for employees to rest and recharge.
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+18/119
+
+3/10/25, 4:53 PM
+
+nvda-20250126
+
+12
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+19/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+Information About Our Executive Officers
+The following sets forth certain information regarding our executive officers, their ages, and positions as of February 21, 2025:
+
+Name
+Jen-Hsun Huang
+Colette M. Kress
+Ajay K. Puri
+Debora Shoquist
+Timothy S. Teter
+
+Age
+62
+57
+70
+70
+58
+
+Position
+President and Chief Executive Officer
+Executive Vice President and Chief Financial Officer
+Executive Vice President, Worldwide Field Operations
+Executive Vice President, Operations
+Executive Vice President and General Counsel
+
+Jen-Hsun Huang co-founded NVIDIA in 1993 and has served as our President, Chief Executive Officer, and a member of the Board of
+Directors since our inception. From 1985 to 1993, Mr. Huang was employed at LSI Logic Corporation, a computer chip manufacturer,
+where he held a variety of positions including as Director of Coreware, the business unit responsible for LSI's SOC. From 1983 to 1985,
+Mr. Huang was a microprocessor designer for AMD, a semiconductor company. Mr. Huang holds a B.S.E.E. degree from Oregon State
+University and an M.S.E.E. degree from Stanford University.
+
+Colette  M.  Kress  joined  NVIDIA  in  2013  as  Executive  Vice  President  and  Chief  Financial  Officer.  Prior  to  NVIDIA,  Ms.  Kress  most
+recently served as Senior Vice President and Chief Financial Officer of the Business Technology and Operations Finance organization at
+Cisco Systems, Inc., a networking equipment company, since 2010. At Cisco, Ms. Kress was responsible for financial strategy, planning,
+reporting and business development for all business segments, engineering and operations. From 1997 to 2010 Ms. Kress held a variety
+of  positions  at  Microsoft,  a  software  company,  including,  beginning  in  2006,  Chief  Financial  Officer  of  the  Server  and  Tools  division,
+where Ms. Kress was responsible for financial strategy, planning, reporting and business development for the division. Prior to joining
+Microsoft,  Ms.  Kress  spent  eight  years  at  Texas  Instruments  Incorporated,  a  semiconductor  company,  where  she  held  a  variety  of
+finance positions. Ms. Kress holds a B.S. degree in Finance from University of Arizona and an M.B.A. degree from Southern Methodist
+University.
+
+Ajay K. Puri joined NVIDIA in 2005 as Senior Vice President, Worldwide Sales and became Executive Vice President, Worldwide Field
+Operations  in  2009.  Prior  to  NVIDIA,  he  held  positions  in  sales,  marketing,  and  general  management  over  a  22-year  career  at  Sun
+Microsystems,  Inc.,  a  computing  systems  company.  Mr.  Puri  previously  held  marketing,  management  consulting,  and  product
+development  positions  at  Hewlett-Packard,  an  information  technology  company,  Booz  Allen  Hamilton  Inc.,  a  management  and
+technology consulting company, and Texas Instruments Incorporated. Mr. Puri holds a B.S.E.E. degree from the University of Minnesota,
+an M.S.E.E. degree from the California Institute of Technology and an M.B.A. degree from Harvard Business School.
+
+Debora  Shoquist  joined  NVIDIA  in  2007  as  Senior  Vice  President  of  Operations  and  in  2009  became  Executive  Vice  President  of
+Operations. Prior to NVIDIA, Ms. Shoquist served from 2004 to 2007 as Executive Vice President of Operations at JDS Uniphase Corp.,
+a  provider  of  communications  test  and  measurement  solutions  and  optical  products  for  the  telecommunications  industry.  She  served
+from 2002 to 2004 as Senior Vice President and General Manager of the Electro-Optics business at Coherent, Inc., a manufacturer of
+commercial and scientific laser equipment. Previously, she worked at Quantum Corp., a data protection company, as President of the
+Personal Computer Hard Disk Drive Division, and at Hewlett-Packard. Ms. Shoquist holds a B.S. degree in Electrical Engineering from
+Kansas State University and a B.S. degree in Biology from Santa Clara University.
+
+Timothy  S.  Teter  joined  NVIDIA  in  2017  as  Senior  Vice  President,  General  Counsel  and  Secretary  and  became  Executive  Vice
+President, General Counsel and Secretary in February 2018. Prior to NVIDIA, Mr. Teter spent more than two decades at the law firm of
+Cooley  LLP,  where  he  focused  on  litigating  patent  and  technology  related  matters.  Prior  to  attending  law  school,  he  worked  as  an
+engineer at Lockheed Missiles and Space Company, an aerospace company. Mr. Teter holds a B.S. degree in Mechanical Engineering
+from the University of California at Davis and a J.D. degree from Stanford Law School.
 
 Available Information
 
-The  Company’s Annual  Reports  on  Form  10-K,  Quarterly  Reports  on  Form  10-Q,  Current  Reports  on  Form  8-K,  and  amendments  to
-reports filed pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), are filed
-with the U.S. Securities and Exchange Commission (the “SEC”). Such reports and other information filed by the Company with the SEC
-are  available  free  of  charge  at  investor.apple.com/investor-relations/sec-filings/default.aspx  when  such  reports  are  available  on  the
-SEC’s  website. The  Company  periodically  provides  certain  information  for  investors  on  its  corporate  website,  www.apple.com,  and  its
-investor  relations  website,  investor.apple.com.  This  includes  press  releases  and  other  information  about  financial  performance,
-information on environmental, social and governance matters, and details related to the Company’s annual meeting of shareholders. The
-information  contained  on  the  websites  referenced  in  this  Form  10-K  is  not  incorporated  by  reference  into  this  filing.  Further,  the
-Company’s references to website URLs are intended to be inactive textual references only.
+Our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and, if applicable, amendments to those
+reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, or the Exchange Act,
+are available free of charge on or through our website, http://www.nvidia.com, as soon as reasonably practicable after we electronically
+the  SEC.  The  SEC’s
+file  such  material  with,  or
+website,  http://www.sec.gov,  contains  reports,  proxy  and  information  statements,  and  other  information  regarding  issuers  that  file
+electronically with the SEC. Our web site and the information on it or connected to it are not a part of this Annual Report on Form 10-K.
 
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
+the  Securities  and  Exchange  Commission,  or
 
-7/78
+furnish
 
-3/4/25, 11:08 PM
+to,
 
-aapl-20220924
+it
 
-Apple Inc. | 2022 Form 10-K | 4
+Item 1A. Risk Factors
 
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
+The following risk factors should be considered in addition to the other information in this Annual Report on Form 10-K. The following
+risks could harm our business, financial condition, results of operations or reputation, which could cause our stock
 
-8/78
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
 
-3/4/25, 11:08 PM
+20/119
 
-aapl-20220924
+13
 
-Item 1A.    Risk Factors
-
-The Company’s business, reputation, results of operations, financial condition and stock price can be affected by a number of factors,
-whether currently known or unknown, including those described below. When any one or more of these risks materialize from time to
-time,  the  Company’s  business,  reputation,  results  of  operations,  financial  condition  and  stock  price  can  be  materially  and  adversely
-affected.
-
-Because  of  the  following  factors,  as  well  as  other  factors  affecting  the  Company’s  results  of  operations  and  financial  condition,  past
-financial performance should not be considered to be a reliable indicator of future performance, and investors should not use historical
-trends to anticipate results or trends in future periods. This discussion of risk factors contains forward-looking statements.
-
-This  section  should  be  read  in  conjunction  with  Part  II,  Item  7,  “Management’s  Discussion  and  Analysis  of  Financial  Condition  and
-Results of Operations” and the consolidated financial statements and accompanying notes in Part II, Item 8, “Financial Statements and
-Supplementary Data” of this Form 10-K.
-
-Macroeconomic and Industry Risks
-
-The  Company’s  operations  and  performance  depend  significantly  on  global  and  regional  economic  conditions  and  adverse
-economic conditions can materially adversely affect the Company’s business, results of operations and financial condition.
-
-The  Company  has  international  operations  with  sales  outside  the  U.S.  representing  a  majority  of  the  Company’s  total  net  sales.  In
-addition,  the  Company’s  global  supply  chain  is  large  and  complex  and  a  majority  of  the  Company’s  supplier  facilities,  including
-manufacturing  and  assembly  sites,  are  located  outside  the  U.S.  As  a  result,  the  Company’s  operations  and  performance  depend
-significantly on global and regional economic conditions.
-
-Adverse macroeconomic conditions, including inflation, slower growth or recession, new or increased tariffs and other barriers to trade,
-changes to fiscal and monetary policy, tighter credit, higher interest rates, high unemployment and currency fluctuations can adversely
-impact  consumer  confidence  and  spending  and  materially  adversely  affect  demand  for  the  Company’s  products  and  services.  In
-addition,  consumer  confidence  and  spending  can  be  materially  adversely  affected  in  response  to  financial  market  volatility,  negative
-financial  news,  conditions  in  the  real  estate  and  mortgage  markets,  declines  in  income  or  asset  values,  energy  shortages  and  cost
-increases, labor and healthcare costs and other economic factors.
-
-In addition to an adverse impact on demand for the Company’s products, uncertainty about, or a decline in, global or regional economic
-conditions  can  have  a  significant  impact  on  the  Company’s  suppliers,  contract  manufacturers,  logistics  providers,  distributors,  cellular
-network carriers and other channel partners. Potential effects include financial instability; inability to obtain credit to finance operations
-and purchases of the Company’s products; and insolvency.
-
-A downturn in the economic environment can also lead to increased credit and collectibility risk on the Company’s trade receivables; the
-failure  of  derivative  counterparties  and  other  financial  institutions;  limitations  on  the  Company’s  ability  to  issue  new  debt;  reduced
-liquidity;  and  declines  in  the  fair  value  of  the  Company’s  financial  instruments.  These  and  other  economic  factors  can  materially
-adversely affect the Company’s business, results of operations, financial condition and stock price.
-
-The Company’s business, results of operations, financial condition and stock price have been adversely affected and could in
-the future be materially adversely affected by the COVID-19 pandemic.
-
-COVID-19  has  had,  and  continues  to  have,  a  significant  impact  around  the  world,  prompting  governments  and  businesses  to  take
-unprecedented measures in response. Such measures have included restrictions on travel and business operations, temporary closures
-of businesses, and quarantine and shelter-in-place orders. The COVID-19 pandemic has at times significantly curtailed global economic
-activity and caused significant volatility and disruption in global financial markets.
-
-The  COVID-19  pandemic  and  the  measures  taken  by  many  countries  in  response  have  adversely  affected  and  could  in  the  future
-materially adversely impact the Company’s business, results of operations, financial condition and stock price. During the course of the
-pandemic,  certain  of  the  Company’s  component  suppliers  and  manufacturing  and  logistical  service  providers  have  experienced
-disruptions, resulting in supply shortages that affected sales worldwide, and similar disruptions could occur in the future. Public safety
-measures can also adversely impact consumer demand for the Company’s products and services in affected areas.
-
-Apple Inc. | 2022 Form 10-K | 5
-
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-9/78
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-The  Company  continues  to  monitor  the  situation  and  take  appropriate  actions  in  accordance  with  the  recommendations  and
-requirements of relevant authorities. The extent to which the COVID-19 pandemic may impact the Company’s operational and financial
-performance remains uncertain and will depend on many factors outside the Company’s control, including the timing, extent, trajectory
-and duration of the pandemic, the emergence of new variants, the development, availability, distribution and effectiveness of vaccines
-and treatments, the imposition of protective public safety measures, and the impact of the pandemic on the global economy and demand
-for consumer products and services. Additional future impacts on the Company may include material adverse effects on demand for the
-Company’s products and services, the Company’s supply chain and sales and distribution channels, the Company’s ability to execute its
-strategic plans, and the Company’s profitability and cost structure.
-
-To  the  extent  the  COVID-19  pandemic  adversely  affects  the  Company’s  business,  results  of  operations,  financial  condition  and  stock
-price, it may also have the effect of heightening many of the other risks described in this Part I, Item 1A of this Form 10-K.
-
-The  Company’s  business  can  be  impacted  by  political  events,  trade  and  other  international  disputes,  war,  terrorism,  natural
-disasters, public health issues, industrial accidents and other business interruptions.
-
-Political  events,  trade  and  other  international  disputes,  war,  terrorism,  natural  disasters,  public  health  issues,  industrial  accidents  and
-other  business  interruptions  can  harm  or  disrupt  international  commerce  and  the  global  economy,  and  could  have  a  material  adverse
-effect  on  the  Company  and  its  customers,  suppliers,  contract  manufacturers,  logistics  providers,  distributors,  cellular  network  carriers
-and other channel partners.
-
-The Company has a large, global business with sales outside the U.S. representing a majority of the Company’s total net sales, and the
-Company  believes  that  it  generally  benefits  from  growth  in  international  trade.  Substantially  all  of  the  Company’s  manufacturing  is
-performed  in  whole  or  in  part  by  outsourcing  partners  located  primarily  in Asia,  including  China  mainland,  India,  Japan,  South  Korea,
-Taiwan and Vietnam. Trade policies and disputes and other international conflicts can result in tariffs, sanctions and other measures that
-restrict international trade, and can materially adversely affect the Company’s business, particularly if these measures occur in regions
-where the Company derives a significant portion of its revenues and/or has significant supply chain operations. For example, tensions
-between the U.S. and China have led to a series of tariffs being imposed by the U.S. on imports from China mainland, as well as other
-business  restrictions. Tariffs  increase  the  cost  of  the  Company’s  products  and  the  components  and  raw  materials  that  go  into  making
-them. These increased costs can adversely impact the gross margin that the Company earns on its products. Tariffs can also make the
-Company’s products more expensive for customers, which could make the Company’s products less competitive and reduce consumer
-demand.  Countries  may  also  adopt  other  measures,  such  as  controls  on  imports  or  exports  of  goods,  technology  or  data,  that  could
-adversely  impact  the  Company’s  operations  and  supply  chain  and  limit  the  Company’s  ability  to  offer  its  products  and  services  as
-designed.  These  measures  can  require  the  Company  to  take  various  actions,  including  changing  suppliers,  restructuring  business
-relationships, and ceasing to offer third-party applications on its platforms. Changing the Company’s operations in accordance with new
-or changed trade restrictions can be expensive, time-consuming and disruptive to the Company’s operations. Such restrictions can be
-announced  with  little  or  no  advance  notice  and  the  Company  may  not  be  able  to  effectively  mitigate  all  adverse  impacts  from  such
-measures. If disputes and conflicts further escalate in the future, actions by governments in response could be significantly more severe
-and  restrictive  and  could  materially  adversely  affect  the  Company’s  business.  Political  uncertainty  surrounding  trade  and  other
-international  disputes  could  also  have  a  negative  effect  on  consumer  confidence  and  spending,  which  could  adversely  affect  the
-Company’s business.
-
-Many  of  the  Company’s  operations  and  facilities,  as  well  as  critical  business  operations  of  the  Company’s  suppliers  and  contract
-manufacturers, are in locations that are prone to earthquakes and other natural disasters. In addition, such operations and facilities are
-subject to the risk of interruption by fire, power shortages, nuclear power plant accidents and other industrial accidents, terrorist attacks
-and other hostile acts, ransomware and other cybersecurity attacks, labor disputes, public health issues, including pandemics such as
-the COVID-19 pandemic, and other events beyond the Company’s control. Global climate change is resulting in certain types of natural
-disasters  occurring  more  frequently  or  with  more  intense  effects.  Such  events  can  make  it  difficult  or  impossible  for  the  Company  to
-manufacture and deliver products to its customers, create delays and inefficiencies in the Company’s supply and manufacturing chain,
-and  result  in  slowdowns  and  outages  to  the  Company’s  service  offerings.  Following  an  interruption  to  its  business,  the  Company  can
-require  substantial  recovery  time,  experience  significant  expenditures  to  resume  operations,  and  lose  significant  sales.  Because  the
-Company  relies  on  single  or  limited  sources  for  the  supply  and  manufacture  of  many  critical  components,  a  business  interruption
-affecting such sources would exacerbate any negative consequences to the Company.
-
-Apple Inc. | 2022 Form 10-K | 6
-
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-10/78
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-The  Company’s  operations  are  also  subject  to  the  risks  of  industrial  accidents  at  its  suppliers  and  contract  manufacturers.  While  the
-Company’s suppliers are required to maintain safe working environments and operations, an industrial accident could occur and could
-result in serious injuries or loss of life, disruption to the Company’s business, and harm to the Company’s reputation. Major public health
-issues,  including  pandemics  such  as  the  COVID-19  pandemic,  have  adversely  affected,  and  could  in  the  future  materially  adversely
-affect, the Company due to their impact on the global economy and demand for consumer products; the imposition of protective public
-safety  measures,  such  as  stringent  employee  travel  restrictions  and  limitations  on  freight  services  and  the  movement  of  products
-between  regions;  and  disruptions  in  the  Company’s  supply  chain  and  sales  and  distribution  channels,  resulting  in  interruptions  of  the
-supply of current products and delays in production ramps of new products.
-
-While the Company maintains insurance coverage for certain types of losses, such insurance coverage may be insufficient to cover all
-losses that may arise.
-
-Global  markets  for  the  Company’s  products  and  services  are  highly  competitive  and  subject  to  rapid  technological  change,
-and the Company may be unable to compete effectively in these markets.
-
-The  Company’s  products  and  services  are  offered  in  highly  competitive  global  markets  characterized  by  aggressive  price  competition
-and  resulting  downward  pressure  on  gross  margins,  frequent  introduction  of  new  products  and  services,  short  product  life  cycles,
-evolving  industry  standards,  continual  improvement  in  product  price  and  performance  characteristics,  rapid  adoption  of  technological
-advancements by competitors, and price sensitivity on the part of consumers and businesses.
-
-The  Company’s  ability  to  compete  successfully  depends  heavily  on  ensuring  the  continuing  and  timely  introduction  of  innovative  new
-products, services and technologies to the marketplace. The Company designs and develops nearly the entire solution for its products,
-including the hardware, operating system, numerous software applications and related services. As a result, the Company must make
-significant investments in R&D. There can be no assurance these investments will achieve expected returns, and the Company may not
-be able to develop and market new products and services successfully.
-
-The  Company  currently  holds  a  significant  number  of  patents,  trademarks  and  copyrights  and  has  registered,  and  applied  to  register,
-additional  patents,  trademarks  and  copyrights.  In  contrast,  many  of  the  Company’s  competitors  seek  to  compete  primarily  through
-aggressive  pricing  and  very  low  cost  structures,  and  by  imitating  the  Company’s  products  and  infringing  on  its  intellectual  property.
-Effective intellectual property protection is not consistently available in every country in which the Company operates. If the Company is
-unable  to  continue  to  develop  and  sell  innovative  new  products  with  attractive  margins  or  if  competitors  infringe  on  the  Company’s
-intellectual property, the Company’s ability to maintain a competitive advantage could be materially adversely affected.
-
-The  Company  has  a  minority  market  share  in  the  global  smartphone,  personal  computer  and  tablet  markets.  The  Company  faces
-substantial competition in these markets from companies that have significant technical, marketing, distribution and other resources, as
-well as established hardware, software and digital content supplier relationships. In addition, some of the Company’s competitors have
-broader product lines, lower-priced products and a larger installed base of active devices. Competition has been particularly intense as
-competitors  have  aggressively  cut  prices  and  lowered  product  margins.  Certain  competitors  have  the  resources,  experience  or  cost
-structures to provide products at little or no profit or even at a loss. Some of the markets in which the Company competes have from time
-to time experienced little to no growth or contracted overall.
-
-Additionally, the Company faces significant competition as competitors imitate the Company’s product features and applications within
-their  products  or  collaborate  to  offer  solutions  that  are  more  competitive  than  those  they  currently  offer.  The  Company  also  expects
-competition  to  intensify  as  competitors  imitate  the  Company’s  approach  to  providing  components  seamlessly  within  their  offerings  or
-work collaboratively to offer integrated solutions.
-
-The Company’s services also face substantial competition, including from companies that have significant resources and experience and
-have  established  service  offerings  with  large  customer  bases.  The  Company  competes  with  business  models  that  provide  content  to
-users for free. The Company also competes with illegitimate means to obtain third-party digital content and applications.
-
-The  Company’s  business,  results  of  operations  and  financial  condition  depend  substantially  on  the  Company’s  ability  to  continually
-improve its products and services to maintain their functional and design advantages. There can be no assurance the Company will be
-able to continue to provide products and services that compete effectively.
-
-Apple Inc. | 2022 Form 10-K | 7
-
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-11/78
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-Business Risks
-
-To remain competitive and stimulate customer demand, the Company must successfully manage frequent introductions and
-transitions of products and services.
-
-Due  to  the  highly  volatile  and  competitive  nature  of  the  markets  and  industries  in  which  the  Company  competes,  the  Company  must
-continually introduce new products, services and technologies, enhance existing products and services, effectively stimulate customer
-demand for new and upgraded products and services, and successfully manage the transition to these new and upgraded products and
-services.  The  success  of  new  product  and  service  introductions  depends  on  a  number  of  factors,  including  timely  and  successful
-development, market acceptance, the Company’s ability to manage the risks associated with production ramp-up issues, the availability
-of application software for the Company’s products, the effective management of purchase commitments and inventory levels in line with
-anticipated product demand, the availability of products in appropriate quantities and at expected costs to meet anticipated demand, and
-the risk that new products and services may have quality or other defects or deficiencies. There can be no assurance the Company will
-successfully manage future introductions and transitions of products and services.
-
-The  Company  depends  on  component  and  product  manufacturing  and  logistical  services  provided  by  outsourcing  partners,
-many of which are located outside of the U.S.
-
-Substantially  all  of  the  Company’s  manufacturing  is  performed  in  whole  or  in  part  by  outsourcing  partners  located  primarily  in  Asia,
-including  China  mainland,  India,  Japan,  South  Korea,  Taiwan  and  Vietnam,  and  a  significant  concentration  of  this  manufacturing  is
-currently performed by a small number of outsourcing partners, often in single locations. Changes or additions to the Company’s supply
-chain require considerable time and resources and involve significant risks and uncertainties. The Company has also outsourced much
-of its transportation and logistics management. While these arrangements can lower operating costs, they also reduce the Company’s
-direct  control  over  production  and  distribution.  Such  diminished  control  has  from  time  to  time  and  may  in  the  future  have  an  adverse
-effect on the quality or quantity of products manufactured or services provided, or adversely affect the Company’s flexibility to respond to
-changing conditions. Although arrangements with these partners may contain provisions for product defect expense reimbursement, the
-Company generally remains responsible to the consumer for warranty and out-of-warranty service in the event of product defects and
-experiences unanticipated product defect liabilities from time to time. While the Company relies on its partners to adhere to its supplier
-code of conduct, violations of the supplier code of conduct occur from time to time and can materially adversely affect the Company’s
-business, reputation, results of operations and financial condition.
-
-The Company relies on single-source outsourcing partners in the U.S., Asia and Europe to supply and manufacture many components,
-and on outsourcing partners primarily located in Asia, for final assembly of substantially all of the Company’s hardware products. Any
-failure of these partners to perform can have a negative impact on the Company’s cost or supply of components or finished goods. In
-addition, manufacturing or logistics in these locations or transit to final destinations can be disrupted for a variety of reasons, including
-natural  and  man-made  disasters,  information  technology  system  failures,  commercial  disputes,  armed  conflict,  economic,  business,
-labor, environmental, public health or political issues, or international trade disputes.
-
-The Company has invested in manufacturing process equipment, much of which is held at certain of its outsourcing partners, and has
-made prepayments to certain of its suppliers associated with long-term supply agreements. While these arrangements help ensure the
-supply  of  components  and  finished  goods,  if  these  outsourcing  partners  or  suppliers  experience  severe  financial  problems  or  other
-disruptions  in  their  business,  such  continued  supply  can  be  reduced  or  terminated,  and  the  recoverability  of  manufacturing  process
-equipment or prepayments can be negatively impacted.
-
-Future  operating  results  depend  upon  the  Company’s  ability  to  obtain  components  in  sufficient  quantities  on  commercially
-reasonable terms.
-
-Because the Company currently obtains certain components from single or limited sources, the Company is subject to significant supply
-and  pricing  risks.  Many  components,  including  those  that  are  available  from  multiple  sources,  are  at  times  subject  to  industry-wide
-shortages  and  significant  commodity  pricing  fluctuations  that  can  materially  adversely  affect  the  Company’s  business,  results  of
-operations  and  financial  condition.  For  example,  the  global  semiconductor  industry  is  experiencing  high  demand  and  shortages  of
-supply,  which  has  adversely  affected,  and  could  materially  adversely  affect,  the  Company’s  ability  to  obtain  sufficient  quantities  of
-components and products on commercially reasonable terms or at all. While the Company has entered into agreements for the supply of
-many components, there can be no assurance the Company will be able to extend or renew these agreements on similar terms, or at all.
-Component suppliers may suffer from poor financial conditions, which can lead to business failure for the supplier or consolidation within
-a  particular  industry,  further  limiting  the  Company’s  ability  to  obtain  sufficient  quantities  of  components  on  commercially  reasonable
-terms  or  at  all.  The  effects  of  global  or  regional  economic  conditions  on  the  Company’s  suppliers,  described  in  “The  Company’s
-operations  and  performance  depend  significantly  on  global  and  regional  economic  conditions  and  adverse  economic  conditions  can
-materially adversely affect the Company’s business, results of operations and financial condition,” above, can also affect the Company’s
-ability to obtain components. Therefore, the Company remains subject to significant risks of supply shortages and price increases that
-can materially adversely affect its business, results of operations and financial condition.
-
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-12/78
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-Apple Inc. | 2022 Form 10-K | 8
-
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-13/78
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-The Company’s new products often utilize custom components available from only one source. When a component or product uses new
-technologies,  initial  capacity  constraints  may  exist  until  the  suppliers’  yields  have  matured  or  their  manufacturing  capacities  have
-increased. The  continued  availability  of  these  components  at  acceptable  prices,  or  at  all,  can  be  affected  for  any  number  of  reasons,
-including if suppliers decide to concentrate on the production of common components instead of components customized to meet the
-Company’s requirements. When the Company’s supply of components for a new or existing product has been delayed or constrained, or
-when  an  outsourcing  partner  has  delayed  shipments  of  completed  products  to  the  Company,  the  Company’s  business,  results  of
-operations  and  financial  condition  have  been  adversely  affected  and  future  delays  or  constraints  could  materially  adversely  affect  the
-Company’s  business,  results  of  operations  and  financial  condition. The  Company’s  business  and  financial  performance  could  also  be
-materially  adversely  affected  depending  on  the  time  required  to  obtain  sufficient  quantities  from  the  source,  or  to  identify  and  obtain
-sufficient quantities from an alternative source.
-
-The  Company’s  products  and  services  may  be  affected  from  time  to  time  by  design  and  manufacturing  defects  that  could
-materially adversely affect the Company’s business and result in harm to the Company’s reputation.
-
-The Company offers complex hardware and software products and services that can be affected by design and manufacturing defects.
-Sophisticated  operating  system  software  and  applications,  such  as  those  offered  by  the  Company,  often  have  issues  that  can
-unexpectedly interfere with the intended operation of hardware or software products. Defects can also exist in components and products
-the  Company  purchases  from  third  parties.  Component  defects  could  make  the  Company’s  products  unsafe  and  create  a  risk  of
-environmental  or  property  damage  and  personal  injury.  These  risks  may  increase  as  the  Company’s  products  are  introduced  into
-specialized  applications,  including  health.  In  addition,  the  Company’s  service  offerings  can  have  quality  issues  and  from  time  to  time
-experience  outages,  service  slowdowns  or  errors.  As  a  result,  the  Company’s  services  from  time  to  time  have  not  performed  as
-anticipated and may not meet customer expectations. There can be no assurance the Company will be able to detect and fix all issues
-and defects in the hardware, software and services it offers. Failure to do so can result in widespread technical and performance issues
-affecting  the  Company’s  products  and  services.  In  addition,  the  Company  can  be  exposed  to  product  liability  claims,  recalls,  product
-replacements or modifications, write-offs of inventory, property, plant and equipment, and/or intangible assets, and significant warranty
-and other expenses, including litigation costs and regulatory fines. Quality problems can also adversely affect the experience for users of
-the  Company’s  products  and  services,  and  result  in  harm  to  the  Company’s  reputation,  loss  of  competitive  advantage,  poor  market
-acceptance, reduced demand for products and services, delay in new product and service introductions and lost sales.
-
-The  Company  is  exposed  to  the  risk  of  write-downs  on  the  value  of  its  inventory  and  other  assets,  in  addition  to  purchase
-commitment cancellation risk.
-
-The Company records a write-down for product and component inventories that have become obsolete or exceed anticipated demand,
-or  for  which  cost  exceeds  net  realizable  value.  The  Company  also  accrues  necessary  cancellation  fee  reserves  for  orders  of  excess
-products and components. The Company reviews long-lived assets, including capital assets held at its suppliers’ facilities and inventory
-prepayments, for impairment whenever events or circumstances indicate the assets may not be recoverable. If the Company determines
-that an impairment has occurred, it records a write-down equal to the amount by which the carrying value of the asset exceeds its fair
-value. Although the Company believes its inventory, capital assets, inventory prepayments and other assets and purchase commitments
-are  currently  recoverable,  there  can  be  no  assurance  the  Company  will  not  incur  write-downs,  fees,  impairments  and  other  charges
-given the rapid and unpredictable pace of product obsolescence in the industries in which the Company competes.
-
-The  Company  orders  components  for  its  products  and  builds  inventory  in  advance  of  product  announcements  and  shipments.
-Manufacturing purchase obligations cover the Company’s forecasted component and manufacturing requirements, typically for periods
-up to 150 days. Because the Company’s markets are volatile, competitive and subject to rapid technology and price changes, there is a
-risk the Company will forecast incorrectly and order or produce excess or insufficient amounts of components or products, or not fully
-utilize firm purchase commitments.
-
-The Company relies on access to third-party intellectual property, which may not be available to the Company on commercially
-reasonable terms or at all.
-
-The Company’s products and services are designed to include intellectual property owned by third parties, which requires licenses from
-those third parties. In addition, because of technological changes in the industries in which the Company currently competes or in the
-future  may  compete,  current  extensive  patent  coverage  and  the  rapid  rate  of  issuance  of  new  patents,  the  Company’s  products  and
-services  can  unknowingly  infringe  existing  patents  or  intellectual  property  rights  of  others.  From  time  to  time,  the  Company  has  been
-notified  that  it  may  be  infringing  certain  patents  or  other  intellectual  property  rights  of  third  parties.  Based  on  experience  and  industry
-practice, the Company believes licenses to such third-party intellectual property can generally be obtained on commercially reasonable
-terms. However, there can be no assurance the necessary licenses can be obtained on commercially reasonable terms or at all. Failure
-to  obtain  the  right  to  use  third-party  intellectual  property,  or  to  use  such  intellectual  property  on  commercially  reasonable  terms,  can
-preclude  the  Company  from  selling  certain  products  or  services,  or  otherwise  have  a  material  adverse  impact  on  the  Company’s
-business, results of operations and financial condition.
-
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-14/78
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-Apple Inc. | 2022 Form 10-K | 9
-
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-15/78
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-The Company’s future performance depends in part on support from third-party software developers.
-
-The  Company  believes  decisions  by  customers  to  purchase  its  hardware  products  depend  in  part  on  the  availability  of  third-party
-software  applications  and  services. There  can  be  no  assurance  third-party  developers  will  continue  to  develop  and  maintain  software
-applications  and  services  for  the  Company’s  products.  If  third-party  software  applications  and  services  cease  to  be  developed  and
-maintained for the Company’s products, customers may choose not to buy the Company’s products.
-
-The  Company  believes  the  availability  of  third-party  software  applications  and  services  for  its  products  depends  in  part  on  the
-developers’ perception and analysis of the relative benefits of developing, maintaining and upgrading such software and services for the
-Company’s products compared to competitors’ platforms, such as Android for smartphones and tablets, Windows for personal computers
-and  tablets,  and  PlayStation,  Nintendo  and  Xbox  for  gaming  platforms.  This  analysis  may  be  based  on  factors  such  as  the  market
-position of the Company and its products, the anticipated revenue that may be generated, expected future growth of product sales, and
-the costs of developing such applications and services.
-
-The  Company’s  minority  market  share  in  the  global  smartphone,  personal  computer  and  tablet  markets  can  make  developers  less
-inclined  to  develop  or  upgrade  software  for  the  Company’s  products  and  more  inclined  to  devote  their  resources  to  developing  and
-upgrading  software  for  competitors’  products  with  larger  market  share.  When  developers  focus  their  efforts  on  these  competing
-platforms, the availability and quality of applications for the Company’s devices can suffer.
-
-The Company relies on the continued availability and development of compelling and innovative software applications for its products.
-The Company’s products and operating systems are subject to rapid technological change, and when third-party developers are unable
-to or choose not to keep up with this pace of change, their applications can fail to take advantage of these changes to deliver improved
-customer experiences and can operate incorrectly and can result in dissatisfied customers.
-
-The Company distributes third-party applications for its products through the App Store. For the vast majority of applications, developers
-keep all of the revenue they generate on the App Store. The Company only retains a commission from sales of applications and sales of
-digital services or goods within an application. From time to time, the Company has made changes to its App Store, including actions
-taken  in  response  to  competition,  market  and  legal  conditions. The  Company  may  make  further  business  changes  in  the  future.  New
-legislative  initiatives,  such  as  the  European  Union  (“EU”)  Digital  Markets  Act,  could  require  further  changes.  The  Company  is  also
-subject to litigation and investigations relating to the App Store, which have resulted in changes to the Company’s business practices,
-and may in the future result in further changes. These changes could include how and to what extent the Company charges developers
-for access to its platforms and manages distribution of apps outside of the App Store. This could reduce the volume of sales, and the
-commission that the Company earns on those sales, would decrease. If the rate of the commission that the Company retains on such
-sales  is  reduced,  or  if  it  is  otherwise  narrowed  in  scope  or  eliminated,  the  Company’s  business,  results  of  operations  and  financial
-condition could be materially adversely affected.
-
-Failure  to  obtain  or  create  digital  content  that  appeals  to  the  Company’s  customers,  or  to  make  such  content  available  on
-commercially reasonable terms, could have a material adverse impact on the Company’s business, results of operations and
-financial condition.
-
-The  Company  contracts  with  numerous  third  parties  to  offer  their  digital  content  to  customers.  This  includes  the  right  to  sell,  or  offer
-subscriptions to, third-party content, as well as the right to incorporate specific content into the Company’s own services. The licensing
-or  other  distribution  arrangements  for  this  content  can  be  for  relatively  short  time  periods  and  do  not  guarantee  the  continuation  or
-renewal of these arrangements on commercially reasonable terms, or at all. Some third-party content providers and distributors currently
-or in the future may offer competing products and services, and can take actions to make it difficult or impossible for the Company to
-license or otherwise distribute their content. Other content owners, providers or distributors may seek to limit the Company’s access to,
-or  increase  the  cost  of,  such  content.  The  Company  may  be  unable  to  continue  to  offer  a  wide  variety  of  content  at  commercially
-reasonable prices with acceptable usage rules.
-
-The Company also produces its own digital content, which can be costly to produce due to intense and increasing competition for talent,
-content  and  subscribers,  and  may  fail  to  appeal  to  the  Company’s  customers.  The  COVID-19  pandemic  has  also  caused  additional
-restrictions on production and increased costs for digital content.
-
-Some  third-party  digital  content  providers  require  the  Company  to  provide  digital  rights  management  and  other  security  solutions.  If
-requirements  change,  the  Company  may  have  to  develop  or  license  new  technology  to  provide  these  solutions.  There  can  be  no
-assurance the Company will be able to develop or license such solutions at a reasonable cost and in a timely manner.
-
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-16/78
-
-Apple Inc. | 2022 Form 10-K | 10
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-The Company’s success depends largely on the talents and efforts of its team members, the continued service and availability
-of highly skilled employees, including key personnel, and the Company’s ability to nurture its distinctive and inclusive culture.
-
-Much of the Company’s future success depends on the talents and efforts of its team members, the continued availability and service of
-key personnel, including its Chief Executive Officer, executive team and other highly skilled employees. Experienced personnel in the
-technology  industry  are  in  high  demand  and  competition  for  their  talents  is  intense,  especially  in  Silicon  Valley,  where  most  of  the
-Company’s key personnel are located. In addition to intense competition for talent, workforce dynamics are constantly evolving. If the
-Company  does  not  manage  changing  workforce  dynamics  effectively,  it  could  materially  adversely  affect  the  Company’s  culture,
-reputation and operational flexibility.
-
-The Company believes that its distinctive and inclusive culture is a significant driver of its success. If the Company is unable to nurture
-its culture, it could materially adversely affect the Company’s ability to recruit and retain the highly skilled employees who are critical to
-its  success,  and  could  otherwise  materially  adversely  affect  the  Company’s  business,  reputation,  results  of  operations  and  financial
+3/10/25, 4:53 PM
+
+nvda-20250126
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+21/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+price to decline. Additional risks, trends and uncertainties not presently known to us or that we currently believe are immaterial may also
+harm our business, financial condition, results of operations or reputation.
+
+Risk Factors Summary
+
+Risks Related to Our Industry and Markets
+
+•
+
+•
+
+Failure to meet the evolving needs of our industry and markets may adversely impact our financial results.
+
+Competition could adversely impact our market share and financial results.
+
+Risks Related to Demand, Supply, and Manufacturing
+
+•
+
+•
+
+•
+
+Long manufacturing lead times and uncertain supply and component availability, combined with a failure to estimate customer
+demand accurately has led and could lead to mismatches between supply and demand.
+
+Dependency on third-party suppliers and their technology to manufacture, assemble, test, or package our products reduces our
+control over product quantity and quality, manufacturing yields, and product delivery schedules and could harm our business.
+
+Defects  in  our  products  have  caused  and  could  cause  us  to  incur  significant  expenses  to  remediate  and  could  damage  our
+business.
+
+Risks Related to Our Global Operating Business
+
+•
+
+•
+
+•
+
+•
+
+•
+
+Adverse economic conditions may harm our business.
+
+International  sales  and  operations  are  a  significant  part  of  our  business,  which  exposes  us  to  risks  that  could  harm  our
+business.
+
+Product, system security and data breaches and cyber-attacks could disrupt our operations and adversely affect our financial
+condition, stock price and reputation.
+
+Business disruptions could harm our operations and financial results.
+
+Climate change may have a long-term impact on our business.
+
+• We  may  not  be  able  to  realize  the  potential  benefits  of  business  investments  or  acquisitions,  nor  successfully  integrate
+
+acquisition targets.
+
+•
+
+A significant amount of our revenue stems from a limited number of partners and distributors and we have a concentration of
+sales to customers, and our revenue could be adversely affected if we lose or are prevented from selling to any of these end
+customers.
+
+• We may be unable to attract, retain, and motivate our executives and key employees.
+
+• Modification or interruption of our business processes and information systems may disrupt our business and internal controls.
+
+•
+
+Our  operating  results  have  in  the  past  fluctuated  and  may  in  the  future  fluctuate,  and  if  our  operating  results  are  below  the
+expectations of securities analysts or investors, our stock price could decline.
+
+Risks Related to Regulatory, Legal, Our Stock, and Other Matters
+
+• We are subject to complex laws, rules, regulations, and political and other actions, including restrictions on the export of our
+
+products, which may adversely impact our business.
+
+•
+
+•
+
+•
+
+Increased  scrutiny  regarding  our  corporate  sustainability  practices  could  result  in  financial,  reputational,  or  operational  harm
+and liability.
+
+Issues relating to the responsible use of our technologies, including AI, may result in reputational or financial harm and liability.
+
+Adequately protecting our IP rights could be costly, and our ability to compete could be harmed if we are unsuccessful or if we
+are prohibited from making or selling our products.
+
+• We are subject to stringent and changing data privacy and security laws, rules, regulations, and other obligations. These areas
+could damage our reputation, deter customers, affect product design, or result in legal or regulatory proceedings and liability.
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+22/119
+
+14
+
+3/10/25, 4:53 PM
+
+nvda-20250126
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+23/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+•
+
+•
+
+•
+
+Our  operating  results  may  be  adversely  impacted  by  additional  tax  liabilities,  higher  than  expected  tax  rates,  changes  in  tax
+laws, and other tax-related factors.
+
+Our business is exposed to the burden and risks associated with litigation, investigations, and regulatory proceedings.
+
+Delaware  law,  provisions  in  our  governing  documents  and  our  agreement  with  Microsoft  could  delay  or  prevent  a  change  in
+control.
+
+Risk Factors
+
+Risks Related to Our Industry and Markets
+
+Failure to meet the evolving needs of our industry and markets may adversely impact our financial results.
+
+Our  accelerated  computing  platforms  experience  rapid  changes  in  technology,  customer  requirements,  competitive  products,  and
+industry standards.
+
+Our success depends on our ability to:
+
+•
+
+•
+
+•
+
+•
+
+timely  identify  industry  changes,  adapt  our  strategies,  and  develop  new  or  enhance  and  maintain  existing  products  and
+technologies  that  meet  the  evolving  needs  of  our  markets,  including  addressing  unexpected  shifts  in  industry  standards  or
+disruptive technological innovations that could render our products incompatible with those developed by other companies;
+
+develop or acquire new products and technologies through investments in research and development;
+
+launch  new  offerings  with  new  business  models  including  software,  services,  and  cloud  solutions,  as  well  as  software-,
+infrastructure-, or platform-as-a-service solutions;
+
+expand the ecosystem for our products and technologies;
+
+• meet evolving and prevailing customer and industry safety, security, reliability expectations, and compliance standards;
+
+• manage product and software lifecycles to maintain customer and end-user satisfaction;
+
+•
+
+•
+
+develop,  acquire,  maintain,  and  secure  access  to  the  internal  and  external  infrastructure  needed  to  scale  our  business,
+including  sufficient  energy  for  powering  data  centers  using  our  products,  acquisition  integrations,  customer  support,  e-
+commerce, IP licensing capabilities, and cloud service capacity; and
+
+complete technical, financial, operational, compliance, sales and marketing investments for the above activities.
+
+We  have  invested  in  research  and  development  in  markets  where  we  have  a  limited  operating  history,  which  may  not  produce
+meaningful revenue for several years, if at all. If we fail to develop or monetize new products and technologies, or if they do not become
+widely adopted, our financial results could be adversely affected. Obtaining design wins may involve a lengthy process and depends on
+our ability to anticipate and provide features and functionality that customers will demand. They also do not guarantee revenue. Failure
+to obtain a design win may prevent us from obtaining future design wins in subsequent generations. We cannot ensure that our products
+and technologies will provide value to our customers and partners. If we fail any of these key success criteria, our financial results may
+be harmed.
+
+We offer enterprise customers NVIDIA DGX Cloud services, which include cloud-based infrastructure, software and services for training
+and deploying AI models. We have partnered with CSPs to host such software and services in their data centers, and we entered and
+may continue to enter into multi-year cloud service agreements to support these offerings and our research and development activities.
+The  timing  and  availability  of  these  cloud  services  have  changed  and  may  continue  to  shift,  impacting  our  revenue,  expenses,  and
+development timelines. NVIDIA DGX Cloud services may not be successful and will take time, resources, and investment. We also offer
+or plan to offer standalone software solutions, including NVIDIA AI Enterprise, NVIDIA Omniverse, NVIDIA DRIVE, and other software
+products. These new business models or strategies may not be successful, and we may fail to sell any meaningful standalone software
+or services. We may incur significant costs and may not achieve any significant revenue from these offerings.
+
+Competition could adversely impact our market share and financial results.
+
+Our  target  markets  remain  competitive,  and  competition  may  intensify  with  expanding  and  changing  product  and  service  offerings,
+industry standards, customer and market needs, new entrants and consolidations. Our competitors’ products, services and technologies,
+including those mentioned above in this Annual Report on Form 10-K, may be cheaper or provide better functionality or features than
+ours,  which  has  resulted  and  may  in  the  future  result  in  lower-than-expected  selling  prices  or  demand  for  our  products.  Some  of  our
+competitors operate their own fabrication facilities, and have longer operating histories, larger customer bases, more comprehensive IP
+portfolios and patent protections, more design
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+24/119
+
+3/10/25, 4:53 PM
+
+nvda-20250126
+
+15
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+25/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+wins, and greater financial, sales, marketing and distribution resources than we do. These competitors may be able to acquire market
+share and/or prevent us from doing so, more effectively identify and capitalize upon opportunities in new markets and end-user trends,
+more quickly transition their products, and impinge on our ability to procure sufficient foundry capacity and scarce input materials during
+a  supply-constrained  environment,  which  could  harm  our  business.  Some  of  our  customers  have  in-house  expertise  and  internal
+development  capabilities  similar  to  some  of  ours  and  can  use  or  develop  their  own  solutions  to  replace  those  we  are  providing.  For
+example, others may offer cloud-based services that compete with our AI cloud service offerings, and we may not be able to establish
+market share sufficient to achieve the scale necessary to meet our business objectives. If we are unable to successfully compete in this
+environment, demand for our products, services and technologies could decrease and we may not establish meaningful revenue.
+
+Risks Related to Demand, Supply, and Manufacturing
+
+Long manufacturing lead times and uncertain supply and component availability, combined with a failure to estimate customer
+demand accurately, has led and could lead to mismatches between supply and demand.
+
+We have long manufacturing lead times and build finished products and maintain inventory in advance of anticipated demand. In periods
+of shortages impacting the semiconductor industry and/or limited supply or capacity in our supply chain, the lead times for certain supply
+may be extended. We have previously experienced and may continue to experience extended lead times of more than 12 months. To
+secure  future  supply  and  capacity,  we  have  paid  premiums,  provided  deposits,  and  entered  into  long-term  supply  agreements  and
+capacity  commitments,  which  have  increased  our  product  costs  and  this  may  continue.  We  may  still  be  unable  to  secure  sufficient
+commitments for capacity to address our business needs.
+
+If we inaccurately estimate demand, or our customers change orders, as we have experienced in the past, we may not be able to reduce
+our supply commitments in time, at the same rate, or at all. Significant mismatches between supply and demand have varied across our
+market platforms, resulted in both product shortages and excess inventory, significantly harmed our financial results and could reoccur. If
+we underestimate demand, and our foundry partners and contract manufacturers are unable to increase production or provide sufficient
+supply, we may not be able to meet increased customer demand in a timely manner, or at all. Our reputation and customer relationships
+could be damaged and we could lose revenue and market share. Additionally, since some of our products are part of a complex data
+center buildout, supply constraints or availability issues with respect to any one component have had and may have a broader revenue
+impact.  For  example,  our  ability  to  sell  certain  products  has  been  and  could  be  impeded  if  components  necessary  for  the  finished
+products are not available from third parties.
+
+If we overestimate demand, or if customers cancel or defer orders or choose to purchase from our competitors, we may not be able to
+utilize on-hand inventory or reduce purchase commitments accordingly. We have had to reduce average selling prices, including due to
+our channel pricing programs, increase prices for certain of our products as a result of our suppliers’ increase in prices, write down our
+inventory, incur cancellation penalties, and record impairments, and may have to do so in the future. These impacts would be amplified
+by our non-cancellable and non-returnable purchase orders placed in advance of our historical lead times and could be exacerbated if
+we need to make changes to the design of future products. The risk of these impacts has increased and may continue to increase as our
+purchase obligations and prepaids have grown and are expected to continue to grow and become a greater portion of our total supply.
+All of these factors may negatively impact our gross margins and financial results.
+
+Factors  that  have  caused  and/or  could  in  the  future  cause  us  to  underestimate  or  overestimate  demand,  and  impact  the  timing  and
+volume of our revenue, include:
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+changes in product development cycles and time to market;
+
+competing technologies and competitor product releases, announcements or other actions;
+
+changes in business and economic conditions;
+
+sudden or sustained government lockdowns or public health issues;
+
+rapidly changing technology or customer requirements;
+
+the availability of sufficient data center capacity or energy for customers to procure;
+
+new product introductions and transitions resulting in less demand for existing products;
+
+new or unexpected end-use cases;
+
+increase in demand for competitive products;
+
+changes in end-user demand;
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+26/119
+
+16
+
+3/10/25, 4:53 PM
+
+nvda-20250126
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+27/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+purchasing decisions made, and inventory levels held by, distributors, ODMs, OEMs, system integrators, other channel partners
+and other third parties;
+
+the  ability  of  developers,  end  customers  and  other  third  parties  to  build,  enhance,  and  maintain  accelerated  computing
+applications that leverage our platforms;
+
+the availability of third-party content on our platforms, such as GeForce NOW;
+
+the demand for accelerated computing, AI-related cloud services, or large language models;
+
+changes that impact the ecosystem for the architectures underlying our products and technologies;
+
+government actions or changes in governmental policies, such as export controls, increased restrictions on gaming usage, or
+tariffs; and
+
+our customers' ability to invest in AI infrastructure.
+
+Challenges in estimating demand could become more pronounced or volatile in the future on both a global and regional basis. Extended
+lead  times  may  occur  if  we  experience  other  supply  constraints  caused  by  natural  disasters,  pandemics  or  other  events.  In  addition,
+geopolitical tensions, such as those involving Taiwan and China, which comprise a significant portion of our revenue and where we have
+suppliers, contract manufacturers, and assembly partners who are critical to our supply continuity, could have a material adverse impact
+on us.
+
+We  continue  to  increase  our  supply  and  capacity  purchases  with  existing  and  new  suppliers  to  support  our  demand  projections  and
+increasing complexity of our data center products. With these additions, we have also entered and may continue to enter into prepaid
+manufacturing and capacity agreements to supply both current and future products. The increased purchase volumes and integration of
+new suppliers and contract manufacturers into our supply chain creates more complexity in managing multiple suppliers with variations
+in  production  planning,  execution  and  logistics.  Our  expanding  product  portfolio  and  varying  component  compatibility  and  quality  may
+lead to increased inventory levels. We have incurred and may in the future incur inventory provisions or impairments if our inventory or
+supply or capacity commitments exceed demand for our products or demand declines.
+
+Product  transitions  are  complex  and  we  often  ship  both  new  and  prior  architecture  products  simultaneously  as  our  channel  partners
+prepare  to  ship  and  support  new  products.  We  are  generally  in  various  stages  of  transitioning  the  architectures  of  our  Data  Center,
+Gaming,  Professional  Visualization,  and  Automotive  products.  The  computing  industry  is  experiencing  a  broader  and  faster  launch
+cadence of accelerated computing platforms to meet a growing and diverse set of AI opportunities. We have introduced a new product
+and architecture cadence of our Data Center solutions where we seek to complete new computing solutions each year and provide a
+greater  variety  of  Data  Center  offerings. The  increased  frequency  of  these  transitions  and  the  larger  number  of  products  and  product
+configurations may magnify the challenges associated with managing our supply and demand which may further create volatility in our
+revenue.  Qualification  time  for  new  products,  customers  anticipating  product  transitions,  and  channel  partners  reducing  channel
+inventory of prior architectures ahead of new product introductions can reduce, or create volatility in, our revenue. We have experienced
+and may in the future experience reduced demand for current generation architectures when customers anticipate transitions, and we
+may be unable to sell multiple product architectures at the same time for current and future architecture transitions. Our financial results
+have  been  and  may  in  the  future  be  negatively  impacted  if  we  are  unable  to  execute  our  architectural  transitions  as  planned  for  any
+reason. The increased frequency and complexity of newly introduced products could result in unanticipated quality or production issues
+that could increase the magnitude of inventory provisions, warranty, or other costs or result in product delays. For example, our gross
+margins in the second quarter of fiscal year 2025 were negatively impacted by inventory provisions for low-yielding Blackwell material.
+
+We incur significant engineering development resources for new products, and changes to our product roadmap may impact our ability
+to  develop  other  products  or  adequately  manage  our  supply  chain  cost.  Customers  may  delay  purchasing  existing  products  as  we
+increase the frequency of new products or may not be able to adopt our new products as fast as forecasted, both impacting the timing of
+our revenue and supply chain cost. While we have managed prior product transitions and have sold multiple product architectures at the
+same time, these transitions are difficult, may impair our ability to predict demand and impact our supply mix, and may cause us to incur
+additional costs.
+
+Demand  estimates  for  our  products,  applications,  and  services  can  be  incorrect,  which  may  create  volatility  in  our  revenue  or  supply
+levels. We may not be able to generate significant revenue from them. Because our products may be used in multiple use cases and
+applications,  it  is  difficult  to  estimate  with  any  reasonable  degree  of  precision  the  impact  of  generative  AI  models  on  our  reported
+revenue or forecasted demand.
+
+The  use  of  our  GPUs  for  new,  mercurial,  or  trendy  applications,  has  impacted  and  can  impact  in  the  future  demand  for  our  products,
+including by leading to inconsistent spikes and drops in demand. For example, several years ago, our Gaming GPUs began to be used
+for  mining  digital  currencies,  such  as  Ethereum.  It  is  difficult  for  us  to  estimate  with  any  reasonable  degree  of  precision  the  past  or
+current impact of cryptocurrency mining, or forecast the future impact of
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+28/119
+
+3/10/25, 4:53 PM
+
+nvda-20250126
+
+17
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+29/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+cryptocurrency mining, on demand for our products. Volatility in the cryptocurrency market, including new compute technologies, price
+changes  in  cryptocurrencies,  government  cryptocurrency  policies  and  regulations,  new  cryptocurrency  standards  and  changes  in  the
+method  of  verifying  blockchain  transactions,  has  impacted  and  can  in  the  future  impact  cryptocurrency  mining  and  demand  for  our
+products and can further impact our ability to estimate demand for our products. Changes to cryptocurrency standards and processes
+including,  but  not  limited  to,  the  Ethereum  2.0  merge  in  2022,  have  reduced  and  may  in  the  future  decrease  the  usage  of  GPUs  for
+Ethereum mining. This has created and may in the future create increased aftermarket sales of our GPUs, which could negatively impact
+retail  prices  for  our  GPUs  and  reduce  demand  for  our  new  GPUs.  In  general,  our  new  products  or  previously  sold  products  may  be
+resold online or on the unauthorized “gray market,” which also makes demand forecasting difficult. Gray market products and reseller
+marketplaces compete with our new products and distribution channels. Our inability to accurately predict our demand that arises from
+new use cases may create volatility in our revenue.
+
+Dependency  on  third-party  suppliers  and  their  technology  to  manufacture,  assemble,  test,  or  package  our  products  reduces
+our  control  over  product  quantity  and  quality,  manufacturing  yields,  and  product  delivery  schedules  and  could  harm  our
+business.
+
+We  depend  on  foundries  to  manufacture  our  semiconductor  wafers  using  their  fabrication  equipment  and  techniques.  We  do  not
+assemble,  test,  or  package  our  products,  but  instead  contract  with  independent  subcontractors.  These  subcontractors  assist  with
+procuring components used in our systems, boards, and products. We face risks which have adversely affected or could adversely affect
+our ability to meet customer demand and scale our supply chain, negatively impact longer-term demand for our products and services,
+and adversely affect our business operations, gross margin, revenue and/or financial results, including:
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+lack of guaranteed supply of wafer, component and capacity;
+
+decommitment by our suppliers;
+
+potential higher wafer and component prices resulting from incorrectly estimating demand and failing to place orders with our
+suppliers with sufficient quantities or timely;
+
+failure by our foundries or contract manufacturers to procure raw materials or provide adequate levels of manufacturing or test
+capacity for our products;
+
+failure by our foundries to develop, obtain, or successfully implement high quality process technologies, including transitions to
+smaller  geometry  process  technologies  such  as  advanced  process  node  technologies  and  memory  designs  needed  to
+manufacture our products;
+
+failure by our suppliers to comply with our policies and expectations and emerging regulatory requirements;
+
+limited  number  and  geographic  concentration  of  global  suppliers,  foundries,  contract  manufacturers,  assembly  and  test
+providers and memory manufacturers;
+
+loss of a supplier and additional expense and/or production delays as a result of qualifying a new foundry or subcontractor and
+commencing volume production or testing in the event of a loss, addition or change of a supplier;
+
+lack of direct control over product quantity, quality, and delivery schedules;
+
+integration of new suppliers and contract manufacturers creating more complexity in managing multiple suppliers with variations
+in production planning, execution, and logistics;
+
+suppliers  or  their  suppliers  failing  to  provide  high  quality  products  and/or  making  changes  to  their  products  without  our
+qualification;
+
+delays in product shipments, shortages, a decrease in product quality and/or higher expenses in the event our subcontractors
+or foundries prioritize our competitors’ or other customers’ orders over ours;
+
+requirements  to  place  orders  that  are  not  cancellable  upon  changes  in  demand  or  requirements  to  prepay  for  supply  in
+advance;
+
+low manufacturing yields resulting from issues in our product design or a foundry’s proprietary process technology;
+
+suppliers extending lead times and/or increasing costs during shortages; and
+
+disruptions in manufacturing, assembly and other processes due to closures related to heat waves, earthquakes, fires, or other
+natural disasters, electricity conservation efforts, pandemics, and cybersecurity incidents.
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+30/119
+
+18
+
+3/10/25, 4:53 PM
+
+nvda-20250126
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+31/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+Defects in our products have caused and could cause us to incur significant expenses to remediate, which can damage our
+reputation and cause us to lose market share.
+
+Our  hardware  and  software  product  and  service  offerings  are  complex. They  have  in  the  past  and  may  in  the  future  contain  defects,
+security  vulnerabilities,  experience  failures,  or  unsatisfactory  performance  due  to  issues  in  design,  fabrication,  packaging,  materials,
+bugs  and/or  use  within  a  system.  These  risks  may  also  increase  when  our  products  are  introduced  into  new  devices,  markets,
+technologies and applications, or new versions are released, and when we rely on partners to supply and manufacture components that
+are used in our products, as these arrangements reduce our direct control over production. AI software products that we or our partners
+offer  rely  on  training  data  that  may  originate  from  third  parties  and  new  training  methods,  and  the  resulting  products  may  contain
+unknown  or  undetected  defects  and  errors,  or  reflect  unintended  bias. Although  arrangements  with  component  providers  may  contain
+provisions for product defect expense reimbursement, we generally remain responsible to the customer for warranty product defects that
+may occur from time to time. Some failures in our products or services have been in the past and may in the future be only discovered
+after a product or service has been shipped or used.
+
+Undiscovered vulnerabilities in our products or services could result in loss of data or intangible property, or expose our customers to
+unscrupulous third parties who develop and deploy malicious software programs that could attack our products or services. Defects or
+failure of our offerings to perform to specifications could lead to substantial damage to the products in which our offerings have been
+integrated by OEMs, ODMs, AIB manufacturers, automotive manufacturers, and tier 1 automotive suppliers, and to the user of such end
+product. Any such defect may cause us to incur significant warranty, support, and repair or replacement costs as part of a product recall
+or  otherwise,  write-off  the  value  of  related  inventory,  and  divert  the  attention  of  our  engineering  and  management  personnel  from  our
+product  development  efforts  to  find  and  correct  the  issue.  Our  efforts  to  remedy  these  issues  may  not  be  timely  or  satisfactory  to  our
+customers. An error or defect in new products, releases or related software drivers after commencement of commercial shipments could
+result in failure to achieve market acceptance, loss of design wins, temporary or permanent withdrawal from a product or market and
+harm to our relationships with existing and prospective customers and partners and consumers’ perceptions of our brand, which would in
+turn  negatively  impact  our  business  operations,  gross  margin,  revenue  and/or  financial  results.  We  may  be  required  to  reimburse  our
+customers,  partners  or  consumers,  including  for  costs  to  repair  or  replace  products  in  the  field  or  in  connection  with  indemnification
+obligations, or pay fines imposed by regulatory agencies.
+
+For  example,  in  fiscal  year  2023,  a  defect  was  identified  in  a  third-party  component  embedded  in  certain  Data  Center  products. This
+defect has had, and other defects may in the future have, an adverse effect on our cost and supply of components and finished goods.
+These costs could be significant in future periods. We recorded a net warranty liability during fiscal year 2023 primarily in connection with
+this defect. While we believe we have accurately recorded for warranty obligations, we may need to record additional amounts in the
+future if our estimate proves to be incorrect. In general, if a product liability claim regarding any of our products is brought against us,
+even if the alleged damage is due to the actions or inactions of a third party, such as within our supply chain, the cost of defending the
+claim could be significant and would divert the efforts of our technical and management personnel and harm our business. Further, our
+business  liability  insurance  may  be  inadequate  or  future  coverage  may  be  unavailable  on  acceptable  terms,  which  could  adversely
+impact our financial results.
+
+Risks Related to Our Global Operating Business
+
+Adverse economic conditions may harm our business.
+
+Economic  and  industry  uncertainty  or  changes,  including  recession  or  slowing  growth,  inflation,  changes  or  uncertainty  in  fiscal,
+monetary,  or  trade  policy,  disruptions  to  capital  markets  and  the  banking  system,  currency  fluctuations,  higher  interest  rates,  tighter
+credit, lower capital expenditures by businesses, including on IT infrastructure, increases in unemployment, labor shortages, and lower
+consumer confidence and spending, global supply chain constraints, and global economic and geopolitical developments, including the
+implementation  of  tariffs  by  the  USG  or  other  governments,  have  in  the  past  and/or  could  in  the  future  have  adverse,  wide-ranging
+effects on our business and financial results, including:
+
+•
+
+•
+
+•
+
+•
+
+•
+
+increased costs for wafers, components, logistics, and other supply chain expenses, which have negatively impacted our gross
+margin in the past and may do so in the future;
+
+increased  supply,  employee,  facilities  and  infrastructure  costs  and  volatility  in  the  financial  markets,  which  have  reduced  and
+may in the future reduce our margins;
+
+decrease in demand for our products, services and technologies and those of our customers, partners or licensees;
+
+the inability of our suppliers to deliver on their supply commitments to us and our customers’ or our licensees’ inability to supply
+products to customers and/or end users;
+
+limits on our ability to forecast operating results and make business decisions;
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+32/119
+
+19
+
+3/10/25, 4:53 PM
+
+nvda-20250126
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+33/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+•
+
+•
+
+•
+
+the insolvency of key suppliers, distributors, customers, CSPs, data center providers, licensing parties or other third parties we
+rely on;
+
+reduced  profitability  of  customers,  which  may  cause  them  to  scale  back  operations,  exit  businesses,  file  for  bankruptcy
+protection and potentially cease operations, or lead to mergers, consolidations or strategic alliances among other companies,
+which could adversely affect our ability to compete effectively; and
+
+increased  credit  and  collectability  risks,  higher  borrowing  costs  or  reduced  availability  of  capital  markets,  reduced  liquidity,
+adverse impacts on our customers and suppliers, failures of counterparties, including financial institutions and insurers, asset
+impairments, and declines in the value of our financial instruments.
+
+Adverse developments affecting financial institutions, such as bank failures or instability, or concerns or speculation about similar events
+or  risks,  could  lead  to  market-wide  liquidity  problems  and  other  disruptions,  which  could  impact  our  customers’  ability  to  fulfill  their
+payment obligations to us, our vendors’ ability to fulfill their contractual obligations to us, or our ability to fulfill our own obligations.
+
+Additionally,  we  maintain  an  investment  portfolio  of  various  holdings,  types,  and  maturities. These  investments  are  subject  to  general
+credit,  liquidity,  market  and  interest  rate  risks,  which  may  be  exacerbated  by  market  downturns  or  events  that  affect  global  financial
+markets, as described above. A majority of our investment portfolio comprises USG securities. A decline in global financial markets for
+long periods or a downgrade of the USG credit rating due to an actual or threatened default on government debt could result in higher
+interest rates, a decline in the value of the U.S. dollar, reduced market liquidity or other adverse conditions. These factors could cause
+an unrealized or realized loss position in our investments or require us to record impairment charges.
+
+International  sales  and  operations  are  a  significant  part  of  our  business,  which  exposes  us  to  risks  that  could  harm  our
+business.
+
+We sell our products internationally, and we also have operations and conduct business internationally. Our semiconductor wafers are
+manufactured,  assembled,  tested  and  packaged  by  third  parties  located  outside  of  the  United  States,  and  we  generated  53%  of  our
+revenue in fiscal year 2025 from sales outside the United States. The market in China, where our offerings are limited by export controls,
+is highly competitive and we expect it to remain competitive going forward. The global nature of our business subjects us to a number of
+risks  and  uncertainties,  which  have  had  in  the  past  and  could  in  the  future  have  a  material  adverse  effect  on  our  business,  financial
+condition and results of operations. These include domestic and international economic and political conditions in countries in which we
+and  our  suppliers  and  manufacturers  do  business,  government  lockdowns  to  control  case  spread  of  global  or  local  health  issues,
+differing  legal  standards  with  respect  to  protection  of  IP  and  employment  practices,  different  domestic  and  international  business  and
+cultural practices, disruptions to capital markets, counter-inflation policies, currency fluctuations, natural disasters, acts of war or other
+military  actions,  terrorism,  public  health  issues,  restrictions  on  international  trade,  such  as  tariffs,  sanctions,  and  other  controls  on
+imports or exports, and catastrophic events.
+
+Product,  system  security,  and  data  protection  incidents  or  breaches,  as  well  as  cyber-attacks,  could  disrupt  our  operations,
+reduce our expected revenue, increase our expenses, and significantly harm our business and reputation.
+
+Security  breaches,  computer  malware,  social-engineering  attacks,  denial-of-service  attacks,  software  bugs,  server  malfunctions,
+software  or  hardware  failures,  loss  of  data  or  other  information  technology  assets,  and  other  cyber-attacks  are  becoming  increasingly
+sophisticated, making it more difficult to successfully detect, defend against them or implement adequate preventative measures.
+
+Cyber-attacks, including ransomware attacks by organized criminal threat actors, nation-states, and nation-state-supported actors, may
+become more prevalent and severe. Our ability to recover from ransomware attacks may be limited if our backups have been affected by
+the attack, or if restore from backups is delayed or not feasible.
+
+Individuals,  groups  of  hackers  and  sophisticated  organizations,  including  nation-states  and  nation-state-supported  actors,  and  other
+threat actors have engaged and are expected to continue to engage in cyber-attacks. Additionally, some actors are using AI technology
+to  launch  more  automated,  targeted  and  coordinated  attacks.  Due  to  geopolitical  conflicts  and  during  times  of  war  or  other  major
+conflicts,  we  and  the  third  parties  we  rely  upon  may  be  subject  to  a  heightened  risk  of  cyber-attacks  that  could  materially  disrupt  our
+ability to provide services and products. We may also face cybersecurity threats due to error or intentional misconduct by employees,
+contractors  or  other  third-party  service  providers.  Certain  aspects  of  effective  cybersecurity  are  dependent  upon  our  employees,
+contractors  and/or  other  third-party  service  providers  safeguarding  our  sensitive  information  and  adhering  to  our  security  policies  and
+access control mechanisms. We have in the past experienced, and may in the future experience, security incidents arising from a failure
+to  properly  handle  sensitive  information  or  adhere  to  our  security  policies  and  access  control  mechanisms,  including,  for  example,
+employees posting company data on third-party websites without permission, and, although no such events have had a material adverse
+effect on our business, there can be no assurance that an insider threat or error will not result in an incident that is material to us or lead
+to negative publicity. Furthermore, we rely on products and services provided by third-party suppliers to operate certain critical business
+systems,  including  without  limitation,  cloud-based  infrastructure,  encryption  and  authentication  technology,  employee  email  and  other
+functions, which exposes us to
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+34/119
+
+20
+
+3/10/25, 4:53 PM
+
+nvda-20250126
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+35/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+supply-chain attacks or other business disruptions. We cannot guarantee that third parties and infrastructure in our supply chain or our
+partners’  supply  chains  have  not  been  compromised  or  that  they  do  not  contain  exploitable  vulnerabilities,  defects  or  bugs  that  could
+result  in  a  breach  of  or  disruption  to  our  information  technology  systems,  including  our  products  and  services,  or  the  third-party
+information technology systems that support our services. We have incorporated third-party data into some of our AI models and used
+open-source  datasets  to  train  our  models  and  may  continue  to  do  so.  These  datasets  may  be  flawed,  insufficient,  or  contain  certain
+biased  information,  and  may  otherwise  decrease  resilience  to  security  incidents  that  may  compromise  the  integrity  of  our AI  outputs,
+leading  to  potential  reputational  damage,  regulatory  scrutiny,  or  adverse  impacts  on  the  performance  and  reliability  of  our  products,
+which could, in turn, affect our partners' operations, customer trust, and our revenue. We may have limited insight into the data privacy
+or security practices of third-party suppliers, including for our AI algorithms. Our ability to monitor these third parties’ information security
+practices  is  limited,  and  they  may  not  have  adequate  information  security  measures  in  place.  In  addition,  if  one  of  our  third-party
+suppliers  suffers  a  security  incident  (which  has  happened  in  the  past  and  may  happen  in  the  future),  our  response  may  be  limited  or
+more  difficult  because  we  may  not  have  direct  access  to  their  systems,  logs  and  other  information  related  to  the  security  incident.
+Additionally, we are incorporated into the supply chain of a large number of entities worldwide and, as a result, if our products or services
+are  compromised,  a  significant  number  of  our  customers  and  their  data  could  be  affected,  which  could  result  in  potential  liability  and
+harm our business.
+
+To defend against security incidents, we must continuously engineer more secure products and enhance security and reliability features,
+which is expected to result in increased expenses. We must also continue to develop our security measures, including training programs
+and security awareness initiatives, designed to ensure our suppliers have appropriate security measures in place, and continue to meet
+the  evolving  security  requirements  of  our  customers,  applicable  industry  standards,  and  government  regulations.  While  we  invest  in
+training  programs  and  security  awareness  initiatives  and  take  steps  to  detect  and  remediate  certain  vulnerabilities  that  we  have
+identified,  we  may  not  always  be  able  to  prevent  threats  or  detect  and  mitigate  all  vulnerabilities  in  our  security  controls,  systems  or
+software, including third-party software we have installed, as such threats and techniques change frequently and may not be detected
+until after a security incident has occurred. Further, we may experience delays in developing and deploying remedial measures designed
+to  address  identified  vulnerabilities.  These  vulnerabilities  could  result  in  reputational  and  financial  harm,  and  if  exploited,  these
+vulnerabilities could result in a security incident.
+
+We  hold  confidential,  sensitive,  personal  and  proprietary  information,  including  information  from  partners  and  customers.  Breaches  of
+our  security  measures,  along  with  reported  or  perceived  vulnerabilities  or  unapproved  dissemination  of  proprietary  information  or
+sensitive  or  confidential  data  about  us  or  third  parties,  could  expose  us  and  the  parties  affected  to  a  risk  of  loss,  or  misuse  of  this
+information, potentially resulting in litigation and subsequent liability, regulatory inquiries or actions, damage to our brand and reputation
+or other harm, including financial, to our business. For example, we hold proprietary game source code from third-party partners in our
+GFN service. Breaches of our GFN security measures, which have happened in the past, could expose our partners to the risk of loss or
+misuse of this source code, damage both us and our partners, and expose NVIDIA to potential litigation and liability. If we or a third party
+we rely on experience a security incident, which has occurred in the past, or are perceived to have experienced a security incident, we
+may experience adverse consequences, including government enforcement actions, additional reporting requirements and/or oversight,
+restrictions  on  processing  data,  litigation,  indemnification  obligations,  reputational  harm,  diversion  of  funds,  diversion  of  management
+attention, financial loss, loss of data, material disruptions in our systems and operations, supply chain, and ability to produce, sell and
+distribute our goods and services, and other similar harms. Inability to fulfill orders, delayed sales, lower margins or lost customers as a
+result of these disruptions could adversely affect our financial results, stock price and reputation. We are required by certain data privacy
+and  security  obligations  to  notify  relevant  stakeholders,  including  affected  individuals,  customers,  regulators  and  investors,  of  security
+incidents,  and  mandatory  disclosure  of  such  incidents  could  lead  to  negative  publicity.  In  addition  to  experiencing  a  security  incident,
+third  parties  may  gather,  collect  or  infer  sensitive  information  about  us  from  public  sources,  data  brokers  or  other  means  that  reveals
+competitively sensitive details about our organization and could be used to harm our business.
+
+Business disruptions could harm our operations, lead to a decline in revenue and increase our costs.
+
+Factors that have caused and/or could in the future cause disruptions to our worldwide operations include: natural disasters, extreme
+weather conditions, power or water shortages, critical infrastructure failures, telecommunications failures, supplier disruptions, terrorist
+attacks,  acts  of  violence,  political  and/or  civil  unrest,  acts  of  war  or  other  military  actions,  epidemics  or  pandemics,  abrupt  regulatory
+changes, and other natural or man-made disasters and catastrophic events. Our corporate headquarters, a large portion of our current
+data  center  capacity,  and  a  portion  of  our  research  and  development  activities  are  located  in  California,  and  other  critical  business
+operations, finished goods inventory and some of our suppliers are located in Asia, making our operations vulnerable to natural disasters
+such as earthquakes, wildfires or other business disruptions occurring in these geographical areas. Catastrophic events can also have
+an  impact  on  third-party  vendors  who  provide  us  critical  infrastructure  services  for  IT  and  research  and  development  systems  and
+personnel.  Geopolitical  and  domestic  political  developments  and  other  events  beyond  our  control  can  increase  economic  volatility
+globally. Political instability, changes in government or adverse political developments in or around any of the major countries in which
+we  do  business  may  harm  our  business,  financial  condition  and  results  of  operations.  Worldwide  geopolitical  tensions  and  conflicts,
+including  but  not  limited  to  China,  Hong  Kong,  Israel,  Korea  and Taiwan  where  the  manufacture  of  our  product  components  and  final
+assembly of our products are concentrated may result in changing regulatory requirements, and other disruptions that could impact our
+operations and operating strategies, product
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+36/119
+
+21
+
+3/10/25, 4:53 PM
+
+nvda-20250126
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+37/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+demand, access to global markets, hiring, and profitability. For example, other countries have restricted and may continue in the future to
+restrict business with the State of Israel, where we have engineering, sales support operations and manufacturing, and companies with
+Israeli  operations,  including  by  economic  boycotts.  Our  operations  could  be  harmed  and  our  costs  could  increase  if  manufacturing,
+logistics,  or  other  operations  are  disrupted  for  any  reason,  including  natural  disasters,  high  heat  events,  water  shortages,  power
+shortages,  information  technology  system  failures  or  cyber-attacks,  military  actions  or  economic,  and  business,  labor,  environmental,
+public  health,  or  political  issues.  The  ultimate  impact  on  us,  our  third-party  foundries  and  other  suppliers  of  being  located  and
+consolidated  in  certain  geographical  areas  is  unknown.  In  the  event  a  disaster,  war,  or  catastrophic  event  affects  us,  the  third-party
+systems on which we rely, or our customers, our business could be harmed as a result of declines in revenue, increases in expenses,
+and substantial expenditures and time spent to fully resume operations. Our business continuity and disaster recovery planning may not
+be sufficient for all eventualities. All of these risks and conditions could materially adversely affect our future sales and operating results.
+
+We are monitoring the impact of the geopolitical conflict in and around Israel on our operations, including the health and safety of our
+approximately 4,700 employees in the region who primarily support the research and development, operations, and sales and marketing
+of  our  networking  products.  Some  of  our  employees  in  the  region  have  been  on  active  military  duty  for  an  extended  period  and  may
+continue  to  be  absent,  which  may  cause  disruption  to  our  product  development  or  operations.  We  have  not  experienced  significant
+impact or expense to our business; however, if the conflict is further extended or expanded, it could impact future product development,
+operations, and revenue or create other uncertainty for our business.
+
+Additionally,  interruptions  or  delays  in  services  from  CSPs,  data  center  co-location  partners,  and  other  third  parties  on  which  we  rely,
+including due to the events described above or other events such as the insolvency of these parties, could impair our ability to provide
+our products and services and harm our business. As we increase our reliance on these third-party systems and services, our exposure
+to  damage  from  service  interruptions,  defects,  disruptions,  outages,  shortages  and  other  performance  and  quality  problems  may
+increase.  Data  centers  depend  on  access  to  clean  water  and  predictable  energy.  Power  or  water  shortages,  land  or  permitting
+constraints,  or  regulations  that  limit  energy,  water,  or  land  availability,  could  impair  the  ability  of  our  customers  to  expand  their  data
+center capacity and consume our products and services, which may in turn negatively impact our business.
+
+Climate change may have a long-term impact on our business.
+
+Climate  change  may  have  an  increasingly  adverse  impact  on  our  business  and  on  our  customers,  partners  and  vendors.  Water  and
+energy availability and reliability in the regions where we conduct business is critical, and certain of our facilities may be vulnerable to
+the impacts of extreme weather events. Extreme heat and wind coupled with dry conditions in Northern California may lead to power
+safety  shut  offs  due  to  wildfire  risk,  which  can  have  adverse  implications  for  our  Santa  Clara,  California  headquarter  offices  and  data
+centers, including impairing the ability of our employees to work effectively. Climate change, its impact on our supply chain and critical
+infrastructure worldwide and its potential to increase political instability in regions where we, our customers, partners and our vendors do
+business,  may  disrupt  our  business  and  cause  us  to  experience  higher  attrition,  losses  and  costs  to  maintain  or  resume  operations.
+Although  we  maintain  insurance  coverage  for  a  variety  of  property,  casualty,  and  other  risks,  the  types  and  amounts  of  insurance  we
+obtain  vary  depending  on  availability  and  cost.  Some  of  our  policies  have  large  deductibles  and  broad  exclusions,  and  our  insurance
+providers may be unable or unwilling to pay a claim. Losses not covered by insurance may be large, which could harm our results of
+operations and financial condition.
+
+Our business and those of our suppliers and customers may also be subject to climate-related laws, regulations and lawsuits. New or
+proposed regulations relating to carbon taxes, fuel or energy taxes, pollution limits, sustainability-related disclosure and governance and
+supply chain governance could result in greater direct costs, including costs associated with changes to manufacturing processes or the
+procurement  of  raw  materials  used  in  manufacturing  processes,  increased  capital  expenditures  to  improve  facilities  and  equipment,
+higher  compliance  and  energy  costs  to  reduce  emissions,  other  compliance  costs,  and  greater  indirect  costs  resulting  from  our
+customers and/or suppliers incurring additional compliance costs that are passed on to us. These costs and restrictions could harm our
+business and results of operations by increasing our expenses or requiring us to alter our operations and product design activities.
+
+Stakeholder groups may find us insufficiently responsive to the implications of climate change, and therefore we may face legal action or
+reputational  harm.  We  may  not  achieve  our  stated  sustainability-related  goals,  which  could  harm  our  reputation,  or  we  may  incur
+additional,  unexpected  costs  to  achieve  such  goals.  We  may  also  experience  contractual  disputes  due  to  supply  chain  delays  arising
+from climate change-related disruptions, which could result in increased litigation and costs.
+
+We  also  face  risks  related  to  business  trends  that  may  be  influenced  by  climate  change  concerns.  Our  business  could  be  negatively
+impacted by concerns around the high absolute energy requirements of our GPUs, despite their much more energy efficient design and
+operation relative to alternative computing platforms.
+
+We  may  not  be  able  to  realize  the  potential  benefits  of  business  investments  or  acquisitions,  and  we  may  not  be  able  to
+successfully integrate acquired companies, which could hurt our ability to grow our business, develop new products or sell
+our products.
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+38/119
+
+22
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+We  acquire  and  invest  in  businesses  that  offer  products,  services  and  technologies  that  we  believe  will  help  expand  or  enhance  our
+strategic  objectives.  Acquisitions  or  investments  involve  significant  challenges  and  risks  and  could  impair  our  ability  to  grow  our
+business, develop new products or sell our products and ultimately could have a negative impact on our financial results. If we pursue a
+particular transaction, we may limit our ability to enter into other transactions that could help us achieve our other strategic objectives. If
+we  are  unable  to  timely  complete  acquisitions,  including  due  to  delays  and  challenges  in  obtaining  regulatory  approvals,  we  may  be
+unable to pursue other transactions, we may not be able to retain critical talent from the target company, technology may evolve and
+make the acquisition less attractive, and other changes can take place, which could reduce the anticipated benefits of the transaction
+and  negatively  impact  our  business.  Regulators  could  also  impose  conditions  that  reduce  the  ultimate  value  of  our  acquisitions.  In
+addition, to the extent that our perceived ability to consummate acquisitions has been harmed, future acquisitions may be more difficult,
+complex  or  expensive.  Further,  our  investments  in  publicly  traded  companies  could  create  volatility  in  our  results  and  may  generate
+losses up to the value of the investment. In addition, we have invested and may continue to invest in private companies to further our
+strategic  objectives  and  to  support  certain  key  business  initiatives.  These  companies  can  include  early-stage  companies  still  defining
+their strategic direction. Many of the instruments in which we invest are non-marketable and illiquid at the time of our initial investment,
+and  we  are  not  always  able  to  achieve  a  return. To  the  extent  any  of  the  companies  in  which  we  invest  are  not  successful,  we  could
+recognize an impairment and/or lose all or part of our investment. Our investment portfolio contains industry sector concentration risks,
+and a decline in any one or multiple industry sectors could increase our impairment losses.
+
+We  face  additional  risks  related  to  acquisitions  and  strategic  investments,  including  the  diversion  of  capital  and  other  resources,
+including management’s attention; difficulty in realizing a satisfactory return and uncertainties to realize the benefits of an acquisition or
+strategic  investment,  if  at  all;  difficulty  or  inability  in  obtaining  governmental,  regulatory  approval  or  restrictions  or  other  consents  and
+approvals or financing; legal proceedings initiated as a result of an acquisition or investment; and potential failure of our due diligence
+processes to identify significant issues with the assets or company in which we are investing or are acquiring.
+
+Additional risks related to acquisitions include, but are not limited to:
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+difficulty in integrating the technology, systems, products, policies,  processes,  or operations and  integrating  and retaining  the
+employees, including key personnel, of the acquired business;
+
+assumption of liabilities and incurring amortization expenses, impairment charges to goodwill or write-downs of acquired assets;
+
+integrating accounting, forecasting and controls, procedures and reporting cycles;
+
+coordinating and integrating operations, particularly in countries in which we do not currently operate;
+
+stock  price  impact,  fines,  fees  or  reputation  harm  if  we  are  unable  to  obtain  regulatory  approval  for  an  acquisition  or  are
+otherwise unable to close an acquisition;
+
+potential issuances of debt to finance our acquisitions, resulting in increased debt, increased interest expense, and compliance
+with debt covenants or other restrictions;
+
+the potential for our acquisitions to result in dilutive issuances of our equity securities;
+
+the potential variability of the amount and form of any performance-based consideration;
+
+negative changes in general economic conditions in the regions or the industries in which we or our target operate;
+
+exposure to additional cybersecurity risks and vulnerabilities; and
+
+impairment of relationships with, or loss of our or our target’s employees, vendors and customers.
+
+For  example,  when  integrating  acquisition  target  systems  into  our  own,  we  have  experienced  and  may  continue  to  experience
+challenges  including  lengthy  and  costly  systems  integration,  delays  in  purchasing  and  shipping  products,  difficulties  with  system
+integration  via  electronic  data  interchange  and  other  processes  with  our  key  suppliers  and  customers,  and  training  and  change
+management needs of integration personnel. These challenges have impacted our results of operations and may continue to do so in
+the future.
+
+We  receive  a  significant  amount  of  our  revenue  from  a  limited  number  of  partners  and  distributors  and  we  have  a
+concentration of sales to customers who purchase directly or indirectly from us, and our revenue could be adversely affected
+if we lose or are prevented from selling to any of these customers.
+
+We have experienced periods where we receive a significant amount of our revenue from a limited number of customers, and this trend
+may continue. Sales to direct Customers A, B and C represented 12%, 11% and 11% of total revenue, respectively, for fiscal year 2025,
+all of which were primarily attributable to the Compute & Networking segment. With
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+39/119
+
+23
+
+3/10/25, 4:53 PM
+
+nvda-20250126
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+40/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+several  of  these  partners,  we  are  selling  multiple  products  and  systems  in  our  portfolio  through  their  channels.  Our  operating  results
+depend on sales to our partner network, as well as the ability of these partners to sell products that incorporate our technologies. We
+have  a  small  number  of  partners  that  are  involved  in  system  integration  with  our  key  customers.  As  our  system  design  becomes
+increasingly  complex,  system  integrators  may  be  unable  to  meet  specifications  of  our  key  customers.  Changes  in  our  partners'  or
+customers'  business  models  or  their  ownership  can  reduce  the  number  of  partners  available  to  us  and  harm  our  ability  to  sell  our
+advanced data center systems to customers. In the future, these partners may decide to purchase fewer products, not to incorporate our
+products  into  their  ecosystem,  or  to  alter  their  purchasing  patterns  in  some  other  way.  Because  most  of  our  sales  are  made  on  a
+purchase order basis, our customers can generally cancel, change, or delay product purchase commitments with little notice to us and
+without  penalty.  Our  partners  or  customers  may  develop  their  own  solutions;  our  customers  may  purchase  products  from  our
+competitors; and our partners may discontinue sales or lose market share in the markets for which they purchase our products, all of
+which may alter partners’ or customers’ purchasing patterns. Many of our indirect customers often do not purchase directly from us but
+through multiple OEMs, ODMs, system integrators, distributors, and other channel partners. For fiscal year 2025, an indirect customer
+which  primarily  purchases  our  products  through  system  integrators  and  distributors,  including  through  Customer  B,  is  estimated  to
+represent 10% or more of total revenue, attributable to the Compute & Networking segment. If end demand increases or our finished
+goods supply availability is concentrated near a quarter end, the system integrators, distributors, and channel partners may have limited
+ability  to  increase  their  credit,  which  could  impact  the  timing  and  amount  of  our  revenue.  The  loss  of  any  of  our  large  customers,  a
+significant  reduction  in  purchases  by  them,  our  inability  to  sell  to  a  customer  due  to  U.S.  or  other  countries’  trade  restrictions,  or  any
+difficulties in collecting accounts receivable would likely harm our financial condition and results of operations.
+
+If we are unable to attract, retain and motivate our executives and key employees, our business may be harmed.
+
+To  remain  competitive  and  successfully  execute  our  business  strategy,  we  must  attract,  retain,  and  motivate  our  executives  and  key
+employees, as well as recruit and develop exceptional and diverse talent. However, labor is subject to external factors that are beyond
+our control, including our industry’s highly competitive market for skilled workers and leaders, and workforce participation rates. Changes
+in  immigration  and  work  permit  regulations,  or  in  their  administration  or  interpretation,  could  impair  our  ability  to  attract  and  retain
+qualified employees. Competition for talent drives up costs in the form of cash and stock-based compensation. In times of stock price
+volatility,  as  we  have  experienced  in  the  past  and  may  experience  in  the  future,  the  retentive  value  of  our  stock-based  compensation
+may  decrease. Additionally,  we  are  highly  dependent  on  the  services  of  our  longstanding  executive  team.  Failure  to  ensure  effective
+succession planning, transfer of knowledge, and smooth transitions involving executives and key employees could hinder our strategic
+planning, execution, and long-term success.
+
+Our business is dependent upon the proper functioning of our business processes and information systems and modification
+or interruption of such systems may disrupt our business and internal controls.
+
+We  rely  upon  internal  processes  and  information  systems  to  support  key  business  functions,  including  our  assessment  of  internal
+controls over financial reporting as required by Section 404 of the Sarbanes-Oxley Act. The efficient operation and scalability of these
+processes and systems is critical to support our growth. We continue to design and implement updated accounting functionality related
+to a new enterprise resource planning, or ERP, system. Any ERP system implementation may introduce problems, such as quality issues
+or  programming  errors,  that  could  have  an  impact  on  our  continued  ability  to  successfully  operate  our  business  or  to  timely  and
+accurately  report  our  financial  results.  These  changes  may  be  costly  and  disruptive  to  our  operations  and  could  impose  substantial
+demands on management time. Failure to implement new or updated controls, or difficulties encountered in their implementation, could
+harm our operating results or cause us to fail to meet our reporting obligations.
+
+Identification  of  material  weaknesses  in  our  internal  controls,  even  if  quickly  remediated  once  disclosed,  may  cause  investors  to  lose
+confidence in our financial statements and our stock price may decline. Remediation of any material weakness could require us to incur
+significant expenses, and if we fail to remediate any material weakness, our financial statements may be inaccurate, we may be required
+to restate our financial statements, our ability to report our financial results on a timely and accurate basis may be adversely affected,
+our access to the capital markets may be restricted, our stock price may decline, and we may be subject to sanctions or investigation by
+regulatory authorities.
+
+Our  operating  results  have  in  the  past  fluctuated  and  may  in  the  future  fluctuate,  and  if  our  operating  results  are  below  the
+expectations of securities analysts or investors, our stock price could decline.
+
+Our operating results have in the past fluctuated and may continue to fluctuate due to a number of factors. Therefore, investors should
+not rely on our past results of operations as an indication of our future performance. Factors that could affect our results of operations
+include, but are not limited to:
+
+•
+
+•
+
+our ability to adjust spending due to the multi-year development cycle for some of our products and services;
+
+our ability to comply with our contractual obligations to customers;
+
+24
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+41/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+•
+
+•
+
+•
+
+•
+
+our extended payment term arrangements with certain customers, the inability of some customers to make required payments,
+our ability to obtain credit insurance for customers with extended payment terms, and customer bad debt write-offs;
+
+our vendors' payment requirements;
+
+unanticipated costs associated with environmental liabilities; and
+
+changes in financial accounting standards or interpretations of existing standards.
+
+Any of these factors could prevent us from achieving our anticipated financial results. For example, we have granted and may continue
+to grant extended payment terms to some customers, particularly during macroeconomic downturns, which could impact our ability to
+collect  payment.  Our  vendors  have  requested  and  may  continue  to  ask  for  shorter  payment  terms,  which  may  impact  our  cash  flow
+generation. These arrangements reduce the cash we have available for general business operations. In addition, the pace of growth in
+our operating expenses and investments may lag our revenue growth, creating volatility or periods where profitability levels may not be
+sustainable. Failure to meet our expectations or the expectations of our investors or security analysts is likely to cause our stock price to
+decline, as it has in the past, or substantial price volatility.
+
+Risks Related to Regulatory, Legal, Our Stock and Other Matters
+
+We are subject to complex laws, rules, regulations, and political and other actions, including restrictions on the export of our
+products, which may adversely impact our business.
+
+We  are  subject  to  laws  and  regulations  domestically  and  worldwide,  affecting  our  operations  in  areas  including,  but  not  limited  to,  IP
+ownership and infringement; taxes; import and export requirements and tariffs; anti-corruption, including the Foreign Corrupt Practices
+Act; business acquisitions; foreign exchange controls and cash repatriation restrictions; foreign ownership and investment; data privacy
+requirements; competition and antitrust; advertising; employment; product regulations; cybersecurity; environmental, health, and safety
+requirements; the responsible use of AI; sustainability; cryptocurrency; and consumer laws. Compliance with such requirements can be
+onerous  and  expensive,  could  impact  our  competitive  position,  and  may  negatively  impact  our  business  operations  and  ability  to
+manufacture and ship our products. There can be no assurance that our employees, contractors, suppliers, customers or agents will not
+violate applicable laws or the policies, controls, and procedures that we have designed to help ensure compliance with such laws, and
+violations could result in fines, criminal sanctions against us, our officers, or our employees, prohibitions on the conduct of our business,
+and damage to our reputation. Changes to the laws, rules and regulations to which we are subject, or changes to their interpretation and
+enforcement, could lead to materially greater compliance and other costs, and/or further restrictions on our ability to manufacture and
+supply  our  products  and  operate  our  business.  For  example,  we  may  face  increased  compliance  costs  as  a  result  of  changes  or
+increases in antitrust legislation, regulation, administrative rule making, increased focus from regulators on cybersecurity vulnerabilities
+and risks. Our position in markets relating to AI has led to increased interest in our business from regulators worldwide, including the
+European  Union,  the  United  States,  the  United  Kingdom,  South  Korea  and  China.  For  example,  the  French  Competition  Authority
+collected information from us regarding our business and competition in the graphics card and cloud service provider market as part of
+an  ongoing  inquiry  into  competition  in  those  markets.  We  have  also  received,  and  continue  to  receive,  broad  requests  for  information
+from competition regulators in the European Union, the United States, the United Kingdom, China, and South Korea regarding our sales
+of  GPUs  and  other  NVIDIA  products,  our  efforts  to  allocate  supply,  foundation  models  and  our  investments,  partnerships  and  other
+agreements  with  companies  developing  foundation  models,  the  markets  in  which  we  compete  and  our  competition,  our  strategies,
+roadmaps,  and  efforts  to  develop,  market,  and  sell  hardware,  software,  and  system  solutions,  and  our  agreements  with  customers,
+suppliers,  and  partners.  We  expect  to  receive  additional  requests  for  information  in  the  future.  Such  requests  may  be  expensive  and
+burdensome and could negatively impact our business and our relationships with customers, suppliers, and partners.
+
+Governments  and  regulators  are  also  considering,  and  in  certain  cases,  have  imposed  restrictions  on  the  hardware,  software,  and
+systems used to develop frontier foundation models and generative AI. For example, the EU AI Act became effective on August 1, 2024
+and will be fully applicable after a two-year transitional period. The EU AI Act may impact our ability to train, deploy, or release AI models
+in the EU. Several states are considering enacting or have already enacted regulations concerning AI technologies, which may impact
+our ability to train, deploy, or release AI models, and increase our compliance costs. Restrictions under these and any other regulations,
+if  implemented,  could  increase  the  costs  and  burdens  to  us  and  our  customers,  delay  or  halt  deployment  of  new  systems  using  our
+products, and reduce the number of new entrants and customers, negatively impacting our business and financial results. Revisions to
+laws or regulations or their interpretation and enforcement could also result in increased taxation, trade sanctions, the imposition of or
+increase  to  import  duties  or  tariffs,  restrictions  and  controls  on  imports  or  exports,  or  other  retaliatory  actions,  which  could  have  an
+adverse  effect  on  our  business  plans  or  impact  the  timing  of  our  shipments.  Additionally,  changes  in  the  public  perception  of
+governments in the regions where we operate or plan to operate could negatively impact our business and results of operations.
+
+Government actions, including trade protection and national and economic security policies of U.S. and foreign government bodies, such
+as tariffs, import or export regulations, including deemed export restrictions and restrictions on
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+42/119
+
+25
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+the  activities  of  U.S.  persons,  trade  and  economic  sanctions,  decrees,  quotas  or  other  trade  barriers  and  restrictions  could  affect  our
+ability  to  ship  products,  provide  services  to  our  customers  and  employees,  do  business  without  an  export  license  with  entities  on  the
+U.S. Department of Commerce’s U.S. Entity List or other USG restricted parties lists (which is expected to change from time to time),
+and  generally  fulfill  our  contractual  obligations  and  have  a  material  adverse  effect  on  our  business.  If  we  were  ever  found  to  have
+violated  export  control  laws  or  sanctions  of  the  U.S.  or  similar  applicable  non-U.S.  laws,  even  if  the  violation  occurred  without  our
+knowledge, we may be subject to various penalties available under the laws, any of which could have a material and adverse impact on
+our business, operating results and financial condition.
+
+For example, in response to the war in Ukraine, the United States and other jurisdictions imposed economic sanctions and export control
+measures  which  blocked  the  passage  of  our  products,  services  and  support  into  Russia,  Belarus,  and  certain  regions  of  Ukraine.  In
+fiscal  year  2023,  we  stopped  direct  sales  to  Russia  and  closed  business  operations  in  Russia.  Concurrently,  the  war  in  Ukraine  has
+impacted sales in EMEA and may continue to do so in the future.
+
+The increasing focus on the risks and strategic importance of AI technologies has resulted in regulatory restrictions that target products
+and  services  capable  of  enabling  or  facilitating AI  and  may  in  the  future  result  in  additional  restrictions  impacting  some  or  all  of  our
+product and service offerings.
+
+Concerns regarding third-party use of AI for purposes contrary to local governmental interests, including concerns relating to the misuse
+of AI applications, models, and solutions, has resulted in and could in the future result in unilateral or multilateral restrictions on products
+that can be used for training, modifying, tuning, and deploying LLMs and other AI applications. Such restrictions have limited and could
+in  the  future  limit  the  ability  of  downstream  customers  and  users  worldwide  to  acquire,  deploy  and  use  systems  that  include  our
+products, software, and services, and negatively impact our business and financial results.
+
+Such  restrictions  could  include  additional  unilateral  or  multilateral  export  controls  on  certain  products  or  technology,  including  but  not
+limited  to  AI  technologies.  As  geopolitical  tensions  have  increased,  semiconductors  associated  with  AI,  including  GPUs  and  related
+products, are increasingly the focus of export control restrictions proposed by stakeholders in the U.S. and its allies. The United States
+has  imposed  unilateral  worldwide  controls  restricting  GPUs  and  associated  products,  and  it  is  likely  that  additional  unilateral  or
+multilateral controls will be adopted. Such controls have been and may again be very broad in scope and application, prohibit us from
+exporting  our  products  to  any  or  all  customers  in  one  or  more  markets,  including  but  not  limited  to  China  and  over  150  countries
+designated  “Tier  2”  by  the  January  2025  AI  Diffusion  IFR,  and  could  negatively  impact  our  manufacturing,  testing  and  warehousing
+locations and options, or could impose other conditions that limit our ability to serve demand abroad and could negatively and materially
+impact our business, revenue and financial results. Export controls targeting GPUs and semiconductors associated with AI, which have
+been imposed and are increasingly likely to be further tightened, would further restrict our ability to export our technology, products, or
+services even though competitors may not be subject to similar restrictions, creating a competitive disadvantage for us and negatively
+impacting our business and financial results. Export controls targeting GPUs and semiconductors associated with AI have subjected and
+may  in  the  future  subject  downstream  users  of  our  products  to  additional  restrictions  on  the  use,  resale,  repair,  or  transfer  of  our
+products,  negatively  impacting  our  business  and  financial  results.  Controls  could  negatively  impact  our  cost  and/or  ability  to  provide
+services such as NVIDIA AI cloud services and could impact the cost and/or ability for our CSPs and customers to provide services to
+their end customers, even outside China.
+
+Export controls could disrupt our supply chain and distribution channels, negatively impacting our ability to serve demand, including in
+markets outside China and for our gaming products. The possibility of additional export controls has negatively impacted and may in the
+future  negatively  impact  demand  for  our  products,  benefiting  competitors  that  offer  alternatives  less  likely  to  be  restricted  by  further
+controls.  Repeated  changes  in  the  export  control  rules  are  likely  to  impose  compliance  burdens  on  our  business  and  our  customers,
+negatively and materially impacting our business.
+
+Increasing  use  of  economic  sanctions  and  export  controls  has  impacted  and  may  in  the  future  impact  demand  for  our  products  or
+services,  negatively  impacting  our  business  and  financial  results.  Reduced  demand  due  to  export  controls  could  also  lead  to  excess
+inventory  or  cause  us  to  incur  related  supply  charges. Additional  unilateral  or  multilateral  controls  are  also  likely  to  include  deemed
+export  control  limitations  that  negatively  impact  the  ability  of  our  research  and  development  teams  to  execute  our  roadmap  or  other
+objectives in a timely manner. Additional export restrictions may not only impact our ability to serve overseas markets, but also provoke
+responses from foreign governments, including China, that negatively impact our supply chain or our ability to provide our products and
+services to customers in all markets worldwide, which could also substantially reduce our revenue. Regulators in China have inquired
+about our sales and efforts to supply the China market and our fulfillment of the commitments we entered at the close of our Mellanox
+acquisition.  For  example,  regulators  in  China  are  investigating  whether  complying  with  applicable  U.S.  export  controls  discriminates
+unfairly against customers in the China market. If regulators conclude that we have failed to fulfill such commitments or we have violated
+any  applicable  law  in  China,  we  could  be  subject  to  financial  penalties,  restrictions  on  our  ability  to  conduct  our  business,  restrictions
+regarding our networking products and services, or otherwise impact our operations in China, any of which could have a material and
+adverse impact on our business, operating results and financial condition.
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+43/119
+
+26
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+Over the past three years, we have been subject to a series of shifting and expanding export control restrictions, impacting our ability to
+serve customers outside the United States.
+
+During the third quarter of fiscal year 2023, the USG announced export restrictions and export licensing requirements targeting China’s
+semiconductor  and  supercomputing  industries.  These  restrictions  impact  exports  of  certain  chips,  as  well  as  software,  hardware,
+equipment  and  technology  used  to  develop,  produce  and  manufacture  certain  chips  to  China  (including  Hong  Kong  and  Macau)  and
+Russia, and specifically impact our A100 and H100 integrated circuits, DGX or any other systems or boards which incorporate A100 or
+H100  integrated  circuits.  The  licensing  requirements  also  apply  to  any  future  NVIDIA  integrated  circuit  achieving  certain  peak
+performance and chip-to-chip I/O performance thresholds, as well as any system or board that includes those circuits. There are also
+now  licensing  requirements  to  export  a  wide  array  of  products,  including  networking  products,  destined  for  certain  end  users  and  for
+certain  end  uses  in  China.  During  the  second  quarter  of  fiscal  year  2024,  the  USG  also  informed  us  of  an  additional  licensing
+requirement for a subset of A100 and H100 products destined to certain customers and other regions, including some countries in the
+Middle East.
+
+In October 2023, the USG announced new and updated licensing requirements that became effective in our fourth quarter of fiscal year
+2024 for exports to China and Country Groups D1, D4, and D5 (including but not limited to, Saudi Arabia, the United Arab Emirates, and
+Vietnam, but excluding Israel) of our products exceeding certain performance thresholds, including, but not limited to, the A100, A800,
+H100,  H800,  L4,  L40,  L40S  and  RTX  4090.  The  licensing  requirements  also  apply  to  the  export  of  products  exceeding  certain
+performance thresholds to a party headquartered in, or with an ultimate parent headquartered in, Country Group D5, including China.
+
+On October 23, 2023, the USG informed us that the licensing requirements were effective immediately for shipments of our A100, A800,
+H100, H800, and L40S products (removing the grace period granted by the official rule). Blackwell systems, such as GB200 NVL 72 and
+NVL 36 as well as B200 are also subject to these requirements and therefore require a license for any shipment to certain entities and to
+China and Country Groups D1, D4, and D5, excluding Israel. To date, we have not received licenses to ship these restricted products to
+China.
+
+On January 15, 2025, the USG published the “AI Diffusion” IFR in the Federal Register. After a 120-day delayed compliance period, the
+IFR  will,  unless  modified,  impose  a  worldwide  licensing  requirement  on  all  products  classified  under  Export  Control  Classification
+Numbers,  or  ECCNs,  3A090.a,  4A090.a,  or  corresponding  .z  ECCNs,  including  all  related  software  and  technology. Any  system  that
+incorporates one or more of the covered integrated circuits, or ICs, (including but not limited to NVIDIA DGX, HGX, and MGX systems)
+will be covered by the new licensing requirement. The licensing requirement will include future NVIDIA ICs, boards, or systems classified
+with  ECCN  3A090.a  or  4A090.a,  or  corresponding  .z  ECCNs,  achieving  certain  total  processing  performance  and/or  performance
+density.
+
+Unless a license exception is available, the worldwide licensing requirements will apply to the following NVIDIA products, and any others
+we  develop  that  meet  the  characteristics  of  3A090.a  or  4A090.a,  including  but  not  limited  to: A100, A800,  H100,  H200,  H800,  B100,
+B200, GB200, L4, L40S, and RTX 6000 Ada.
+
+The AI Diffusion IFR would divide the world into three tiers, relegating most countries to “Tier 2” status. The AI Diffusion IFR would confer
+special benefits on select “Universal Verified End Users”, or UVEU, and lesser benefits on “National Verified End Users”, or NVEU. The
+AI  Diffusion  IFR  would  have  numerous  effects  that  may  negatively  impact  our  long-term  financial  results  and  competitive  position,
+including but not limited to the following.
+
+The  AI  Diffusion  IFR  would  reduce  the  market  for  U.S.-designed  and  manufactured  computing  products  and  services,  by  expressly
+limiting  exports,  reexports,  and  transfers  of  covered  products  to  Tier  2  countries  and  companies  in  Tier  1  countries  that  are  either
+headquartered  in  Tier  2,  or  have  an  ultimate  parent  headquartered  in  a  Tier  2  country.  These  restrictions  would  apply  to  all  covered
+products, including products sold years ago.
+
+The  AI  Diffusion  IFR  would  limit  access  to  the  market  for  IT  services  and  computing  infrastructure,  by  favoring  a  select  number  of
+government-approved  firms  that  achieve  UVEU  status.  UVEUs  may  choose  to  favor  their  own  accelerators,  platforms,  and  systems,
+rather than selecting products based on merit.
+
+The AI Diffusion IFR would encourage our customers to invest in alternatives that are not affected by USG regulations, including foreign
+competition.
+
+The AI  Diffusion  IFR  would  increase  our  and  our  customers’  costs  of  doing  business,  creating  compliance  challenges  and  risks,  and
+impact  our  supply  and  distribution  chains,  which  will  be  subject  to  new  compliance  burdens  and  related  extraterritorial  regulatory
+obligations.
+
+The AI Diffusion IFR would expose U.S. providers and the U.S. industry to an enhanced risk of retaliation from other countries, in the
+form of tariffs, import/export controls, or other regulatory actions.
+
+The AI Diffusion IFR’s licensing requirement could impact our ability to complete development of products in a timely manner, support
+existing customers using covered products, or supply customers with covered products outside the impacted regions, and may require
+us to transition certain operations out of one or more of the identified countries.
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+44/119
+
+3/10/25, 4:53 PM
+
+nvda-20250126
+
+27
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+45/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+Following these 2022 export controls, we transitioned some operations, including certain testing, validation, and supply and distribution
+operations out of China and Hong Kong. Any future transitions could be costly and time consuming, and adversely affect our research
+and development and supply and distribution operations, as well as our revenue, during any such transition period. We expanded our
+Data  Center  product  portfolio  to  offer  new  solutions,  including  those  for  which  the  USG  does  not  require  a  license  or  advance  notice
+before each shipment. To the extent that a customer requires products covered by the licensing requirements, we may seek a license for
+the customer. However, the licensing process is time-consuming. We have no assurance that the USG will grant such a license or that
+the  USG  will  act  on  the  license  application  in  a  timely  manner  or  at  all.  Even  if  a  license  is  approved,  it  may  impose  burdensome
+conditions that we or our customer or end users cannot or decide not to accept. The USG evaluates license requests in a closed process
+that does not have clear standards or an opportunity for review. For example, the Notified Advanced Computing, or “NAC,” process has
+not resulted in approvals for exports of products to customers in China. The license process for exports to D1 and D4 countries has been
+time-consuming and resulted in license conditions that are onerous, even for small-sized systems that are not able to train frontier AI
+models.  The  requirements  have  a  disproportionate  impact  on  NVIDIA  and  already  have  disadvantaged  and  may  in  the  future
+disadvantage NVIDIA against certain of our competitors who sell products that are not subject to the new restrictions or may be able to
+acquire licenses for their products.
+
+Our competitive position has been harmed by the existing export controls, and our competitive position and future results may be further
+harmed,  over  the  long  term,  if  there  are  further  changes  in  the  USG’s  export  controls,  including  further  expansion  of  the  geographic,
+customer,  or  product  scope  of  the  controls,  if  customers  purchase  product  from  competitors,  if  customers  develop  their  own  internal
+solution, if we are unable to provide contractual warranty or other extended service obligations, if the USG does not grant licenses in a
+timely manner or denies licenses to significant customers or if we incur significant transition costs. Even if the USG grants any requested
+licenses, the licenses may be temporary or impose burdensome conditions that we or our customers or end users cannot or choose not
+to fulfill. The licensing requirements may benefit certain of our competitors, as the licensing process will make our pre-sale and post-sale
+technical support efforts more cumbersome and less certain and encourage customers in China to pursue alternatives to our products,
+including semiconductor suppliers based in China, Europe, and Israel.
+
+Given the increasing strategic importance of AI and rising geopolitical tensions, the USG has changed and may again change the export
+control rules at any time and further subject a wider range of our products to export restrictions and licensing requirements, negatively
+impacting our business and financial results. In the event of such change, we may be unable to sell our inventory of such products and
+may be unable to develop replacement products not subject to the licensing requirements, effectively excluding us from all or part of the
+China market, as well as other impacted markets, including the Middle East and countries designated “Tier 2” by the AI Diffusion IFR.
+For example, the USG has already imposed conditions to limit the ability of foreign firms to create and offer as a service large-scale GPU
+clusters,  for  example  by  imposing  license  conditions  on  the  use  of  products  to  be  exported  to  certain  countries,  and  may  impose
+additional  conditions  such  as  requiring  chip  tracking  and  throttling  mechanisms  that  could  disable  or  impair  GPUs  if  certain  events,
+including  unauthorized  system  configuration,  use,  or  location,  are  detected. The  USG  has  already  imposed  export  controls  restricting
+certain gaming GPUs, and if the USG expands such controls to restrict additional gaming products, it may disrupt a significant portion of
+our supply and distribution chain and negatively impact sales of such products to markets outside China, including the U.S. and Europe.
+In addition, as the performance of the gaming GPUs increases over time, export controls may have a greater impact on our ability to
+compete in markets subject to those controls. Export controls may disrupt our supply and distribution chain for a substantial portion of
+our products, which are warehoused in and distributed from Hong Kong. Export controls restricting our ability to sell data center GPUs
+may also negatively impact demand for our networking products used in servers containing our GPUs. The USG may also impose export
+controls on our networking products, such as high-speed network interconnects, to limit the ability of downstream parties to create large
+clusters  for  frontier  model  training. Any  new  control  that  impacts  a  wider  range  of  our  products  would  likely  have  a  disproportionate
+impact on NVIDIA and may disadvantage us against certain of our competitors that sell chips that are outside the scope of such control.
+Excessive or shifting export controls have already and may in the future encourage customers outside China and other impacted regions
+to “design-out” certain U.S. semiconductors from their products to reduce the compliance burden and risk, and to ensure that they are
+able  to  serve  markets  worldwide.  Excessive  or  shifting  export  controls  have  already  encouraged  and  may  in  the  future  encourage
+overseas governments to request that our customers purchase from our competitors rather than NVIDIA or other U.S. firms, harming our
+business, market position, and financial results. As a result, excessive or shifting export controls may negatively impact demand for our
+products and services not only in China, but also in other markets, such as Europe, Latin America, and Southeast Asia. Excessive or
+shifting export controls increase the risk of investing in U.S. advanced semiconductor products, because by the time a new product is
+ready for market, it may be subject to new unilateral export controls restricting its sale. At the same time, such controls may increase
+investment  in  foreign  competitors,  which  would  be  less  likely  to  be  restricted  by  U.S.  controls.  If  additional  products  are  subject  to
+worldwide licensing requirements, we may incur significant inventory provisions and excess purchase obligation charges.
+
+In  addition  to  export  controls,  the  USG  may  impose  restrictions  on  the  import  and  sale  of  products  that  incorporate  technologies
+developed  or  manufactured  in  whole  or  in  part  in  China.  For  example,  the  USG  is  considering  restrictions  on  the  import  and  sale  of
+certain automotive products in the United States, which if adopted and interpreted broadly, could impact our ability to develop and supply
+solutions for our automotive customers.
+
+28
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+46/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+Additionally, restrictions imposed by the Chinese government on the duration of gaming activities and access to games may adversely
+affect our Gaming revenue, and increased oversight of digital platform companies may adversely affect our Data Center revenue. The
+Chinese government may also encourage customers to purchase from our China-based competitors, or impose restrictions on the sale
+to  certain  customers  of  our  products,  or  any  products  containing  components  made  by  our  partners  and  suppliers.  For  example,  the
+Chinese government announced restrictions relating to certain sales of products containing certain products made by Micron, a supplier
+of ours. As another example, an agency of the Chinese government announced an Action Plan that endorses new standards regarding
+the compute performance per watt and per memory bandwidth of accelerators used in new and renovated data centers in China. If the
+Chinese government modifies or implements the Action Plan in a way that effectively prevents us from being able to design products to
+meet the new standard, this may restrict the ability of customers to use some of our data center products and may have a material and
+adverse  impact  on  our  business,  operating  results  and  financial  condition.  Further  restrictions  on  our  products  or  the  products  of  our
+suppliers could negatively impact our business and financial results.
+
+Finally, our business depends on our ability to receive consistent and reliable supply from our overseas partners, especially in Taiwan
+and South Korea. Any new restrictions that negatively impact our ability to receive supply of components, parts, or services from Taiwan
+and South Korea, would negatively impact our business and financial results.
+
+Increased  scrutiny  from  shareholders,  regulators  and  others  regarding  our  corporate  sustainability  practices  could  result  in
+additional costs or risks and adversely impact our reputation and willingness of customers and suppliers to do business with
+us.
+
+Certain  shareholder  advocacy  groups,  investment  funds,  shareholders  and  other  market  participants,  customers  and  government
+regulators  have  focused  on  corporate  sustainability  practices  and  disclosures,  including  those  associated  with  climate  change  and
+human  rights.  Stakeholders  may  not  be  satisfied  with  our  corporate  sustainability  practices  and  goals  or  the  speed  of  their  adoption.
+Further,  there  are  state-level  initiatives  in  the  U.S.  that  may  differ  from  other  regulatory  requirements  or  our  various  stakeholders’
+expectations. Additionally, our corporate sustainability practices, oversight of our practices or disclosure controls may not meet evolving
+shareholder, regulator or other industry stakeholder expectations, or we may fail to meet corporate sustainability disclosure or reporting
+standards  or  legal  requirements.  We  could  also  incur  additional  costs  and  require  additional  resources  to  monitor,  report,  and  comply
+with  various  corporate  sustainability  practices  and  legal  requirements,  choose  not  to  conduct  business  with  potential  customers  and
+suppliers, or discontinue or not expand business with existing customers and suppliers due to our policies. These factors and increased
+disclosure may negatively harm our brand, reputation and business activities or expose us to liability.
+
+Issues relating to the responsible use of our technologies, including AI in our offerings, may result in reputational or financial
+harm and liability.
+
+Concerns  relating  to  the  responsible  use  of  new  and  evolving  technologies,  such  as  AI,  in  our  products  and  services  may  result  in
+reputational  or  financial  harm  and  liability  and  may  cause  us  to  incur  costs  to  resolve  such  issues.  We  are  increasingly  building  AI
+capabilities and protections into many of our products and services, and we also offer stand-alone AI applications. AI poses emerging
+legal, social, and ethical issues and presents risks and challenges that could affect its adoption, and therefore our business. If we enable
+or  offer  solutions  that  draw  controversy  due  to  their  perceived  or  actual  impact  on  society,  such  as AI  solutions  that  have  unintended
+consequences, infringe copyright or rights of publicity, or are controversial because of their impact on human rights, privacy, employment
+or  other  social,  economic  or  political  issues,  or  if  we  are  unable  to  develop  effective  internal  policies  and  frameworks  relating  to  the
+responsible  development  and  use  of  AI  models  and  systems  offered  through  our  sales  channels,  we  may  experience  brand  or
+reputational  harm,  competitive  harm  or  legal  liability.  Leveraging  AI  capabilities  to  potentially  improve  our  internal  functions  and
+operations may present further risks, costs, and challenges. Complying with multiple regulations from different jurisdictions related to AI
+may further increase our cost of doing business, may change the way that we operate in certain jurisdictions, and may impede our ability
+to offer certain products and services in certain jurisdictions if we are unable to comply with regulations. Compliance with existing and
+proposed government regulation of AI, including in jurisdictions such as the European Union, may further increase the cost of related
+research  and  development,  and  create  additional  reporting  and/or  transparency  requirements.  For  example,  regulation  adopted  in
+response  to  the  European  Union  Code  of  Practice  for  General  Purpose Artificial  Intelligence  could  require  us  to  notify  the  European
+Commission regarding details of some of our Trustworthy AI processes related to our risk framework. Furthermore, changes in AI-related
+regulation could disproportionately impact and disadvantage us and require us to change our business practices, which may negatively
+impact our financial results. Our failure to adequately address concerns and regulations relating to the responsible use of AI by us or
+others could undermine public confidence in AI and slow adoption of AI in our products and services or cause reputational or financial
+harm.
+
+Actions to adequately protect our IP rights could result in substantial costs to us and our ability to compete could be harmed if
+we are unsuccessful or if we are prohibited from making or selling our products.
+
+From time to time, we are involved in lawsuits or other legal proceedings alleging patent infringement or other IP rights violations by us,
+our employees or parties that we have agreed to indemnify. An unfavorable ruling could include significant damages, invalidation of one
+or  more  patents,  indemnification  of  third  parties,  payment  of  lost  profits,  or  injunctive  relief.  Claims  that  our  products  or  processes
+infringe the IP rights of others, regardless of their merit, could
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+47/119
+
+29
+
+3/10/25, 4:53 PM
+
+nvda-20250126
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+48/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+cause us to incur significant costs to respond to, defend, and resolve such claims, and they may also divert the efforts and attention of
+management and technical personnel.
+
+We  may  commence  legal  proceedings  to  protect  our  IP  rights,  which  may  increase  our  operating  expenses.  We  could  be  subject  to
+countersuits as a result. If infringement claims are made against us or our products are found to infringe a third party’s IP, we or one of
+our  indemnitees  may  have  to  seek  a  license  to  the  third  party’s  IP  rights.  If  we  or  one  of  our  indemnitees  is  unable  to  obtain  such  a
+license on acceptable terms or at all, we could be subject to substantial liabilities or have to suspend or discontinue the manufacture and
+sale  of  one  or  more  of  our  products.  We  may  also  have  to  make  royalty  or  other  payments  or  cross  license  our  technology.  If  these
+arrangements  are  not  concluded  on  commercially  reasonable  terms,  our  business  could  be  negatively  impacted.  Furthermore,  the
+indemnification of a customer or other indemnitee may increase our operating expenses and negatively impact our operating results.
+
+We  rely  on  patents,  trademarks,  trade  secrets,  employee  and  third-party  nondisclosure  agreements,  licensing  arrangements  and  the
+laws of the countries in which we operate to protect our IP. Foreign laws may not protect our products or IP rights to the same extent as
+United  States  law.  This  makes  the  possibility  of  piracy  of  our  technology  and  products  more  likely.  The  theft  or  unauthorized  use  or
+publication  of  our  trade  secrets  and  other  confidential  information  could  harm  our  competitive  position  and  reduce  acceptance  of  our
+products; as a result, the value of our investment in research and development, product development and marketing could be reduced.
+We also may face risks to our IP if our employees are hired by competitors. We continuously assess whether and where to seek formal
+protection for existing and new innovations and technologies but cannot be certain whether our applications for such protections will be
+approved, and, if approved, whether they will be enforceable.
+
+We are subject to stringent and changing data privacy and security laws, rules, regulations and other obligations. These areas
+could damage our reputation, deter current and potential customers, affect our product design, or result in legal or regulatory
+proceedings and liability.
+
+We  process  sensitive,  confidential  or  personal  data  or  information  that  is  subject  to  privacy  and  security  laws,  regulations,  industry
+standards,  external  and  internal  policies,  contracts  and  other  obligations  that  govern  the  processing  of  such  data  by  us  and  on  our
+behalf.  Concerns  about  our  practices  or  the  ultimate  use  of  our  products  and  services  with  regard  to  the  collection,  use,  retention,
+security or disclosure of personal information or other privacy-related matters, including for use in AI, even if unfounded, could damage
+our reputation and adversely affect our operating results. The theft, loss or misuse of personal data in our possession or by one of our
+partners could result in damage to our reputation, regulatory proceedings, disruption of our business activities or increased security or
+remediation costs and costs related to defending legal claims.
+
+In  the  United  States,  federal,  state  and  local  authorities  have  enacted  numerous  data  privacy  and  security  laws,  including  for  data
+breach  notification,  personal  data  privacy  and  consumer  protection.  Numerous  U.S.  states  have  enacted  comprehensive  privacy  laws
+that impose certain obligations on covered businesses, including providing specific disclosures in privacy notices and affording residents
+with certain rights concerning their personal data. As applicable, such rights may include the right to access, correct, or delete certain
+personal  data,  and  to  opt-out  of  certain  data  processing  activities,  such  as  targeted  advertising,  profiling  and  automated  decision-
+making.  The  exercise  of  these  rights  may  impact  our  business  and  ability  to  provide  our  products  and  services.  Certain  states  also
+impose  stricter  requirements  for  processing  certain  personal  data,  including  sensitive  information,  such  as  conducting  data  privacy
+impact assessments. These state laws allow for statutory fines for noncompliance. For example, the California Consumer Privacy Act of
+2018, as amended by the California Privacy Rights Act of 2020, or CPRA, or collectively the CCPA, gives California residents the right to
+access, delete and opt-out of certain sharing of their personal information, and to receive detailed information about how it is used and
+shared.  The  CCPA  provides  for  substantial  fines  for  intentional  violation  and  the  law  created  a  private  right  of  action  for  certain  data
+breaches. Similar laws are being considered in several other states, as well as at the federal and local levels. Additionally, several states
+and localities have enacted measures related to the use of AI and machine learning in products and services. If we become subject to
+additional data privacy laws, the risk of enforcement action against us could increase.
+
+Worldwide regulatory authorities are also considering and have approved various legislative proposals concerning data protection. The
+European Union adopted the General Data Protection Regulation, or GDPR, and the United Kingdom similarly adopted the U.K. GDPR,
+governing  the  strict  handling  of  personal  data  of  persons  within  the  European  Economic  Area,  or  EEA,  and  the  United  Kingdom,
+respectively,  including  its  use  and  protection  and  the  ability  of  persons  whose  data  is  stored  to  access,  correct,  and  delete  such  data
+about  themselves.  If  we  are  found  not  to  comply,  we  could  be  subject  to  penalties  of  up  to  €20  million  or  4%  of  worldwide  revenue,
+whichever is greater, and classes of individuals or consumer protection organizations may initiate litigation related to our processing of
+their  personal  data.  Furthermore,  the  EU AI Act  and  similar  legislation  could  impose  onerous  obligations  that  may  disproportionately
+impact and disadvantage us and require us to change our business practices. Additionally, Europe’s Network and Information Security
+Directive,  or  NIS2,  regulates  resilience  and  incident  response  capabilities  of  entities  operating  in  a  number  of  sectors,  including  the
+digital infrastructure sector. Non-compliance with NIS2 may lead to administrative fines of a maximum of 10 million Euros or up to 2% of
+the total worldwide revenue of the preceding fiscal year.
+
+In the ordinary course of business, we transfer personal data from Europe, China, and other jurisdictions to the United States or other
+countries. Certain jurisdictions have enacted data localization laws and cross-border personal data
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+49/119
+
+30
+
+3/10/25, 4:53 PM
+
+nvda-20250126
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+50/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+transfer laws. For example, the GDPR governs the transfer of personal data to countries outside of the EEA. The European Commission
+released a set of “Standard Contractual Clauses” designed for entities to validly transfer personal data out of the EEA to jurisdictions that
+the European Commission has not found to provide an adequate level of protection, including the United States. Additionally, the U.K.’s
+International  Data  Transfer Agreement  / Addendum,  as  well  as  the  EU-U.S.  Data  Privacy  Framework  and  the  U.K.  extension  thereto
+(which  allows  for  transfers  to  relevant  U.S.-based  organizations  who  self-certify  compliance  and  participate  in  the  Framework)  are
+mechanisms that may be used to transfer personal data from the EEA and U.K. to the United States. However, these mechanisms are
+subject to legal challenges, and there is no assurance that we can satisfy or rely on these measures to lawfully transfer personal data to
+the  United  States.  Other  jurisdictions  have  enacted  or  are  considering  similar  cross-border  personal  data  transfer  laws  and  local
+personal  data  residency  laws,  any  of  which  would  increase  the  cost  and  complexity  of  doing  business  and  could  result  in  fines  from
+regulators.  For  example,  China’s  law  imposes  various  requirements  relating  to  data  processing  and  data  localization.  Data  broadly
+defined as important under China’s law, including personal data, may not be transferable outside of China without prior assessment and
+approval  by  the  Cyberspace Administration  of  China,  or  CAC.  Compliance  with  these  requirements,  including  CAC  assessments  and
+any deemed failures of such assessments, could cause us to incur liability, prevent us from using data collected in China or impact our
+ability  to  transfer  data  outside  of  China.  The  inability  to  import  personal  data  to  the  United  States  could  significantly  and  negatively
+impact our business operations, limit our ability to collaborate with parties that are subject to European, China and other data privacy
+and security laws, or require us to increase our personal data processing capabilities in Europe and/or elsewhere at significant expense.
+Some European regulators have prevented companies from transferring personal data out of Europe for allegedly violating the GDPR’s
+cross-border data transfer limitations, which could negatively impact our business.
+
+We are also bound by certain contractual obligations related to data privacy and security, and our efforts to comply with such obligations
+may not be successful or may be claimed to be non-compliant. For example, certain privacy laws, such as the GDPR and the CCPA,
+require  our  customers  to  impose  specific  contractual  restrictions  on  their  service  providers.  We  sometimes  host  personal  data  in
+collaboration with our customers, and if a breach exposed or altered that personal data, it could harm those customer relationships and
+subject  us  to  litigation,  regulatory  action,  or  fines.  We  publish  privacy  policies,  marketing  materials  and  other  statements,  such  as
+compliance  with  certain  certifications  or  self-regulatory  principles,  regarding  data  privacy  and  security.  Regulators  in  the  U.S.  are
+increasingly  scrutinizing  these  statements,  and  if  these  policies,  materials  or  statements  are  found  to  be  deficient,  lacking  in
+transparency,  deceptive,  unfair  or  misrepresentative  of  our  practices,  we  may  be  subject  to  investigation,  enforcement  actions  by
+regulators or other adverse consequences.
+
+Data protection laws around the world are quickly changing and may be interpreted and applied in an increasingly stringent fashion and
+in a manner that is inconsistent with our data practices. These obligations may affect our product design and necessitate changes to our
+information technologies, systems and practices and to those of any third parties that process personal data on our behalf. Despite our
+efforts, we or third parties we rely upon may fail to comply with such obligations. If we fail, or are perceived to have failed, to address or
+comply  with  data  privacy  and  security  obligations,  we  could  face  significant  consequences,  including  but  not  limited  to,  government
+enforcement  actions,  litigation,  additional  reporting  requirements  and/or  oversight,  bans  on  processing  personal  data,  and  orders  to
+destroy  or  not  use  personal  data. Any  of  these  events  could  have  a  material  adverse  effect  on  our  reputation,  business,  or  financial
 condition.
 
-The Company depends on the performance of carriers, wholesalers, retailers and other resellers.
-
-The Company distributes its products and certain of its services through cellular network carriers, wholesalers, retailers and resellers,
-many of which distribute products and services from competitors. The Company also sells its products and services and resells third-
-party  products  in  most  of  its  major  markets  directly  to  consumers,  small  and  mid-sized  businesses,  and  education,  enterprise  and
-government customers through its retail and online stores and its direct sales force.
-
-Some carriers providing cellular network service for the Company’s products offer financing, installment payment plans or subsidies for
-users’ purchases of the device. There can be no assurance such offers will be continued at all or in the same amounts.
-
-The Company has invested and will continue to invest in programs to enhance reseller sales, including staffing selected resellers’ stores
-with  Company  employees  and  contractors,  and  improving  product  placement  displays.  These  programs  can  require  a  substantial
-investment while not assuring return or incremental sales. The financial condition of these resellers could weaken, these resellers could
-stop  distributing  the  Company’s  products,  or  uncertainty  regarding  demand  for  some  or  all  of  the  Company’s  products  could  cause
-resellers to reduce their ordering and marketing of the Company’s products.
-
-The Company’s business and reputation are impacted by information technology system failures and network disruptions.
-
-The  Company  and  its  global  supply  chain  are  exposed  to  information  technology  system  failures  or  network  disruptions  caused  by
-natural  disasters,  accidents,  power  disruptions,  telecommunications  failures,  acts  of  terrorism  or  war,  computer  viruses,  physical  or
-electronic  break-ins,  ransomware  or  other  cybersecurity  incidents,  or  other  events  or  disruptions.  System  redundancy  and  other
-continuity  measures  may  be  ineffective  or  inadequate,  and  the  Company’s  or  its  vendors’  business  continuity  and  disaster  recovery
-planning may not be sufficient for all eventualities. Such failures or disruptions can adversely impact the Company’s business by, among
-other things, preventing access to the Company’s online services, interfering with customer transactions or impeding the manufacturing
-and shipping of the Company’s products. These events could materially adversely affect the Company’s business, reputation, results of
-operations and financial condition.
-
-Losses  or  unauthorized  access  to  or  releases  of  confidential  information,  including  personal  information,  could  subject  the
-Company to significant reputational, financial, legal and operational consequences.
-
-The  Company’s  business  requires  it  to  use  and  store  confidential  information,  including  personal  information,  with  respect  to  the
-Company’s customers and employees. The Company devotes significant resources to network and data security, including through the
-use of encryption and other security measures intended to protect its systems and data. But these measures cannot provide absolute
-security,  and  losses  or  unauthorized  access  to  or  releases  of  confidential  information  occur  and  could  materially  adversely  affect  the
-Company’s business, reputation, results of operations and financial condition.
-
-The Company’s business also requires it to share confidential information with suppliers and other third parties. The Company relies on
-global  suppliers  that  are  also  exposed  to  ransomware  and  other  malicious  attacks  that  can  disrupt  business  operations. Although  the
-Company  takes  steps  to  secure  confidential  information  that  is  provided  to  or  accessible  by  third  parties  working  on  the  Company’s
-behalf, such measures are not always effective and losses or unauthorized access to or releases of confidential information occur. Such
-incidents  and  other  malicious  attacks  could  materially  adversely  affect  the  Company’s  business,  reputation,  results  of  operations  and
-financial condition.
-
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-17/78
-
-Apple Inc. | 2022 Form 10-K | 11
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-The Company experiences malicious attacks and other attempts to gain unauthorized access to its systems on a regular basis. These
-attacks seek to compromise the confidentiality, integrity or availability of confidential information or disrupt normal business operations,
-and  could,  among  other  things,  impair  the  Company’s  ability  to  attract  and  retain  customers  for  its  products  and  services,  impact  the
-Company’s stock price, materially damage commercial relationships, and expose the Company to litigation or government investigations,
-which could result in penalties, fines or judgments against the Company. Globally, attacks are expected to continue accelerating in both
-frequency  and  sophistication  with  increasing  use  by  actors  of  tools  and  techniques  that  are  designed  to  circumvent  controls,  avoid
-detection, and remove or obfuscate forensic evidence, all of which hinders the Company’s ability to identify, investigate and recover from
-incidents. In addition, attacks against the Company and its customers can escalate during periods of severe diplomatic or armed conflict.
-
-Although malicious attacks perpetrated to gain access to confidential information, including personal information, affect many companies
-across various industries, the Company is at a relatively greater risk of being targeted because of its high profile and the value of the
-confidential information it creates, owns, manages, stores and processes.
-
-The  Company  has  implemented  systems  and  processes  intended  to  secure  its  information  technology  systems  and  prevent
-unauthorized access to or loss of sensitive data, and mitigate the impact of unauthorized access, including through the use of encryption
-and authentication technologies. As with all companies, these security measures may not be sufficient for all eventualities and may be
-vulnerable  to  hacking,  ransomware  attacks,  employee  error,  malfeasance,  system  error,  faulty  password  management  or  other
-irregularities. For example, third parties can fraudulently induce the Company’s or its vendors’ employees or customers into disclosing
-user  names,  passwords  or  other  sensitive  information,  which  can,  in  turn,  be  used  for  unauthorized  access  to  the  Company’s  or  its
-vendors’ systems and services. To help protect customers and the Company, the Company deploys and makes available technologies
-like  multifactor  authentication,  monitors  its  services  and  systems  for  unusual  activity  and  may  freeze  accounts  under  suspicious
-circumstances,  which,  among  other  things,  can  result  in  the  delay  or  loss  of  customer  orders  or  impede  customer  access  to  the
-Company’s products and services.
-
-While  the  Company  maintains  insurance  coverage  that  is  intended  to  address  certain  aspects  of  data  security  risks,  such  insurance
-coverage may be insufficient to cover all losses or all types of claims that may arise.
-
-Investment  in  new  business  strategies  and  acquisitions  could  disrupt  the  Company’s  ongoing  business,  present  risks  not
-originally contemplated and materially adversely affect the Company’s business, reputation, results of operations and financial
-condition.
-
-The  Company  has  invested,  and  in  the  future  may  invest,  in  new  business  strategies  or  acquisitions.  Such  endeavors  may  involve
-significant  risks  and  uncertainties,  including  distraction  of  management  from  current  operations,  greater-than-expected  liabilities  and
-expenses,  economic,  political,  legal  and  regulatory  challenges  associated  with  operating  in  new  businesses,  regions  or  countries,
-inadequate return on capital, potential impairment of tangible and intangible assets, and significant write-offs. Investment and acquisition
-transactions are exposed to additional risks, including failing to obtain required regulatory approvals on a timely basis or at all, or the
-imposition  of  onerous  conditions  that  could  delay  or  prevent  the  Company  from  completing  a  transaction  or  otherwise  limit  the
-Company’s  ability  to  fully  realize  the  anticipated  benefits  of  a  transaction.  These  new  ventures  are  inherently  risky  and  may  not  be
-successful.  The  failure  of  any  significant  investment  could  materially  adversely  affect  the  Company’s  business,  reputation,  results  of
-operations and financial condition.
-
-The Company’s retail stores have required and will continue to require a substantial investment and commitment of resources
-and are subject to numerous risks and uncertainties.
-
-The  Company’s  retail  stores  have  required  substantial  investment  in  equipment  and  leasehold  improvements,  information  systems,
-inventory and personnel. The Company also has entered into substantial lease commitments for retail space. Certain stores have been
-designed and built to serve as high-profile venues to promote brand awareness. Because of their unique design elements, locations and
-size,  these  stores  require  substantially  more  investment  than  the  Company’s  more  typical  retail  stores.  Due  to  the  high  cost  structure
-associated  with  the  Company’s  retail  stores,  a  decline  in  sales  or  the  closure  or  poor  performance  of  an  individual  store  or  multiple
-stores, including as a result of protective public safety measures in response to the COVID-19 pandemic, could result in significant lease
-termination costs, write-offs of equipment and leasehold improvements and severance costs.
-
-The  Company’s  retail  operations  are  subject  to  many  factors  that  pose  risks  and  uncertainties  and  could  adversely  impact  the
-Company’s business, results of operations and financial condition, including macro-economic factors that could have an adverse effect
-on  general  retail  activity.  Other  factors  include  the  Company’s  ability  to:  manage  costs  associated  with  retail  store  construction  and
-operation; manage relationships with existing retail partners; manage costs associated with fluctuations in the value of retail inventory;
-and obtain and renew leases in quality retail locations at a reasonable cost.
-
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-18/78
-
-Apple Inc. | 2022 Form 10-K | 12
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-Legal and Regulatory Compliance Risks
-
-The Company’s business, results of operations and financial condition could be adversely impacted by unfavorable results of
-legal proceedings or government investigations.
-
-The Company is subject to various claims, legal proceedings and government investigations that have arisen in the ordinary course of
-business  and  have  not  yet  been  fully  resolved,  and  new  matters  may  arise  in  the  future.  In  addition,  agreements  entered  into  by  the
-Company sometimes include indemnification provisions which can subject the Company to costs and damages in the event of a claim
-against an indemnified third party. The number of claims, legal proceedings and government investigations involving the Company, and
-the alleged magnitude of such claims, proceedings and government investigations, has generally increased over time and may continue
-to increase.
-
-The Company has faced and continues to face a significant number of patent claims relating to its cellular-enabled products, and new
-claims  may  arise  in  the  future.  For  example,  technology  and  other  patent-holding  companies  frequently  assert  their  patents  and  seek
-royalties and often enter into litigation based on allegations of patent infringement or other violations of intellectual property rights. The
-Company  is  vigorously  defending  infringement  actions  in  courts  in  several  U.S.  jurisdictions,  as  well  as  internationally  in  various
-countries. The plaintiffs in these actions frequently seek injunctions and substantial damages.
-
-Regardless of the merit of particular claims, defending against litigation or responding to government investigations can be expensive,
-time-consuming  and  disruptive  to  the  Company’s  operations.  In  recognition  of  these  considerations,  the  Company  may  enter  into
-agreements or other arrangements to settle litigation and resolve such challenges. There can be no assurance such agreements can be
-obtained on acceptable terms or that litigation will not occur. These agreements can also significantly increase the Company’s cost of
-sales and operating expenses and require the Company to change its business practices and limit the Company’s ability to offer certain
-products and services.
-
-Except as described in Part I, Item 3 of this Form 10-K under the heading “Legal Proceedings” and in Part II, Item 8 of this Form 10-K in
-the Notes to Consolidated Financial Statements in Note 10, “Commitments and Contingencies” under the heading “Contingencies,” in
-the  opinion  of  management,  there  was  not  at  least  a  reasonable  possibility  the  Company  may  have  incurred  a  material  loss,  or  a
-material loss greater than a recorded accrual, concerning loss contingencies for asserted legal and other claims.
-
-The  outcome  of  litigation  or  government  investigations  is  inherently  uncertain.  If  one  or  more  legal  matters  were  resolved  against  the
-Company or an indemnified third party in a reporting period for amounts above management’s expectations, the Company’s results of
-operations and financial condition for that reporting period could be materially adversely affected. Further, such an outcome can result in
-significant  compensatory,  punitive  or  trebled  monetary  damages,  disgorgement  of  revenue  or  profits,  remedial  corporate  measures  or
-injunctive relief against the Company, and can require the Company to change its business practices and limit the Company’s ability to
-offer  certain  products  and  services,  all  of  which  could  materially  adversely  affect  the  Company’s  business,  reputation,  results  of
-operations and financial condition.
-
-While the Company maintains insurance coverage for certain types of claims, such insurance coverage may be insufficient to cover all
-losses or all types of claims that may arise.
-
-The Company is subject to complex and changing laws and regulations worldwide, which exposes the Company to potential
-liabilities, increased costs and other adverse effects on the Company’s business.
-
-The  Company’s  global  operations  are  subject  to  complex  and  changing  laws  and  regulations  on  subjects,  including  antitrust;  privacy,
-data security and data localization; consumer protection; advertising, sales, billing and e-commerce; financial services and technology;
-product  liability;  intellectual  property  ownership  and  infringement;  digital  platforms;  internet,  telecommunications,  and  mobile
-communications;  media,  television,  film  and  digital  content;  availability  of  third-party  software  applications  and  services;  labor  and
-employment;  anticorruption;  import,  export  and  trade;  foreign  exchange  controls  and  cash  repatriation  restrictions;  anti–money
-laundering;  foreign  ownership  and  investment;  tax;  and  environmental,  health  and  safety,  including  electronic  waste,  recycling,  and
-climate change.
-
-Apple Inc. | 2022 Form 10-K | 13
-
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-19/78
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-Compliance with these laws and regulations is onerous and expensive. New and changing laws and regulations can adversely affect the
-Company’s  business  by  increasing  the  Company’s  costs,  limiting  the  Company’s  ability  to  offer  a  product,  service  or  feature  to
-customers,  impacting  customer  demand  for  the  Company’s  products  and  services,  and  requiring  changes  to  the  Company’s  supply
-chain and its business. New and changing laws and regulations can also create uncertainty about how such laws and regulations will be
-interpreted and applied. These risks and costs may increase as the Company’s products and services are introduced into specialized
-applications,  including  health  and  financial  services.  The  Company  has  implemented  policies  and  procedures  designed  to  ensure
-compliance with applicable laws and regulations, but there can be no assurance the Company’s employees, contractors or agents will
-not  violate  such  laws  and  regulations  or  the  Company’s  policies  and  procedures.  If  the  Company  is  found  to  have  violated  laws  and
-regulations,  it  could  materially  adversely  affect  the  Company’s  business,  reputation,  results  of  operations  and  financial  condition.
-Regulatory  changes  and  other  actions  that  materially  adversely  affect  the  Company’s  business  may  be  announced  with  little  or  no
-advance  notice  and  the  Company  may  not  be  able  to  effectively  mitigate  all  adverse  impacts  from  such  measures.  For  example,  the
-Company  is  subject  to  changing  regulations  relating  to  the  export  and  import  of  its  products. Although  the  Company  has  programs,
-policies and procedures in place that are designed to satisfy regulatory requirements, there can be no assurance that such policies and
-procedures will be effective in preventing a violation or a claim of a violation. As a result, the Company’s products could be delayed or
-prohibited from importation, either of which could materially adversely affect the Company’s business, reputation, results of operations
-and financial condition.
-
-Expectations  relating  to  environmental,  social  and  governance  considerations  expose  the  Company  to  potential  liabilities,
-increased costs, reputational harm, and other adverse effects on the Company’s business.
-
-Many  governments,  regulators,  investors,  employees,  customers  and  other  stakeholders  are  increasingly  focused  on  environmental,
-social and governance considerations relating to businesses, including climate change and greenhouse gas emissions, human and civil
-rights, and diversity, equity and inclusion. In addition, the Company makes statements about its environmental, social and governance
-goals and initiatives through its environmental, social and governance report, its other non-financial reports, information provided on its
-website, press statements and other communications. Responding to these environmental, social and governance considerations and
-implementation of these goals and initiatives involves risks and uncertainties, requires investments, and depends in part on third-party
-performance  or  data  that  is  outside  the  Company’s  control.  The  Company  cannot  guarantee  that  it  will  achieve  its  announced
-environmental, social and governance goals and initiatives. In addition, some stakeholders may disagree with the Company’s goals and
-initiatives. Any failure, or perceived failure, by the Company to achieve its goals, further its initiatives, adhere to its public statements,
-comply  with  federal,  state  or  international  environmental,  social  and  governance  laws  and  regulations,  or  meet  evolving  and  varied
-stakeholder expectations and standards could result in legal and regulatory proceedings against the Company and materially adversely
-affect the Company’s business, reputation, results of operations, financial condition and stock price.
-
-The  technology  industry,  including,  in  some  instances,  the  Company,  is  subject  to  intense  media,  political  and  regulatory
-scrutiny, which exposes the Company to increasing regulation, government investigations, legal actions and penalties.
-
-From  time  to  time,  the  Company  has  made  changes  to  its App  Store,  including  actions  taken  in  response  to  competition,  market  and
-legal  conditions.  The  Company  may  make  further  business  changes  in  the  future.  New  legislative  initiatives,  such  as  the  EU  Digital
-Markets Act, or similar laws in other jurisdictions, could require further changes. These changes could include how and to what extent
-the Company charges developers for access to its platforms and manages distribution of apps outside of the App Store.
-
-The  Company  is  also  currently  subject  to  antitrust  investigations  in  various  jurisdictions  around  the  world,  which  can  result  in  legal
-proceedings  and  claims  against  the  Company  that  could,  individually  or  in  the  aggregate,  have  a  materially  adverse  impact  on  the
-Company’s business, results of operations and financial condition. For example, the Company is the subject of investigations in Europe
-and other jurisdictions relating to App Store terms and conditions. If such investigations result in adverse findings against the Company,
-the Company could be exposed to significant fines and may be required to make changes to its App Store business, all of which could
-materially  adversely  affect  the  Company’s  business,  results  of  operations  and  financial  condition.  The  Company  is  also  subject  to
-litigation relating to the App Store, which has resulted in changes to the Company’s business practices, and may in the future result in
-further changes.
-
-Further, the Company has commercial relationships with other companies in the technology industry that are or may become subject to
-investigations and litigation that, if resolved against those other companies, could materially adversely affect the Company’s commercial
-relationships with those business partners and materially adversely affect the Company’s business, results of operations and financial
-condition. For example, the Company earns revenue from licensing arrangements with other companies to offer their search services on
-the  Company’s  platforms  and  apps,  and  certain  of  these  arrangements  are  currently  subject  to  government  investigations  and  legal
-proceedings.
-
-Apple Inc. | 2022 Form 10-K | 14
-
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-20/78
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-There  can  be  no  assurance  the  Company’s  business  will  not  be  materially  adversely  affected,  individually  or  in  the  aggregate,  by  the
-outcomes  of  such  investigations,  litigation  or  changes  to  laws  and  regulations  in  the  future.  Changes  to  the  Company’s  business
-practices to comply with new laws and regulations or in connection with other legal proceedings could negatively impact the reputation of
-the Company’s products for privacy and security and otherwise adversely affect the experience for users of the Company’s products and
-services, and result in harm to the Company’s reputation, loss of competitive advantage, poor market acceptance, reduced demand for
-products and services, and lost sales.
-
-The Company’s business is subject to a variety of U.S. and international laws, rules, policies and other obligations regarding
-data protection.
-
-The Company is subject to federal, state and international laws relating to the collection, use, retention, security and transfer of various
-types of personal information. In many cases, these laws apply not only to third-party transactions, but also restrict transfers of personal
-information  among  the  Company  and  its  international  subsidiaries.  Several  jurisdictions  have  passed  laws  in  this  area,  and  additional
-jurisdictions are considering imposing additional restrictions or have laws that are pending. These laws continue to develop and may be
-inconsistent  from  jurisdiction  to  jurisdiction.  Complying  with  emerging  and  changing  requirements  causes  the  Company  to  incur
-substantial costs and has required and may in the future require the Company to change its business practices. Noncompliance could
-result in significant penalties or legal liability.
-
-The Company makes statements about its use and disclosure of personal information through its privacy policy, information provided on
-its website, press statements and other privacy notices provided to customers. Any failure by the Company to comply with these public
-statements  or  with  other  federal,  state  or  international  privacy  or  data  protection  laws  and  regulations  could  result  in  inquiries  or
-proceedings  against  the  Company  by  governmental  entities  or  others.  In  addition  to  reputational  impacts,  penalties  could  include
-ongoing audit requirements and significant legal liability.
-
-In addition to the risks generally relating to the collection, use, retention, security and transfer of personal information, the Company is
-also subject to specific obligations relating to information considered sensitive under applicable laws, such as health data, financial data
-and biometric data. Health data and financial data are subject to additional privacy, security and breach notification requirements, and
-the  Company  is  subject  to  audit  by  governmental  authorities  regarding  the  Company’s  compliance  with  these  obligations.  If  the
-Company  fails  to  adequately  comply  with  these  rules  and  requirements,  or  if  health  data  or  financial  data  is  handled  in  a  manner  not
-permitted by law or under the Company’s agreements with healthcare or financial institutions, the Company can be subject to litigation or
-government investigations, and can be liable for associated investigatory expenses, and can also incur significant fees or fines.
-
-Payment  card  data  is  also  subject  to  additional  requirements.  Under  payment  card  rules  and  obligations,  if  cardholder  information  is
-potentially compromised, the Company can be liable for associated investigatory expenses and can also incur significant fees or fines if
-the Company fails to follow payment card industry data security standards. The Company could also experience a significant increase in
-payment  card  transaction  costs  or  lose  the  ability  to  process  payment  cards  if  it  fails  to  follow  payment  card  industry  data  security
-standards, which could materially adversely affect the Company’s business, reputation, results of operations and financial condition.
-
-Financial Risks
-
-The Company expects its quarterly net sales and results of operations to fluctuate.
-
-The  Company’s  profit  margins  vary  across  its  products,  services,  geographic  segments  and  distribution  channels.  For  example,  the
-gross margins on the Company’s products and services vary significantly and can change over time. The Company’s gross margins are
-subject  to  volatility  and  downward  pressure  due  to  a  variety  of  factors,  including:  continued  industry-wide  global  product  pricing
-pressures and product pricing actions that the Company may take in response to such pressures; increased competition; the Company’s
-ability to effectively stimulate demand for certain of its products and services; compressed product life cycles; supply shortages; potential
-increases  in  the  cost  of  components,  outside  manufacturing  services,  and  developing,  acquiring  and  delivering  content  for  the
-Company’s services; the Company’s ability to manage product quality and warranty costs effectively; shifts in the mix of products and
-services, or in the geographic, currency or channel mix, including to the extent that regulatory changes require the Company to modify
-its  product  and  service  offerings;  fluctuations  in  foreign  exchange  rates;  inflation  and  other  macroeconomic  pressures;  and  the
-introduction of new products or services, including new products or services with higher cost structures. These and other factors could
-have a materially adverse impact on the Company’s results of operations and financial condition.
-
-The Company has historically experienced higher net sales in its first quarter compared to other quarters in its fiscal year due in part to
-seasonal  holiday  demand.  Additionally,  new  product  and  service  introductions  can  significantly  impact  net  sales,  cost  of  sales  and
-operating expenses. Further, the Company generates a significant portion of its net sales from a single product and a decline in demand
-for that product could significantly impact quarterly net sales. The Company could also be subject to unexpected developments, such as
-lower-than-anticipated  demand  for  the  Company’s  products  or  services,  issues  with  new  product  or  service  introductions,  information
-technology  system  failures  or  network  disruptions,  or  failure  of  one  of  the  Company’s  logistics,  components  supply,  or  manufacturing
-partners.
-
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-21/78
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-Apple Inc. | 2022 Form 10-K | 15
-
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-22/78
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-The  Company’s  financial  performance  is  subject  to  risks  associated  with  changes  in  the  value  of  the  U.S.  dollar  relative  to
-local currencies.
-
-The Company’s primary exposure to movements in foreign currency exchange rates relates to non–U.S. dollar–denominated sales, cost
-of sales and operating expenses worldwide. Gross margins on the Company’s products in foreign countries and on products that include
-components obtained from foreign suppliers could be materially adversely affected by foreign currency exchange rate fluctuations.
-
-The  weakening  of  foreign  currencies  relative  to  the  U.S.  dollar  adversely  affects  the  U.S.  dollar  value  of  the  Company’s  foreign
-currency–denominated sales and earnings, and generally leads the Company to raise international pricing, potentially reducing demand
-for  the  Company’s  products.  In  some  circumstances,  for  competitive  or  other  reasons,  the  Company  may  decide  not  to  raise
-international pricing to offset the U.S. dollar’s strengthening, which would adversely affect the U.S. dollar value of the gross margins the
-Company earns on foreign currency–denominated sales.
-
-Conversely,  a  strengthening  of  foreign  currencies  relative  to  the  U.S.  dollar,  while  generally  beneficial  to  the  Company’s  foreign
-currency–denominated  sales  and  earnings,  could  cause  the  Company  to  reduce  international  pricing  and  incur  losses  on  its  foreign
-currency  derivative  instruments,  thereby  limiting  the  benefit.  Additionally,  strengthening  of  foreign  currencies  may  increase  the
-Company’s cost of product components denominated in those currencies, thus adversely affecting gross margins.
-
-The  Company  uses  derivative  instruments,  such  as  foreign  currency  forward  and  option  contracts,  to  hedge  certain  exposures  to
-fluctuations  in  foreign  currency  exchange  rates. The  use  of  such  hedging  activities  may  not  be  effective  to  offset  any,  or  more  than  a
-portion,  of  the  adverse  financial  effects  of  unfavorable  movements  in  foreign  exchange  rates  over  the  limited  time  the  hedges  are  in
-place.
-
-The Company is exposed to credit risk and fluctuations in the values of its investment portfolio.
-
-The  Company’s  investments  can  be  negatively  affected  by  changes  in  liquidity,  credit  deterioration,  financial  results,  market  and
-economic  conditions,  political  risk,  sovereign  risk,  interest  rate  fluctuations  or  other  factors. As  a  result,  the  value  and  liquidity  of  the
-Company’s cash, cash equivalents, and marketable and non-marketable securities may fluctuate substantially. Therefore, although the
-Company  has  not  realized  any  significant  losses  on  its  cash,  cash  equivalents,  and  marketable  and  non-marketable  securities,  future
-fluctuations  in  their  value  could  result  in  significant  losses  and  could  have  a  material  adverse  impact  on  the  Company’s  results  of
-operations and financial condition.
-
-The  Company  is  exposed  to  credit  risk  on  its  trade  accounts  receivable,  vendor  non-trade  receivables  and  prepayments
-related to long-term supply agreements, and this risk is heightened during periods when economic conditions worsen.
-
-The Company distributes its products and certain of its services through third-party cellular network carriers, wholesalers, retailers and
-resellers. The Company also sells its products and services directly to small and mid-sized businesses and education, enterprise and
-government customers. A substantial majority of the Company’s outstanding trade receivables are not covered by collateral, third-party
-bank  support  or  financing  arrangements,  or  credit  insurance,  and  a  significant  portion  of  the  Company’s  trade  receivables  can  be
-concentrated  within  cellular  network  carriers  or  other  resellers.  The  Company’s  exposure  to  credit  and  collectibility  risk  on  its  trade
-receivables  is  higher  in  certain  international  markets  and  its  ability  to  mitigate  such  risks  may  be  limited.  The  Company  also  has
-unsecured  vendor  non-trade  receivables  resulting  from  purchases  of  components  by  outsourcing  partners  and  other  vendors  that
-manufacture subassemblies or assemble final products for the Company. In addition, the Company has made prepayments associated
-with long-term supply agreements to secure supply of inventory components. As of September 24, 2022, the Company’s vendor non-
-trade receivables and prepayments related to long-term supply agreements were concentrated among a few individual vendors located
-primarily  in Asia.  While  the  Company  has  procedures  to  monitor  and  limit  exposure  to  credit  risk  on  its  trade  and  vendor  non-trade
-receivables, as well as long-term prepayments, there can be no assurance such procedures will effectively limit its credit risk and avoid
-losses.
-
-The  Company  is  subject  to  changes  in  tax  rates,  the  adoption  of  new  U.S.  or  international  tax  legislation  and  exposure  to
-additional tax liabilities.
-
-The Company is subject to taxes in the U.S. and numerous foreign jurisdictions, including Ireland, where a number of the Company’s
-subsidiaries  are  organized.  Due  to  economic  and  political  conditions,  tax  laws  and  tax  rates  for  income  taxes  and  other  non-income
-taxes in various jurisdictions may be subject to significant change. The Company’s effective tax rates are affected by changes in the mix
-of earnings in countries with differing statutory tax rates, changes in the valuation of deferred tax assets and liabilities, the introduction of
-new taxes, or changes in tax laws or their interpretation, including in the U.S. and Ireland. The application of tax laws may be uncertain,
-require significant judgment and be subject to differing interpretations.
-
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-23/78
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-Apple Inc. | 2022 Form 10-K | 16
-
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-24/78
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-The Company is also subject to the examination of its tax returns and other tax matters by the U.S. Internal Revenue Service and other
-tax authorities and governmental bodies. The Company regularly assesses the likelihood of an adverse outcome resulting from these
-examinations to determine the adequacy of its provision for taxes. There can be no assurance as to the outcome of these examinations.
-If the Company’s effective tax rates were to increase, particularly in the U.S. or Ireland, or if the ultimate determination of the Company’s
-taxes  owed  is  for  an  amount  in  excess  of  amounts  previously  accrued,  the  Company’s  business,  results  of  operations  and  financial
-condition could be materially adversely affected.
-
-General Risks
-
-The price of the Company’s stock is subject to volatility.
-
-The Company’s stock has experienced substantial price volatility in the past and may continue to do so in the future. Additionally, the
-Company,  the  technology  industry  and  the  stock  market  as  a  whole  have,  from  time  to  time,  experienced  extreme  stock  price  and
-volume fluctuations that have affected stock prices in ways that may have been unrelated to these companies’ operating performance.
-Price volatility may cause the average price at which the Company repurchases its stock in a given period to exceed the stock’s price at
-a  given  point  in  time.  The  Company  believes  the  price  of  its  stock  should  reflect  expectations  of  future  growth  and  profitability.  The
-Company also believes the price of its stock should reflect expectations that its cash dividend will continue at current levels or grow, and
-that  its  current  share  repurchase  program  will  be  fully  consummated.  Future  dividends  are  subject  to  declaration  by  the  Company’s
-Board of Directors, and the Company’s share repurchase program does not obligate it to acquire any specific number of shares. If the
-Company fails to meet expectations related to future growth, profitability, dividends, share repurchases or other market expectations, the
-price  of  the  Company’s  stock  may  decline  significantly,  which  could  have  a  material  adverse  impact  on  investor  confidence  and
-employee retention.
-
-Item 1B.    Unresolved Staff Comments
-
-None.
-
-Item 2.    Properties
-
-The Company’s headquarters are located in Cupertino, California. As of September 24, 2022, the Company owned or leased facilities
-and  land  for  corporate  functions,  R&D,  data  centers,  retail  and  other  purposes  at  locations  throughout  the  U.S.  and  in  various  places
-outside  the  U.S. The  Company  believes  its  existing  facilities  and  equipment,  which  are  used  by  all  reportable  segments,  are  in  good
-operating condition and are suitable for the conduct of its business.
-
-Item 3.    Legal Proceedings
-
-Epic Games
-
-Epic Games, Inc. (“Epic”) filed a lawsuit in the U.S. District Court for the Northern District of California (the “Northern California District
-Court”) against the Company alleging violations of federal and state antitrust laws and California’s unfair competition law based upon the
-Company’s operation of its App Store. The Company filed a counterclaim for breach of contract. On September 10, 2021, the Northern
-California District Court ruled in favor of the Company with respect to nine out of the ten counts included in Epic’s claim, and in favor of
-the  Company  with  respect  to  the  Company’s  claims  for  breach  of  contract.  The  Northern  California  District  Court  found  that  certain
-provisions  of  the  Company’s  App  Store  Review  Guidelines  violate  California’s  unfair  competition  law  and  issued  an  injunction.  Epic
-appealed the decision. The Company filed a cross-appeal and has been granted a stay pending the appeal.
-
-Other Legal Proceedings
-
-The  Company  is  subject  to  other  legal  proceedings  and  claims  that  have  not  been  fully  resolved  and  that  have  arisen  in  the  ordinary
-course of business. The Company settled certain matters during the fourth quarter of 2022 that did not individually or in the aggregate
-have a material impact on the Company’s financial condition or operating results. The outcome of litigation is inherently uncertain. If one
-or  more  legal  matters  were  resolved  against  the  Company  in  a  reporting  period  for  amounts  above  management’s  expectations,  the
-Company’s financial condition and operating results for that reporting period could be materially adversely affected.
-
-Item 4.    Mine Safety Disclosures
+We  may  have  exposure  to  additional  tax  liabilities  and  our  operating  results  may  be  adversely  impacted  by  changes  in  tax
+laws, higher than expected tax rates and other tax-related factors.
+
+We  are  subject  to  complex  income  tax  laws  and  regulations,  as  well  as  non-income-based  taxes,  in  various  jurisdictions.  Significant
+judgment is required in determining our worldwide provision for income taxes and other tax liabilities. We are regularly under audit by tax
+authorities  in  different  jurisdictions. Although  we  believe  our  tax  estimates  are  reasonable,  any  adverse  outcome  could  increase  our
+worldwide effective tax rate, increase the amount of non-income taxes imposed on our business, and harm our financial position, results
+of operations, net income, and cash flows.
+
+Further,  changes  in  tax  laws  or  their  interpretation  by  tax  authorities  in  the  U.S.  or  foreign  jurisdictions  could  increase  our  future  tax
+liability or cause other adverse tax impacts, which may materially impact our results of operations, or the way we conduct our business.
+Most  of  our  income  is  taxable  in  the  U.S.,  with  a  significant  portion  qualifying  for  preferential  treatment  as  foreign-derived  intangible
+income, or FDII. If U.S. tax rates increase or the FDII deduction is reduced, our provision for income taxes, results of operations, net
+income, and cash flows would be adversely affected. In addition, our tax obligations and effective tax rate in the jurisdictions in which we
+conduct business could increase as a result of international tax developments, including the implementation of the Two-Pillar framework
+led by the Organization for Economic Cooperation and Development, or OECD, which involves the reallocation of taxing rights in respect
+of certain multinational enterprises above a fixed profit margin to the jurisdictions in which they carry on business (referred to as Pillar
+One),  and  imposes  a  minimum  effective  corporate  tax  rate  (referred  to  as  Pillar  Two).  A  number  of  countries  in  which  we  conduct
+business have enacted, or are in the process of enacting, elements of the Pillar Two rules. Any such tax laws, or changes in any such
+tax  laws  may  increase  tax  uncertainty  and  compliance  costs  and  adversely  affect  our  provision  for  income  taxes,  cash  tax  payments,
+results of operations, and financial condition.
+
+Our future effective tax rate may also be affected by a variety of factors, including changes in our business or statutory rates, the mix of
+earnings in countries with differing statutory tax rates, available tax incentives, credits and deductions,
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+51/119
+
+3/10/25, 4:53 PM
+
+nvda-20250126
+
+31
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+52/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+the expiration of statutes of limitations, changes in accounting principles, adjustments to income taxes upon finalization of tax returns,
+increases  in  expenses  not  deductible  for  tax  purposes,  the  estimates  of  our  deferred  tax  assets  and  liabilities  and  deferred  tax  asset
+valuation allowances, changing interpretation of existing laws or regulations, the impact of accounting for business combinations, as well
+as  changes  in  the  domestic  or  international  organization  of  our  business  and  structure.  Furthermore,  the  tax  effects  of  accounting  for
+stock-based  compensation  and  volatility  in  our  stock  price  may  significantly  impact  our  effective  tax  rate  in  the  period  in  which  they
+occur. A decline in our stock price may result in reduced future tax benefits from stock-based compensation, increase our effective tax
+rate, and adversely affect our financial results.
+
+Our business is exposed to the burden and risks associated with litigation, investigations and regulatory proceedings.
+
+We  currently  and  will  likely  continue  to  face  legal,  administrative  and  regulatory  proceedings,  claims,  demands  and/or  investigations
+involving shareholder, consumer, competition and/or other issues relating to our business. For example, we are defending a securities
+class  action  lawsuit  from  multiple  shareholders  asserting  claims  that  we  and  certain  of  our  officers  made  false  and/or  misleading
+statements  related  to  channel  inventory  and  the  impact  of  cryptocurrency  mining  on  GPU  demand  in  2017  and  2018.  Litigation  and
+regulatory proceedings are inherently uncertain, and adverse rulings could occur, including monetary damages or fines, or an injunction
+stopping us from manufacturing or selling certain products, engaging in certain business practices, or requiring other remedies, such as
+compulsory  licensing  of  patents.  An  unfavorable  outcome  or  settlement  may  result  in  a  material  adverse  impact.  Regardless  of  the
+outcome, litigation can be costly, time-consuming, and disruptive to our operations.
+
+Delaware  law  and  our  certificate  of  incorporation,  bylaws  and  agreement  with  Microsoft  could  delay  or  prevent  a  change  in
+control.
+
+The  anti-takeover  provisions  of  the  Delaware  General  Corporation  Law  may  discourage,  delay,  or  prevent  a  change  in  control.
+Provisions  in  our  certificate  of  incorporation  and  bylaws  could  make  it  more  difficult  for  a  third  party  to  acquire  a  majority  of  our
+outstanding stock. These provisions include the ability of our Board of Directors to create and issue preferred stock, change the number
+of  directors,  and  to  make,  amend  or  repeal  our  bylaws  without  prior  shareholder  approval;  the  inability  of  our  shareholders  to  act  by
+written consent; advance notice requirements for director nominations and shareholder proposals; and super-majority voting requirement
+to amend some provisions in our certificate of incorporation and bylaws. Under our agreement with Microsoft for the Xbox, if someone
+makes an offer to purchase at least 30% of our outstanding common stock, Microsoft may have first and last rights of refusal to purchase
+the stock. These provisions could delay or prevent a change in control of NVIDIA, discourage proxy contests, and make it more difficult
+for shareholders to elect directors of their choosing and to cause us to take other corporate actions they desire.
+
+Item 1B. Unresolved Staff Comments
 
 Not applicable.
 
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
+Item 1C. Cybersecurity
 
-25/78
+Risk management and strategy
 
-Apple Inc. | 2022 Form 10-K | 17
+We  have  in  place  certain  infrastructure,  systems,  policies,  and  procedures  that  are  designed  to  proactively  and  reactively  address
+circumstances  that  arise  when  unexpected  events  such  as  a  cybersecurity  incident  occur.  These  include  processes  for  assessing,
+identifying,  and  managing  material  risks  from  cybersecurity  threats.  Our  information  security  management  program  generally  follows
+processes outlined in frameworks such as the ISO 27001 international standard for Information Security and we evaluate and evolve our
+security measures as appropriate. We consult with external parties, such as cybersecurity firms and risk management and governance
+experts, on risk management and strategy.
 
-3/4/25, 11:08 PM
+Identifying, assessing, and managing cybersecurity risk is integrated into our overall risk management systems and processes, and we
+have  in  place  cybersecurity  and  data  privacy  training  and  policies  designed  to  (a)  respond  to  new  requirements  in  global  privacy  and
+cybersecurity laws and (b) prevent, detect, respond to, mitigate and recover from identified and significant cybersecurity threats.
 
-aapl-20220924
+We  also  have  a  vendor  risk  assessment  process  consisting  of,  depending  on  the  nature  and  sensitivity  of  the  supplier  and  data  they
+process  on  our  behalf,  the  distribution  and  review  of  supplier  questionnaires  designed  to  help  us  evaluate  cybersecurity  risks  that  we
+may encounter when working with third parties that have access to confidential and other sensitive company information. We take steps
+designed  to  ensure  that  such  vendors  have  implemented  data  privacy  and  security  controls  that  help  mitigate  the  cybersecurity  risks
+associated with these vendors, depending on the nature and sensitivity of the supplier and data they process on our behalf. We routinely
+assess our high-risk suppliers’ conformance to industry standards (e.g., ISO 27001, ISO 28001, and C-TPAT), and we evaluate them for
+additional information, product, and physical security requirements.
 
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
+Refer to “Item 1A. Risk factors” in this annual report on Form 10-K for additional information about cybersecurity-related risks.
 
-26/78
+32
 
-3/4/25, 11:08 PM
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
 
-aapl-20220924
+53/119
 
-PART II
+3/10/25, 4:53 PM
 
-Item 5.    Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+Table of Contents
 
-The Company’s common stock is traded on The Nasdaq Stock Market LLC under the symbol AAPL.
+Governance
 
-Holders
+nvda-20250126
 
-As of October 14, 2022, there were 23,838 shareholders of record.
+Information  security  matters,  including  managing  and  assessing  risks  from  cybersecurity  threats,  remain  under  the  oversight  of  the
+Company’s Board of Directors, or the Board. The Audit Committee of the Board, or the Audit Committee, also reviews the adequacy and
+effectiveness of the Company’s information security policies and practices and the internal controls regarding information security risks.
+The Audit Committee receives regular information security updates from management, including our Chief Security Officer and members
+of  our  security  team.  The  Board  also  receives  annual  reports  on  information  security  matters  from  our  Chief  Security  Officer  and
+members of our security team.
 
-Purchases of Equity Securities by the Issuer and Affiliated Purchasers
+Our  security  efforts  are  managed  by  a  team  of  executive  cybersecurity,  IT,  engineering,  operations,  and  legal  professionals.  We  have
+established  a  cross-functional  leadership  team,  consisting  of  executive-level  leaders,  that  meets  regularly  to  review  cybersecurity
+matters and evaluate emerging threats. With oversight and guidance provided by the cross-functional leadership team, our information
+security teams refine our practices to address emerging security risks and changes in regulations. Our executive-level leadership team
+also  participates  in  cybersecurity  incident  response  efforts  by  engaging  with  the  incident  response  team  and  helping  direct  the
+company’s response to and assessment of certain cybersecurity incidents.
 
-Share  repurchase  activity  during  the  three  months  ended  September  24,  2022  was  as  follows  (in  millions,  except  number  of  shares,
-which are reflected in thousands, and per share amounts):
+We  have  designated  a  Chief  Security  Officer  that  reports  to  our  Senior  Vice  President  of  Software  Engineering  to  manage  our
+assessment and management of material risks from cybersecurity threats. Our Chief Security Officer’s cybersecurity expertise includes
+over 17 years of combined government and private sector assignments.
 
-Periods
+Item 2. Properties
 
-June 26, 2022 to July 30, 2022:
+Our headquarters is in Santa Clara, California. We own and lease approximately 3 million square feet of office and building space for our
+corporate  headquarters.  In  addition,  we  lease  data  center  space  in  Santa  Clara,  California.  We  also  own  and  lease  facilities  for  data
+centers, research and development, and/or sales and administrative purposes throughout the U.S. and in various international locations,
+primarily in China, India, Israel, and Taiwan. We believe our existing facilities, both owned and leased, are in good condition and suitable
+for  the  conduct  of  our  business.  We  do  not  identify  or  allocate  assets  by  operating  segment.  For  additional  information  regarding
+obligations under leases, refer to Note 17 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report
+on Form 10-K, which information is hereby incorporated by reference.
+
+Item 3. Legal Proceedings
+
+Please see Note 12 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for a
+discussion of our legal proceedings.
+
+Item 4. Mine Safety Disclosures
+
+Not applicable.
+
+Part II
+
+Item  5.  Market  for  Registrant's  Common  Equity,  Related  Stockholder  Matters  and  Issuer  Purchases  of  Equity
+Securities
+
+Our common stock is traded on the Nasdaq Global Select Market under the symbol NVDA. Public trading of our common stock began
+on  January  22,  1999.  Prior  to  that,  there  was  no  public  market  for  our  common  stock.  As  of  February  21,  2025,  we  had
+approximately 842 registered shareholders, not including those shares held in street or nominee name.
+
+In May 2024, we announced a ten-for-one stock split, or the Stock Split, of our issued common stock, which was effected through the
+filing  of  an  amendment  to  the  Company's  Restated  Certificate  of  Incorporation,  or  the Amendment,  with  the  Secretary  of  the  State  of
+Delaware. In June 2024, the Company filed the Amendment to effect the Stock Split and proportionately increased the number of shares
+of the Company’s authorized common stock from 8.0 billion to 80.0 billion. Shareholders of record at the close of market on June 6, 2024
+received nine additional shares of common stock, distributed after the close of market on June 7, 2024. All share, equity award and per
+share amounts presented herein have been retrospectively adjusted to reflect the Stock Split.
+
+Issuer Purchases of Equity Securities
+
+On August 26, 2024, our Board of Directors approved an additional $50 billion to our share repurchase authorization, without expiration.
+In  fiscal  year  2025,  we  repurchased  310  million  shares  of  our  common  stock  for  $34.0  billion.  As  of  January  26,  2025,  we  were
+authorized, subject to certain specifications, to repurchase up to $38.7 billion of our common stock.
+
+The  repurchases  can  be  made  in  the  open  market,  in  privately  negotiated  transactions,  pursuant  to  a  Rule  10b5-1  trading  plan  or  in
+structured share repurchase agreements in compliance with Rule 10b-18 of the Exchange Act, subject to
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+54/119
+
+3/10/25, 4:53 PM
+
+nvda-20250126
+
+33
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+55/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+market conditions, applicable legal requirements, and other factors. Our share repurchase program may be suspended at any time at
+our discretion.
+
+In fiscal year 2025, we paid cash dividends to our shareholders of $834 million. The payment of future cash dividends is subject to our
+Board of Directors' continuing determination that the declaration of dividends is in the best interests of our shareholders.
+
+The following table presents details of our share repurchase transactions during the fourth quarter of fiscal year 2025:
+
+Period
+
+October 28, 2024 - November 24, 2024
+November 25, 2024 - December 22, 2024
+December 23, 2024 - January 26, 2025
+Total
+
+25.4  $
+10.6  $
+19.3  $
+55.3
+
+142.67
+136.86
+139.30
 
 Total Number
 of Shares
 Purchased
+(In millions)
 
-Average
-Price
-Paid Per
-Share
+Average Price
+Paid per Share
+(1)
 
 Total Number of
-Shares
-Purchased as
+Shares Purchased as
 Part of Publicly
-Announced
-Plans or
-Programs
+Announced Program
+(In millions)
 
 Approximate Dollar
-Value of
-Shares That May Yet
-Be Purchased
-Under the Plans or
-Programs
+Value of Shares that
+May Yet Be
+Purchased Under the
+Program (In billions)
+42.8
+41.4
+38.7
 
-(1)
+25.4  $
+10.6  $
+19.3  $
+55.3
 
-Open market and privately negotiated purchases
+(1)    Average price paid per share includes broker commissions, but excludes our liability under the 1% excise tax on the net amount of our share repurchases required by the
+Inflation Reduction Act of 2022.
 
-41,690
+From  January  27,  2025  through  February  21,  2025,  we  repurchased  29  million  shares  for  $3.7  billion  pursuant  to  a  pre-established
+trading plan.
 
-July 31, 2022 to August 27, 2022:
+Restricted Stock Unit Share Withholding
 
-Open market and privately negotiated purchases
+We withhold shares of our common stock associated with net share settlements to cover tax withholding obligations upon the vesting of
+RSU awards under our employee equity incentive program. During fiscal year 2025, we withheld approximately 59 million shares for a
+total value of $6.9 billion through net share settlements. Refer to Note 3 of the Notes to the Consolidated Financial Statements in Part IV,
+Item 15 of this Annual Report on Form 10-K for further discussion regarding our equity incentive plans.
 
-54,669
+Recent Sales of Unregistered Securities and Use of Proceeds
 
-August 28, 2022 to September 24, 2022:
+On December 6, 2024, we issued a total of 94,560 shares of our common stock, valued at approximately $13.5 million based on our
+closing stock price on the date of issuance, to key employees of a company we acquired.
 
-Open market and privately negotiated purchases
+On December 29, 2024, we issued a total of 205,110 shares of our common stock, valued at approximately $28.1 million based on our
+closing stock price on December 27, 2024, to key employees of a company we acquired.
 
-Total
+The above securities were issued in transactions not involving a public offering pursuant to an exemption from registration set forth in
+Section 4(a)(2) of the Securities Act (and Regulation D or Regulation S promulgated thereunder).
 
-63,813
+Stock Performance Graphs
 
-160,172
+The following graph compares the cumulative total shareholder return for our common stock, the S&P 500 Index, and the Nasdaq 100
+Index for the five years ended January 26, 2025. The graph assumes that $100 was invested on January 26, 2020 in our common stock
+and in each of the S&P 500 Index and the Nasdaq 100 Index. Our common stock is a component of each of the presented indices. Total
+return assumes reinvestment of dividends in each of the indices indicated. Total return is based on historical results and is not intended
+to indicate future performance.
 
-$
+34
 
-$
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
 
-$
+56/119
 
-145.91
+3/10/25, 4:53 PM
 
-41,690
+Table of Contents
 
-168.29
+nvda-20250126
 
-54,669
+*$100 invested on 1/26/2020 in stock and in indices, including reinvestment of dividends.
 
-155.59
+Source: FactSet financial data and analytics.
 
-63,813
+NVIDIA Corporation
+S&P 500
+Nasdaq 100
 
-$
+Item 6. [Reserved]
 
-60,665
+1/26/2020
 
-(1) As of September 24, 2022, the Company was authorized by the Board of Directors to purchase up to $405 billion of the Company’s
-common stock under a share repurchase program most recently announced on April 28, 2022 (the “Program”), of which $344.3 billion
-had been utilized. The Program does not obligate the Company to acquire a minimum amount of shares. Under the Program, shares
-may  be  repurchased  in  privately  negotiated  and/or  open  market  transactions,  including  under  plans  complying  with  Rule  10b5-1
-under the Exchange Act.
+1/31/2021
 
-Apple Inc. | 2022 Form 10-K | 18
+1/30/2022
 
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
+1/29/2023
 
-27/78
+1/28/2024
 
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-Company Stock Performance
-
-The  following  graph  shows  a  comparison  of  cumulative  total  shareholder  return,  calculated  on  a  dividend-reinvested  basis,  for  the
-Company, the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index for the five
-years ended September 24, 2022. The graph assumes $100 was invested in each of the Company’s common stock, the S&P 500 Index,
-the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index as of the market close on September 29,
-2017. Past stock price performance is not necessarily indicative of future stock price performance.
-
-*
-
-$100  invested  on  September  29,  2017  in  stock  or  index,  including  reinvestment  of  dividends.  Data  points  are  the  last  day  of  each
-fiscal year for the Company’s common stock and September 30th for indexes.
-
-Copyright
-
-Copyright
-
-©
-
-©
-
- 2022 Standard & Poor’s, a division of S&P Global. All rights reserved.
-
- 2022 S&P Dow Jones Indices LLC, a division of S&P Global. All rights reserved.
-
-September
-2017
-
-September
-2018
-
-September
-2019
-
-September
-2020
-
-September
-2021
-
-September
-2022
-
-Apple Inc.
-S&P 500 Index
-S&P Information Technology Index
-Dow Jones U.S. Technology Supersector
-
-Index
+1/26/2025
 
 $
 $
 $
 
-$
+100.00  $
+100.00  $
+100.00  $
 
-100  $
-100  $
-100  $
+207.79  $
+114.79  $
+142.64  $
 
-149  $
-118  $
-131  $
+365.66  $
+138.90  $
+160.62  $
 
-146  $
-123  $
-143  $
+326.34  $
+129.69  $
+136.37  $
 
-303  $
-142  $
-210  $
+978.42  $
+158.39  $
+196.94  $
 
-400  $
-184  $
-271  $
+2,287.06
+200.32
+248.12
 
-100  $
+35
 
-131  $
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
 
-139  $
+57/119
 
-208  $
+3/10/25, 4:53 PM
 
-283  $
+Table of Contents
 
-411
-156
-217
+nvda-20250126
 
-209
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations
 
-Item 6.    [Reserved]
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with “Item 1A.
+Risk  Factors,”  our  Consolidated  Financial  Statements  and  related  Notes  thereto,  as  well  as  other  cautionary  statements  and  risks
+described elsewhere in this Annual Report on Form 10-K, before deciding to purchase, hold, or sell shares of our common stock.
 
-Apple Inc. | 2022 Form 10-K | 19
+Overview
 
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
+Our Company and Our Businesses
 
-28/78
+NVIDIA  pioneered  accelerated  computing  to  help  solve  the  most  challenging  computational  problems.  Since  our  original  focus  on  PC
+graphics, we have expanded to several other large and important computationally intensive fields. Fueled by the sustained demand for
+exceptional 3D graphics and the scale of the gaming market, NVIDIA has leveraged its GPU architecture to create platforms for scientific
+computing, AI, data science, AV, robotics, and digital twin applications.
 
-3/4/25, 11:08 PM
+Our two operating segments are "Compute & Networking" and "Graphics." Refer to Note 16 of the Notes to the Consolidated Financial
+Statements in Part IV, Item 15 of this Annual Report on Form 10-K for additional information.
 
-aapl-20220924
+Headquartered in Santa Clara, California, NVIDIA was incorporated in California in April 1993 and reincorporated in Delaware in April
+1998.
 
-Item 7.    Management’s Discussion and Analysis of Financial Condition and Results of Operations
+Recent Developments, Future Objectives and Challenges
 
-The following discussion should be read in conjunction with the consolidated financial statements and accompanying notes included in
-Part II, Item 8 of this Form 10-K. This section of this Form 10-K generally discusses 2022 and 2021 items and year-to-year comparisons
-between 2022 and 2021. Discussions of 2020 items and year-to-year comparisons between 2021 and 2020 are not included in this Form
-10-K, and can be found in “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in Part II, Item 7 of
-the Company’s Annual Report on Form 10-K for the fiscal year ended September 25, 2021.
+Demand and Supply
 
-Fiscal Year Highlights
+Revenue  growth  in  fiscal  year  2025  was  driven  by  data  center  compute  and  networking  platforms  for  accelerated  computing  and AI
+solutions. Demand for our Hopper architecture drove our significant growth for the full year. We began shipping production systems of
+the Blackwell architecture in the fourth quarter of fiscal year 2025.
 
-Fiscal 2022 Highlights
+Demand estimates for our products, applications, and services can be incorrect and create volatility in our revenue or supply levels. We
+may not be able to generate significant revenue from them. Advancements in accelerated computing and generative AI models, along
+with the growth in model complexity and scale, have driven increased demand for our Data Center systems.
 
-Total net sales increased 8% or $28.5 billion during 2022 compared to 2021, driven primarily by higher net sales of iPhone, Services and
-Mac.  The  weakness  in  foreign  currencies  relative  to  the  U.S.  dollar  had  an  unfavorable  year-over-year  impact  on  all  Products  and
-Services net sales during 2022.
+We  continue  to  increase  our  supply  and  capacity  purchases  with  existing  and  new  suppliers  to  support  our  demand  projections  and
+increasing complexity of our data center products. With these additions, we have also entered and may continue to enter into prepaid
+manufacturing and capacity agreements to supply both current and future products. The increased purchase volumes and integration of
+new suppliers and contract manufacturers into our supply chain creates more complexity in managing multiple suppliers with variations
+in  production  planning,  execution  and  logistics.  Our  expanding  product  portfolio  and  varying  component  compatibility  and  quality  may
+lead to increased inventory levels. We have incurred and may in the future incur inventory provisions or impairments if our inventory or
+supply or capacity commitments exceed demand for our products or demand declines.
 
-The  Company  announces  new  product,  service  and  software  offerings  at  various  times  during  the  year.  Significant  announcements
-during fiscal 2022 included the following:
+Product Transitions and New Product Introductions
 
-First Quarter 2022:
+Product  transitions  are  complex  and  we  often  ship  both  new  and  prior  architecture  products  simultaneously  as  our  channel  partners
+prepare  to  ship  and  support  new  products.  We  are  generally  in  various  stages  of  transitioning  the  architectures  of  our  Data  Center,
+Gaming,  Professional  Visualization,  and  Automotive  products.  The  computing  industry  is  experiencing  a  broader  and  faster  launch
+cadence of accelerated computing platforms to meet a growing and diverse set of AI opportunities. We have introduced a new product
+and architecture cadence of our Data Center solutions where we seek to complete new computing solutions each year and provide a
+greater  variety  of  Data  Center  offerings. The  increased  frequency  of  these  transitions  and  the  larger  number  of  products  and  product
+configurations may magnify the challenges associated with managing our supply and demand which may further create volatility in our
+revenue. The  increased  frequency  and  complexity  of  newly  introduced  products  could  result  in  quality  or  production  issues  that  could
+increase  inventory  provisions,  warranty,  or  other  costs  or  result  in  product  delays.  We  incur  significant  engineering  development
+resources  for  new  products,  and  changes  to  our  product  roadmap  may  impact  our  ability  to  develop  other  products  or  adequately
+manage  our  supply  chain  cost.  Customers  may  delay  purchasing  existing  products  as  we  increase  the  frequency  of  new  products  or
+may not be able to adopt our new products as fast as forecasted, both impacting the timing of our revenue and supply chain cost. While
+we have managed prior product transitions and have sold multiple product architectures at the same time, these transitions are difficult,
+may impair our ability to predict demand and impact our supply mix, and may cause us to incur additional costs.
 
-•
-•
+Global Trade
 
-Updated MacBook Pro 14” and MacBook Pro 16”, powered by the Apple M1 Pro or M1 Max chip; and
-Third generation of AirPods.
+In August 2022, the USG announced licensing requirements that, with certain exceptions, impact exports to China (including Hong Kong
+and Macau) and Russia of our A100 and H100 integrated circuits, DGX or any other systems or boards which incorporate A100 or H100
+integrated circuits.
 
-Second Quarter 2022:
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
 
-•
-•
-•
-•
+58/119
 
-Updated iPhone SE with 5G technology;
-All-new Mac Studio, powered by the Apple M1 Max or M1 Ultra chip;
-All-new Studio Display™; and
-Updated iPad Air with 5G technology, powered by the Apple M1 chip.
+3/10/25, 4:53 PM
 
-Third Quarter 2022:
+nvda-20250126
 
-•
-•
-•
+36
 
-Updated MacBook Air and MacBook Pro 13”, both powered by the Apple M2 chip;
-iOS 16, macOS Ventura, iPadOS 16 and watchOS 9, updates to the Company’s operating systems; and
-Apple Pay Later, a buy now, pay later service.
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
 
-Fourth Quarter 2022:
+59/119
 
-•
-•
-•
+3/10/25, 4:53 PM
 
-iPhone 14, iPhone 14 Plus, iPhone 14 Pro and iPhone 14 Pro Max;
-Second generation of AirPods Pro; and
-Apple Watch Series 8, updated Apple Watch SE and all-new Apple Watch Ultra.
+Table of Contents
 
-In April 2022, the Company announced an increase to its Program authorization from $315 billion to $405 billion and raised its quarterly
-dividend  from  $0.22  to  $0.23  per  share  beginning  in  May  2022.  During  2022,  the  Company  repurchased  $90.2  billion  of  its  common
-stock and paid dividends and dividend equivalents of $14.8 billion.
+nvda-20250126
 
-COVID-19
+In July 2023, the USG informed us of an additional licensing requirement for a subset of A100 and H100 products destined to certain
+customers and other regions, including some countries in the Middle East.
 
-The  COVID-19  pandemic  has  had,  and  continues  to  have,  a  significant  impact  around  the  world,  prompting  governments  and
-businesses to take unprecedented measures, such as restrictions on travel and business operations, temporary closures of businesses,
-and  quarantine  and  shelter-in-place  orders. The  COVID-19  pandemic  has  at  times  significantly  curtailed  global  economic  activity  and
-caused  significant  volatility  and  disruption  in  global  financial  markets.  The  COVID-19  pandemic  and  the  measures  taken  by  many
-countries in response have affected and could in the future materially impact the Company’s business, results of operations and financial
-condition.
+In October 2023, the USG announced new and updated licensing requirements that became effective in our fourth quarter of fiscal year
+2024 for exports to China and Country Groups D1, D4, and D5 (including but not limited to Saudi Arabia, the United Arab Emirates, and
+Vietnam, but excluding Israel) of our products exceeding certain performance thresholds, including, but not limited to, the A100, A800,
+H100,  H800,  L4,  L40,  L40S  and  RTX  4090.  The  licensing  requirements  also  apply  to  the  export  of  products  exceeding  certain
+performance thresholds to a party headquartered in, or with an ultimate parent headquartered in, Country Group D5, including China. On
+October  23,  2023,  the  USG  informed  us  that  the  licensing  requirements  were  effective  immediately  for  shipments  of  our A100, A800,
+H100, H800, and L40S products (removing the grace period granted by the official rule). Blackwell systems, such as GB200 NVL 72 and
+NVL 36 as well as B200 are also subject to these requirements and therefore require a license for any shipment to certain entities and to
+China and Country Groups D1, D4 and D5, excluding Israel. To date, we have not received licenses to ship these restricted products to
+China. Additionally, we understand that partners and customers have also not received a license to ship these restricted products.
 
-Certain  of  the  Company’s  outsourcing  partners,  component  suppliers  and  logistical  service  providers  have  experienced  disruptions
-during the COVID-19 pandemic, resulting in supply shortages. Similar disruptions could occur in the future.
+We expanded our Data Center product portfolio to offer new solutions, including those for which the USG does not require a license or
+advance  notice  before  each  shipment.  We  ramped  new  products  designed  specifically  for  China  that  do  not  require  an  export  control
+license. Our Data Center revenue in China grew in fiscal year 2025. As a percentage of total Data Center revenue, it remains well below
+levels seen prior to the onset of export controls in October 2023. The market in China for datacenter solutions remains competitive. We
+will continue to comply with export controls while serving our customers. To the extent that a customer requires products covered by the
+licensing requirements, we may seek a license for the customer but have no assurance that the USG will grant such a license, or that
+the USG will act on the license application in a timely manner or at all.
 
-Apple Inc. | 2022 Form 10-K | 20
+On January 15, 2025, the USG published the “AI Diffusion” IFR in the Federal Register. After a 120-day delayed compliance period, the
+IFR  will,  unless  modified,  impose  a  worldwide  licensing  requirement  on  all  products  classified  under  Export  Control  Classification
+Numbers,  or  ECCNs,  3A090.a,  4A090.a,  or  corresponding  .z  ECCNs,  including  all  related  software  and  technology. Any  system  that
+incorporates one or more of the covered integrated circuits, or ICs, (including but not limited to NVIDIA DGX, HGX, and MGX systems)
+will be covered by the new licensing requirement. The licensing requirement will include future NVIDIA ICs, boards, or systems classified
+with  ECCN  3A090.a  or  4A090.a,  or  corresponding  .z  ECCNs,  achieving  certain  total  processing  performance  and/or  performance
+density.
 
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
+Unless a license exception is available, the worldwide licensing requirements will apply to the following NVIDIA products, and any others
+we  develop  that  meet  the  characteristics  of  3A090.a  or  4A090.a,  including  but  not  limited  to: A100, A800,  H100,  H200,  H800,  B100,
+B200, GB200, L4, L40S, and RTX 6000 Ada.
 
-29/78
+Our competitive position has been harmed by the existing export controls, and our competitive position and future results may be further
+harmed, over the long term, if there are further changes in the USG’s export controls. Given the increasing strategic importance of AI
+and rising geopolitical tensions, the USG has changed and may again change the export control rules at any time and further subject a
+wider range of our products to export restrictions and licensing requirements, negatively impacting our business and financial results. In
+the event of such change, we may be unable to sell our inventory of such products and may be unable to develop replacement products
+not subject to the licensing requirements, effectively excluding us from all or part of the China market, as well as other impacted markets,
+including the Middle East and countries designated “Tier 2” by the AI Diffusion IFR. In addition to export controls, the USG may impose
+restrictions on the import and sale of products that incorporate technologies developed or manufactured in whole or in part in China. For
+example, the USG is considering restrictions on the import and sale of certain automotive products in the United States, which if adopted
+and interpreted broadly, could impact our ability to develop and supply solutions for our automotive customers.
 
-3/4/25, 11:08 PM
+While we work to enhance the resiliency and redundancy of our supply chain, which is currently concentrated in the Asia-Pacific region,
+new  and  existing  export  controls  or  changes  to  existing  export  controls  could  limit  alternative  manufacturing  locations  and  negatively
+impact  our  business.  Refer  to  “Item  1A.  Risk  Factors  –  Risks  Related  to  Regulatory,  Legal,  Our  Stock  and  Other  Matters”  for  a
+discussion of this potential impact.
 
-aapl-20220924
+Macroeconomic Factors
 
-Products and Services Performance
+Macroeconomic  factors,  including inflation,  interest  rate  changes,  capital  market  volatility,  global  supply  chain  constraints,  tariffs,  and
+global economic and geopolitical developments, may have direct and indirect impacts on our results of operations, particularly demand
+for our products. While difficult to isolate and quantify, these macroeconomic factors impact our supply chain and manufacturing costs,
+employee wages, costs for capital equipment and value of our investments. Our product and solution pricing generally does not fluctuate
+with short-term changes in our costs. Within our supply chain, we continuously manage product availability and costs with our vendors.
 
-The following table shows net sales by category for 2022, 2021 and 2020 (dollars in millions):
+37
 
-Net sales by category:
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
 
- (1)
+60/119
 
-iPhone
-(1)
-Mac
-iPad
-Wearables, Home and Accessories
-Services
+3/10/25, 4:53 PM
 
- (1)
+Table of Contents
 
-(3)
+nvda-20250126
 
-Total net sales
+Israel and Regional Conflicts
 
-2022
+We are monitoring the impact of the geopolitical conflict in and around Israel on our operations, including the health and safety of our
+approximately 4,700 employees in the region who primarily support the research and development, operations, and sales and marketing
+of our networking products. Our global supply chain for our networking products has not experienced any significant impact. Some of our
+employees  in  the  region  have  been  on  active  military  duty  for  an  extended  period  and  may  continue  to  be  absent,  which  may  cause
+disruption to our product development or operations. We have not experienced significant impact or expense to our business; however, if
+the  conflict  is  further  extended  or  expanded,  it  could  impact  future  product  development,  operations,  and  revenue  or  create  other
+uncertainty for our business.
+
+Fiscal Year 2025 Summary
+
+Revenue
+Gross margin
+Operating expenses
+Operating income
+Net income
+Net income per diluted share
+
+Year Ended
+
+Jan 26, 2025
+
+Jan 28, 2024
 
 Change
 
-2021
-
-Change
-
-2020
-
-(1)(2)
+($ in millions, except per share data)
 
 $
 
 $
+$
+$
+$
 
-205,489
-40,177
-29,292
-41,241
-78,129
-394,328
+130,497
 
-7 % $
+75.0 %
 
-14 %
-(8)%
-7 %
-14 %
-8 % $
-
-191,973
-35,190
-31,862
-38,367
-68,425
-365,817
-
-39 % $
-23 %
-34 %
-25 %
-27 %
-33 % $
-
-137,781
-28,622
-23,724
-30,620
-53,768
-274,515
-
-(1) Products net sales include amortization of the deferred value of unspecified software upgrade rights, which are bundled in the sales
-
-price of the respective product.
-
-(2) Wearables, Home and Accessories net sales include sales of AirPods, Apple TV, Apple Watch, Beats products, HomePod mini and
-
-accessories.
-
-(3) Services  net  sales  include  sales  from  the  Company’s  advertising,  AppleCare,  cloud,  digital  content,  payment  and  other  services.
-
-Services net sales also include amortization of the deferred value of services bundled in the sales price of certain products.
-
-iPhone
-
-iPhone net sales increased during 2022 compared to 2021 due primarily to higher net sales from the Company’s new iPhone models
-released since the beginning of the fourth quarter of 2021.
-
-Mac
-
-Mac net sales increased during 2022 compared to 2021 due primarily to higher net sales of laptops.
-
-iPad
-
-iPad net sales decreased during 2022 compared to 2021 due primarily to lower net sales of iPad Pro.
-
-Wearables, Home and Accessories
-
-Wearables, Home and Accessories net sales increased during 2022 compared to 2021 due primarily to higher net sales of Apple Watch
-and AirPods.
-
-Services
-
-Services net sales increased during 2022 compared to 2021 due primarily to higher net sales from advertising, cloud services and the
-App Store.
-
-Apple Inc. | 2022 Form 10-K | 21
-
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-30/78
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-Segment Operating Performance
-
-The  Company  manages  its  business  primarily  on  a  geographic  basis.  The  Company’s  reportable  segments  consist  of  the Americas,
-Europe, Greater China, Japan and Rest of Asia Pacific. Americas includes both North and South America. Europe includes European
-countries, as well as India, the Middle East and Africa. Greater China includes China mainland, Hong Kong and Taiwan. Rest of Asia
-Pacific includes Australia and those Asian countries not included in the Company’s other reportable segments. Although the reportable
-segments provide similar hardware and software products and similar services, each one is managed separately to better align with the
-location  of  the  Company’s  customers  and  distribution  partners  and  the  unique  market  dynamics  of  each  geographic  region.  Further
-information regarding the Company’s reportable segments can be found in Part II, Item 8 of this Form 10-K in the Notes to Consolidated
-Financial Statements in Note 11, “Segment Information and Geographic Data.”
-
-The following table shows net sales by reportable segment for 2022, 2021 and 2020 (dollars in millions):
-
-Net sales by reportable segment:
-
-Americas
-Europe
-Greater China
-Japan
-Rest of Asia Pacific
-
-Total net sales
-
-Americas
-
-2022
-
-Change
-
-2021
-
-Change
-
-2020
+16,405
+81,453
+72,880
+2.94
 
 $
 
 $
-
-169,658
-95,118
-74,200
-25,977
-29,375
-394,328
-
-11 % $
-7 %
-9 %
-(9)%
-11 %
-8 % $
-
-153,306
-89,307
-68,366
-28,482
-26,356
-365,817
-
-23 % $
-30 %
-70 %
-33 %
-35 %
-33 % $
-
-124,556
-68,640
-40,308
-21,418
-19,593
-274,515
-
-Americas net sales increased during 2022 compared to 2021 due primarily to higher net sales of iPhone, Services and Mac.
-
-Europe
-
-Europe net sales increased during 2022 compared to 2021 due primarily to higher net sales of iPhone and Services. The weakness in
-foreign currencies relative to the U.S. dollar had a net unfavorable year-over-year impact on Europe net sales during 2022.
-
-Greater China
-
-Greater China net sales increased during 2022 compared to 2021 due primarily to higher net sales of iPhone and Services. The strength
-of the renminbi relative to the U.S. dollar had a favorable year-over-year impact on Greater China net sales during 2022.
-
-Japan
-
-Japan net sales decreased during 2022 compared to 2021 due to the weakness of the yen relative to the U.S. dollar.
-
-Rest of Asia Pacific
-
-Rest of Asia Pacific net sales increased during 2022 compared to 2021 due primarily to higher net sales of iPhone, Mac and Services.
-The weakness in foreign currencies relative to the U.S. dollar had an unfavorable year-over-year impact on Rest of Asia Pacific net sales
-during 2022.
-
-Apple Inc. | 2022 Form 10-K | 22
-
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-31/78
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-Gross Margin
-
-Products and Services gross margin and gross margin percentage for 2022, 2021 and 2020 were as follows (dollars in millions):
-
-Gross margin:
-Products
-Services
-
-Total gross margin
-
-Gross margin percentage:
-
-Products
-Services
-
-Total gross margin percentage
-
-Products Gross Margin
-
-2022
-
-2021
-
-2020
-
+$
+$
 $
 
-$
+60,922
 
-114,728  $
-56,054
-170,782  $
+72.7 %
 
-105,126  $
-47,710
-152,836  $
+11,329
+32,972
+29,760
+1.19
 
-69,461
-35,495
-104,956
+Up 114%
+Up 2.3 pts
+Up 45%
+Up 147%
+Up 145%
+Up 147%
 
-36.3 %
-71.7 %
-43.3 %
+We  specialize  in  markets  where  our  computing  platforms  can  provide  tremendous  acceleration  for  applications.  These  platforms
+incorporate processors, interconnects, software, algorithms, systems, and services to deliver unique value. Our platforms address four
+large markets where our expertise is critical: Data Center, Gaming, Professional Visualization, and Automotive.
 
-35.3 %
-69.7 %
-41.8 %
+Revenue for fiscal year 2025 was $130.5 billion, up 114% from a year ago.
 
-31.5 %
-66.0 %
-38.2 %
+Data Center revenue for fiscal year 2025 was up 142% from a year ago. The strong year-on-year growth was driven by demand for our
+Hopper  architecture  accelerated  computing  platform  used  for  large  language  models,  recommendation  engines,  and  generative  AI
+applications. We began shipping production systems of the Blackwell architecture in the fourth quarter of fiscal year 2025.
 
-Products gross margin increased during 2022 compared to 2021 due primarily to a different Products mix and higher Products volume,
-partially offset by the weakness in foreign currencies relative to the U.S. dollar.
+Gaming revenue for fiscal year 2025 was up 9% from a year ago, driven by sales of our GeForce RTX 40 Series GPUs.
 
-Products gross margin percentage increased during 2022 compared to 2021 due primarily to a different Products mix, partially offset by
-the weakness in foreign currencies relative to the U.S. dollar.
+Professional Visualization revenue for fiscal year 2025 was up 21% from a year ago, driven by the continued ramp of Ada RTX GPU
+workstations for use cases such as generative AI-powered design, simulation, and engineering.
 
-Services Gross Margin
+Automotive revenue for fiscal year 2025 was up 55% from a year ago, driven by sales of our self-driving platforms.
 
-Services  gross  margin  increased  during  2022  compared  to  2021  due  primarily  to  higher  Services  net  sales,  partially  offset  by  the
-weakness in foreign currencies relative to the U.S. dollar.
+Gross margin increased in fiscal year 2025 driven by a higher mix of Data Center revenue.
 
-Services gross margin percentage increased during 2022 compared to 2021 due primarily to improved leverage and a different Services
-mix, partially offset by the weakness in foreign currencies relative to the U.S. dollar.
-
-The Company’s future gross margins can be impacted by a variety of factors, as discussed in Part I, Item 1A of this Form 10-K under the
-heading “Risk Factors.” As a result, the Company believes, in general, gross margins will be subject to volatility and downward pressure.
-
-Operating Expenses
-
-Operating expenses for 2022, 2021 and 2020 were as follows (dollars in millions):
-
-Research and development
-
-Percentage of total net sales
-
-Selling, general and administrative
-
-Percentage of total net sales
-
-Total operating expenses
-
-Percentage of total net sales
-
-Research and Development
-
-$
-
-$
-
-$
-
-2022
-26,251
-
-7 %
-
-25,094
-
-6 %
-
-51,345
-
-13 %
-
-Change
-
-20 % $
-
-2021
-21,914
-
-6 %
-
-Change
-
-17 % $
-
-2020
-18,752
-
-7 %
-
-14 % $
-
-21,973
-
-10 % $
-
-19,916
-
-6 %
-
-7 %
-
-17 % $
-
-43,887
-
-13 % $
-
-38,668
-
-12 %
-
-14 %
-
-The year-over-year growth in R&D expense in 2022 was driven primarily by increases in headcount-related expenses and engineering
-program costs.
-
-Selling, General and Administrative
-
-The year-over-year growth in selling, general and administrative expense in 2022 was driven primarily by increases in headcount-related
-expenses, advertising and professional services.
-
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-32/78
-
-Apple Inc. | 2022 Form 10-K | 23
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-33/78
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-Other Income/(Expense), Net
-
-Other income/(expense), net (“OI&E”) for 2022, 2021 and 2020 was as follows (dollars in millions):
-
-Interest and dividend income
-Interest expense
-Other income/(expense), net
-
-Total other income/(expense), net
-
-2022
-
-Change
-
-2021
-
-Change
-
-2020
-
-$
-
-$
-
-2,825
-(2,931)
-(228)
-(334)
-
-$
-
-(229)% $
-
-2,843
-(2,645)
-60
-258
-
-$
-
-(68)% $
-
-3,763
-(2,873)
-(87)
-803
-
-The decrease in OI&E during 2022 compared to 2021 was due primarily to higher realized losses on debt securities, unfavorable fair
-value adjustments on equity securities and higher interest expense, partially offset by higher foreign exchange gains.
-
-Provision for Income Taxes
-
-Provision for income taxes, effective tax rate and statutory federal income tax rate for 2022, 2021 and 2020 were as follows (dollars in
-millions):
-
-Provision for income taxes
-Effective tax rate
-Statutory federal income tax rate
-
-2022
-
-2021
-
-2020
-
-$
-
-19,300
-
-$
-
-14,527
-
-$
-
-16.2 %
-21 %
-
-13.3 %
-21 %
-
-9,680
-
-14.4 %
-21 %
-
-The Company’s effective tax rate for 2022 was lower than the statutory federal income tax rate due primarily to a lower effective tax rate
-on foreign earnings, tax benefits from share-based compensation and the impact of the U.S. federal R&D credit, partially offset by state
-income taxes. The Company’s effective tax rate for 2021 was lower than the statutory federal income tax rate due primarily to a lower
-effective tax rate on foreign earnings, tax benefits from share-based compensation and foreign-derived intangible income deductions.
-
-The Company’s effective tax rate for 2022 was higher compared to 2021 due primarily to a higher effective tax rate on foreign earnings,
-including the impact to U.S. foreign tax credits as a result of regulatory guidance issued by the U.S. Department of the Treasury in 2022,
-and lower tax benefits from foreign-derived intangible income deductions and share-based compensation.
-
-Liquidity and Capital Resources
-
-The Company believes its balances of cash, cash equivalents and unrestricted marketable securities, which totaled $156.4 billion as of
-September 24, 2022, along with cash generated by ongoing operations and continued access to debt markets, will be sufficient to satisfy
-its cash requirements and capital return program over the next 12 months and beyond.
-
-The Company’s material cash requirements include the following contractual obligations.
-
-Debt
-
-As of September 24, 2022, the Company had outstanding fixed-rate notes with varying maturities for an aggregate principal amount of
-$111.8 billion (collectively the “Notes”), with $11.1 billion payable within 12 months. Future interest payments associated with the Notes
-total $41.3 billion, with $2.9 billion payable within 12 months.
-
-The Company also issues unsecured short-term promissory notes (“Commercial Paper”) pursuant to a commercial paper program. As of
-September 24, 2022, the Company had $10.0 billion of Commercial Paper outstanding, all of which was payable within 12 months.
-
-Leases
-
-The  Company  has  lease  arrangements  for  certain  equipment  and  facilities,  including  corporate,  data  center,  manufacturing  and  retail
-space. As of September 24, 2022, the Company had fixed lease payment obligations of $15.3 billion, with $2.0 billion payable within 12
-months.
-
-Apple Inc. | 2022 Form 10-K | 24
-
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-34/78
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-Manufacturing Purchase Obligations
-
-The  Company  utilizes  several  outsourcing  partners  to  manufacture  subassemblies  for  the  Company’s  products  and  to  perform  final
-assembly  and  testing  of  finished  products.  The  Company  also  obtains  individual  components  for  its  products  from  a  wide  variety  of
-individual  suppliers.  Outsourcing  partners  acquire  components  and  build  product  based  on  demand  information  supplied  by  the
-Company,  which  typically  covers  periods  up  to  150  days.  As  of  September  24,  2022,  the  Company  had  manufacturing  purchase
-obligations of $71.1 billion, with $68.4 billion payable within 12 months. The Company’s manufacturing purchase obligations are primarily
-noncancelable.
-
-Other Purchase Obligations
-
-The  Company’s  other  purchase  obligations  primarily  consist  of  noncancelable  obligations  to  acquire  capital  assets,  including  assets
-related to product manufacturing, and noncancelable obligations related to internet services and content creation. As of September 24,
-2022, the Company had other purchase obligations of $17.8 billion, with $6.8 billion payable within 12 months.
-
-Deemed Repatriation Tax Payable
-
-As of September 24, 2022, the balance of the deemed repatriation tax payable imposed by the U.S. Tax Cuts and Jobs Act of 2017 (the
-“Act”) was $22.0 billion, with $5.3 billion expected to be paid within 12 months.
-
-In addition to its contractual cash requirements, the Company has a capital return program authorized by the Board of Directors. The
-Program does not obligate the Company to acquire a minimum amount of shares. As of September 24, 2022, the Company’s quarterly
-cash  dividend  was  $0.23  per  share.  The  Company  intends  to  increase  its  dividend  on  an  annual  basis,  subject  to  declaration  by  the
-Board of Directors.
+Operating expenses for fiscal year 2025 were up 45% from a year ago, driven by higher compensation and benefits expenses due to
+employee  growth  and  compensation  increases,  and  engineering  development,  compute  and  infrastructure  costs  for  new  product
+introductions.
 
 Critical Accounting Estimates
 
-The  preparation  of  financial  statements  and  related  disclosures  in  conformity  with  U.S.  generally  accepted  accounting  principles
-(“GAAP”)  and  the  Company’s  discussion  and  analysis  of  its  financial  condition  and  operating  results  require  the  Company’s
-management  to  make  judgments,  assumptions  and  estimates  that  affect  the  amounts  reported.  Note  1,  “Summary  of  Significant
-Accounting  Policies”  of  the  Notes  to  Consolidated  Financial  Statements  in  Part  II,  Item  8  of  this  Form  10-K  describes  the  significant
-accounting  policies  and  methods  used  in  the  preparation  of  the  Company’s  consolidated  financial  statements.  Management  bases  its
-estimates on historical experience and on various other assumptions it believes to be reasonable under the circumstances, the results of
-which form the basis for making judgments about the carrying values of assets and liabilities.
+Our consolidated financial statements are prepared in accordance with accounting principles generally accepted in the United States, or
+U.S. GAAP. The preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts
+of assets, liabilities, revenue, cost of revenue, expenses and related disclosure of contingencies. Critical accounting estimates are those
+estimates that involve a significant level of estimation uncertainty and could have a material impact on our financial condition or results
+of operations. We have critical accounting estimates in the areas of inventories, income taxes, and revenue recognition. Refer to Note 1
+of  the  Notes  to  the  Consolidated  Financial  Statements  in  Part  IV,  Item  15  of  this  Annual  Report  on  Form  10-K  for  a  summary  of
+significant accounting policies.
 
-Uncertain Tax Positions
+Inventories
+We charge cost of sales for inventory provisions to write-down our inventory to the lower of cost or net realizable value or for obsolete or
+excess inventory, and for excess product purchase commitments. Most of our inventory provisions relate to excess quantities of products
+or components, based on our inventory levels and future product purchase
 
-The Company is subject to income taxes in the U.S. and numerous foreign jurisdictions. The evaluation of the Company’s uncertain tax
-positions involves significant judgment in the interpretation and application of GAAP and complex domestic and international tax laws,
-including the Act and matters related to the allocation of international taxation rights between countries. Although management believes
-the Company’s reserves are reasonable, no assurance can be given that the final outcome of these uncertainties will not be different
-from that which is reflected in the Company’s reserves. Reserves are adjusted considering changing facts and circumstances, such as
-the closing of a tax examination. Resolution of these uncertainties in a manner inconsistent with management’s expectations could have
-a material impact on the Company’s financial condition and operating results.
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
 
-Legal and Other Contingencies
+61/119
 
-The Company is subject to various legal proceedings and claims that arise in the ordinary course of business, the outcomes of which are
-inherently uncertain. The Company records a liability when it is probable that a loss has been incurred and the amount is reasonably
-estimable,  the  determination  of  which  requires  significant  judgment.  Resolution  of  legal  matters  in  a  manner  inconsistent  with
-management’s expectations could have a material impact on the Company’s financial condition and operating results.
+38
 
-Apple Inc. | 2022 Form 10-K | 25
+3/10/25, 4:53 PM
 
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
+nvda-20250126
 
-35/78
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
 
-3/4/25, 11:08 PM
+62/119
 
-aapl-20220924
+3/10/25, 4:53 PM
 
-Item 7A.    Quantitative and Qualitative Disclosures About Market Risk
+Table of Contents
 
-Interest Rate and Foreign Currency Risk Management
+nvda-20250126
 
-The Company regularly reviews its foreign exchange forward and option positions and interest rate swaps, both on a stand-alone basis
-and in conjunction with its underlying foreign currency and interest rate exposures. Given the effective horizons of the Company’s risk
-management activities and the anticipatory nature of the exposures, there can be no assurance these positions will offset more than a
-portion of the financial impact resulting from movements in either foreign exchange or interest rates. Further, the recognition of the gains
-and  losses  related  to  these  instruments  may  not  coincide  with  the  timing  of  gains  and  losses  related  to  the  underlying  economic
-exposures and, therefore, may adversely affect the Company’s financial condition and operating results.
+commitments compared to assumptions about future demand and market conditions, which requires management judgment.
 
-Interest Rate Risk
+Situations that may result in excess or obsolete inventory or excess product purchase commitments include changes in business and
+economic  conditions,  changes  in  market  conditions,  sudden  and  significant  decreases  in  demand  for  our  products,  including  potential
+cancellation  or  deferral  of  customer  purchase  orders,  inventory  obsolescence  because  of  changing  technology  and  customer
+requirements,  new  product  introductions  resulting  in  less  demand  for  existing  products  or  inconsistent  spikes  in  demand,  failure  to
+estimate customer demand properly, ordering in advance of historical lead-times, government regulations and the impact of changes in
+future demand, or increase in demand for competitive products, including competitive actions.
 
-The  Company’s  exposure  to  changes  in  interest  rates  relates  primarily  to  the  Company’s  investment  portfolio  and  outstanding  debt.
-While the Company is exposed to global interest rate fluctuations, it is most affected by fluctuations in U.S. interest rates. Changes in
-U.S. interest rates affect the interest earned on the Company’s cash, cash equivalents and marketable securities and the fair value of
-those securities, as well as costs associated with hedging and interest paid on the Company’s debt.
+The net effect on our gross margin from inventory provisions and sales of items previously written down was an unfavorable impact of
+2.3%  in  fiscal  year  2025  and  2.7%  in  fiscal  year  2024.  Our  inventory  and  capacity  purchase  commitments  are  based  on  forecasts  of
+future customer demand and consider our third-party manufacturers' lead times and constraints. Our manufacturing lead times can be
+and have been long, and in some cases, extended beyond twelve months for some products. We may place non-cancellable inventory
+orders  for  certain  product  components  in  advance  of  our  historical  lead  times,  pay  premiums  and  provide  deposits  to  secure  future
+supply  and  capacity.  We  also  adjust  to  other  market  factors,  such  as  product  offerings  and  pricing  actions  by  our  competitors,  new
+product transitions, and macroeconomic conditions - all of which may impact demand for our products.
 
-The  Company’s  investment  policy  and  strategy  are  focused  on  the  preservation  of  capital  and  supporting  the  Company’s  liquidity
-requirements. The Company uses a combination of internal and external management to execute its investment strategy and achieve its
-investment objectives. The Company typically invests in highly rated securities, with the primary objective of minimizing the potential risk
-of principal loss. The Company’s investment policy generally requires securities to be investment grade and limits the amount of credit
-exposure  to  any  one  issuer.  To  provide  a  meaningful  assessment  of  the  interest  rate  risk  associated  with  the  Company’s  investment
-portfolio, the Company performed a sensitivity analysis to determine the impact a change in interest rates would have on the value of the
-investment portfolio assuming a 100 basis point parallel shift in the yield curve. Based on investment positions as of September 24, 2022
-and September 25, 2021, a hypothetical 100 basis point increase in interest rates across all maturities would result in a $4.0 billion and
-$4.1 billion incremental decline in the fair market value of the portfolio, respectively. Such losses would only be realized if the Company
-sold the investments prior to maturity.
+Refer to the Gross Profit and Gross Margin discussion below in this Management's Discussion and Analysis for further discussion.
 
-As of September 24, 2022, the Company had outstanding fixed-rate notes and as of September 25, 2021, the Company had outstanding
-floating- and fixed-rate notes with varying maturities for an aggregate carrying amount of $110.1 billion and $118.7 billion, respectively.
-The  Company  has  entered,  and  in  the  future  may  enter,  into  interest  rate  swaps  to  manage  interest  rate  risk  on  its  outstanding  term
-debt.  Interest  rate  swaps  allow  the  Company  to  effectively  convert  fixed-rate  payments  into  floating-rate  payments  or  floating-rate
-payments into fixed-rate payments. Gains and losses on term debt are generally offset by the corresponding losses and gains on the
-related hedging instrument. A 100 basis point increase in market interest rates would cause interest expense on the Company’s debt as
-of September 24, 2022 and September 25, 2021 to increase by $201 million and $186 million on an annualized basis, respectively.
+Income Taxes
 
-Foreign Currency Risk
+We  are  subject  to  income  taxes  in  the  U.S.  and  foreign  jurisdictions.  Our  calculation  of  deferred  tax  assets  and  liabilities  is  based  on
+certain  estimates  and  judgments  and  involves  dealing  with  uncertainties  in  the  application  of  complex  tax  laws.  Our  estimates  of
+deferred  tax  assets  and  liabilities  may  change  based,  in  part,  on  added  certainty  or  finality  to  an  anticipated  outcome,  changes  in
+accounting standards or tax laws in the U.S. or foreign jurisdictions where we operate, or changes in other facts or circumstances. In
+addition,  we  recognize  liabilities  for  potential  U.S.  and  foreign  income  tax  contingencies  based  on  our  estimate  of  whether,  and  the
+extent  to  which,  additional  taxes  may  be  due.  If  we  determine  that  payment  of  these  amounts  is  unnecessary  or  if  the  recorded  tax
+liability is less than our current assessment, we may be required to recognize an income tax benefit or additional income tax expense in
+our financial statements accordingly.
 
-In  general,  the  Company  is  a  net  receiver  of  currencies  other  than  the  U.S.  dollar.  Accordingly,  changes  in  exchange  rates,  and  in
-particular  a  strengthening  of  the  U.S.  dollar,  will  negatively  affect  the  Company’s  net  sales  and  gross  margins  as  expressed  in  U.S.
-dollars. There is a risk that the Company will have to adjust local currency pricing due to competitive pressures when there has been
-significant volatility in foreign currency exchange rates.
+We record a valuation allowance to reduce deferred tax assets to the amount that is believed more likely than not to be realized based
+on all available evidence. To the extent realization of the deferred tax assets becomes more-likely-than-not, we would recognize such
+deferred tax assets as income tax benefits during the period.
 
-The Company may enter into foreign currency forward and option contracts with financial institutions to protect against foreign exchange
-risks  associated  with  certain  existing  assets  and  liabilities,  certain  firmly  committed  transactions,  forecasted  future  cash  flows  and  net
-investments in foreign subsidiaries. In addition, the Company has entered, and in the future may enter, into foreign currency contracts to
-partially  offset  the  foreign  currency  exchange  gains  and  losses  on  its  foreign  currency–denominated  debt  issuances.  The  Company
-generally hedges portions of its forecasted foreign currency exposure associated with revenue and inventory purchases, typically for up
-to 12 months. However, the Company may choose not to hedge certain foreign exchange exposures for a variety of reasons, including
-accounting considerations or the prohibitive economic cost of hedging particular exposures.
+We recognize the benefit from a tax position only if it is more-likely-than-not that the position would be sustained upon audit based solely
+on  the  technical  merits  of  the  tax  position.  Our  policy  is  to  include  interest  and  penalties  related  to  unrecognized  tax  benefits  as  a
+component of income tax expense.
 
-Apple Inc. | 2022 Form 10-K | 26
+Revenue Recognition
 
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
+Revenue Allowances
 
-36/78
+For products sold with a right of return, we record a reduction to revenue by establishing a sales return allowance for estimated product
+returns at the time revenue is recognized, based primarily on historical return rates. However, if product returns for a fiscal period are
+anticipated  to  exceed  historical  return  rates,  we  may  determine  that  additional  sales  return  allowances  are  required  to  reflect  our
+estimated exposure for product returns. Return rights for certain stocking distributors for specific products are contractually limited based
+on  a  percentage  of  prior  quarter  shipments.  For  shipments  to  other  customers,  we  do  not  allow  returns,  although  we  may  approve
+returns for credit or refund based on applicable facts and circumstances.
 
-3/4/25, 11:08 PM
+We account for customer programs, which involve rebates and marketing development funds, or MDFs, as a reduction in revenue and
+accrue for such programs based on the amount we expect to be claimed by customers. Certain customer programs include distributor
+price  incentives  or  other  channel  programs  for  specific  products  and  customer  classes  which  require  judgement  as  to  whether  the
+applicable incentives will be attained. Estimates for customer program accruals include a combination of historical attainment and claim
+rates and may be adjusted based on relevant internal and external factors.
 
-aapl-20220924
+License and Development Arrangements
 
-To provide an assessment of the foreign currency risk associated with certain of the Company’s foreign currency derivative positions, the
-Company performed a sensitivity analysis using a value-at-risk (“VAR”) model to assess the potential impact of fluctuations in exchange
-rates.  The  VAR  model  consisted  of  using  a  Monte  Carlo  simulation  to  generate  thousands  of  random  market  price  paths  assuming
-normal market conditions. The VAR is the maximum expected loss in fair value, for a given confidence interval, to the Company’s foreign
-currency derivative positions due to adverse movements in rates. The VAR model is not intended to represent actual losses but is used
-as a risk estimation and management tool. Forecasted transactions, firm commitments and assets and liabilities denominated in foreign
-currencies were excluded from the model. Based on the results of the model, the Company estimates with 95% confidence, a maximum
-one-day loss in fair value of $1.0 billion as of September 24, 2022, compared to a maximum one-day loss in fair value of $550 million as
-of September 25, 2021. Because the Company uses foreign currency instruments for hedging purposes, the losses in fair value incurred
-on those instruments are generally offset by increases in the fair value of the underlying exposures.
+Revenue from License and Development Arrangements is recognized over the period in which the development services are performed.
+Each fiscal reporting period, we measure progress to completion based on actual cost incurred to date as a percentage of the estimated
+total cost required to complete each project. Estimated total cost for each project includes a forecast of internal engineer personnel time
+expected to be incurred and other third-party costs as applicable.
 
-Actual future gains and losses associated with the Company’s investment portfolio, debt and derivative positions may differ materially
-from the sensitivity analyses performed as of September 24, 2022 due to the inherent limitations associated with predicting the timing
-and amount of changes in interest rates, foreign currency exchange rates and the Company’s actual exposures and positions.
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
 
-Apple Inc. | 2022 Form 10-K | 27
+63/119
 
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
+39
 
-37/78
+3/10/25, 4:53 PM
 
-3/4/25, 11:08 PM
+Table of Contents
 
-aapl-20220924
+nvda-20250126
 
-Item 8.    Financial Statements and Supplementary Data
+Contracts with Multiple Performance Obligations
 
-Index to Consolidated Financial Statements
-Consolidated Statements of Operations for the years ended September 24, 2022, September 25, 2021 and
+Our  contracts  may  contain  more  than  one  performance  obligation.  Judgement  is  required  in  determining  whether  each  performance
+obligation  within  a  customer  contract  is  distinct.  Except  for  License  and  Development  Arrangements,  NVIDIA  products  and  services
+function  on  a  standalone  basis  and  do  not  require  a  significant  amount  of  integration  or  interdependency.  Therefore,  multiple
+performance  obligations  contained  within  a  customer  contract  are  considered  distinct  and  are  not  combined  for  revenue  recognition
+purposes.
 
-September 26, 2020
+We allocate the total transaction price to each distinct performance obligation in an arrangement with multiple performance obligations
+on  a  relative  standalone  selling  price  basis.  In  certain  cases,  we  can  establish  standalone  selling  price  based  on  directly  observable
+prices of products or services sold separately in comparable circumstances to similar customers. If standalone selling price is not directly
+observable, such as when we do not sell a product or service separately, we determine standalone selling price based on market data
+and other observable inputs.
 
-Consolidated Statements of Comprehensive Income for the years ended September 24, 2022, September 25, 2021 and
+Results of Operations
 
-September 26, 2020
+A discussion regarding our financial condition and results of operations for fiscal year 2025 compared to fiscal year 2024 is presented
+below. A discussion regarding our financial condition and results of operations for fiscal year 2024 compared to fiscal year 2023 can be
+found under Item 7 in our Annual Report on Form 10-K for the fiscal year ended January 28, 2024, filed with the SEC on February 21,
+2024,  which  is  available  free  of  charge  on  the  SEC’s  website  at  http://www.sec.gov  and  at  our  investor  relations  website,
+http://investor.nvidia.com.
 
-Consolidated Balance Sheets as of September 24, 2022 and September 25, 2021
-Consolidated Statements of Shareholders’ Equity for the years ended September 24, 2022, September 25, 2021 and
+The  following  table  sets  forth,  for  the  periods  indicated,  certain  items  in  our  Consolidated  Statements  of  Income  expressed  as  a
+percentage of revenue.
 
-September 26, 2020
+Revenue
 
-Consolidated Statements of Cash Flows for the years ended September 24, 2022, September 25, 2021 and
+Cost of revenue
 
-September 26, 2020
-
-Notes to Consolidated Financial Statements
-Reports of Independent Registered Public Accounting Firm
-
-Page
-
-29
-
-30
-31
-
-32
-
-33
-34
-50
-
-All  financial  statement  schedules  have  been  omitted,  since  the  required  information  is  not  applicable  or  is  not  present  in  amounts
-sufficient to require submission of the schedule, or because the information required is included in the consolidated financial statements
-and accompanying notes.
-
-Apple Inc. | 2022 Form 10-K | 28
-
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-38/78
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-CONSOLIDATED STATEMENTS OF OPERATIONS
-(In millions, except number of shares which are reflected in thousands and per share amounts)
-
-Apple Inc.
-
-Net sales:
-   Products
-   Services
-
-Total net sales
-
-Cost of sales:
-   Products
-   Services
-
-Total cost of sales
-Gross margin
-
-Operating expenses:
+Gross profit
+Operating expenses
 
 Research and development
-Selling, general and administrative
+Sales, general and administrative
+
 Total operating expenses
 
 Operating income
-Other income/(expense), net
-Income before provision for income taxes
-Provision for income taxes
+Interest income
+Interest expense
+Other, net
+
+Other income (expense), net
+
+Income before income tax
+Income tax expense
 Net income
 
-Earnings per share:
+40
 
+Year Ended
+
+Jan 26, 2025
+
+Jan 28, 2024
+
+100.0 %
+25.0
+75.0
+
+9.9
+2.7
+12.6
+62.4
+1.4
+(0.2)
+0.8
+2.0
+64.4
+8.6
+55.8 %
+
+100.0 %
+27.3
+72.7
+
+14.2
+4.4
+18.6
+54.1
+1.4
+(0.4)
+0.4
+1.4
+55.5
+6.6
+48.9 %
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+64/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+Reportable Segments
+
+Revenue by Reportable Segments
+
+Compute & Networking
+Graphics
+Total
+
+Operating Income by Reportable Segments
+
+Compute & Networking
+Graphics
+All Other
+Total
+
+Jan 26, 2025
+
+Jan 28, 2024
+
+$
+Change
+
+%
+Change
+
+Year Ended
+
+116,193  $
+14,304
+
+130,497  $
+
+($ in millions)
+47,405  $
+13,517
+60,922  $
+
+68,788
+787
+69,575
+
+145 %
+6 %
+114 %
+
+Jan 26, 2025
+
+Jan 28, 2024
+
+$
+Change
+
+%
+Change
+
+Year Ended
+
+82,875  $
+
+5,085
+(6,507)
+81,453  $
+
+($ in millions)
+32,016  $
+
+5,846
+(4,890)
+32,972  $
+
+50,859
+(761)
+(1,617)
+48,481
+
+159 %
+(13)%
+33 %
+147 %
+
+$
+
+$
+
+$
+
+$
+
+Compute  &  Networking  revenue  –  The  year  over  year  increase  was  due  to  strong  demand  for  our  accelerated  computing  and  AI
+solutions.  Revenue  from  Data  Center  computing  grew  162%  driven  primarily  by  demand  for  our  Hopper  computing  platform  used  for
+large  language  models,  recommendation  engines,  and  generative AI  applications.  Revenue  from  Data  Center  networking  grew  51%
+driven by Ethernet for AI revenue, which includes Spectrum-X end-to-end ethernet platform.
+
+Graphics revenue – The year over year increase was driven by sales of our GeForce RTX 40 Series GPUs.
+
+Reportable segment operating income – The year over year increase in Compute & Networking segment operating income was driven
+by growth in revenue. The year over year decrease in Graphics segment operating income was driven by an increase of 44% in segment
+operating expenses, partially offset by growth in revenue.
+
+All  Other  operating  loss  –  The  year  over  year  increase  was  due  to  an  increase  in  stock-based  compensation  expense  reflecting
+employee growth and compensation increases.
+
+Concentration of Revenue
+
+We refer to customers who purchase products directly from NVIDIA as direct customers, such as AIBs, distributors, ODMs, OEMs, and
+system integrators. We have certain customers that may purchase products directly from NVIDIA and may use either internal resources
+or  third-party  system  integrators  to  complete  their  build.  We  also  have  indirect  customers,  who  purchase  products  through  our  direct
+customers; indirect customers include CSPs, consumer internet companies, enterprises, and public sector entities.
+
+Direct Customers – Sales to direct customers which represented 10% or more of total revenue, all of which were primarily attributable to
+the Compute & Networking segment, are presented in the following table:
+
+Direct Customer A
+Direct Customer B
+Direct Customer C
+
+* Less than 10% of total revenue.
+
+No customer represented 10% or more of total revenue for fiscal year 2023.
+
+41
+
+Year Ended
+
+Jan 26, 2025
+
+Jan 28, 2024
+
+12 %
+11 %
+11 %
+
+*
+13 %
+*
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+65/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+Indirect  Customers  –  Indirect  customer  revenue  is  an  estimation  based  upon  multiple  factors  including  customer  purchase  order
+information,  product  specifications,  internal  sales  data,  and  other  sources.  Actual  indirect  customer  revenue  may  differ  from  our
+estimates. For fiscal year 2025, an indirect customer which primarily purchases our products through system integrators and distributors,
+including through Direct Customer B, is estimated to represent 10% or more of total revenue, attributable to the Compute & Networking
+segment.
+
+We have experienced periods where we receive a significant amount of our revenue from a limited number of customers, and this trend
+may continue.
+
+Revenue by geographic region is designated based on the billing location even if the revenue may be attributable to indirect customers
+in a different location. Revenue from sales to customers outside of the United States accounted for 53% and 56% of total revenue for
+fiscal years 2025 and 2024, respectively.
+
+Gross Profit and Gross Margin
+
+Gross profit consists of total net revenue less cost of revenue. Cost of revenue consists primarily of the cost of semiconductors, including
+wafer fabrication, assembly, testing and packaging, board and device costs, manufacturing support costs, including labor and overhead
+associated  with  such  purchases,  final  test  yield  fallout,  inventory  and  warranty  provisions,  memory  and  component  costs,  tariffs,  and
+shipping costs. Cost of revenue also includes acquisition-related intangible amortization expense, costs for license and development and
+service arrangements, IP-related costs, and stock-based compensation related to personnel associated with manufacturing operations.
+
+Gross margins increased to 75.0% in fiscal year 2025 from 72.7% in fiscal year 2024. The year over year increase was primarily driven
+by a higher mix of Data Center revenue.
+
+Provisions for inventory and excess inventory purchase obligations totaled $3.7 billion and $2.2 billion for fiscal years 2025 and 2024,
+respectively.  Sales  of  previously  reserved  inventory  and  settlements  of  excess  inventory  purchase  obligations  resulted  in  a  provision
+release  of  $689  million  and  $540  million  for  fiscal  years  2025  and  2024,  respectively.  The  net  effect  on  our  gross  margin  was  an
+unfavorable impact of 2.3% and 2.7% in fiscal years 2025 and 2024, respectively.
+
+Operating Expenses
+
+Research and development expenses
+% of net revenue
+Sales, general and administrative expenses
+% of net revenue
+
+Total operating expenses
+% of net revenue
+
+Jan 26, 2025
+
+Jan 28, 2024
+
+$
+Change
+
+%
+Change
+
+Year Ended
+
+$
+
+$
+
+12,914
+
+$
+
+9.9 %
+
+3,491
+
+2.7 %
+
+16,405
+
+$
+
+12.6 %
+
+($ in millions)
+$
+8,675
+14.2 %
+
+2,654
+
+4.4 %
+$
+
+11,329
+
+18.6 %
+
+4,239
+
+837
+
+5,076
+
+49 %
+
+32 %
+
+45 %
+
+The increases in research and development expenses for fiscal year 2025 were driven by a 32% increase in compensation and benefits,
+including  stock-based  compensation,  reflecting  employee  growth  and  compensation  increases,  a  100%  increase  in  compute  and
+infrastructure, and a 234% increase in engineering development costs for new product introductions.
+
+The increases in sales, general and administrative expenses for fiscal year 2025 were primarily driven by compensation and benefits,
+including stock-based compensation, reflecting employee growth and compensation increases.
+
+42
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+66/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+Other Income (Expense), Net
+
+Interest income
+Interest expense
+Other, net
+
+Other income (expense), net
+
+Jan 26, 2025
+
+$
+
+$
+
+1,786  $
+(247)
+1,034
+2,573  $
+
+Year Ended
+
+Jan 28, 2024
+
+($ in millions)
+
+$
+Change
+
+866  $
+(257)
+237
+846  $
+
+920
+10
+797
+1,727
+
+The increase in interest income was primarily due to growth in cash, cash equivalents, and marketable securities.
+
+Interest expense is comprised of coupon interest and debt discount amortization related to our notes.
+
+Other, net consists of realized or unrealized gains and losses from investments in non-marketable equity securities, publicly-held equity
+securities, and the impact of changes in foreign currency rates. The change in Other, net, compared to fiscal year 2024, was primarily
+driven  by  an  increase  in  fair  value  of  our  non-marketable  equity  securities  and  publicly-held  equity  securities.  Refer  to  Note  8  of  the
+Notes  to  the  Consolidated  Financial  Statements  in  Part  IV,  Item  15  of  this  Annual  Report  on  Form  10-K  for  additional  information
+regarding our non-marketable equity securities.
+
+Income Taxes
+
+Income  tax  expense  was  $11.1  billion  and  $4.1  billion  for  fiscal  years  2025  and  2024,  respectively.  Income  tax  as  a  percentage  of
+income before income tax was an expense of 13.3% and 12.0% for fiscal years 2025 and 2024, respectively.
+
+The effective tax rate increased primarily due to higher pre-tax income and a prior year discrete benefit due to an audit resolution.
+
+Our effective tax rates for fiscal years 2025 and 2024 were lower than the U.S. federal statutory rate of 21% due primarily to tax benefits
+from  the  FDII  deduction,  stock-based  compensation,  the  U.S.  federal  research  tax  credit,  and  income  earned  in  jurisdictions  that  are
+subject  to  taxes  at  rates  lower  than  the  U.S.  federal  statutory  tax  rate.  Our  effective  tax  rate  for  fiscal  year  2024  was  additionally
+benefited by the audit resolution.
+
+Given our current and possible future earnings, we believe that we may release the valuation allowance associated with certain state
+deferred tax assets in the near term, which would decrease our income tax expense for the period the release is recorded. The timing
+and amount of the valuation allowance release could vary based on our assessment of all available information.
+
+Refer  to  Note  13  of  the  Notes  to  the  Consolidated  Financial  Statements  in  Part  IV,  Item  15  of  this Annual  Report  on  Form  10-K  for
+additional information.
+
+Liquidity and Capital Resources
+
+Cash and cash equivalents
+Marketable securities
+
+Cash, cash equivalents, and marketable securities
+
+Net cash provided by operating activities
+Net cash used in investing activities
+Net cash used in financing activities
+
+Jan 26, 2025
+
+Jan 28, 2024
+
+(In millions)
+
+8,589  $
+
+34,621
+43,210  $
+
+7,280
+18,704
+25,984
+
+Year Ended
+
+Jan 26, 2025
+
+Jan 28, 2024
+
+(In millions)
+
+64,089  $
+(20,421) $
+(42,359) $
+
+28,090
+(10,566)
+(13,633)
+
+$
+
+$
+
+$
+$
+$
+
+Our  investment  policy  requires  the  purchase  of  highly-rated  fixed  income  securities,  the  diversification  of  investment  types  and  credit
+exposures, and certain maturity limits on our portfolio.
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+67/119
+
+43
+
+3/10/25, 4:53 PM
+
+nvda-20250126
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+68/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+Cash provided by operating activities increased in fiscal year 2025 compared to fiscal year 2024, due to growth in revenue.
+
+Cash  used  in  investing  activities  increased  in  fiscal  year  2025  compared  to  fiscal  year  2024,  primarily  driven  by  net  purchases  of
+marketable securities, and purchase of land, property and equipment.
+
+Cash used in financing activities increased in fiscal year 2025 compared to fiscal year 2024, mainly due to higher share repurchases and
+higher tax payments related to RSUs.
+
+Liquidity
+
+Our  primary  sources  of  liquidity  include  cash,  cash  equivalents,  marketable  securities,  and  cash  generated  by  our  operations. As  of
+January 26, 2025, we had $43.2 billion in cash, cash equivalents, and marketable securities. We believe that we have sufficient liquidity
+to  meet  our  operating  requirements  for  at  least  the  next  twelve  months  and  thereafter  for  the  foreseeable  future,  including  our  future
+supply obligations and share purchases. We continuously evaluate our liquidity and capital resources, including our access to external
+capital, to ensure we can finance future capital requirements.
+
+Our  marketable  securities  consist  of  publicly-held  equity  securities,  debt  securities  issued  by  the  U.S.  government  and  its  agencies,
+highly  rated  corporations  and  financial  institutions,  and  foreign  government  entities,  as  well  as  certificates  of  deposit  issued  by  highly
+rated  financial  institutions. These  marketable  securities  are  primarily  denominated  in  U.S.  dollars.  Refer  to  Note  7  of  the  Notes  to  the
+Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for additional information.
+
+Except for approximately $1.7 billion of cash, cash equivalents, and marketable securities held outside the U.S. for which we have not
+accrued any related foreign or state taxes if we repatriate these amounts to the U.S., substantially all of our cash, cash equivalents and
+marketable securities held outside the U.S. at the end of fiscal year 2025 are available for use in the U.S. without incurring additional
+U.S. federal income taxes.
+
+Capital Return to Shareholders
+
+On August 26, 2024, our Board of Directors approved an additional $50 billion to our share repurchase authorization, without expiration.
+In  fiscal  year  2025,  we  repurchased  310  million  shares  of  our  common  stock  for  $34.0  billion.  As  of  January  26,  2025,  we  were
+authorized, subject to certain specifications, to repurchase up to $38.7 billion of our common stock.
+
+From  January  27,  2025  through  February  21,  2025,  we  repurchased  29  million  shares  for  $3.7  billion  pursuant  to  a  pre-established
+trading plan. Our share repurchase program aims to offset dilution from shares issued to employees while maintaining adequate liquidity
+to  meet  our  operating  requirements.  We  may  pursue  additional  share  repurchases  as  we  weigh  market  factors  and  other  investment
+opportunities.
+
+In fiscal year 2025, we paid cash dividends to our shareholders of $834 million. The payment of future cash dividends is subject to our
+Board of Directors' continuing determination that the declaration of dividends is in the best interests of our shareholders.
+
+The U.S. Inflation Reduction Act of 2022 requires a 1% excise tax on certain share repurchases in excess of shares issued for employee
+compensation made after December 31, 2022. The excise tax is included in our share repurchase cost and was not material for fiscal
+years 2025 and 2024.
+
+Outstanding Indebtedness and Commercial Paper Program
+
+Our aggregate debt maturities as of January 26, 2025, by year payable, are as follows:
+
+Due in one year
+Due in one to five years
+Due in five to ten years
+Due in greater than ten years
+Unamortized debt discount and issuance costs
+
+Net long-term carrying amount
+
+Jan 26, 2025
+
+(In millions)
+
+—
+2,250
+2,750
+3,500
+(37)
+8,463
+
+$
+
+$
+
+We  have  a  $575  million  commercial  paper  program  to  support  general  corporate  purposes.  As  of  January  26,  2025,  we  had  no
+commercial paper outstanding.
+
+44
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+69/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+Refer to Note 11 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for further
+discussion.
+
+Material Cash Requirements and Other Obligations
+
+For a description of our long-term debt, purchase obligations, and operating lease obligations, refer to Note 11, Note 12, and Note 17 of
+the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K, respectively.
+
+During fiscal year 2025 and fiscal year 2024, we spent $3.4 billion and $1.1 billion on capital expenditures, respectively. We expect to
+increase capital expenditures in fiscal year 2026 relative to fiscal year 2025 to support the future growth of our business.
+
+Unrecognized  tax  benefits  of  $2.2  billion,  which  includes  related  interest  and  penalties  of  $251  million,  were  recorded  in  non-current
+income tax payable at the end of fiscal year 2025. We are unable to estimate the timing of any potential tax liability, interest payments, or
+penalties in individual years due to uncertainties in the underlying income tax positions and the timing of the effective settlement of such
+tax positions. Refer to Note 13 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form
+10-K for further information.
+
+Climate Change
+
+To  date,  there  has  been  no  material  impact  to  our  results  of  operations  associated  with  global  sustainability  regulations,  compliance,
+costs from sourcing renewable energy or climate-related business trends.
+
+Adoption of New and Recently Issued Accounting Pronouncements
+
+Refer  to  Note  1  of  the  Notes  to  the  Consolidated  Financial  Statements  in  Part  IV,  Item  15  of  this Annual  Report  on  Form  10-K  for  a
+discussion of adoption of new and recently issued accounting pronouncements.
+
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk
+
+Investment and Interest Rate Risk
+
+We  are  exposed  to  interest  rate  risk  related  to  our  fixed-rate  investment  portfolio  and  outstanding  debt.  The  investment  portfolio  is
+managed consistent with our overall liquidity strategy in support of both working capital needs and growth of our businesses.
+
+As  of  the  end  of  fiscal  year  2025,  we  performed  a  sensitivity  analysis  on  our  investment  portfolio. According  to  our  analysis,  parallel
+shifts in the yield curve of plus or minus 0.5% would result in a change in fair value for these investments of $238 million.
+
+As of the end of fiscal year 2025, we had $8.5 billion of senior Notes outstanding. We carry the Notes at face value less unamortized
+discount on our Consolidated Balance Sheets. As the Notes bear interest at a fixed rate, we have no financial statement risk associated
+with changes in interest rates. Refer to Note 11 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual
+Report on Form 10-K for additional information.
+
+Foreign Exchange Rate Risk
+
+We consider our direct exposure to foreign exchange rate fluctuations to be minimal as substantially all of our sales are in United States
+dollars and foreign currency forward contracts are used to offset movements of foreign currency exchange rates. Gains or losses from
+foreign  currency  remeasurement  are  included  in  other  income  or  expenses.  The  impact  of  foreign  currency  transaction  gain  or  loss
+included in determining net income was not significant for fiscal years 2025 and 2024.
+
+Sales and arrangements with third-party manufacturers provide for pricing and payment in United States dollars, and, therefore, are not
+subject  to  exchange  rate  fluctuations.  Increases  in  the  value  of  the  United  States’  dollar  relative  to  other  currencies  would  make  our
+products more expensive, which could negatively impact our ability to compete. Conversely, decreases in the value of the United States’
+dollar relative to other currencies could result in our suppliers raising their manufacturing costs.
+
+If  the  U.S.  dollar  strengthened  by  10%  as  of  January  26,  2025  and  January  28,  2024,  the  amount  recorded  in  accumulated  other
+comprehensive income (loss) related to our foreign exchange contracts before tax effect would have been $136 million and $116 million
+lower,  respectively.  Change  in  value  recorded  in  accumulated  other  comprehensive  income  (loss)  would  be  expected  to  offset  a
+corresponding change in hedged forecasted foreign currency expenses when recognized.
+
+If  an  adverse  10%  foreign  exchange  rate  change  was  applied  to  our  balance  sheet  hedging  contracts,  it  would  have  resulted  in  an
+adverse  impact  on  income  before  taxes  of  $129  million  and  $60  million  as  of  January  26,  2025  and  January  28,  2024,  respectively.
+These changes in fair values would be offset in other income (expense), net by
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+70/119
+
+45
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+corresponding change in fair values of the foreign currency denominated monetary assets and liabilities, assuming the hedge contracts
+fully cover the foreign currency denominated monetary assets and liabilities balances.
+
+Refer  to  Note  10  of  the  Notes  to  the  Consolidated  Financial  Statements  in  Part  IV,  Item  15  of  this Annual  Report  on  Form  10-K  for
+additional information.
+
+Item 8. Financial Statements and Supplementary Data
+
+The  information  required  by  this  Item  is  set  forth  in  our  Consolidated  Financial  Statements  and  Notes  thereto  included  in  this Annual
+Report on Form 10-K.
+
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+
+None.
+
+Item 9A. Controls and Procedures
+
+Controls and Procedures
+
+Disclosure Controls and Procedures
+
+Based on their evaluation as of January 26, 2025, our management, including our Chief Executive Officer and Chief Financial Officer,
+has  concluded  that  our  disclosure  controls  and  procedures  (as  defined  in  Rule  13a-15(e)  under  the  Exchange Act)  were  effective  to
+provide reasonable assurance that the information we are required to disclose in reports that we file or submit under the Exchange Act is
+recorded, processed, summarized and reported within the time periods specified in the SEC rules and forms, and that such information
+is  accumulated  and  communicated  to  our  management,  including  our  Chief  Executive  Officer  and  our  Chief  Financial  Officer,  as
+appropriate, to allow timely decisions regarding required disclosures.
+
+Management’s Annual Report on Internal Control Over Financial Reporting
+
+Our  management  is  responsible  for  establishing  and  maintaining  adequate  internal  control  over  financial  reporting,  as  such  term  is
+defined  in  Exchange  Act  Rule  13a-15(f).  Under  the  supervision  and  with  the  participation  of  our  management,  including  our  Chief
+Executive  Officer  and  Chief  Financial  Officer,  we  conducted  an  evaluation  of  the  effectiveness  of  our  internal  control  over  financial
+reporting  as  of  January  26,  2025  based  on  the  criteria  set  forth  in  Internal  Control  -  Integrated  Framework  (2013)  issued  by  the
+Committee  of  Sponsoring  Organizations  of  the Treadway  Commission.  Based  on  our  evaluation  under  the  criteria  set  forth  in  Internal
+Control  —  Integrated  Framework,  our  management  concluded  that  our  internal  control  over  financial  reporting  was  effective  as  of
+January 26, 2025.
+
+The effectiveness of our internal control over financial reporting as of January 26, 2025 has been audited by PricewaterhouseCoopers
+LLP, an independent registered public accounting firm, as stated in its report which is included herein.
+
+Changes in Internal Control Over Financial Reporting
+
+There  have  been  no  changes  in  our  internal  control  over  financial  reporting  during  the  quarter  ended  January  26,  2025  that  have
+materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. In fiscal year 2022, we began
+an upgrade of our ERP system, which will update much of our existing core financial systems. The ERP system is designed to accurately
+maintain  our  financial  records  used  to  report  operating  results.  The  upgrade  will  occur  in  phases.  We  will  continue  to  evaluate  each
+quarter whether there are changes that materially affect our internal control over financial reporting.
+
+Inherent Limitations on Effectiveness of Controls
+
+Our  management,  including  our  Chief  Executive  Officer  and  Chief  Financial  Officer,  does  not  expect  that  our  disclosure  controls  and
+procedures or our internal controls, will prevent all error and all fraud. A control system, no matter how well conceived and operated, can
+provide  only  reasonable,  not  absolute,  assurance  that  the  objectives  of  the  control  system  are  met.  Further,  the  design  of  a  control
+system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs.
+Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues
+and instances of fraud, if any, within NVIDIA have been detected.
+
+46
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+71/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+Item 9B. Other Information
+
+The following members of our Board of Directors and/or officers adopted, modified or terminated a trading arrangement that is intended
+to satisfy the affirmative defense conditions of Rule 10b5-1(c), or a Rule 10b5-1 Trading Arrangement:
+
+Name
+
+Title of Director or
+Officer
+
+Action
+
+Date
+
+Aarti Shah
+Aarti Shah
+John O. Dabiri
+
+Director
+Director
+Director
+
+Termination
+Adoption
+Adoption
+
+November 25, 2024
+November 25, 2024
+December 9, 2024
+
+Total Shares of
+Common Stock to be
+Sold
+29,000*
+39,000
+3,396**
+
+Expiration Date
+
+N/A
+March 31, 2026
+December 2, 2025
+
+*The Rule 10b5-1 Trading Arrangement was adopted on September 27, 2024 for sales through March 31, 2026. No shares were sold
+under the plan prior to termination.
+
+**Estimated assuming our closing stock price as of January 24, 2025. The number of shares is based on an estimate because the plan
+specifies a formulaic dollar amount of shares to be sold.
+
+Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
+
+Not Applicable.
+
+Part III
+
+Certain information required by Part III is omitted from this report because we will file with the SEC a definitive proxy statement pursuant
+to  Regulation  14A,  or  the  2025  Proxy  Statement,  no  later  than  120  days  after  the  end  of  fiscal  year  2025,  and  certain  information
+included therein is incorporated herein by reference.
+
+Item 10. Directors, Executive Officers and Corporate Governance
+
+Identification of Directors
+
+Information  regarding  directors  required  by  this  item  will  be  contained  in  our  2025  Proxy  Statement  under  the  caption  “Proposal  1  —
+Election of Directors,” and is hereby incorporated by reference.
+
+Identification of Executive Officers
+
+Reference  is  made  to  the  information  regarding  executive  officers  appearing  under  the  heading  “Information  About  Our  Executive
+Officers” in Part I of this Annual Report on Form 10-K, which information is hereby incorporated by reference.
+
+Identification of Audit Committee and Financial Experts
+
+Information  regarding  our  Audit  Committee  required  by  this  item  will  be  contained  in  our  2025  Proxy  Statement  under  the  captions
+“Report of the Audit Committee of the Board of Directors” and “Information About the Board of Directors and Corporate Governance,”
+and is hereby incorporated by reference.
+
+Material Changes to Procedures for Recommending Directors
+
+Information regarding procedures for recommending directors required by this item will be contained in our 2025 Proxy Statement under
+the caption “Information About the Board of Directors and Corporate Governance,” and is hereby incorporated by reference.
+
+Code of Conduct
+
+Information  regarding  our  Code  of  Conduct  required  by  this  item  will  be  contained  in  our  2025  Proxy  Statement  under  the  caption
+“Information About  the  Board  of  Directors  and  Corporate  Governance  —  Code  of  Conduct,”  and  is  hereby  incorporated  by  reference.
+The full text of our Code of Conduct and Financial Team Code of Conduct are published on the Investor Relations portion of our website,
+under Governance, at www.nvidia.com. If we make any amendments to either code, or grant any waiver from a provision of either code
+to  any  executive  officer  or  director,  we  will  promptly  disclose  the  nature  of  the  amendment  or  waiver  on  our  website  or  in  a  report  on
+Form 8-K. The contents of our website are not a part of this Annual Report on Form 10-K.
+
+Insider Trading Policy
+
+The information required by Item 408(b) of Regulation S-K is incorporated by reference from the information contained in our 2025 Proxy
+Statement under the heading “Information About the Board of Directors and Corporate Governance.”
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+72/119
+
+3/10/25, 4:53 PM
+
+nvda-20250126
+
+47
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+73/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+Item 11. Executive Compensation
+
+Information  regarding  our  executive  compensation  required  by  this  item  will  be  contained  in  our  2025  Proxy  Statement  under  the
+captions  “Executive  Compensation,”  “Compensation  Committee  Interlocks  and  Insider  Participation,”  “Director  Compensation,”  and
+“Compensation Committee Report,” and is hereby incorporated by reference.
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+
+Ownership of NVIDIA Securities
+
+Information  regarding  ownership  of  NVIDIA  securities  required  by  this  item  will  be  contained  in  our  2025  Proxy  Statement  under  the
+caption “Security Ownership of Certain Beneficial Owners and Management,” and is hereby incorporated by reference.
+
+Equity Compensation Plan Information
+
+Information  regarding  our  equity  compensation  plans  required  by  this  item  will  be  contained  in  our  2025  Proxy  Statement  under  the
+caption "Equity Compensation Plan Information," and is hereby incorporated by reference.
+
+Item 13. Certain Relationships and Related Transactions, and Director Independence
+
+Information  regarding  related  transactions  and  director  independence  required  by  this  item  will  be  contained  in  our  2025  Proxy
+Statement  under  the  captions  “Review  of  Transactions  with  Related  Persons”  and  “Information  About  the  Board  of  Directors  and
+Corporate Governance — Independence of the Members of the Board of Directors,” and is hereby incorporated by reference.
+
+Item 14. Principal Accountant Fees and Services
+
+Information  regarding  accounting  fees  and  services  required  by  this  item  will  be  contained  in  our  2025  Proxy  Statement  under  the
+caption “Fees Billed by the Independent Registered Public Accounting Firm,” and is hereby incorporated by reference.
+
+48
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+74/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+Part IV
+
+nvda-20250126
+
+Item 15. Exhibits and Financial Statement Schedules
+
+(a)
+
+1.
+
+Financial Statements
+
+Report of Independent Registered Public Accounting Firm (PCAOB ID: 238)
+
+Consolidated Statements of Income for the years ended January 26, 2025, January 28, 2024, and January 29,
+2023
+
+Consolidated Statements of Comprehensive Income for the years ended January 26, 2025, January 28, 2024,
+and January 29, 2023
+
+Consolidated Balance Sheets as of January 26, 2025 and January 28, 2024
+
+Consolidated Statements of Shareholders’ Equity for the years ended January 26, 2025, January 28, 2024, and
+January 29, 2023
+
+Consolidated Statements of Cash Flows for the years ended January 26, 2025, January 28, 2024, and January
+29, 2023
+
+Notes to the Consolidated Financial Statements
+
+2.
+
+Financial Statement Schedule
+
+Schedule II Valuation and Qualifying Accounts for the years ended January 26, 2025, January 28, 2024, and
+January 29, 2023
+
+3.
+
+Exhibits
+
+The exhibits listed in the accompanying index to exhibits are filed or incorporated by reference as a part of this
+Annual Report on Form 10-K.
+
+Page
+
+50
+
+52
+
+53
+
+54
+
+55
+
+56
+
+57
+
+82
+
+83
+
+49
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+75/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+Report of Independent Registered Public Accounting Firm
+
+To the Board of Directors and Shareholders of NVIDIA Corporation
+
+Opinions on the Financial Statements and Internal Control over Financial Reporting
+
+We  have  audited  the  accompanying  consolidated  balance  sheets  of  NVIDIA  Corporation  and  its  subsidiaries  (the  “Company”)  as  of
+January  26,  2025  and  January  28,  2024,  and  the  related  consolidated  statements  of  income,  comprehensive  income,  shareholders'
+equity  and  cash  flows  for  each  of  the  three  years  in  the  period  ended  January  26,  2025,  including  the  related  notes  and  financial
+statement schedule listed in the index appearing under Item 15(a)(2) (collectively referred to as the “consolidated financial statements”).
+We also have audited the Company's internal control over financial reporting as of January 26, 2025, based on criteria established in
+Internal  Control  -  Integrated  Framework  (2013)  issued  by  the  Committee  of  Sponsoring  Organizations  of  the  Treadway  Commission
+(COSO).
+
+In our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the financial position of the
+Company as of January 26, 2025 and January 28, 2024, and the results of its operations and its cash flows for each of the three years in
+the period ended January 26, 2025 in conformity with accounting principles generally accepted in the United States of America. Also in
+our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of January 26, 2025,
+based on criteria established in Internal Control - Integrated Framework (2013) issued by the COSO.
+
+Basis for Opinions
+
+The  Company's  management  is  responsible  for  these  consolidated  financial  statements,  for  maintaining  effective  internal  control  over
+financial  reporting,  and  for  its  assessment  of  the  effectiveness  of  internal  control  over  financial  reporting,  included  in  Management’s
+Annual Report on Internal Control over Financial Reporting appearing under Item 9A. Our responsibility is to express opinions on the
+Company’s consolidated financial statements and on the Company's internal control over financial reporting based on our audits. We are
+a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to
+be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations
+of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audits
+to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to
+error or fraud, and whether effective internal control over financial reporting was maintained in all material respects.
+
+Our audits of the consolidated financial statements included performing procedures to assess the risks of material misstatement of the
+consolidated  financial  statements,  whether  due  to  error  or  fraud,  and  performing  procedures  that  respond  to  those  risks.  Such
+procedures  included  examining,  on  a  test  basis,  evidence  regarding  the  amounts  and  disclosures  in  the  consolidated  financial
+statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well
+as  evaluating  the  overall  presentation  of  the  consolidated  financial  statements.  Our  audit  of  internal  control  over  financial  reporting
+included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, and
+testing and evaluating the design and operating effectiveness of internal control based on the assessed risk. Our audits also included
+performing such other procedures as we considered necessary in the circumstances. We believe that our audits provide a reasonable
+basis for our opinions.
+
+Definition and Limitations of Internal Control over Financial Reporting
+
+A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of
+financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting
+principles. A company’s internal control over financial reporting includes those policies and procedures that (i) pertain to the maintenance
+of  records  that,  in  reasonable  detail,  accurately  and  fairly  reflect  the  transactions  and  dispositions  of  the  assets  of  the  company;  (ii)
+provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance
+with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance
+with authorizations of management and directors of the company; and (iii) provide reasonable assurance regarding prevention or timely
+detection  of  unauthorized  acquisition,  use,  or  disposition  of  the  company’s  assets  that  could  have  a  material  effect  on  the  financial
+statements.
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of
+any  evaluation  of  effectiveness  to  future  periods  are  subject  to  the  risk  that  controls  may  become  inadequate  because  of  changes  in
+conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+50
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+76/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+Critical Audit Matters
+
+nvda-20250126
+
+The critical audit matter communicated below is a matter arising from the current period audit of the consolidated financial statements
+that was communicated or required to be communicated to the audit committee and that (i) relates to accounts or disclosures that are
+material  to  the  consolidated  financial  statements  and  (ii)  involved  our  especially  challenging,  subjective,  or  complex  judgments.  The
+communication of critical audit matters does not alter in any way our opinion on the consolidated financial statements, taken as a whole,
+and  we  are  not,  by  communicating  the  critical  audit  matter  below,  providing  a  separate  opinion  on  the  critical  audit  matter  or  on  the
+accounts or disclosures to which it relates.
+
+Valuation of Inventories - Provisions for Excess or Obsolete Inventories and Excess Product Purchase Commitments
+
+As described in Notes 1, 9 and 12 to the consolidated financial statements, the Company charges cost of sales for inventory provisions
+to  write-down  inventory  for  excess  or  obsolete  inventory  and  for  excess  product  purchase  commitments.  Most  of  the  Company’s
+inventory  provisions  relate  to  excess  quantities  of  products,  based  on  the  Company’s  inventory  levels  and  future  product  purchase
+commitments  compared  to  assumptions  about  future  demand  and  market  conditions.  As  of  January  26,  2025,  the  Company’s
+consolidated  inventories  balance  was  $10.1  billion  and  the  Company’s  consolidated  outstanding  inventory  purchase  and  long-term
+supply and capacity obligations balance was $30.8 billion, of which a significant portion relates to inventory purchase obligations.
+
+The  principal  considerations  for  our  determination  that  performing  procedures  relating  to  the  valuation  of  inventories,  specifically  the
+provisions  for  excess  or  obsolete  inventories  and  excess  product  purchase  commitments,  is  a  critical  audit  matter  are  the  significant
+judgment by management when developing provisions for excess or obsolete inventories and excess product purchase commitments,
+including  developing  assumptions  related  to  future  demand  and  market  conditions.  This  in  turn  led  to  significant  auditor  judgment,
+subjectivity,  and  effort  in  performing  procedures  and  evaluating  management’s  assumptions  related  to  future  demand  and  market
+conditions.
+
+Addressing the matter involved performing procedures and evaluating audit evidence in connection with forming our overall opinion on
+the  consolidated  financial  statements.  These  procedures  included  testing  the  effectiveness  of  controls  relating  to  management’s
+provisions  for  excess  or  obsolete  inventories  and  excess  product  purchase  commitments,  including  controls  over  management’s
+assumptions  related  to  future  demand  and  market  conditions.  These  procedures  also  included,  among  others,  testing  management’s
+process  for  developing  the  provisions  for  excess  or  obsolete  inventories  and  excess  product  purchase  commitments;  evaluating  the
+appropriateness  of  management’s  approach;  testing  the  completeness  and  accuracy  of  underlying  data  used  in  the  approach;  and
+evaluating  the  reasonableness  of  management’s  assumptions  related  to  future  demand  and  market  conditions.  Evaluating
+management’s  assumptions  related  to  future  demand  and  market  conditions  involved  evaluating  whether  the  assumptions  used  by
+management  were  reasonable  considering  (i)  current  and  past  results,  including  historical  product  life  cycle,  (ii)  the  consistency  with
+external market and industry data, and (iii) changes in technology.
+
+/s/ PricewaterhouseCoopers LLP
+
+San Jose, California
+February 26, 2025
+
+We have served as the Company’s auditor since 2004.
+
+51
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+77/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+NVIDIA Corporation and Subsidiaries
+Consolidated Statements of Income
+(In millions, except per share data)
+
+Revenue
+
+Cost of revenue
+
+Gross profit
+Operating expenses
+
+Research and development
+Sales, general and administrative
+Acquisition termination cost
+Total operating expenses
+
+Operating income
+
+Interest income
+Interest expense
+Other, net
+
+Other income (expense), net
+
+Income before income tax
+Income tax expense (benefit)
+Net income
+
+Net income per share:
 Basic
 Diluted
 
-Shares used in computing earnings per share:
-
+Weighted average shares used in per share computation:
 Basic
 Diluted
 
-September 24,
-2022
-
-Years ended
-
-September 25,
-2021
-
-September 26,
-2020
-
 $
-
-316,199  $
-78,129
-394,328
-
-297,392  $
-68,425
-365,817
-
-220,747
-53,768
-274,515
-
-201,471
-22,075
-223,546
-170,782
-
-26,251
-25,094
-51,345
-
-192,266
-20,715
-212,981
-152,836
-
-21,914
-21,973
-43,887
-
-119,437
-(334)
-119,103
-19,300
-99,803  $
-
-108,949
-258
-109,207
-14,527
-94,680  $
-
-151,286
-18,273
-169,559
-104,956
-
-18,752
-19,916
-38,668
-
-66,288
-803
-67,091
-9,680
-57,411
-
-6.15  $
-6.11  $
-
-5.67  $
-5.61  $
-
-3.31
-3.28
 
 $
 
 $
 $
 
-16,215,963
-16,325,819
+Jan 26, 2025
 
-16,701,272
-16,864,919
+Year Ended
+Jan 28, 2024
 
-17,352,119
-17,528,214
+Jan 29, 2023
 
-See accompanying Notes to Consolidated Financial Statements.
+130,497  $
+32,639
+97,858
 
-Apple Inc. | 2022 Form 10-K | 29
+12,914
+3,491
+—
+16,405
 
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
+81,453
+1,786
+(247)
+1,034
+2,573
+84,026
+11,146
+72,880  $
 
-39/78
+60,922  $
+16,621
+44,301
 
-3/4/25, 11:08 PM
+8,675
+2,654
+—
+11,329
 
-aapl-20220924
+32,972
+866
+(257)
+237
+846
+33,818
+4,058
+29,760  $
 
-Apple Inc.
+26,974
+11,618
+15,356
 
-CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+7,339
+2,440
+1,353
+11,132
+
+4,224
+267
+(262)
+(48)
+(43)
+4,181
+(187)
+4,368
+
+2.97  $
+2.94  $
+
+1.21  $
+1.19  $
+
+0.18
+0.17
+
+24,555
+24,804
+
+24,690
+24,940
+
+24,870
+25,070
+
+See accompanying Notes to the Consolidated Financial Statements.
+
+52
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+78/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+NVIDIA Corporation and Subsidiaries
+Consolidated Statements of Comprehensive Income
 (In millions)
 
 Net income
-Other comprehensive income/(loss):
+Other comprehensive income (loss), net of tax
+Available-for-sale securities:
 
-September 24,
-2022
+Net change in unrealized gain (loss)
+Reclassification adjustments for net realized gain included in net income
+Net change in unrealized gain (loss)
 
-Years ended
+Cash flow hedges:
 
-September 25,
-2021
+Net change in unrealized gain
+Reclassification adjustments for net realized loss included in net income
+Net change in unrealized loss
 
-September 26,
-2020
-
-$
-
-99,803  $
-
-94,680  $
-
-57,411
-
-Change in foreign currency translation, net of tax
-
-(1,511)
-
-501
-
-88
-
-Change in unrealized gains/losses on derivative instruments, net of tax:
-
-Change in fair value of derivative instruments
-Adjustment for net (gains)/losses realized and included in net income
-
-Total change in unrealized gains/losses on derivative
-
-instruments
-
-Change in unrealized gains/losses on marketable debt securities, net of tax:
-
-Change in fair value of marketable debt securities
-Adjustment for net (gains)/losses realized and included in net income
-
-Total change in unrealized gains/losses on marketable debt
-
-securities
-
-3,212
-(1,074)
-
-2,138
-
-(12,104)
-205
-
-(11,899)
-
-32
-1,003
-
-1,035
-
-(694)
-(273)
-
-(967)
-
-79
-(1,264)
-
-(1,185)
-
-1,202
-(63)
-
-1,139
-
-Total other comprehensive income/(loss)
+Other comprehensive income (loss), net of tax
 Total comprehensive income
 
-(11,272)
-88,531  $
+Jan 26, 2025
 
-569
-95,249  $
+Year Ended
+Jan 28, 2024
 
-42
-57,453
+Jan 29, 2023
 
 $
 
-See accompanying Notes to Consolidated Financial Statements.
+72,880  $
 
-Apple Inc. | 2022 Form 10-K | 30
+29,760  $
 
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
+4,368
 
-40/78
+1
+—
+1
 
-3/4/25, 11:08 PM
+21
+(21)
+—
 
-aapl-20220924
+1
 
-Apple Inc.
+$
 
-CONSOLIDATED BALANCE SHEETS
-(In millions, except number of shares which are reflected in thousands and par value)
+72,881  $
 
-ASSETS:
+80
+—
+80
 
-September 24,
-2022
+38
+(48)
+(10)
 
-September 25,
-2021
+(31)
+1
+(30)
 
+47
+(49)
+(2)
+
+70
+29,830  $
+
+(32)
+4,336
+
+See accompanying Notes to the Consolidated Financial Statements.
+
+53
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+79/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+NVIDIA Corporation and Subsidiaries
+Consolidated Balance Sheets
+(In millions, except par value)
+
+Jan 26, 2025
+
+Jan 28, 2024
+
+Assets
 Current assets:
 
 Cash and cash equivalents
 Marketable securities
 Accounts receivable, net
 Inventories
-Vendor non-trade receivables
-Other current assets
+Prepaid expenses and other current assets
 
 Total current assets
-
-Non-current assets:
-
-Marketable securities
-Property, plant and equipment, net
-Other non-current assets
-
-Total non-current assets
-
+Property and equipment, net
+Operating lease assets
+Goodwill
+Intangible assets, net
+Deferred income tax assets
+Other assets
 Total assets
 
+Liabilities and Shareholders' Equity
 Current liabilities:
 
 Accounts payable
-Other current liabilities
-Deferred revenue
-Commercial paper
-Term debt
-
+Accrued and other current liabilities
+Short-term debt
 Total current liabilities
-
-Non-current liabilities:
-
-Term debt
-Other non-current liabilities
-
-Total non-current liabilities
-
+Long-term debt
+Long-term operating lease liabilities
+Other long-term liabilities
 Total liabilities
 
-Commitments and contingencies
+Commitments and contingencies - see Note 12
 
 Shareholders’ equity:
 
-LIABILITIES AND SHAREHOLDERS’ EQUITY:
-
-Common stock and additional paid-in capital, $0.00001 par value: 50,400,000 shares
-
-authorized; 15,943,425 and 16,426,786 shares issued and outstanding, respectively
-
-Retained earnings/(Accumulated deficit)
-Accumulated other comprehensive income/(loss)
-
-Total shareholders’ equity
-
-Total liabilities and shareholders’ equity
+Preferred stock, $0.001 par value; 20 shares authorized; none issued
+Common stock, $0.001 par value; 80,000 shares authorized; 24,477 shares issued and
+outstanding as of January 26, 2025; 24,643 shares issued and outstanding as of
+January 28, 2024
+Additional paid-in capital
+ Accumulated other comprehensive income
+Retained earnings
+Total shareholders' equity
 
 $
 
@@ -2885,3856 +4803,4397 @@ $
 
 $
 
-23,646  $
-24,658
-28,184
-4,946
-32,748
-21,223
-135,405
+$
 
-120,805
-42,117
-54,428
-217,350
-352,755  $
+$
 
-64,115  $
-60,845
-7,912
-9,982
-11,128
-153,982
+8,589
+34,621
+23,065
+10,080
+3,771
 
-98,959
-49,142
-148,101
-302,083
+80,126
+6,283
+1,793
+5,188
+807
+10,979
+6,425
+111,601
 
-34,940
-27,699
-26,278
-6,580
-25,228
-14,111
-134,836
+6,310
+11,737
+—
+18,047
+8,463
+1,519
+4,245
+32,274
 
-127,877
-39,440
-48,849
-216,166
-351,002
+—
 
-54,763
-47,493
-7,612
-6,000
-9,613
-125,481
+—
 
-109,106
-53,325
-162,431
-287,912
+24
+11,237
+28
+68,038
+79,327
 
-64,849
-(3,068)
-(11,109)
-50,672
-352,755  $
+Total liabilities and shareholders' equity
 
-57,365
-5,562
-163
-63,090
-351,002
+$
 
-See accompanying Notes to Consolidated Financial Statements.
+111,601
 
-Apple Inc. | 2022 Form 10-K | 31
+$
 
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
+See accompanying Notes to the Consolidated Financial Statements.
 
-41/78
+54
 
-3/4/25, 11:08 PM
+7,280
+18,704
+9,999
+5,282
+3,080
 
-aapl-20220924
+44,345
+3,914
+1,346
+4,430
+1,112
+6,081
+4,500
+65,728
 
-Apple Inc.
+2,699
+6,682
+1,250
+10,631
+8,459
+1,119
+2,541
+22,750
 
-CONSOLIDATED STATEMENTS OF SHAREHOLDERS’ EQUITY
-(In millions, except per share amounts)
+—
 
-Total shareholders’ equity, beginning balances
+—
 
-Common stock and additional paid-in capital:
+25
+13,109
+27
+29,817
+42,978
 
-Beginning balances
+65,728
 
-Common stock issued
-Common stock withheld related to net share settlement of equity
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
 
-awards
+80/119
 
-Share-based compensation
+3/10/25, 4:53 PM
 
-Ending balances
+Table of Contents
 
-Retained earnings/(Accumulated deficit):
+nvda-20250126
 
-Beginning balances
+NVIDIA Corporation and Subsidiaries
+Consolidated Statements of Shareholders' Equity
+
+Common Stock
+Outstanding
+
+Shares
+
+Amount
+
+Additional
+Paid-in
+Capital
+
+Accumulated
+Other
+Comprehensive
+ Income (Loss)
+
+Retained
+ Earnings
+
+Total
+Shareholders'
+ Equity
+
+(In millions, except per share data)
+Balances as of Jan 30, 2022
 Net income
-Dividends and dividend equivalents declared
-Common stock withheld related to net share settlement of equity
+Other comprehensive loss
+Issuance of common stock from stock plans
+Tax withholding related to vesting of restricted stock units
+Shares repurchased
+Cash dividends declared and paid ($0.016 per common share)
+Stock-based compensation
 
-awards
+Balances as of Jan 29, 2023
+Net income
+Other comprehensive income
+Issuance of common stock from stock plans
+Tax withholding related to vesting of restricted stock units
+Shares repurchased
+Cash dividends declared and paid ($0.016 per common share)
+Stock-based compensation
+Balances as of Jan 28, 2024
 
-Common stock repurchased
-Cumulative effect of change in accounting principle
+Net income
+Other comprehensive income
+Issuance of common stock from stock plans
+Tax withholding related to vesting of restricted stock units
+Shares repurchased
+Cash dividends declared and paid ($0.034 per common share)
+Stock-based compensation
 
-Ending balances
+Balances as of Jan 26, 2025
 
-Accumulated other comprehensive income/(loss):
-
-Beginning balances
-
-Other comprehensive income/(loss)
-Cumulative effect of change in accounting principle
-
-Ending balances
-
-September 24,
-2022
-
-Years ended
-
-September 25,
-2021
-
-September 26,
-2020
-
-$
-
-63,090  $
-
-65,339  $
-
-90,488
-
-57,365
-1,175
-
-(2,971)
-9,280
-64,849
-
-5,562
-99,803
-(14,793)
-
-(3,454)
-(90,186)
+25,064  $
 —
-(3,068)
-
-163
-(11,272)
 —
-(11,109)
-
-50,779
-1,105
-
-(2,627)
-8,108
-57,365
-
-14,966
-94,680
-(14,431)
-
-(4,151)
-(85,502)
+312
+(82)
+(633)
 —
-5,562
-
-(406)
-569
 —
-163
 
-45,174
-880
+24,661
+—
+—
+265
+(72)
+(211)
+—
+—
+24,643
 
-(2,250)
-6,975
-50,779
+—
+—
+203
+(59)
+(310)
+—
+—
+24,477  $
 
-45,898
-57,411
-(14,087)
+26  $
+—
+—
+—
+—
+(1)
+—
+—
 
-(1,604)
-(72,516)
-(136)
-14,966
+25
+—
+—
+—
+—
+—
+—
+—
+25
 
-(584)
-42
-136
-(406)
+—
+—
+—
+—
+(1)
+—
+—
+24  $
 
-Total shareholders’ equity, ending balances
+10,362  $
+—
+—
+355
+(1,475)
+(4)
+—
+2,710
 
-Dividends and dividend equivalents declared per share or RSU
+11,948
+—
+—
+403
+(2,783)
+(27)
+—
+3,568
+13,109
 
-$
+—
+—
+490
+(6,930)
+(189)
+—
+4,757
+11,237  $
 
-$
+(11) $
+—
+(32)
+—
+—
+—
+—
+—
 
-50,672  $
+16,235  $
+4,368
+—
+—
+—
+(10,034)
+(398)
+—
 
-63,090  $
+(43)
+—
+70
+—
+—
+—
+—
+—
+27
 
-65,339
+10,171
+29,760
+—
+—
+—
+(9,719)
+(395)
+—
+29,817
 
-0.90  $
+—
+1
+—
+—
+—
+—
+—
+28  $
 
-0.85  $
+72,880
+—
+—
+—
+(33,825)
+(834)
+—
+68,038  $
 
-0.795
+26,612
+4,368
+(32)
+355
+(1,475)
+(10,039)
+(398)
+2,710
 
-See accompanying Notes to Consolidated Financial Statements.
+22,101
+29,760
+70
+403
+(2,783)
+(9,746)
+(395)
+3,568
+42,978
 
-Apple Inc. | 2022 Form 10-K | 32
+72,880
+1
+490
+(6,930)
+(34,015)
+(834)
+4,757
+79,327
 
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
+See accompanying Notes to the Consolidated Financial Statements.
 
-42/78
+55
 
-3/4/25, 11:08 PM
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
 
-aapl-20220924
+81/119
 
-Apple Inc.
+3/10/25, 4:53 PM
 
-CONSOLIDATED STATEMENTS OF CASH FLOWS
+Table of Contents
+
+nvda-20250126
+
+NVIDIA Corporation and Subsidiaries
+Consolidated Statements of Cash Flows
 (In millions)
 
-Cash, cash equivalents and restricted cash, beginning balances
-Operating activities:
-
+Cash flows from operating activities:
 Net income
-Adjustments to reconcile net income to cash generated by operating activities:
+Adjustments  to  reconcile  net  income  to  net  cash  provided  by  operating
+activities:
 
+$
+
+Stock-based compensation expense
 Depreciation and amortization
-Share-based compensation expense
-Deferred income tax expense/(benefit)
+Deferred income taxes
+(Gains) losses on non-marketable equity securities and publicly-held
+equity securities, net
+Acquisition termination cost
 Other
 
-Changes in operating assets and liabilities:
+Changes in operating assets and liabilities, net of acquisitions:
 
-Accounts receivable, net
+Accounts receivable
 Inventories
-Vendor non-trade receivables
-Other current and non-current assets
+Prepaid expenses and other assets
 Accounts payable
-Deferred revenue
-Other current and non-current liabilities
+Accrued and other current liabilities
+Other long-term liabilities
 
-Cash generated by operating activities
+Net cash provided by operating activities
+Cash flows from investing activities:
 
-Investing activities:
-
-Purchases of marketable securities
 Proceeds from maturities of marketable securities
 Proceeds from sales of marketable securities
-Payments for acquisition of property, plant and equipment
-Payments made in connection with business acquisitions, net
+Proceeds from sales of non-marketable equity securities
+Purchases of marketable securities
+Purchases related to property and equipment and intangible assets
+Purchases of non-marketable equity securities
+Acquisitions, net of cash acquired
 Other
 
-Cash used in investing activities
+Net cash provided by (used in) investing activities
+Cash flows from financing activities:
 
-Financing activities:
+Proceeds related to employee stock plans
 
-Payments for taxes related to net share settlement of equity awards
-Payments for dividends and dividend equivalents
-Repurchases of common stock
-Proceeds from issuance of term debt, net
-Repayments of term debt
-Proceeds from/(Repayments of) commercial paper, net
+Payments related to repurchases of common stock
+
+Payments related to tax on restricted stock units
+Repayment of debt
+Dividends paid
+Principal payments on property and equipment and intangible assets
 Other
 
-Cash used in financing activities
-
-Decrease in cash, cash equivalents and restricted cash
-Cash, cash equivalents and restricted cash, ending balances
-
-Supplemental cash flow disclosure:
+Net cash used in financing activities
+Change in cash and cash equivalents
+Cash and cash equivalents at beginning of period
+Cash and cash equivalents at end of period
+Supplemental disclosures of cash flow information:
 Cash paid for income taxes, net
 Cash paid for interest
 
-September 24,
-2022
-
-Years ended
-
-September 25,
-2021
-
-September 26,
-2020
-
-$
-
-35,929  $
-
-39,789  $
-
-50,224
-
-99,803
-
-94,680
-
-11,104
-9,038
-895
-111
-
-(1,823)
-1,484
-(7,520)
-(6,499)
-9,448
-478
-5,632
-122,151
-
-(76,923)
-29,917
-37,446
-(10,708)
-(306)
-(1,780)
-(22,354)
-
-(6,223)
-(14,841)
-(89,402)
-5,465
-(9,543)
-3,955
-(160)
-
-11,284
-7,906
-(4,774)
-(147)
-
-(10,125)
-(2,642)
-(3,903)
-(8,042)
-12,326
-1,676
-5,799
-104,038
-
-(109,558)
-59,023
-47,460
-(11,085)
-(33)
-(352)
-(14,545)
-
-(6,556)
-(14,467)
-(85,971)
-20,393
-(8,750)
-1,022
-976
-
-(110,749)
-(10,952)
-24,977  $
-
-(93,353)
-(3,860)
-35,929  $
-
-19,573  $
-2,865  $
-
-25,385  $
-2,687  $
-
 $
 
 $
 $
 
-57,411
+Jan 26, 2025
 
-11,056
-6,829
-(215)
-(97)
+Jan 28, 2024
 
-6,917
-(127)
-1,553
-(9,588)
-(4,062)
-2,081
-8,916
-80,674
+Jan 29, 2023
 
-(114,938)
-69,918
-50,473
-(7,309)
-(1,524)
-(909)
-(4,289)
+Year Ended
 
-(3,634)
-(14,081)
-(72,358)
-16,091
-(12,629)
-(963)
-754
+72,880
 
-(86,820)
-(10,435)
-39,789
+$
 
-9,501
-3,002
+29,760  $
 
-See accompanying Notes to Consolidated Financial Statements.
+4,368
 
-Apple Inc. | 2022 Form 10-K | 33
+4,737
+1,864
+(4,477)
 
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
+(1,030)
+—
+(502)
 
-43/78
+(13,063)
+(4,781)
+(395)
+3,357
+4,278
+1,221
+64,089
 
-3/4/25, 11:08 PM
+11,195
+495
+171
+(26,575)
+(3,236)
+(1,486)
+(1,007)
+22
+(20,421)
 
-aapl-20220924
+490
 
-Apple Inc.
+(33,706)
+(6,930)
+(1,250)
+(834)
+(129)
+—
+(42,359)
+1,309
+7,280
+8,589
 
-Notes to Consolidated Financial Statements
+15,118
+246
 
-Note 1 – Summary of Significant Accounting Policies
+3,549
+1,508
+(2,489)
 
-Basis of Presentation and Preparation
+(238)
+—
+(278)
 
-The consolidated financial statements include the accounts of Apple Inc. and its wholly owned subsidiaries (collectively “Apple” or the
-“Company”). Intercompany accounts and transactions have been eliminated. The preparation of these consolidated financial statements
-and accompanying notes in conformity with U.S. generally accepted accounting principles requires management to make estimates and
-assumptions that affect the amounts reported. Actual results could differ materially from those estimates. Certain prior period amounts in
-the consolidated financial statements and accompanying notes have been reclassified to conform to the current period’s presentation.
+(6,172)
+(98)
+(1,522)
+1,531
+2,025
+514
+28,090
 
-The Company’s fiscal year is the 52- or 53-week period that ends on the last Saturday of September. An additional week is included in
-the first fiscal quarter every five or six years to realign the Company’s fiscal quarters with calendar quarters, which will occur in the first
-quarter of the Company’s fiscal year ending September 30, 2023. The Company’s fiscal years 2022, 2021 and 2020 spanned 52 weeks
-each. Unless otherwise stated, references to particular years, quarters, months and periods refer to the Company’s fiscal years ended in
-September and the associated quarters, months and periods of those fiscal years.
+9,732
+50
+1
+(18,211)
+(1,069)
+(862)
+(83)
+(124)
+(10,566)
+
+2,709
+1,544
+(2,164)
+
+45
+1,353
+(7)
+
+822
+(2,554)
+(1,517)
+(551)
+1,341
+252
+5,641
+
+19,425
+1,806
+8
+(11,897)
+(1,833)
+(85)
+(49)
+—
+7,375
+
+403
+
+355
+
+(9,533)
+(2,783)
+(1,250)
+(395)
+(74)
+(1)
+(13,633)
+3,891
+3,389
+7,280  $
+
+6,549  $
+252  $
+
+(10,039)
+(1,475)
+—
+(398)
+(58)
+(2)
+(11,617)
+1,399
+1,990
+3,389
+
+1,404
+254
+
+$
+
+$
+$
+
+See accompanying Notes to the Consolidated Financial Statements.
+
+56
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+82/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+
+Note 1 - Organization and Summary of Significant Accounting Policies
+
+Our Company
+
+Headquartered in Santa Clara, California, NVIDIA was incorporated in California in April 1993 and reincorporated in Delaware in April
+1998.
+
+All references to “NVIDIA,” “we,” “us,” “our” or the “Company” mean NVIDIA Corporation and its subsidiaries.
+
+Certain prior fiscal year balances have been reclassified to conform to the current fiscal year presentation.
+
+In June 2024, we executed a ten-for-one stock split of our common stock. All share, equity award, and per share amounts and related
+shareholders' equity balances presented herein have been retroactively adjusted to reflect the Stock Split.
+
+Fiscal Year
+
+We operate on a 52- or 53-week year, ending on the last Sunday in January. Fiscal years 2025, 2024 and 2023 were all 52-week years.
+
+Principles of Consolidation
+
+Our consolidated financial statements include the accounts of NVIDIA Corporation and our wholly-owned subsidiaries. All intercompany
+balances and transactions have been eliminated in consolidation.
+
+Use of Estimates
+
+The preparation of financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that
+affect  the  reported  amounts  of  assets  and  liabilities  and  disclosures  of  contingent  assets  and  liabilities  at  the  date  of  the  financial
+statements and the reported amounts of revenue and expenses during the reporting period. Actual results could differ materially from our
+estimates.  On  an  on-going  basis,  we  evaluate  our  estimates,  including  those  related  to  accounts  receivable,  cash  equivalents  and
+marketable  securities,  goodwill,  income  taxes,  inventories  and  product  purchase  commitments,  investigation  and  settlement  costs,
+litigation,  non-marketable  equity  securities,  other  contingencies,  property,  plant,  and  equipment,  restructuring  and  other  charges,
+revenue recognition, and stock-based compensation. These estimates are based on historical facts and various other assumptions that
+we believe are reasonable.
 
 Revenue Recognition
 
-Net sales consist of revenue from the sale of iPhone, Mac, iPad, Services and other products. The Company recognizes revenue at the
-amount to which it expects to be entitled when control of the products or services is transferred to its customers. Control is generally
-transferred when the Company has a present right to payment and title and the significant risks and rewards of ownership of products or
-services are transferred to its customers. For most of the Company’s Products net sales, control transfers when products are shipped.
-For  the  Company’s  Services  net  sales,  control  transfers  over  time  as  services  are  delivered.  Payment  for  Products  and  Services  net
-sales is collected within a short period following transfer of control or commencement of delivery of services, as applicable.
+We derive our revenue from product sales, including hardware and systems, license and development arrangements, software licensing,
+and cloud services. We determine revenue recognition through the following steps: (1) identification of the contract with a customer; (2)
+identification  of  the  performance  obligations  in  the  contract;  (3)  determination  of  the  transaction  price;  (4)  allocation  of  the  transaction
+price  to  the  performance  obligations  in  the  contract  (where  revenue  is  allocated  on  a  relative  standalone  selling  price  basis  by
+maximizing the use of observable inputs to determine the standalone selling price for each performance obligation); and (5) recognition
+of revenue when, or as, we satisfy a performance obligation. Payment from customers, per our standard payment terms, is generally due
+shortly after delivery of products, availability of software licenses or commencement of services.
 
-The Company records reductions to Products net sales related to future product returns, price protection and other customer incentive
-programs based on the Company’s expectations and historical experience.
+Product Sales Revenue
 
-For arrangements with multiple performance obligations, which represent promises within an arrangement that are distinct, the Company
-allocates revenue to all distinct performance obligations based on their relative stand-alone selling prices (“SSPs”). When available, the
-Company uses observable prices to determine SSPs. When observable prices are not available, SSPs are established that reflect the
-Company’s best estimates of what the selling prices of the performance obligations would be if they were sold regularly on a stand-alone
-basis. The Company’s process for estimating SSPs without observable prices considers multiple factors that may vary depending upon
-the unique facts and circumstances related to each performance obligation including, where applicable, prices charged by the Company
-for  similar  offerings,  market  trends  in  the  pricing  for  similar  offerings,  product-specific  business  objectives  and  the  estimated  cost  to
-provide the performance obligation.
+Revenue from product sales is recognized upon transfer of control of products to customers in an amount that reflects the consideration
+we  expect  to  receive  in  exchange  for  those  products.  Certain  products  are  sold  with  support  or  an  extended  warranty  for  the
+incorporated  system,  hardware,  and/or  software.  Support  and  extended  warranty  revenue  are  recognized  ratably  over  the  service
+period, or as services are performed. Revenue is recognized net of allowances for returns, customer programs and any taxes collected
+from customers.
 
-The Company has identified up to three performance obligations regularly included in arrangements involving the sale of iPhone, Mac,
-iPad and certain other products. The first performance obligation, which represents the substantial portion of the allocated sales price, is
-the  hardware  and  bundled  software  delivered  at  the  time  of  sale.  The  second  performance  obligation  is  the  right  to  receive  certain
-product-related bundled services, which include iCloud , Siri  and Maps. The third performance obligation is the right to receive, on a
-when-and-if-available  basis,  future  unspecified  software  upgrades  relating  to  the  software  bundled  with  each  device.  The  Company
-allocates  revenue  and  any  related  discounts  to  these  performance  obligations  based  on  their  relative  SSPs.  Because  the  Company
-lacks  observable  prices  for  the  undelivered  performance  obligations,  the  allocation  of  revenue  is  based  on  the  Company’s  estimated
-SSPs. Revenue allocated to the delivered hardware and bundled software is recognized when control has transferred to the customer,
-which  generally  occurs  when  the  product  is  shipped.  Revenue  allocated  to  the  product-related  bundled  services  and  unspecified
-software upgrade rights is deferred and recognized on a straight-line basis over the estimated period they are expected to be provided.
-Cost of sales related to delivered hardware and bundled software, including estimated warranty costs, are recognized at the time of sale.
-Costs incurred to provide product-related bundled services and unspecified software upgrade rights are recognized as cost of sales as
-incurred.
+For products sold with a right of return, we record a reduction to revenue by establishing a sales return allowance for estimated product
+returns at the time revenue is recognized, based primarily on historical return rates. However, if product returns for a fiscal period are
+anticipated to exceed historical return rates, we may determine that additional sales return allowances are required to accurately reflect
+our estimated exposure for product returns.
 
-®
+Our customer programs involve rebates, which are designed to serve as sales incentives to resellers of our products in various target
+markets, and MDFs which represent monies paid to our partners that are earmarked for market segment development and are designed
+to support our partners’ activities while also promoting NVIDIA products. We account for customer programs as a reduction to revenue
+and accrue for such programs for potential rebates and MDFs based on the amount we expect to be claimed by customers.
 
-®
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
 
-For certain long-term service arrangements, the Company has performance obligations for services it has not yet delivered. For these
-arrangements, the Company does not have a right to bill for the undelivered services. The Company has determined that any unbilled
-consideration relates entirely to the value of the undelivered services. Accordingly, the Company has not recognized revenue, and does
-not disclose amounts, related to these undelivered services.
+83/119
 
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
+3/10/25, 4:53 PM
 
-44/78
+nvda-20250126
 
-Apple Inc. | 2022 Form 10-K | 34
+57
 
-3/4/25, 11:08 PM
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
 
-aapl-20220924
+84/119
 
-For  the  sale  of  third-party  products  where  the  Company  obtains  control  of  the  product  before  transferring  it  to  the  customer,  the
-Company  recognizes  revenue  based  on  the  gross  amount  billed  to  customers.  The  Company  considers  multiple  factors  when
-determining  whether  it  obtains  control  of  third-party  products,  including  evaluating  if  it  can  establish  the  price  of  the  product,  retains
-inventory  risk  for  tangible  products  or  has  the  responsibility  for  ensuring  acceptability  of  the  product.  For  third-party  applications  sold
-through the App Store and certain digital content sold through the Company’s other digital content stores, the Company does not obtain
-control  of  the  product  before  transferring  it  to  the  customer.  Therefore,  the  Company  accounts  for  such  sales  on  a  net  basis  by
-recognizing in Services net sales only the commission it retains.
+3/10/25, 4:53 PM
 
-The Company records revenue net of taxes collected from customers that are remitted to governmental authorities, with the collected
-taxes recorded within other current liabilities until remitted to the relevant government authority.
+Table of Contents
 
-Share-Based Compensation
+nvda-20250126
 
-The Company generally measures share-based compensation based on the closing price of the Company’s common stock on the date
-of grant, and recognizes expense on a straight-line basis for its estimate of equity awards that will ultimately vest. Further information
-regarding share-based compensation can be found in Note 9, “Benefit Plans.”
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+(Continued)
 
-Earnings Per Share
+License and Development Arrangements
 
-The following table shows the computation of basic and diluted earnings per share for 2022, 2021 and 2020 (net income in millions and
-shares in thousands):
+Our license and development arrangements with customers typically require significant customization of our IP components. As a result,
+we recognize the revenue from the license and the revenue from the development services as a single performance obligation over the
+period in which the development services are performed. We measure progress to completion based on actual cost incurred to date as a
+percentage of the estimated total cost required to complete each project. If a loss on an arrangement becomes probable during a period,
+we record a provision for such loss in that period.
+
+Software Licensing
+
+Our software licenses provide our customers with a right to use the software when it is made available to the customer. Customers may
+purchase either perpetual licenses or subscriptions to licenses, which differ mainly in the duration over which the customer benefits from
+the software. Software licenses are frequently sold along with support, which includes the right to receive, on a when-and-if available
+basis, future unspecified software updates and upgrades. Revenue from software licenses is recognized up front when the software is
+made available to the customer. Software support revenue is recognized ratably over the service period, or as services are performed.
+
+Cloud Services
+
+Cloud services, which allow customers to use hosted software and hardware infrastructure without taking possession of the software or
+hardware,  are  provided  on  a  subscription  basis  or  a  combination  of  subscription  plus  usage.  Revenue  related  to  subscription-based
+cloud services is recognized ratably over the contract period. Revenue related to cloud services based on usage is recognized as usage
+occurs.  Cloud  services  are  typically  sold  on  a  standalone  basis,  but  certain  offerings  may  be  sold  with  hardware  and/or  software  and
+related support.
+
+Contracts with Multiple Performance Obligations
+
+Our  contracts  may  contain  more  than  one  of  the  products  and  services  listed  above,  each  of  which  is  separately  accounted  for  as  a
+distinct performance obligation. We account for multiple agreements with a single customer as a single contract if the contractual terms
+and/or substance of those agreements indicate that they may be so closely related that they are, in effect, parts of a single contract.
+
+We allocate the total transaction price to each distinct performance obligation in an arrangement with multiple performance obligations
+on  a  relative  standalone  selling  price  basis.  The  standalone  selling  price  reflects  the  price  we  would  charge  for  a  specific  product  or
+service  if  it  were  sold  separately  in  similar  circumstances  and  to  similar  customers.  When  determining  standalone  selling  price,  we
+maximize the use of observable inputs.
+
+Product Warranties
+
+We offer a limited warranty to end-users ranging from one to  three years for products to repair or replace products for manufacturing
+defects  or  hardware  component  failures.  Cost  of  revenue  includes  the  estimated  cost  of  product  warranties  that  are  calculated  at  the
+point of revenue recognition. Under limited circumstances, we may offer an extended limited warranty to customers for certain products.
+We also accrue for known warranty and indemnification issues if a loss is probable and can be reasonably estimated.
+
+Stock-based Compensation
+
+We use the closing trading price of our common stock on the date of grant, minus a dividend yield discount, as the fair value of awards
+of restricted stock units, or RSUs, and performance stock units, or PSUs, that are based on our corporate financial performance targets.
+We  use  a  Monte  Carlo  simulation  on  the  date  of  grant  to  estimate  the  fair  value  of  PSUs  that  are  based  on  our  stock  performance
+compared to market performance, or market-based PSUs. The compensation expense for RSUs and market-based PSUs is recognized
+using a straight-line attribution method over the requisite employee service period while compensation expense for PSUs is recognized
+using an accelerated amortization model based on performance targets probable of achievement. We estimate the fair value of shares to
+be  issued  under  our  employee  stock  purchase  plan,  or  ESPP,  using  the  Black-Scholes  model  at  the  commencement  of  an  offering
+period in March and September of each year. Stock-based compensation for our ESPP is expensed using an accelerated amortization
+model. Additionally, for RSUs, PSUs, and market-based PSUs, we estimate expected forfeitures based on our historical forfeitures.
+
+Litigation, Investigation and Settlement Costs
+
+We currently, are, and will likely continue to be subject to claims, litigation, and other actions, including potential regulatory proceedings,
+involving  patent  and  other  intellectual  property  matters,  taxes,  labor  and  employment,  competition  and  antitrust,  commercial  disputes,
+goods and services offered by us and by third parties, and other matters. There are many uncertainties associated with any litigation or
+investigation, and we cannot be certain that these actions or other third-party claims against us will be resolved without litigation, fines
+and/or substantial settlement payments or judgments. If information becomes available that causes us to determine that a loss in any of
+our pending litigation,
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+85/119
+
+3/10/25, 4:53 PM
+
+nvda-20250126
+
+58
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+86/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+(Continued)
+
+investigations or settlements is probable, and we can reasonably estimate the loss associated with such events, we will record the loss.
+However, the actual liability in any such litigation or investigation may be materially different from our estimates, which could require us
+to record additional costs. If we determine that a loss is reasonably possible and the loss or range of loss can be estimated, we disclose
+the reasonably possible loss.
+
+Foreign Currency Remeasurement
+
+We use the U.S. dollar as our functional currency for our subsidiaries. Foreign currency monetary assets and liabilities are remeasured
+into  United  States  dollars  at  end-of-period  exchange  rates.  Non-monetary  assets  and  liabilities  such  as  property  and  equipment  and
+equity  are  remeasured  at  historical  exchange  rates.  Revenue  and  expenses  are  remeasured  at  exchange  rates  in  effect  during  each
+period, except for those expenses related to non-monetary balance sheet amounts, which are remeasured at historical exchange rates.
+Gains or losses from foreign currency remeasurement are included in earnings in our Consolidated Statements of Income and to date
+have not been significant.
+
+Income Taxes
+
+We  recognize  federal,  state  and  foreign  current  tax  liabilities  or  assets  based  on  our  estimate  of  taxes  payable  or  refundable  in  the
+current  fiscal  year  by  tax  jurisdiction.  We  recognize  federal,  state  and  foreign  deferred  tax  assets  or  liabilities,  as  appropriate,  for  our
+estimate of future tax effects attributable to temporary differences and carryforwards; and we record a valuation allowance to reduce any
+deferred tax assets by the amount of any tax benefits that, based on available evidence and judgment, are not expected to be realized.
+
+Our calculation of deferred tax assets and liabilities is based on certain estimates and judgments and involves dealing with uncertainties
+in the application of complex tax laws. Our estimates of deferred tax assets and liabilities may change based, in part, on added certainty
+or finality to an anticipated outcome, changes in accounting standards or tax laws in the U.S., or foreign jurisdictions where we operate,
+or changes in other facts or circumstances. In addition, we recognize liabilities for potential U.S. and foreign income tax contingencies
+based on our estimate of whether, and the extent to which, additional taxes may be due. If we determine that payment of these amounts
+is unnecessary or if the recorded tax liability is less than our current assessment, we may be required to recognize an income tax benefit
+or additional income tax expense in our financial statements accordingly.
+
+As of January 26, 2025, we had a valuation allowance of $1.6 billion related to capital loss carryforwards, and certain state and other
+deferred tax assets that management determined are not likely to be realized due, in part, to jurisdictional projections of future taxable
+income, including capital gains. To the extent realization of the deferred tax assets becomes more-likely-than-not, we would recognize
+such deferred tax assets as income tax benefits during the period.
+
+We recognize the benefit from a tax position only if it is more-likely-than-not that the position would be sustained upon audit based solely
+on  the  technical  merits  of  the  tax  position.  Our  policy  is  to  include  interest  and  penalties  related  to  unrecognized  tax  benefits  as  a
+component of income tax expense.
+
+Net Income Per Share
+
+Basic net income per share is computed using the weighted average number of common shares outstanding during the period. Diluted
+net income per share is computed using the weighted average number of common and potentially dilutive shares outstanding during the
+period, using the treasury stock method. Any anti-dilutive effect of equity awards outstanding is not included in the computation of diluted
+net income per share.
+
+Cash and Cash Equivalents and Marketable Securities
+
+We consider all highly liquid investments that are readily convertible into cash and have an original maturity of three months or less at
+the  time  of  purchase  to  be  cash  equivalents.  Marketable  securities  consist  of  highly  liquid  debt  investments  with  maturities  of  greater
+than three months when purchased and publicly-held equity securities. We classify these investments as current based on the nature of
+the investments and their availability for use in current operations.
+
+We classify our cash equivalents and marketable debt securities at the date of acquisition as available-for-sale. These available-for-sale
+debt  securities  are  reported  at  fair  value  with  the  related  unrealized  gains  and  losses  included  in  accumulated  other  comprehensive
+income  or  loss,  a  component  of  shareholders’  equity,  net  of  tax.  The  fair  value  of  interest-bearing  debt  securities  includes  accrued
+interest.  Realized  gains  and  losses  on  the  sale  of  marketable  securities  are  determined  using  the  specific-identification  method  and
+recorded in the Other income (expense), net, section of our Consolidated Statements of Income.
+
+Available-for-sale debt securities are subject to impairment review. If the estimated fair value of available-for-sale debt securities is less
+than its amortized cost basis, we determine if the difference, if any, is caused by expected credit losses and write-down the amortized
+cost basis of the securities if it is more likely than not we will be required or we intend to
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+87/119
+
+3/10/25, 4:53 PM
+
+nvda-20250126
+
+59
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+88/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+(Continued)
+
+sell the securities before recovery of its amortized cost basis. Allowances for credit losses and write-downs are recognized in the Other
+income (expense), net section of our Consolidated Statements of Income.
+
+Publicly-held equity securities have readily determinable fair values with changes in fair value recorded in Other income (expense), net.
+
+Fair Value of Financial Instruments
+
+The carrying value of cash equivalents, accounts receivable, accounts payable and accrued liabilities approximate their fair values due
+to their relatively short maturities as of January 26, 2025 and January 28, 2024. Marketable debt and equity securities are reported at
+fair value based on quoted market prices. Derivative instruments are recognized as either assets or liabilities and are measured at fair
+value.  The  accounting  for  changes  in  the  fair  value  of  a  derivative  depends  on  the  intended  use  of  the  derivative  and  the  resulting
+designation. For fair value hedges, the gains or losses are recognized in earnings in the periods of change together with the offsetting
+losses or gains on the hedged items attributed to the risk being hedged. For derivative instruments designated as accounting hedges,
+the effective portion of the gains or losses on the derivatives is initially reported as a component of other comprehensive income or loss
+and  is  subsequently  recognized  in  earnings  when  the  hedged  exposure  is  recognized  in  earnings.  For  derivative  instruments  not
+designated as accounting hedges, changes in fair value are recognized in earnings.
+
+Concentration of Credit Risk
+
+Financial  instruments  that  potentially  subject  us  to  concentrations  of  credit  risk  consist  primarily  of  cash  equivalents,  marketable
+securities,  and  accounts  receivable.  Our  investment  policy  requires  the  purchase  of  highly-rated  fixed  income  securities,  the
+diversification of investment type and credit exposures, and includes certain limits on our portfolio maturities. We perform ongoing credit
+evaluations  of  our  customers’  financial  condition  and  maintain  an  allowance  for  potential  credit  losses.  This  allowance  consists  of  an
+amount identified for specific customers and an amount based on overall estimated exposure. Our overall estimated exposure excludes
+amounts covered by credit insurance and letters of credit.
+
+Inventories
+
+Inventory  cost  is  computed  on  an  adjusted  standard  basis,  which  approximates  actual  cost  on  an  average  or  first-in,  first-out  basis.
+Inventory  costs  consist  primarily  of  the  cost  of  semiconductors,  including  wafer  fabrication,  assembly,  testing  and  packaging,
+manufacturing support costs, including labor and overhead associated with such purchases, final test yield fallout, and shipping costs, as
+well as the cost of purchased memory products and other component parts. We charge cost of sales for inventory provisions to write-
+down  our  inventory  to  the  lower  of  cost  or  net  realizable  value  or  for  obsolete  or  excess  inventory,  and  for  excess  product  purchase
+commitments. Most of our inventory provisions relate to excess quantities of products, based on our inventory levels and future product
+purchase commitments compared to assumptions about future demand and market conditions. Once inventory has been written-off or
+written-down,  it  creates  a  new  cost  basis  for  the  inventory  that  is  not  subsequently  written-up.  We  record  a  liability  for  noncancelable
+purchase commitments with suppliers for quantities in excess of our future demand forecasts consistent with our valuation of obsolete or
+excess inventory.
+
+Property and Equipment
+
+Property and equipment are stated at cost less accumulated depreciation. Depreciation of property and equipment is computed using
+the  straight-line  method  based  on  the  estimated  useful  lives  of  the  assets  of  two  to  seven  years.  Once  an  asset  is  identified  for
+retirement or disposition, the related cost and accumulated depreciation or amortization are removed, and a gain or loss is recorded. The
+estimated useful lives of our buildings are up to thirty years. Depreciation expense includes the amortization of assets recorded under
+finance  leases.  Leasehold  improvements  and  assets  recorded  under  finance  leases  are  amortized  over  the  shorter  of  the  expected
+lease term or the estimated useful life of the asset.
+
+Leases
+
+We  determine  if  an  arrangement  is  or  contains  a  lease  at  inception.  Operating  leases  with  lease  terms  of  more  than  12  months  are
+included  in  operating  lease  assets,  accrued  and  other  current  liabilities,  and  long-term  operating  lease  liabilities  on  our  consolidated
+balance sheet. Operating lease assets represent our right to use an underlying asset for the lease term and lease liabilities represent our
+obligation to make lease payments over the lease term.
+
+Operating lease assets and liabilities are recognized based on the present value of the remaining lease payments discounted using our
+incremental  borrowing  rate.  Operating  lease  assets  also  include  initial  direct  costs  incurred  and  prepaid  lease  payments,  minus  any
+lease incentives. Our lease terms include options to extend or terminate the lease when it is reasonably certain that we will exercise that
+option. Lease expense is recognized on a straight-line basis over the lease term.
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+89/119
+
+60
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+Goodwill
+
+nvda-20250126
+
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+(Continued)
+
+Goodwill is subject to our annual impairment test during the fourth quarter of our fiscal year, or earlier if indicators of potential impairment
+exist. In completing our impairment test, we perform either a qualitative or a quantitative analysis on a reporting unit basis.
+
+Qualitative  factors  include  industry  and  market  considerations,  overall  financial  performance,  and  other  relevant  events  and  factors
+affecting the reporting units.
+
+The quantitative impairment test considers both the income approach and the market approach to estimate a reporting unit’s fair value.
+The  income  and  market  valuation  approaches  consider  factors  that  include,  but  are  not  limited  to,  prospective  financial  information,
+growth rates, residual values, discount rates and comparable multiples from publicly traded companies in our industry and require us to
+make certain assumptions and estimates regarding industry economic factors and the future profitability of our business.
+
+Intangible Assets and Other Long-Lived Assets
+
+Intangible assets primarily represent acquired intangible assets including developed technology and customer relationships, as well as
+rights  acquired  under  technology  licenses,  patents,  and  acquired  IP.  We  currently  amortize  our  intangible  assets  with  finite  lives  over
+periods ranging from one to twenty years using a method that reflects the pattern in which the economic benefits of the intangible asset
+are consumed or otherwise used up or, if that pattern cannot be reliably determined, using a straight-line amortization method.
+
+Long-lived assets, such as property and equipment and intangible assets subject to amortization, are reviewed for impairment whenever
+events  or  changes  in  circumstances  indicate  that  the  carrying  amount  of  an  asset  or  asset  group  may  not  be  recoverable.  The
+recoverability of assets or asset groups to be held and used is measured by a comparison of the carrying amount of an asset or asset
+group to estimated undiscounted future cash flows expected to be generated by the asset or asset group. If the carrying amount of an
+asset or asset group exceeds its estimated future cash flows, an impairment charge is recognized for the amount by which the carrying
+amount of the asset or asset group exceeds the estimated fair value of the asset or asset group. Fair value is determined based on the
+estimated discounted future cash flows expected to be generated by the asset or asset group. Assets and liabilities to be disposed of
+would be separately presented in the Consolidated Balance Sheet and the assets would be reported at the lower of the carrying amount
+or fair value less costs to sell, and would no longer be depreciated.
+
+Business Combination
+
+We  allocate  the  fair  value  of  the  purchase  price  of  an  acquisition  to  the  tangible  assets  acquired,  liabilities  assumed,  and  intangible
+assets acquired, based on their estimated fair values. The excess of the fair value of the purchase price over the fair values of these net
+tangible  and  intangible  assets  acquired  is  recorded  as  goodwill.  Management’s  estimates  of  fair  value  are  based  upon  assumptions
+believed  to  be  reasonable,  but  our  estimates  and  assumptions  are  inherently  uncertain  and  subject  to  refinement. The  estimates  and
+assumptions  used  in  valuing  intangible  assets  include,  but  are  not  limited  to,  the  amount  and  timing  of  projected  future  cash  flows,
+discount rate used to determine the present value of these cash flows and asset lives. These estimates are inherently uncertain and,
+therefore,  actual  results  may  differ  from  the  estimates  made. As  a  result,  during  the  measurement  period  of  up  to  one  year  from  the
+acquisition  date,  we  may  record  adjustments  to  the  assets  acquired  and  liabilities  assumed  with  the  corresponding  offset  to  goodwill.
+Upon  the  measurement  period's  conclusion  or  final  determination  of  the  fair  value  of  the  purchase  price  of  an  acquisition,  whichever
+comes first, any subsequent adjustments are recorded to our Consolidated Statements of Income.
+
+Acquisition-related expenses are recognized separately from the business combination and expensed as incurred.
+
+Non-Marketable Equity Securities
+
+Non-marketable equity securities consist of investments in privately-held companies that do not have a readily determinable fair value.
+These  investments  are  measured  at  cost  minus  impairment,  if  any,  and  are  adjusted  for  changes  resulting  from  observable  price
+changes in orderly transactions for an identical or similar investment in the same issuer, or the measurement alternative. Fair value is
+based upon observable inputs in an inactive market and the valuation requires our judgment due to the absence of market prices and
+inherent lack of liquidity. All gains and losses on these investments, realized and unrealized, are recognized in other income (expense),
+net on our Consolidated Statements of Income.
+
+We assess whether an impairment loss has occurred on our investments in non-marketable equity securities, accounted for under the
+measurement  alternative  based  on  quantitative  and  qualitative  factors.  If  any  impairment  is  identified  for  non-marketable  equity
+securities, we write down the investment to its fair value and record the corresponding charge through other income (expense), net on
+our Consolidated Statements of Income.
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+90/119
+
+61
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+(Continued)
+
+Recently Issued Accounting Pronouncements
+
+Recently Adopted Accounting Pronouncement
+
+In  November  2023,  the  Financial Accounting  Standards  Board,  or  FASB,  issued  a  new  accounting  standard  requiring  disclosures  of
+significant  expenses  in  operating  segments.  We  adopted  this  standard  in  our  fiscal  year  2025  annual  report.  Refer  to  Note  16  of  the
+Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for further information.
+
+Recent Accounting Pronouncements Not Yet Adopted
+
+In  December  2023,  the  FASB  issued  a  new  accounting  standard  which  includes  new  and  updated  income  tax  disclosures,  including
+disaggregation of information in the rate reconciliation and income taxes paid. We expect to adopt this standard in our fiscal year 2026
+annual report. We do not expect the adoption of this standard to have a material impact on our Consolidated Financial Statements other
+than additional disclosures.
+
+In November 2024, the FASB issued a new accounting standard requiring disclosures of certain additional expense information on an
+annual and interim basis, including, among other items, the amounts of purchases of inventory, employee compensation, depreciation
+and  intangible  asset  amortization  included  within  each  income  statement  expense  caption,  as  applicable.  We  expect  to  adopt  this
+standard  in  our  fiscal  year  2028  annual  report.  We  do  not  expect  the  adoption  of  this  standard  to  have  a  material  impact  on  our
+Consolidated Financial Statements other than additional disclosures.
+
+Note 2 - Business Combination
+
+Termination of the Arm Share Purchase Agreement
+
+In  February  2022,  NVIDIA  and  SoftBank  Group  Corp,  or  SoftBank,  announced  the  termination  of  the  Share  Purchase  Agreement
+whereby  NVIDIA  would  have  acquired Arm  from  SoftBank. The  parties  agreed  to  terminate  it  due  to  significant  regulatory  challenges
+preventing the completion of the transaction. We recorded an acquisition termination cost of $1.4 billion in fiscal year 2023 reflecting the
+write-off of the prepayment provided at signing.
+
+Note 3 - Stock-Based Compensation
+
+Stock-based compensation expense is associated with RSUs, PSUs, market-based PSUs, and our ESPP.
+
+Consolidated  Statements  of  Income  include  stock-based  compensation  expense,  net  of  amounts  capitalized  into  inventory  and
+subsequently recognized to cost of revenue, as follows:
+
+Cost of revenue
+Research and development
+Sales, general and administrative
+Total
+
+Jan 26, 2025
+
+Year Ended
+Jan 28, 2024
+
+(In millions)
+
+Jan 29, 2023
+
+$
+
+$
+
+178  $
+
+3,423
+1,136
+4,737  $
+
+141  $
+
+2,532
+876
+3,549  $
+
+138
+1,892
+680
+2,710
+
+Stock-based compensation capitalized in inventories was not significant during fiscal years 2025, 2024, and 2023.
+
+62
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+91/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+(Continued)
+
+The following is a summary of equity awards granted under our equity incentive plans:
+
+RSUs, PSUs and Market-based PSUs
+Awards granted
+Estimated total grant-date fair value
+Weighted average grant-date fair value per share
+
+ESPP
+
+Shares purchased
+Weighted average price per share
+Weighted average grant-date fair value per share
+
+Jan 26, 2025
+
+Year Ended
+Jan 28, 2024
+
+Jan 29, 2023
+
+(In millions, except per share data)
+
+$
+$
+
+$
+$
+
+89
+7,834  $
+87.99  $
+
+140
+5,316  $
+37.41  $
+
+30
+17.74  $
+8.61  $
+
+30
+15.81  $
+6.99  $
+
+250
+4,505
+18.37
+
+30
+12.25
+5.19
+
+As of January 26, 2025, aggregate unearned stock-based compensation expense was $11.6 billion, which is expected to be recognized
+over a weighted average period of 2.2 years for RSUs, PSUs, and market-based PSUs, and one year for ESPP.
+
+The fair value of shares issued under our ESPP have been estimated with the following assumptions:
+
+ESPP
+
+Weighted average expected life (in years)
+Risk-free interest rate
+Volatility
+Dividend yield
+
+Jan 26, 2025
+
+Year Ended
+Jan 28, 2024
+
+Jan 29, 2023
+
+(Using the Black-Scholes model)
+
+0.1-2.0
+3.6%-5.4%
+31%-75%
+0.03%
+
+0.1-2.0
+3.9%-5.5%
+31%-67%
+0.06%
+
+0.1-2.0
+—%-4.6%
+43%-72%
+0.09%
+
+For ESPP shares, the expected term represents the average term from the first day of the offering period to the purchase date. The risk-
+free  interest  rate  assumption  used  to  value  ESPP  shares  is  based  upon  observed  interest  rates  on Treasury  bills  appropriate  for  the
+expected term. Our expected stock price volatility assumption for ESPP is estimated using historical volatility. For awards granted, we
+use  the  dividend  yield  at  grant  date.  Our  RSUs,  PSUs,  and  market-based  PSUs  are  not  eligible  for  cash  dividends  prior  to  vesting;
+therefore, the fair values of RSUs, PSUs, and market-based PSUs are discounted for the dividend yield.
+
+Additionally, for RSUs, PSUs, and market-based PSUs, we estimate expected forfeitures based on our historical forfeitures.
+
+Equity Incentive Program
+We  grant  RSUs,  PSUs,  market-based  PSUs,  and  stock  purchase  rights  under  the  following  equity  incentive  plans.  In  addition,  in
+connection  with  our  acquisitions  of  various  companies,  we  have  assumed  certain  stock-based  awards  granted  under  their  stock
+incentive plans and converted them into our RSUs.
+
+Amended and Restated 2007 Equity Incentive Plan
+
+In 2007, our shareholders approved the NVIDIA Corporation 2007 Equity Incentive Plan, or as most recently amended and restated, the
+2007 Plan.
+
+The 2007 Plan authorizes the issuance of incentive stock options, non-statutory stock options, restricted stock, RSUs, stock appreciation
+rights, performance stock awards, performance cash awards, and other stock-based awards to employees, directors and consultants.
+Only our employees may receive incentive stock options. We grant RSUs, PSUs and market-based PSUs under the 2007 Plan. As of
+January 26, 2025, up to 274 million shares of our common stock could be issued pursuant to stock awards granted under the 2007 Plan,
+and 1.4 billion shares were available for future grants.
+
+63
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+92/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+(Continued)
+
+Subject to certain exceptions, RSUs vest generally over four years subject to continued service. PSUs vest over four years, subject to
+continued service and performance conditions. Market-based PSUs vest on the third anniversary of the date of grant subject to market
+conditions. However, the number of shares subject to both PSUs and market-based PSUs that are eligible to vest is determined by the
+Compensation Committee based on achievement of pre-determined criteria.
+
+Amended and Restated 2012 Employee Stock Purchase Plan
+
+In 2012, our shareholders approved the NVIDIA Corporation 2012 Employee Stock Purchase Plan, or as most recently amended and
+restated, the 2012 Plan.
+
+Employees  who  participate  in  the  2012  Plan  may  have  up  to  15%  of  their  earnings  withheld  to  purchase  shares  of  common  stock.
+Starting in March 2025, employees may have up to 25% of their earnings withheld to purchase shares of common stock. The Board may
+decrease this percentage at its discretion. Each offering period is about 24 months, divided into four purchase periods of six months. The
+price of common stock purchased under our 2012 Plan will be equal to 85% of the lower of the fair market value of the common stock on
+the commencement date of each offering period or the fair market value of the common stock on each purchase date within the offering.
+As of January 26, 2025, we had 2.2 billion shares reserved for future issuance under the 2012 Plan.
+
+Equity Award Activity
+
+The following is a summary of our equity award transactions under our equity incentive plans:
+
+Balance as of Jan 28, 2024
+
+Granted
+Vested
+Canceled and forfeited
+
+Balance as of Jan 26, 2025
+Vested and expected to vest after Jan 26, 2025
+
+RSUs, PSUs and Market-based PSUs Outstanding
+
+Number of Shares
+
+Weighted Average Grant-
+Date Fair Value Per Share
+
+(In millions, except per share data)
+
+367  $
+89  $
+(173) $
+(9) $
+274  $
+272  $
+
+24.59
+87.99
+24.89
+32.10
+
+44.75
+44.59
+
+As of January 26, 2025 and January 28, 2024, there were 1.4 billion and 1.5 billion shares, respectively, of common stock available for
+future grants under our equity incentive plans.
+
+The total fair value of RSUs and PSUs, as of their respective vesting dates, during the years ended January 26, 2025, January 28, 2024,
+and January 29, 2023, was $15.1 billion, $8.2 billion, and $4.3 billion, respectively.
+
+64
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+93/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+(Continued)
+
+Note 4 - Net Income Per Share
+
+The  following  is  a  reconciliation  of  the  denominator  of  the  basic  and  diluted  net  income  per  share  computations  for  the  periods
+presented:
 
 Numerator:
 
 Net income
-
 Denominator:
 
-2022
+Basic weighted average shares
+Dilutive impact of outstanding equity awards
+Diluted weighted average shares
 
-2021
+Net income per share:
 
-2020
+Basic (1)
+Diluted (2)
 
-$
+Anti-dilutive equity awards excluded from diluted net income per share
 
-99,803  $
+(1)    Net income divided by basic weighted average shares.
 
-94,680  $
+(2)    Net income divided by diluted weighted average shares.
 
-57,411
+Note 5 - Goodwill
 
-Weighted-average basic shares outstanding
-Effect of dilutive securities
-Weighted-average diluted shares
+Jan 26, 2025
 
-16,215,963
-109,856
-16,325,819
+Year Ended
+Jan 28, 2024
 
-16,701,272
-163,647
-16,864,919
+Jan 29, 2023
 
-17,352,119
-176,095
-17,528,214
-
-Basic earnings per share
-Diluted earnings per share
+(In millions, except per share data)
 
 $
+
+72,880  $
+
+29,760  $
+
+4,368
+
+24,555
+249
+24,804
+
+24,690
+250
+24,940
+
+$
 $
 
-6.15  $
-6.11  $
+2.97  $
+2.94  $
 
-5.67  $
-5.61  $
+1.21  $
+1.19  $
 
-3.31
-3.28
+51
 
-The Company applies the treasury stock method to determine the dilutive effect of potentially dilutive securities.
+150
 
-Cash Equivalents and Marketable Securities
+24,870
+200
+25,070
 
-All highly liquid investments with maturities of three months or less at the date of purchase are classified as cash equivalents.
+0.18
+0.17
 
-The Company’s investments in marketable debt securities have been classified and accounted for as available-for-sale. The Company
-classifies  its  marketable  debt  securities  as  either  short-term  or  long-term  based  on  each  instrument’s  underlying  contractual  maturity
-date.
+400
 
-The Company’s investments in marketable equity securities are classified based on the nature of the securities and their availability for
-use in current operations.
+As of January 26, 2025, the total carrying amount of goodwill was $5.2 billion, consisting of goodwill balances allocated to our Compute
+&  Networking  and  Graphics  reporting  units  of  $4.8  billion  and  $370  million,  respectively.  As  of  January  28,  2024,  the  total  carrying
+amount of goodwill was $4.4 billion, consisting of goodwill balances allocated to our Compute & Networking and Graphics reporting units
+of $4.1 billion and $370 million, respectively. Goodwill increased by $758 million in fiscal year 2025 from acquisitions and was allocated
+to our Compute & Networking reporting unit. During the fourth quarters of fiscal years 2025, 2024, and 2023, we completed our annual
+qualitative impairment tests and concluded that goodwill was not impaired.
 
-The cost of securities sold is determined using the specific identification method.
+Note 6 - Amortizable Intangible Assets
 
-Inventories
+The components of our amortizable intangible assets are as follows:
 
-Inventories are measured using the first-in, first-out method.
+Gross
+Carrying
+Amount
 
-Apple Inc. | 2022 Form 10-K | 35
+Jan 26, 2025
 
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
+Accumulated
+Amortization
 
-45/78
+Net
+Carrying
+Amount
 
-3/4/25, 11:08 PM
+Gross
+Carrying
+Amount
 
-aapl-20220924
+(In millions)
 
-Restricted Marketable Securities
+Jan 28, 2024
 
-The  Company  considers  marketable  securities  to  be  restricted  when  withdrawal  or  general  use  is  legally  restricted.  The  Company
-reports  restricted  marketable  securities  as  current  or  non-current  marketable  securities  in  the  Consolidated  Balance  Sheets  based  on
-the classification of the underlying securities.
+Accumulated
+Amortization
 
-Property, Plant and Equipment
+Net
+Carrying
+Amount
 
-Depreciation on property, plant and equipment is recognized on a straight-line basis over the estimated useful lives of the assets, which
-for buildings is the shorter of 40 years or the remaining life of the building; between one and five years for machinery and equipment,
-including manufacturing equipment; and the shorter of the lease term or useful life for leasehold improvements. Capitalized costs related
-to  internal-use  software  are  amortized  on  a  straight-line  basis  over  the  estimated  useful  lives  of  the  assets,  which  range  from  five  to
-seven  years.  Depreciation  and  amortization  expense  on  property,  plant  and  equipment  was  $8.7  billion,  $9.5  billion  and  $9.7  billion
-during 2022, 2021 and 2020, respectively.
-
-Derivative Instruments and Hedging
-
-All derivative instruments are recorded in the Consolidated Balance Sheets at fair value. The accounting treatment for derivative gains
-and losses is based on intended use and hedge designation.
-
-Gains  and  losses  arising  from  amounts  that  are  included  in  the  assessment  of  cash  flow  hedge  effectiveness  are  initially  deferred  in
-accumulated  other  comprehensive  income/(loss)  (“AOCI”)  and  subsequently  reclassified  into  earnings  when  the  hedged  transaction
-affects earnings, and in the same line item in the Consolidated Statements of Operations. For options designated as cash flow hedges,
-the Company excludes time value from the assessment of hedge effectiveness and recognizes it on a straight-line basis over the life of
-the  hedge  in  the  Consolidated  Statements  of  Operations  line  item  to  which  the  hedge  relates.  Changes  in  the  fair  value  of  amounts
-excluded from the assessment of hedge effectiveness are recognized in other comprehensive income/(loss) (“OCI”).
-
-Gains  and  losses  arising  from  amounts  that  are  included  in  the  assessment  of  fair  value  hedge  effectiveness  are  recognized  in  the
-Consolidated Statements of Operations line item to which the hedge relates along with offsetting losses and gains related to the change
-in value of the hedged item. For foreign exchange forward contracts designated as fair value hedges, the Company excludes the forward
-carry component from the assessment of hedge effectiveness and recognizes it in other income/(expense), net (“OI&E”) on a straight-
-line  basis  over  the  life  of  the  hedge.  Changes  in  the  fair  value  of  amounts  excluded  from  the  assessment  of  hedge  effectiveness  are
-recognized in OCI.
-
-Gains  and  losses  arising  from  changes  in  the  fair  values  of  derivative  instruments  that  are  not  designated  as  accounting  hedges  are
-recognized in the Consolidated Statements of Operations line items to which the derivative instruments relate.
-
-The  Company  presents  derivative  assets  and  liabilities  at  their  gross  fair  values  in  the  Consolidated  Balance  Sheets.  The  Company
-classifies cash flows related to derivative instruments as operating activities in the Consolidated Statements of Cash Flows.
-
-Fair Value Measurements
-
-The  fair  values  of  the  Company’s  money  market  funds  and  certain  marketable  equity  securities  are  based  on  quoted  prices  in  active
-markets for identical assets. The valuation techniques used to measure the fair value of the Company’s debt instruments and all other
-financial instruments, which generally have counterparties with high credit ratings, are based on quoted market prices or model-driven
-valuations using significant inputs derived from or corroborated by observable market data.
-
-Income Taxes
-
-The Company records certain deferred tax assets and liabilities in connection with the minimum tax on certain foreign earnings created
-by the U.S. Tax Cuts and Jobs Act of 2017 (the “Act”).
-
-Leases
-
-The Company combines and accounts for lease and nonlease components as a single lease component for leases of corporate, data
-center  and  retail  facilities.  The  discount  rates  related  to  the  Company’s  lease  liabilities  are  generally  based  on  estimates  of  the
-Company’s incremental borrowing rate, as the discount rates implicit in the Company’s leases cannot be readily determined.
-
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-46/78
-
-Apple Inc. | 2022 Form 10-K | 36
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-47/78
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-Segment Reporting
-
-The Company reports segment information based on the “management” approach. The management approach designates the internal
-reporting used by management for making decisions and assessing performance as the source of the Company’s reportable segments.
-
-The  Company  manages  its  business  primarily  on  a  geographic  basis.  The  Company’s  reportable  segments  consist  of  the Americas,
-Europe, Greater China, Japan and Rest of Asia Pacific. Americas includes both North and South America. Europe includes European
-countries, as well as India, the Middle East and Africa. Greater China includes China mainland, Hong Kong and Taiwan. Rest of Asia
-Pacific includes Australia and those Asian countries not included in the Company’s other reportable segments. Although the reportable
-segments provide similar hardware and software products and similar services, each one is managed separately to better align with the
-location  of  the  Company’s  customers  and  distribution  partners  and  the  unique  market  dynamics  of  each  geographic  region.  The
-accounting  policies  of  the  various  segments  are  the  same  as  those  described  elsewhere  in  this  Note  1,  “Summary  of  Significant
-Accounting Policies.”
-
-The Company evaluates the performance of its reportable segments based on net sales and operating income. Net sales for geographic
-segments are generally based on the location of customers and sales through the Company’s retail stores located in those geographic
-locations. Operating income for each segment includes net sales to third parties, related cost of sales and operating expenses directly
-attributable  to  the  segment.  Advertising  expenses  are  generally  included  in  the  geographic  segment  in  which  the  expenditures  are
-incurred.  Operating  income  for  each  segment  excludes  other  income  and  expense  and  certain  expenses  managed  outside  the
-reportable  segments.  Costs  excluded  from  segment  operating  income  include  various  corporate  expenses  such  as  research  and
-development (“R&D”), corporate marketing expenses, certain share-based compensation expenses, income taxes, various nonrecurring
-charges  and  other  separately  managed  general  and  administrative  costs.  The  Company  does  not  include  intercompany  transfers
-between segments for management reporting purposes.
-
-Note 2 – Revenue
-
-Net sales disaggregated by significant products and services for 2022, 2021 and 2020 were as follows (in millions):
-
- (1)
-
-iPhone
-(1)
-Mac
-iPad
-Wearables, Home and Accessories
-Services
-
- (1)
-
-(3)
-
-Total net sales
-
-(4)
-
-(1)(2)
-
-2022
-
-2021
-
-2020
+Acquisition-related
+intangible assets
+Patents and licensed
+technology
+Total intangible assets
 
 $
 
 $
 
-205,489  $
-40,177
-29,292
-41,241
-78,129
-394,328  $
+2,900  $
 
-191,973  $
-35,190
-31,862
-38,367
-68,425
-365,817  $
+(2,264) $
 
-137,781
-28,622
-23,724
-30,620
-53,768
-274,515
+636  $
 
-(1) Products net sales include amortization of the deferred value of unspecified software upgrade rights, which are bundled in the sales
+2,642  $
 
-price of the respective product.
+(1,720) $
 
-(2) Wearables, Home and Accessories net sales include sales of AirPods, Apple TV, Apple Watch, Beats products, HomePod mini and
+922
 
-accessories.
+449
+3,349  $
 
-(3) Services  net  sales  include  sales  from  the  Company’s  advertising,  AppleCare,  cloud,  digital  content,  payment  and  other  services.
+(278)
+(2,542) $
 
-Services net sales also include amortization of the deferred value of services bundled in the sales price of certain products.
-
-(4)
-
-Includes $7.5 billion of revenue recognized in 2022 that was included in deferred revenue as of September 25, 2021, $6.7 billion of
-revenue recognized in 2021 that was included in deferred revenue as of September 26, 2020, and $5.0 billion of revenue recognized
-in 2020 that was included in deferred revenue as of September 28, 2019.
-
-The Company’s proportion of net sales by disaggregated revenue source was generally consistent for each reportable segment in Note
-11, “Segment Information and Geographic Data” for 2022, 2021 and 2020, except in Greater China, where iPhone revenue represented
-a moderately higher proportion of net sales in 2022 and 2021.
-
-As  of  September  24,  2022  and  September  25,  2021,  the  Company  had  total  deferred  revenue  of  $12.4  billion  and  $11.9  billion,
-respectively. As  of  September  24,  2022,  the  Company  expects  64%  of  total  deferred  revenue  to  be  realized  in  less  than  a  year,  27%
-within one-to-two years, 7% within two-to-three years and 2% in greater than three years.
-
-Apple Inc. | 2022 Form 10-K | 37
-
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-48/78
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-Note 3 – Financial Instruments
-
-Cash, Cash Equivalents and Marketable Securities
-
-The  following  tables  show  the  Company’s  cash,  cash  equivalents  and  marketable  securities  by  significant  investment  category  as  of
-September 24, 2022 and September 25, 2021 (in millions):
-
-Cash
-Level 1
-
-(1)
-
-:
-
-Money market funds
-Mutual funds
-Subtotal
-(2)
-:
-
-Level 2
-
-U.S. Treasury securities
-U.S. agency securities
-Non-U.S. government securities
-Certificates of deposit and time
-
-deposits
-
-Commercial paper
-Corporate debt securities
-Municipal securities
-Mortgage- and asset-backed securities
-
-Subtotal
-
-Total
-
-(3)
-
-Cash
-Level 1
-
-(1)
-
-:
-
-Money market funds
-Mutual funds
-
-Subtotal
-(2)
-
-Level 2
-
-:
-Equity securities
-U.S. Treasury securities
-U.S. agency securities
-Non-U.S. government securities
-Certificates of deposit and time
-
-deposits
-
-Commercial paper
-Corporate debt securities
-Municipal securities
-Mortgage- and asset-backed securities
-
-Subtotal
-
-Total
-
-(3)
-
-Adjusted
-Cost
-18,546  $
-
-$
-
-2,929
-274
-3,203
-
-25,134
-5,823
-16,948
-
-2,067
-718
-87,148
-921
-22,553
-161,312
-
-Unrealized
-Gains
-
-Unrealized
-Losses
-
-Fair
-Value
-
-Cash and
-Cash
-Equivalents
-
-Current
-Marketable
-Securities
-
-Non-Current
-Marketable
-Securities
-
-2022
-
-—  $
-
-—  $
-
-18,546  $
-
-18,546  $
-
-—  $
-
-—
-—
-—
-
-—
-—
-2
-
-—
-—
-9
-—
-—
-11
-
-—
-(47)
-(47)
-
-(1,725)
-(655)
-(1,201)
-
-—
-—
-(7,707)
-(35)
-(2,593)
-(13,916)
-
-2,929
-227
-3,156
-
-23,409
-5,168
-15,749
-
-2,067
-718
-79,450
-886
-19,960
-147,407
-
-2,929
-—
-2,929
-
-338
-—
-—
-
-1,805
-28
-—
-—
-—
-2,171
-
-—
-227
-227
-
-5,091
-240
-8,806
-
-262
-690
-9,023
-266
-53
-24,431
-
-—
-
-—
-—
-—
-
-17,980
-4,928
-6,943
-
-—
-—
-70,427
-620
-19,907
-120,805
-
-120,805
-
-$ 183,061  $
-
-11  $
-
-(13,963) $ 169,109  $
-
-23,646  $
-
-24,658  $
-
-Adjusted
-Cost
-
-Unrealized
-Gains
-
-Unrealized
-Losses
-
-Fair
-Value
-
-Cash and
-Cash
-Equivalents
-
-Current
-Marketable
-Securities
-
-Non-Current
-Marketable
-Securities
-
-2021
-
-$
-
-17,305  $
-
-—  $
-
-—  $
-
-17,305  $
-
-17,305  $
-
-—  $
-
-9,608
-175
-
-9,783
-
-1,527
-22,878
-8,949
-20,201
-
-1,300
-2,639
-83,883
-967
-20,529
-
-162,873
-
-—
-11
-
-11
-
-—
-102
-2
-211
-
-—
-—
-1,242
-14
 171
+807  $
 
-1,742
+449
+3,091  $
 
-—
-(1)
+(259)
+(1,979) $
 
-(1)
+190
+1,112
 
-(564)
-(77)
-(64)
-(101)
+Amortization expense associated with intangible assets for fiscal years 2025, 2024, and 2023 was $593 million, $614 million, and $699
+million, respectively.
 
-—
-—
-(267)
-—
-(124)
+65
 
-9,608
-185
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
 
-9,793
+94/119
 
-963
-22,903
-8,887
-20,311
+3/10/25, 4:53 PM
 
-1,300
-2,639
-84,858
-981
-20,576
+Table of Contents
 
-(1,197)
+nvda-20250126
 
-163,418
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+(Continued)
 
-9,608
-—
+The  following  table  outlines  the  estimated  future  amortization  expense  related  to  the  net  carrying  amount  of  intangible  assets  as  of
+January 26, 2025:
 
-9,608
-
-—
-3,596
-1,775
-390
-
-490
-1,776
-—
-—
-—
-
-8,027
-
-—
-185
-
-185
-
-963
-6,625
-1,930
-3,091
-
-810
-863
-12,327
-130
-775
-
-27,514
-
-$ 189,961  $
-
-1,753  $
-
-(1,198) $ 190,516  $
-
-34,940  $
-
-27,699  $
-
-—
-
-—
-—
-
-—
-
-—
-12,682
-5,182
-16,830
-
-—
-—
-72,531
-851
-19,801
-
-127,877
-
-127,877
-
-(1) Level 1 fair value estimates are based on quoted prices in active markets for identical assets or liabilities.
-
-(2) Level  2  fair  value  estimates  are  based  on  observable  inputs  other  than  quoted  prices  in  active  markets  for  identical  assets  and
-liabilities, quoted prices for identical or similar assets or liabilities in inactive markets, or other inputs that are observable or can be
-corroborated by observable market data for substantially the full term of the assets or liabilities.
-
-(3) As of September 24, 2022 and September 25, 2021, total marketable securities included $12.7 billion and $17.9 billion, respectively,
-that were restricted from general use, related to the State Aid Decision (refer to Note 5, “Income Taxes”) and other agreements.
-
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-49/78
-
-Apple Inc. | 2022 Form 10-K | 38
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-50/78
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-The  following  table  shows  the  fair  value  of  the  Company’s  non-current  marketable  debt  securities,  by  contractual  maturity,  as  of
-September 24, 2022 (in millions):
-
-Due after 1 year through 5 years
-Due after 5 years through 10 years
-Due after 10 years
-
-Total fair value
-
-Derivative Instruments and Hedging
-
-$
-
-$
-
-87,031
-16,429
-17,345
-120,805
-
-The  Company  may  use  derivative  instruments  to  partially  offset  its  business  exposure  to  foreign  exchange  and  interest  rate  risk.
-However, the Company may choose not to hedge certain exposures for a variety of reasons including accounting considerations or the
-prohibitive economic cost of hedging particular exposures. There can be no assurance the hedges will offset more than a portion of the
-financial impact resulting from movements in foreign exchange or interest rates.
-
-Foreign Exchange Risk
-
-To  protect  gross  margins  from  fluctuations  in  foreign  currency  exchange  rates,  the  Company  may  enter  into  forward  contracts,  option
-contracts or other instruments, and may designate these instruments as cash flow hedges. The Company generally hedges portions of
-its forecasted foreign currency exposure associated with revenue and inventory purchases, typically for up to 12 months.
-
-To  protect  the  Company’s  foreign  currency–denominated  term  debt  or  marketable  securities  from  fluctuations  in  foreign  currency
-exchange rates, the Company may enter into forward contracts, cross-currency swaps or other instruments. The Company designates
-these  instruments  as  either  cash  flow  or  fair  value  hedges. As  of  September  24,  2022,  the  maximum  length  of  time  over  which  the
-Company is hedging its exposure to the variability in future cash flows for term debt–related foreign currency transactions is 20 years.
-
-The Company may also enter into derivative instruments that are not designated as accounting hedges to protect gross margins from
-certain fluctuations in foreign currency exchange rates, as well as to offset a portion of the foreign currency exchange gains and losses
-generated by the remeasurement of certain assets and liabilities denominated in non-functional currencies.
-
-Interest Rate Risk
-
-To protect the Company’s term debt or marketable securities from fluctuations in interest rates, the Company may enter into interest rate
-swaps, options or other instruments. The Company designates these instruments as either cash flow or fair value hedges.
-
-The notional amounts of the Company’s outstanding derivative instruments as of September 24, 2022 and September 25, 2021 were as
-follows (in millions):
-
-Derivative instruments designated as accounting hedges:
-
-Foreign exchange contracts
-Interest rate contracts
-
-Derivative instruments not designated as accounting hedges:
-
-Foreign exchange contracts
-
-2022
-
-2021
-
-102,670  $
-20,125  $
-
-76,475
-16,875
-
-185,381  $
-
-126,918
-
-$
-$
-
-$
-
-Apple Inc. | 2022 Form 10-K | 39
-
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-51/78
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-The gross fair values of the Company’s derivative assets and liabilities as of September 24, 2022 were as follows (in millions):
-
-Derivative assets
-
-(1)
-
-:
-
-Foreign exchange contracts
-
-Derivative liabilities
-
-(2)
-
-:
-
-Foreign exchange contracts
-Interest rate contracts
-
-$
-
-$
-$
-
-Fair Value of
-Derivatives Designated
-as Accounting Hedges
-
-Fair Value of
-Derivatives Not Designated
-as Accounting Hedges
-
-Total
-Fair Value
-
-2022
-
-4,317  $
-
-2,819  $
-
-7,136
-
-2,205  $
-1,367  $
-
-2,547  $
-—  $
-
-4,752
-1,367
-
-(1) Derivative assets are measured using Level 2 fair value inputs and are included in other current assets and other non-current assets
-
-in the Consolidated Balance Sheets.
-
-(2) Derivative  liabilities  are  measured  using  Level  2  fair  value  inputs  and  are  included  in  other  current  liabilities  and  other  non-current
-
-liabilities in the Consolidated Balance Sheets.
-
-The derivative assets above represent the Company’s gross credit exposure if all counterparties failed to perform. To mitigate credit risk,
-the Company generally enters into collateral security arrangements that provide for collateral to be received or posted when the net fair
-values of certain derivatives fluctuate from contractually established thresholds. To further limit credit risk, the Company generally enters
-into master netting arrangements with the respective counterparties to the Company’s derivative contracts, under which the Company is
-allowed to settle transactions with a single net amount payable by one party to the other. As of September 24, 2022, the potential effects
-of these rights of set-off associated with the Company’s derivative contracts, including the effects of collateral, would be a reduction to
-both derivative assets and derivative liabilities of $7.8 billion, resulting in a net derivative asset of $412 million.
-
-The carrying amounts of the Company’s hedged items in fair value hedges as of September 24, 2022 and September 25, 2021 were as
-follows (in millions):
-
-Hedged assets/(liabilities):
-
-Current and non-current marketable securities
-Current and non-current term debt
-
-Accounts Receivable
-
-Trade Receivables
-
-2022
-
-2021
-
-$
-$
-
-13,378  $
-(18,739) $
-
-15,954
-(17,857)
-
-The  Company  has  considerable  trade  receivables  outstanding  with  its  third-party  cellular  network  carriers,  wholesalers,  retailers,
-resellers,  small  and  mid-sized  businesses  and  education,  enterprise  and  government  customers.  The  Company  generally  does  not
-require collateral from its customers; however, the Company will require collateral or third-party credit support in certain instances to limit
-credit  risk.  In  addition,  when  possible,  the  Company  attempts  to  limit  credit  risk  on  trade  receivables  with  credit  insurance  for  certain
-customers  or  by  requiring  third-party  financing,  loans  or  leases  to  support  credit  exposure.  These  credit-financing  arrangements  are
-directly  between  the  third-party  financing  company  and  the  end  customer.  As  such,  the  Company  generally  does  not  assume  any
-recourse or credit risk sharing related to any of these arrangements.
-
-As of September 24, 2022, the Company had one customer that represented 10% or more of total trade receivables, which accounted
-for 10%. The Company’s cellular network carriers accounted for 44% and 42% of total trade receivables as of September 24, 2022 and
-September 25, 2021, respectively.
-
-Vendor Non-Trade Receivables
-
-The  Company  has  non-trade  receivables  from  certain  of  its  manufacturing  vendors  resulting  from  the  sale  of  components  to  these
-vendors  who  manufacture  subassemblies  or  assemble  final  products  for  the  Company.  The  Company  purchases  these  components
-directly  from  suppliers. As  of  September  24,  2022,  the  Company  had  two  vendors  that  individually  represented  10%  or  more  of  total
-vendor  non-trade  receivables,  which  accounted  for  54%  and  13%. As  of  September  25,  2021,  the  Company  had  three  vendors  that
-individually represented 10% or more of total vendor non-trade receivables, which accounted for 52%, 11% and 11%.
-
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-52/78
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-Apple Inc. | 2022 Form 10-K | 40
-
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-53/78
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-Note 4 – Consolidated Financial Statement Details
-
-The following tables show the Company’s consolidated financial statement details as of September 24, 2022 and September 25, 2021
-(in millions):
-
-Property, Plant and Equipment, Net
-
-Land and buildings
-Machinery, equipment and internal-use software
-Leasehold improvements
-
-Gross property, plant and equipment
-Accumulated depreciation and amortization
-Total property, plant and equipment, net
-
-Other Non-Current Liabilities
-
-Long-term taxes payable
-Other non-current liabilities
-
-Total other non-current liabilities
-
-2022
-
-2021
-
-22,126  $
-81,060
-11,271
-114,457
-(72,340)
-42,117  $
-
-20,041
-78,659
-11,023
-109,723
-(70,283)
-39,440
-
-2022
-
-2021
-
-16,657  $
-32,485
-49,142  $
-
-24,689
-28,636
-53,325
-
-$
-
-$
-
-$
-
-$
-
-Other Income/(Expense), Net
-
-The following table shows the detail of OI&E for 2022, 2021 and 2020 (in millions):
-
-Interest and dividend income
-Interest expense
-Other income/(expense), net
-
-Total other income/(expense), net
-
-2022
-
-2021
-
-2020
-
-$
-
-$
-
-2,825  $
-(2,931)
-(228)
-(334) $
-
-2,843  $
-(2,645)
-60
-258  $
-
-3,763
-(2,873)
-(87)
-803
-
-Note 5 – Income Taxes
-
-Provision for Income Taxes and Effective Tax Rate
-
-The provision for income taxes for 2022, 2021 and 2020, consisted of the following (in millions):
-
-Federal:
-
-Current
-Deferred
-Total
-
-State:
-
-Current
-Deferred
-Total
-
-Foreign:
-
-Current
-Deferred
-Total
-
-Provision for income taxes
-
-2022
-
-2021
-
-2020
-
-$
-
-$
-
-7,890  $
-(2,265)
-5,625
-
-8,257  $
-(7,176)
-1,081
-
-1,519
-84
-1,603
-
-8,996
-3,076
-12,072
-19,300  $
-
-1,620
-(338)
-1,282
-
-9,424
-2,740
-12,164
-14,527  $
-
-6,306
-(3,619)
-2,687
-
-455
-21
-476
-
-3,134
-3,383
-6,517
-9,680
-
-The foreign provision for income taxes is based on foreign pretax earnings of $71.3 billion, $68.7 billion and $38.1 billion in 2022, 2021
-and 2020, respectively.
-
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-54/78
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-Apple Inc. | 2022 Form 10-K | 41
-
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-55/78
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-A  reconciliation  of  the  provision  for  income  taxes  to  the  amount  computed  by  applying  the  statutory  federal  income  tax  rate  (21%  in
-2022, 2021 and 2020) to income before provision for income taxes for 2022, 2021 and 2020, is as follows (dollars in millions):
-
-Computed expected tax
-State taxes, net of federal effect
-Impacts of the Act
-Earnings of foreign subsidiaries
-Foreign-derived intangible income deduction
-Research and development credit, net
-Excess tax benefits from equity awards
-Other
-
-Provision for income taxes
-
-Effective tax rate
-
-Deferred Tax Assets and Liabilities
-
-2022
-
-2021
-
-2020
-
-$
-
-$
-
-25,012
-1,518
-542
-(4,366)
-(296)
-(1,153)
-(1,871)
-(86)
-19,300
-
-$
-
-$
-
-22,933
-1,151
-—
-(4,715)
-(1,372)
-(1,033)
-(2,137)
-(300)
-14,527
-
-$
-
-$
-
-14,089
-423
-(582)
-(2,534)
-(169)
-(728)
-(930)
-111
-9,680
-
-16.2 %
-
-13.3 %
-
-14.4 %
-
-As  of  September  24,  2022  and  September  25,  2021,  the  significant  components  of  the  Company’s  deferred  tax  assets  and  liabilities
-were (in millions):
-
-2022
-
-2021
-
-Deferred tax assets:
-
-Amortization and depreciation
-Accrued liabilities and other reserves
-Lease liabilities
-Deferred revenue
-Unrealized losses
-Tax credit carryforwards
-Other
-
-Total deferred tax assets
-
-Less: Valuation allowance
-
-Total deferred tax assets, net
-
-Deferred tax liabilities:
-
-Minimum tax on foreign earnings
-Right-of-use assets
-Unrealized gains
-Other
-
-Total deferred tax liabilities
-
-Net deferred tax assets
-
-$
-
-$
-
-1,496  $
-6,515
-2,400
-5,742
-2,913
-6,962
-1,596
-27,624
-(7,530)
-20,094
-
-1,983
-2,163
-942
-469
-5,557
-14,537  $
-
-5,575
-5,895
-2,406
-5,399
-53
-4,262
-1,639
-25,229
-(4,903)
-20,326
-
-4,318
-2,167
-203
-565
-7,253
-13,073
-
-As of September 24, 2022, the Company had $4.4 billion in foreign tax credit carryforwards in Ireland and $2.5 billion in California R&D
-credit  carryforwards,  both  of  which  can  be  carried  forward  indefinitely.  A  valuation  allowance  has  been  recorded  for  the  credit
-carryforwards and a portion of other temporary differences.
-
-Apple Inc. | 2022 Form 10-K | 42
-
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-56/78
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-Uncertain Tax Positions
-
-As  of  September  24,  2022,  the  total  amount  of  gross  unrecognized  tax  benefits  was  $16.8  billion,  of  which  $8.0  billion,  if  recognized,
-would  impact  the  Company’s  effective  tax  rate. As  of  September  25,  2021,  the  total  amount  of  gross  unrecognized  tax  benefits  was
-$15.5 billion, of which $6.6 billion, if recognized, would have impacted the Company’s effective tax rate.
-
-The  aggregate  change  in  the  balance  of  gross  unrecognized  tax  benefits,  which  excludes  interest  and  penalties,  for  2022,  2021  and
-2020, is as follows (in millions):
-
-Beginning balances
-
-Increases related to tax positions taken during a prior year
-Decreases related to tax positions taken during a prior year
-Increases related to tax positions taken during the current year
-Decreases related to settlements with taxing authorities
-Decreases related to expiration of the statute of limitations
-
-Ending balances
-
-2022
-
-2021
-
-2020
-
-$
-
-$
-
-15,477  $
-2,284
-(1,982)
-1,936
-(28)
-(929)
-16,758  $
-
-16,475  $
-816
-(1,402)
-1,607
-(1,838)
-(181)
-15,477  $
-
-15,619
-454
-(791)
-1,347
-(85)
-(69)
-16,475
-
-The Company is subject to taxation and files income tax returns in the U.S. federal jurisdiction and many state and foreign jurisdictions.
-Tax years after 2017 for the U.S. federal jurisdiction, and after 2014 in certain major foreign jurisdictions, remain subject to examination.
-Although the timing of resolution and/or closure of examinations is not certain, the Company believes it is reasonably possible that its
-gross unrecognized tax benefits could decrease in the next 12 months by as much as $4.8 billion.
-
-European Commission State Aid Decision
-
-On August 30, 2016, the European Commission announced its decision that Ireland granted state aid to the Company by providing tax
-opinions in 1991 and 2007 concerning the tax allocation of profits of the Irish branches of two subsidiaries of the Company (the “State
-Aid Decision”). The State Aid Decision ordered Ireland to calculate and recover additional taxes from the Company for the period June
-2003 through December 2014. Irish legislative changes, effective as of January 2015, eliminated the application of the tax opinions from
-that  date  forward.  The  recovery  amount  was  calculated  to  be  €13.1  billion,  plus  interest  of  €1.2  billion.  The  Company  and  Ireland
-appealed the State Aid Decision to the General Court of the Court of Justice of the European Union (the “General Court”). On July 15,
-2020,  the  General  Court  annulled  the  State Aid  Decision.  On  September  25,  2020,  the  European  Commission  appealed  the  General
-Court’s decision to the European Court of Justice. The Company believes that any incremental Irish corporate income taxes potentially
-due related to the State Aid Decision would be creditable against U.S. taxes, subject to any foreign tax credit limitations in the Act.
-
-On an annual basis, the Company may request approval from the Irish Minister for Finance to reduce the recovery amount for certain
-taxes  paid  to  other  countries.  As  of  September  24,  2022,  the  adjusted  recovery  amount  was  €12.7  billion,  excluding  interest.  The
-adjusted recovery amount plus interest is funded into escrow, where it will remain restricted from general use pending the conclusion of
-all legal proceedings. Refer to the Cash, Cash Equivalents and Marketable Securities section of Note 3, “Financial Instruments” for more
-information.
-
-Note 6 – Leases
-
-The  Company  has  lease  arrangements  for  certain  equipment  and  facilities,  including  corporate,  data  center,  manufacturing  and  retail
-space.  These  leases  typically  have  original  terms  not  exceeding  10  years  and  generally  contain  multiyear  renewal  options,  some  of
-which are reasonably certain of exercise.
-
-Payments  under  the  Company’s  lease  arrangements  may  be  fixed  or  variable,  and  variable  lease  payments  are  primarily  based  on
-purchases of output of the underlying leased assets. Lease costs associated with fixed payments on the Company’s operating leases
-were $1.9 billion, $1.7 billion and $1.5 billion for 2022, 2021 and 2020, respectively. Lease costs associated with variable payments on
-the Company’s leases were $14.9 billion, $12.9 billion and $9.3 billion for 2022, 2021 and 2020, respectively.
-
-The Company made $1.8 billion, $1.4 billion and $1.5 billion of fixed cash payments related to operating leases in 2022, 2021 and 2020,
-respectively. Noncash activities involving right-of-use (“ROU”) assets obtained in exchange for lease liabilities were $2.8 billion for 2022,
-$3.3 billion for 2021 and $10.5 billion for 2020, including the impact of adopting the Financial Accounting Standards Board’s Accounting
-Standards Update No. 2016-02, Leases (Topic 842) in the first quarter of 2020.
-
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-57/78
-
-Apple Inc. | 2022 Form 10-K | 43
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-The following table shows ROU assets and lease liabilities, and the associated financial statement line items, as of September 24, 2022
-and September 25, 2021 (in millions):
-
-Lease-Related Assets and Liabilities
-Right-of-use assets:
-
-Operating leases
-Finance leases
-
-Total right-of-use assets
-
-Lease liabilities:
-
-Operating leases
-
-Finance leases
-
-Total lease liabilities
-
-Financial Statement Line Items
-
-2022
-
-2021
-
-Other non-current assets
-Property, plant and equipment, net
-
-Other current liabilities
-Other non-current liabilities
-Other current liabilities
-Other non-current liabilities
-
-$
-
-$
-
-$
-
-$
-
-10,417  $
-952
-11,369  $
-
-1,534  $
-9,936
-129
-812
-12,411  $
-
-10,087
-861
-10,948
-
-1,449
-9,506
-79
-769
-11,803
-
-Lease liability maturities as of September 24, 2022, are as follows (in millions):
-
-2023
-2024
-2025
+Fiscal Year:
 2026
 2027
-Thereafter
-
-Total undiscounted liabilities
-
-Less: Imputed interest
-
-Total lease liabilities
-
-Operating
-Leases
-
-Finance
-Leases
+2028
+2029
+2030
+2031 and thereafter
 
 Total
 
-$
+Note 7 - Cash Equivalents and Marketable Securities
+
+The following is a summary of cash equivalents and marketable securities:
+
+Future Amortization Expense
+(In millions)
 
 $
 
-1,758  $
-1,742
-1,677
-1,382
-1,143
-5,080
-12,782
-(1,312)
-11,470  $
+$
 
-155  $
-130
-81
-48
-34
-906
-1,354
-(413)
-941  $
+354
+236
+84
+31
+10
+92
+807
 
-1,913
-1,872
-1,758
-1,430
-1,177
-5,986
-14,136
-(1,725)
-12,411
+Jan 26, 2025
 
-The  weighted-average  remaining  lease  term  related  to  the  Company’s  lease  liabilities  as  of  September  24,  2022  and  September  25,
-2021 was 10.1 years and 10.8 years, respectively. The discount rate related to the Company’s lease liabilities as of September 24, 2022
-and September 25, 2021 was 2.3% and 2.0%, respectively.
+Reported as
 
-As of September 24, 2022, the Company had $1.2 billion of future payments under additional leases, primarily for corporate facilities and
-retail  space,  that  had  not  yet  commenced. These  leases  will  commence  between  2023  and  2026,  with  lease  terms  ranging  from  less
-than 1 year to 21 years.
+Amortized
+Cost
 
-Apple Inc. | 2022 Form 10-K | 44
+Unrealized
+Gain
 
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
+Unrealized
+Loss
 
-58/78
+Estimated
+Fair Value
 
-3/4/25, 11:08 PM
+Cash
+Equivalents
 
-aapl-20220924
-
-Note 7 – Debt
-
-Commercial Paper and Repurchase Agreements
-
-The  Company  issues  unsecured  short-term  promissory  notes  (“Commercial  Paper”)  pursuant  to  a  commercial  paper  program.  The
-Company  uses  net  proceeds  from  the  commercial  paper  program  for  general  corporate  purposes,  including  dividends  and  share
-repurchases. As of September 24, 2022 and September 25, 2021, the Company had $10.0 billion and $6.0 billion of Commercial Paper
-outstanding,  respectively,  with  maturities  generally  less  than  nine  months.  The  weighted-average  interest  rate  of  the  Company’s
-Commercial Paper was 2.31% and 0.06% as of September 24, 2022 and September 25, 2021, respectively. The following table provides
-a summary of cash flows associated with the issuance and maturities of Commercial Paper for 2022, 2021 and 2020 (in millions):
-
-Maturities 90 days or less:
-
-Proceeds from/(Repayments of) commercial paper, net
+Marketable
+Securities
 
 $
 
-5,264  $
+18,504  $
 
-(357) $
+51  $
+
+(In millions)
+(29) $
+
+18,526  $
+
+2,071  $
+
+16,455
+
+16,749
+3,760
+
+2,775
+177
+97
+
+42
+—
+
+7
+—
+—
+
+42,062
 
 100
 
-2022
-
-2021
-
-2020
-
-Maturities greater than 90 days:
-
-Proceeds from commercial paper
-Repayments of commercial paper
-
-Proceeds from/(Repayments of) commercial paper, net
-
-5,948
-(7,257)
-(1,309)
-
-7,946
-(6,567)
-1,379
-
-6,185
-(7,248)
-(1,063)
-
-Total proceeds from/(repayments of) commercial paper, net
-
-$
-
-3,955  $
-
-1,022  $
-
-(963)
-
-In 2020, the Company entered into agreements to sell certain of its marketable securities with a promise to repurchase the securities at
-a  specified  time  and  amount  (“Repos”).  Due  to  the  Company’s  continuing  involvement  with  the  marketable  securities,  the  Company
-accounted for its Repos as collateralized borrowings. The Company entered into $5.2 billion of Repos during 2020, all of which had been
-settled as of September 26, 2020.
-
-Term Debt
-
-The  Company  has  outstanding  fixed-rate  notes  with  varying  maturities  (collectively  the  “Notes”).  The  Notes  are  senior  unsecured
-obligations and interest is payable in arrears. The following table provides a summary of the Company’s term debt as of September 24,
-2022 and September 25, 2021:
-
-2013 – 2021 debt issuances:
-Floating-rate notes
-Fixed-rate 0.000% – 4.650% notes
-
-Fourth quarter 2022 debt issuance:
-
-Maturities
-(calendar year)
-
-Amount
-(in millions)
-
-Effective
-Interest Rate
-
-Amount
-(in millions)
-
-Effective
-Interest Rate
-
-2022
-
-2021
-
-2022 – 2061
-
-$
-
-—
-106,324
-
-0.03% – 4.78%
-
-$
-
-1,750
-116,313
-
-0.48% – 0.63%
-0.03% – 4.78%
-
-Fixed-rate 3.250% – 4.100% notes
-
-2029 – 2062
-
-5,500
-
-3.27% – 4.12%
-
-Total term debt
-
-Unamortized premium/(discount) and issuance
-
-costs, net
-
-Hedge accounting fair value adjustments
-Less: Current portion of term debt
-
-Total non-current portion of term debt
-
-111,824
-
-(374)
-(1,363)
-(11,128)
-
-98,959
-
-$
-
+(22)
 —
 
-118,063
-
-(380)
-1,036
-(9,613)
-
-$
-
-109,106
-
-To  manage  interest  rate  risk  on  certain  of  its  U.S.  dollar–denominated  fixed-rate  notes,  the  Company  has  entered  into  interest  rate
-swaps to effectively convert the fixed interest rates to floating interest rates on a portion of these notes. Additionally, to manage foreign
-currency risk on certain of its foreign currency–denominated notes, the Company has entered into foreign currency swaps to effectively
-convert these notes to U.S. dollar–denominated notes.
-
-The effective interest rates for the Notes include the interest on the Notes, amortization of the discount or premium and, if applicable,
-adjustments related to hedging. The Company recognized $2.8 billion, $2.6 billion and $2.8 billion of interest expense on its term debt for
-2022, 2021 and 2020, respectively.
-
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-59/78
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-Apple Inc. | 2022 Form 10-K | 45
-
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-60/78
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-The future principal payments for the Company’s Notes as of September 24, 2022, are as follows (in millions):
-
-2023
-2024
-2025
-2026
-2027
-Thereafter
-
-Total term debt
-
-$
-
-$
-
-11,139
-9,910
-10,645
-11,209
-9,631
-59,290
-111,824
-
-As of September 24, 2022 and September 25, 2021, the fair value of the Company’s Notes, based on Level 2 inputs, was $98.8 billion
-and $125.3 billion, respectively.
-
-Note 8 – Shareholders’ Equity
-
-Share Repurchase Program
-
-During  2022,  the  Company  repurchased  569  million  shares  of  its  common  stock  for  $90.2  billion  under  a  share  repurchase  program
-authorized  by  the  Board  of  Directors  (the  “Program”). The  Program  does  not  obligate  the  Company  to  acquire  a  minimum  amount  of
-shares. Under the Program, shares may be repurchased in privately negotiated and/or open market transactions, including under plans
-complying with Rule 10b5-1 under the Securities Exchange Act of 1934, as amended.
-
-Shares of Common Stock
-
-The following table shows the changes in shares of common stock for 2022, 2021 and 2020 (in thousands):
-
-Common stock outstanding, beginning balances
-
-Common stock repurchased
-Common stock issued, net of shares withheld for employee taxes
-
-Common stock outstanding, ending balances
-
-2022
-
-16,426,786
-(568,589)
-85,228
-15,943,425
-
-2021
-
-16,976,763
-(656,340)
-106,363
-16,426,786
-
-2020
-
-17,772,945
-(917,270)
-121,088
-16,976,763
-
-Note 9 – Benefit Plans
-
-2022 Employee Stock Plan
-
-In the second quarter of 2022, shareholders approved the Apple Inc. 2022 Employee Stock Plan (the “2022 Plan”), which provides for
-broad-based equity grants to employees, including executive officers, and permits the granting of restricted stock units (“RSUs”), stock
-grants, performance-based awards, stock options and stock appreciation rights. RSUs granted under the 2022 Plan generally vest over
-four years, based on continued employment, and are settled upon vesting in shares of the Company’s common stock on a one-for-one
-basis. RSUs granted under the 2022 Plan reduce the number of shares available for grant under the plan by a factor of two times the
-number  of  RSUs  granted.  RSUs  canceled  and  shares  withheld  to  satisfy  tax  withholding  obligations  increase  the  number  of  shares
-available for grant under the 2022 Plan utilizing a factor of two times the number of RSUs canceled or shares withheld. All RSUs granted
-under the 2022 Plan have dividend equivalent rights (“DERs”), which entitle holders of RSUs to the same dividend value per share as
-holders of common stock. DERs are subject to the same vesting and other terms and conditions as the underlying RSUs. A maximum of
-approximately 1.3 billion shares were authorized for issuance pursuant to 2022 Plan awards at the time the plan was approved on March
-4, 2022.
-
-2014 Employee Stock Plan
-
-The Apple Inc. 2014 Employee Stock Plan (the “2014 Plan”) is a shareholder-approved plan that provided for broad-based equity grants
-to employees, including executive officers. The 2014 Plan permitted the granting of substantially the same types of equity awards with
-substantially the same terms as the 2022 Plan. The 2014 Plan also permitted the granting of cash bonus awards. In the third quarter of
-2022, the Company terminated the authority to grant new awards under the 2014 Plan.
-
-Apple Inc. | 2022 Form 10-K | 46
-
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-61/78
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-Apple Inc. Non-Employee Director Stock Plan
-
-The Apple Inc. Non-Employee Director Stock Plan (the “Director Plan”) is a shareholder-approved plan that (i) permits the Company to
-grant awards of RSUs or stock options to the Company’s non-employee directors, (ii) provides for automatic initial grants of RSUs upon
-a non-employee director joining the Board of Directors and automatic annual grants of RSUs at each annual meeting of shareholders,
-and (iii) permits the Board of Directors to prospectively change the value and relative mixture of stock options and RSUs for the initial
-and annual award grants and the methodology for determining the number of shares of the Company’s common stock subject to these
-grants,  in  each  case  within  the  limits  set  forth  in  the  Director  Plan  and  without  further  shareholder  approval.  RSUs  granted  under  the
-Director Plan reduce the number of shares available for grant under the plan by a factor of two times the number of RSUs granted. The
-Director Plan expires on November 12, 2027. All RSUs granted under the Director Plan are entitled to DERs, which are subject to the
-same vesting and other terms and conditions as the underlying RSUs. A maximum of approximately 45 million shares (split-adjusted)
-were authorized for issuance pursuant to Director Plan awards at the time the plan was last amended on November 9, 2021.
-
-Employee Stock Purchase Plan
-
-The Employee Stock Purchase Plan (the “Purchase Plan”) is a shareholder-approved plan under which substantially all employees may
-voluntarily enroll to purchase the Company’s common stock through payroll deductions at a price equal to 85% of the lower of the fair
-market  values  of  the  stock  as  of  the  beginning  or  the  end  of  six-month  offering  periods. An  employee’s  payroll  deductions  under  the
-Purchase  Plan  are  limited  to  10%  of  the  employee’s  eligible  compensation  and  employees  may  not  purchase  more  than  $25,000  of
-stock during any calendar year. A maximum of approximately 230 million shares (split-adjusted) were authorized for issuance under the
-Purchase Plan at the time the plan was last amended and restated on March 10, 2015.
-
-401(k) Plan
-
-The Company’s 401(k) Plan is a tax-qualified deferred compensation arrangement under Section 401(k) of the Internal Revenue Code.
-Under the 401(k) Plan, participating U.S. employees may contribute a portion of their eligible earnings, subject to applicable U.S. Internal
-Revenue  Service  and  plan  limits.  The  Company  matches  50%  to  100%  of  each  employee’s  contributions,  depending  on  length  of
-service, up to a maximum of 6% of the employee’s eligible earnings.
-
-Restricted Stock Units
-
-A summary of the Company’s RSU activity and related information for 2022, 2021 and 2020, is as follows:
-
-Balance as of September 28, 2019
-
-RSUs granted
-RSUs vested
-RSUs canceled
-
-Balance as of September 26, 2020
-
-RSUs granted
-RSUs vested
-RSUs canceled
-
-Balance as of September 25, 2021
-
-RSUs granted
-RSUs vested
-RSUs canceled
-
-Balance as of September 24, 2022
-
-Number of
-RSUs
-(in thousands)
-
-Weighted-Average
-Grant Date Fair
-Value Per RSU
-
-Aggregate
-Fair Value
-(in millions)
-
-326,068  $
-156,800  $
-(157,743) $
-(14,347) $
-310,778  $
-89,363  $
-(145,766) $
-(13,948) $
-240,427  $
-91,674  $
-(115,861) $
-(14,739) $
-201,501  $
-
-42.30
-59.20
-40.29
-48.07
-51.58
-116.33
-50.71
-68.95
-75.16
-150.70
-72.12
-99.77
-
-109.48  $
-
-30,312
-
-The  fair  value  as  of  the  respective  vesting  dates  of  RSUs  was  $18.2  billion,  $19.0  billion  and  $10.8  billion  for  2022,  2021  and  2020,
-respectively. The majority of RSUs that vested in 2022, 2021 and 2020 were net share settled such that the Company withheld shares
-with a value equivalent to the employees’ obligation for the applicable income and other employment taxes, and remitted the cash to the
-appropriate  taxing  authorities.  The  total  shares  withheld  were  approximately  41  million,  53  million  and  56  million  for  2022,  2021  and
-2020, respectively, and were based on the value of the RSUs on their respective vesting dates as determined by the Company’s closing
-stock  price. Total  payments  to  taxing  authorities  for  employees’  tax  obligations  were  $6.4  billion,  $6.8  billion  and  $3.9  billion  in  2022,
-2021 and 2020, respectively.
-
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-62/78
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-Apple Inc. | 2022 Form 10-K | 47
-
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-63/78
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-Share-Based Compensation
-
-The  following  table  shows  share-based  compensation  expense  and  the  related  income  tax  benefit  included  in  the  Consolidated
-Statements of Operations for 2022, 2021 and 2020 (in millions):
-
-Share-based compensation expense
-Income tax benefit related to share-based compensation expense
-
-2022
-
-2021
-
-2020
-
-$
-$
-
-9,038  $
-(4,002) $
-
-7,906  $
-(4,056) $
-
-6,829
-(2,476)
-
-As of September 24, 2022, the total unrecognized compensation cost related to outstanding RSUs and stock options was $16.7 billion,
-which the Company expects to recognize over a weighted-average period of 2.6 years.
-
-Note 10 – Commitments and Contingencies
-
-Concentrations in the Available Sources of Supply of Materials and Product
-
-Although most components essential to the Company’s business are generally available from multiple sources, certain components are
-currently  obtained  from  single  or  limited  sources.  The  Company  also  competes  for  various  components  with  other  participants  in  the
-markets for smartphones, personal computers, tablets, wearables and accessories. Therefore, many components used by the Company,
-including those that are available from multiple sources, are at times subject to industry-wide shortage and significant commodity pricing
-fluctuations.
-
-The  Company  uses  some  custom  components  that  are  not  commonly  used  by  its  competitors,  and  new  products  introduced  by  the
-Company often utilize custom components available from only one source. When a component or product uses new technologies, initial
-capacity constraints may exist until the suppliers’ yields have matured or their manufacturing capacities have increased. The continued
-availability of these components at acceptable prices, or at all, may be affected if suppliers decide to concentrate on the production of
-common components instead of components customized to meet the Company’s requirements.
-
-Substantially all of the Company’s hardware products are manufactured by outsourcing partners that are located primarily in Asia, with
-some Mac computers manufactured in the U.S. and Ireland.
-
-Unconditional Purchase Obligations
-
-The  Company  has  entered  into  certain  off–balance  sheet  commitments  that  require  the  future  purchase  of  goods  or  services
-(“unconditional  purchase  obligations”).  The  Company’s  unconditional  purchase  obligations  primarily  consist  of  payments  for  supplier
-arrangements, internet services and content creation. Future payments under noncancelable unconditional purchase obligations with a
-remaining term in excess of one year as of September 24, 2022, are as follows (in millions):
-
-2023
-2024
-2025
-2026
-2027
-Thereafter
+(5)
+—
+—
+
+(56)
+
+16,769
+3,760
+
+2,777
+177
+97
+
+1,801
+3,760
+
+—
+137
+97
+
+42,106
+381
+42,487  $
+
+7,866
+—
+7,866  $
+
+14,968
+—
+
+2,777
+40
+—
+
+34,240
+381
+34,621
+
+Corporate debt securities
+Debt securities issued by the U.S.
+Treasury
+Money market funds
+Debt securities issued by U.S.
+government agencies
+Foreign government bonds
+Certificates of deposit
+
+Total debt securities with fair value
+adjustments recorded in other
+comprehensive income
+
+Publicly-held equity securities (1)
 
 Total
 
-Contingencies
+$
+
+42,062  $
+
+100  $
+
+(56) $
+
+(1)    Fair value adjustments on publicly-held equity securities are recorded in net income. Beginning in the second quarter of fiscal year 2025, publicly-held equity securities
+
+from investments in non-affiliated entities included in other assets (long term) were classified in marketable securities on our Consolidated Balance Sheets.
+
+Net  unrealized  gains  on  investments  in  publicly-held  equity  securities  held  at  period  end  were  $163  million  for  fiscal  year  2025.  Net
+unrealized gains on investments in publicly-held equity securities held at period end were not significant for fiscal years 2024 and 2023.
+
+Net realized gains on investments in publicly-held equity securities sold were $88 million for fiscal year 2025, reflecting the difference
+between the sale proceeds and the carrying value of the equity securities at the beginning of the period or the purchase date, if later.
+Realized gains and losses on investments in publicly-held equity securities sold during fiscal years 2024 and 2023 were not significant.
+
+66
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+95/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+(Continued)
+
+Jan 28, 2024
+
+Reported as
+
+Amortized
+Cost
+
+Unrealized
+Gain
+
+Unrealized
+Loss
+
+Estimated
+Fair Value
+
+Cash
+Equivalents
+
+Marketable
+Securities
 
 $
 
-$
+10,126  $
 
-13,488
-4,876
-1,418
-6,780
-312
-412
-27,286
+31  $
 
-The Company is subject to various legal proceedings and claims that have arisen in the ordinary course of business and that have not
-been fully resolved. The outcome of litigation is inherently uncertain. In the opinion of management, there was not at least a reasonable
-possibility  the  Company  may  have  incurred  a  material  loss,  or  a  material  loss  greater  than  a  recorded  accrual,  concerning  loss
-contingencies for asserted legal and other claims.
+(In millions)
+(5) $
 
-Apple Inc. | 2022 Form 10-K | 48
+10,152  $
 
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
+2,231  $
 
-64/78
+7,921
 
-3/4/25, 11:08 PM
+9,517
+3,031
 
-aapl-20220924
+2,326
+510
+174
 
-Note 11 – Segment Information and Geographic Data
+17
+—
 
-The following table shows information by reportable segment for 2022, 2021 and 2020 (in millions):
+8
+—
+—
 
-Americas:
-
-Net sales
-Operating income
-
-Europe:
-
-Net sales
-Operating income
-
-Greater China:
-Net sales
-Operating income
-
-Japan:
-
-Net sales
-Operating income
-
-Rest of Asia Pacific:
-Net sales
-Operating income
-
-2022
-
-2021
-
-2020
-
-169,658  $
-62,683  $
-
-153,306  $
-53,382  $
-
-124,556
-37,722
-
-95,118  $
-35,233  $
-
-89,307  $
-32,505  $
-
-68,640
-22,170
-
-74,200  $
-31,153  $
-
-68,366  $
-28,504  $
-
-40,308
-15,261
-
-25,977  $
-12,257  $
-
-28,482  $
-12,798  $
-
-21,418
-9,279
-
-29,375  $
-11,569  $
-
-26,356  $
-9,817  $
-
-19,593
-6,808
-
-$
-$
-
-$
-$
-
-$
-$
-
-$
-$
-
-$
-$
-
-A reconciliation of the Company’s segment operating income to the Consolidated Statements of Operations for 2022, 2021 and 2020 is
-as follows (in millions):
-
-Segment operating income
-Research and development expense
-Other corporate expenses, net
-Total operating income
-
-2022
-
-2021
-
-2020
-
-$
-
-$
-
-152,895  $
-(26,251)
-(7,207)
-119,437  $
-
-137,006  $
-(21,914)
-(6,143)
-108,949  $
-
-91,240
-(18,752)
-(6,200)
-66,288
-
-The U.S. and China were the only countries that accounted for more than 10% of the Company’s net sales in 2022, 2021 and 2020. Net
-sales for 2022, 2021 and 2020 and long-lived assets as of September 24, 2022 and September 25, 2021 were as follows (in millions):
-
-Net sales:
-
-U.S.
-China
-Other countries
-
- (1)
-
-Total net sales
-
-Long-lived assets:
-
-U.S.
-China
-Other countries
+(10)
+—
 
 (1)
+—
+—
+
+9,524
+3,031
+
+2,333
+510
+174
+
+1,315
+3,031
+
+89
+294
+60
+
+8,209
+—
+
+2,244
+216
+114
+
+$
+
+25,684  $
+
+56  $
+
+(16) $
+
+25,724  $
+
+7,020  $
+
+18,704
+
+Corporate debt securities
+Debt securities issued by the
+U.S. Treasury
+Money market funds
+Debt securities issued by U.S.
+government agencies
+Certificates of deposit
+Foreign government bonds
+Total debt securities with fair value
+changes recorded in other
+comprehensive income
+
+The following tables provide the breakdown of unrealized losses, aggregated by investment category and length of time that individual
+debt securities have been in a continuous loss position:
+
+Less than 12 Months
+Gross
+Unrealized
+Loss
+
+Estimated
+Fair Value
+
+Jan 26, 2025
+12 Months or Greater
+Gross
+Unrealized
+Loss
+
+Estimated Fair
+Value
+
+Total
+
+Estimated
+Fair Value
+
+Gross
+Unrealized
+Loss
+
+6,315  $
+5,291
+
+816
+12,422  $
+
+(22) $
+(29)
+
+(5)
+(56) $
+
+(In millions)
+
+177  $
+15
+
+21
+213  $
+
+—  $
+—
+
+—
+—  $
+
+6,492  $
+5,306
+
+837
+12,635  $
+
+(22)
+(29)
+
+(5)
+(56)
+
+Less than 12 Months
+Gross
+Unrealized
+Loss
+
+Estimated
+Fair Value
+
+Jan 28, 2024
+12 Months or Greater
+Gross
+Unrealized
+Loss
+
+Estimated
+Fair Value
+
+(In millions)
+
+Total
+
+Estimated
+Fair Value
+
+Gross
+Unrealized
+Loss
+
+3,343  $
+1,306
+
+670
+5,319  $
+
+(5) $
+(3)
+
+(1)
+(9) $
+
+1,078  $
+618
+
+—
+1,696  $
+
+(5) $
+(2)
+
+—
+(7) $
+
+4,421  $
+1,924
+
+670
+7,015  $
+
+(10)
+(5)
+
+(1)
+(16)
+
+$
+
+$
+
+$
+
+$
+
+Debt securities issued by the
+U.S. Treasury
+Corporate debt securities
+Debt securities issued by U.S.
+government agencies
+Total
+
+Debt securities issued by the
+U.S. Treasury
+Corporate debt securities
+Debt securities issued by U.S.
+government agencies
+Total
+
+Gross unrealized losses are related to fixed income securities, driven primarily by changes in interest rates.
+
+The amortized cost and estimated fair value of debt securities included in cash equivalents and marketable securities are shown below
+by contractual maturity.
+
+67
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+96/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+(Continued)
+
+Less than one year
+Due in 1 - 5 years
+
+Total
+
+Jan 26, 2025
+
+Jan 28, 2024
+
+Amortized
+Cost
+
+Estimated
+Fair Value
+
+Amortized
+Cost
+
+Estimated
+Fair Value
+
+$
+
+$
+
+18,426  $
+23,636
+42,062  $
+
+(In millions)
+
+18,450  $
+23,656
+42,106  $
+
+16,336  $
+9,348
+25,684  $
+
+16,329
+9,395
+25,724
+
+Note 8 - Fair Value of Financial Assets and Liabilities and Non-marketable Equity Securities
+
+The fair values of our financial assets and liabilities are determined using quoted market prices of identical assets or market prices of
+similar assets from active markets. We review fair value classification on a quarterly basis.
+
+Assets
+Cash equivalents and marketable securities:
+
+Money market funds
+Publicly-held equity securities
+Corporate debt securities
+Debt securities issued by the U.S. Treasury
+Debt securities issued by U.S. government agencies
+Foreign government bonds
+Certificates of deposit
+
+Other assets:
+
+Publicly-held equity securities
+
+Liabilities (1)
+
+0.584% Notes Due 2024
+3.20% Notes Due 2026
+1.55% Notes Due 2028
+2.85% Notes Due 2030
+2.00% Notes Due 2031
+3.50% Notes Due 2040
+3.50% Notes Due 2050
+3.70% Notes Due 2060
+
+Pricing Category
+
+Jan 26, 2025
+
+Jan 28, 2024
+
+Fair Value at
+
+(In millions)
+
+Level 1
+Level 1
+Level 2
+Level 2
+Level 2
+Level 2
+Level 2
+
+Level 1
+
+Level 2
+Level 2
+Level 2
+Level 2
+Level 2
+Level 2
+Level 2
+Level 2
+
+$
+$
+$
+$
+$
+$
+$
+
+$
+
+$
+$
+$
+$
+$
+$
+$
+$
+
+3,760  $
+381  $
+18,526  $
+16,769  $
+2,777  $
+177  $
+97  $
+
+—  $
+
+—  $
+982  $
+1,136  $
+1,376  $
+1,064  $
+824  $
+1,482  $
+367  $
+
+3,031
+—
+10,152
+9,524
+2,333
+174
+510
+
+225
+
+1,228
+970
+1,115
+1,367
+1,057
+851
+1,604
+403
+
+(1)    Liabilities are carried on our Consolidated Balance Sheets at their original issuance value, net of unamortized debt discount and issuance costs.
+
+Non-marketable Equity Securities
+
+Our non-marketable equity securities are recorded in long-term other assets on our Consolidated Balance Sheets and valued under the
+measurement alternative. Gains and losses on these investments, realized and unrealized, are recognized in Other income (expense),
+net on our Consolidated Statements of Income.
+
+68
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+97/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+(Continued)
+
+Adjustments to the carrying value of our non-marketable equity securities during fiscal years 2025 and 2024 were as follows:
+
+Balance at beginning of period
+Adjustments related to non-marketable equity securities:
+
+Net additions
+Unrealized gains
+Impairments and unrealized losses
+
+Balance at end of period
+
+Year Ended
+
+Jan 26, 2025
+
+Jan 28, 2024
+
+$
+
+$
+
+(In millions)
+
+1,321  $
+
+1,309
+816
+(59)
+
+288
+
+859
+194
+(20)
+
+3,387  $
+
+1,321
+
+Non-marketable  equity  securities  had  cumulative  gross  unrealized  gains  of  $1.1  billion  and  $270  million,  and  cumulative  gross
+unrealized  losses  and  impairments  of  $105  million  and  $45  million  on  securities  held  as  of  January  26,  2025  and  January  28,  2024,
+respectively.
+
+In the fourth quarter of fiscal year 2025, one of our private company investments completed a secondary equity transaction that resulted
+in an unrealized gain of $565 million.
+
+Note 9 - Balance Sheet Components
+
+We refer to customers who purchase products directly from NVIDIA as direct customers, such as AIBs, distributors, ODMs, OEMs, and
+system integrators. We have certain customers that may purchase products directly from NVIDIA and may use either internal resources
+or third-party system integrators to complete their build. Two direct customers accounted for 17% and 16% of our accounts receivable
+balance as of January 26, 2025. Two direct customers accounted for 24% and 11% of our accounts receivable balance as of January 28,
+2024.
+
+Certain balance sheet components are as follows:
+
+Jan 26, 2025
+
+Jan 28, 2024
+
+Inventories:
+Raw materials
+Work in process
+Finished goods
+
+Total inventories (1)
+
+$
+
+$
+
+(In millions)
+
+3,408  $
+3,399
+3,273
+10,080  $
+
+(1)    In fiscal years 2025 and 2024, we recorded an inventory provision of $1.6 billion and $774 million, respectively, in cost of revenue.
+
+Property and Equipment:
+Land
+Buildings, leasehold improvements, and furniture
+Equipment, compute hardware, and software
+Construction in process
+
+Total property and equipment, gross
+Accumulated depreciation and amortization
+
+Total property and equipment, net
+
+Jan 26, 2025
+
+Jan 28, 2024
+
+$
+
+$
+
+(In millions)
+511  $
+
+2,076
+7,568
+529
+10,684
+(4,401)
+6,283  $
+
+218
+1,816
+5,200
+189
+7,423
+(3,509)
+3,914
+
+1,719
+1,505
+2,058
+5,282
+
+Estimated
+Useful Life
+
+(In years)
+(A)
+(B)
+2-7
+(C)
+
+(A)
+
+(B)
+
+Land is a non-depreciable asset.
+
+The estimated useful lives of our buildings are up to thirty years. Leasehold improvements and finance leases are amortized based on the lesser of either the asset’s
+estimated useful life or the expected remaining lease term.
+
+(C) Construction in process represents assets that are not available for their intended use as of the balance sheet date.
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+98/119
+
+69
+
+3/10/25, 4:53 PM
+
+nvda-20250126
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+99/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+(Continued)
+
+Depreciation expense for fiscal years 2025, 2024, and 2023 was $1.3 billion, $894 million, and $844 million, respectively.
+
+Accumulated amortization of leasehold improvements and finance leases was $410 million and $400 million as of January 26, 2025 and
+January 28, 2024, respectively.
+
+Property, equipment and intangible assets acquired by assuming related liabilities during fiscal years 2025, 2024, and 2023 were $525
+million, $170 million, and $374 million, respectively.
+
+Other Assets (Long Term):
+Non-marketable equity securities
+Prepaid supply and capacity agreements (1)
+Income tax receivable
+Prepaid royalties
+Other
+
+Total other assets
+
+Jan 26, 2025
+
+Jan 28, 2024
+
+$
+
+$
+
+(In millions)
+
+3,387  $
+1,747
+750
+340
+201
+6,425  $
+
+1,321
+2,458
+—
+364
+357
+4,500
+
+(1)
+
+Prepaid  supply  and  capacity  agreements  of  $3.3  billion  and  $2.5  billion  were  included  in  Prepaid  expenses  and  other  current  assets  as  of  January  26,  2025  and
+January 28, 2024, respectively.
+
+Accrued and Other Current Liabilities:
+Customer program accruals
+Excess inventory purchase obligations (1)
+Product warranty and return provisions
+Taxes payable
+Accrued payroll and related expenses
+Deferred revenue (2)
+Operating leases
+Licenses and royalties
+Unsettled share repurchases
+Other
+
+Total accrued and other current liabilities
+
+Jan 26, 2025
+
+Jan 28, 2024
+
+(In millions)
+
+4,880  $
+2,095
+1,373
+881
+848
+837
+288
+175
+132
+228
+11,737  $
+
+2,081
+1,655
+415
+296
+675
+764
+228
+182
+187
+199
+6,682
+
+$
+
+$
+
+(1)
+
+(2)
+
+In fiscal years 2025 and 2024, we recorded an expense of approximately $2.0 billion and $1.4 billion, respectively, in cost of revenue.
+
+Includes  customer  advances  and  unearned  revenue  related  to  hardware  support,  software  support,  cloud  services,  and  license  and  development  arrangements.  The
+balance as of January 26, 2025 and January 28, 2024 included $81 million and $233 million of customer advances, respectively.
+
+Other Long-Term Liabilities:
+Income tax payable (1)
+Deferred revenue (2)
+Deferred income tax
+Licenses payable
+Other
+
+Total other long-term liabilities
+
+Jan 26, 2025
+
+Jan 28, 2024
+
+$
+
+$
+
+(In millions)
+
+2,188  $
+976
+886
+116
+79
+4,245  $
+
+1,361
+573
+462
+80
+65
+2,541
+
+(1)
+
+(2)
+
+Income tax payable is comprised of the long-term portion of the one-time transition tax payable, unrecognized tax benefits, and related interest and penalties.
+
+Includes unearned revenue related to hardware support, software support and cloud services.
+
+70
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+100/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+Deferred Revenue
+
+nvda-20250126
+
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+(Continued)
+
+The following table shows the changes in short- and long-term deferred revenue during fiscal years 2025 and 2024:
+
+Balance at beginning of period
+Deferred revenue additions (1)
+Revenue recognized (2)
+Balance at end of period
+
+Jan 26, 2025
+
+Jan 28, 2024
+
+$
+
+$
+
+(In millions)
+
+1,337  $
+5,083
+(4,607)
+1,813  $
+
+572
+2,038
+(1,273)
+1,337
+
+(1)    Deferred revenue additions includes $3.6 billion and $783 million related to customer advances for fiscal years 2025 and 2024, respectively.
+
+(2)    Revenue recognized includes $3.7 billion and $585 million related to customer advances for fiscal years 2025 and 2024, respectively.
+
+We recognized revenue of $729 million and $338 million in fiscal years 2025 and 2024, respectively, that were included in the prior year
+end deferred revenue balance.
+
+As of January 26, 2025, revenue related to remaining performance obligations from contracts greater than one year in length was $1.7
+billion,  which  includes  $1.6  billion  from  deferred  revenue  and  $151  million  which  has  not  yet  been  billed  nor  recognized  as  revenue.
+Approximately 39% of revenue from contracts greater than one year in length will be recognized over the next twelve months.
+
+Note 10 - Derivative Financial Instruments
+
+We  utilize  foreign  currency  forward  contracts  to  mitigate  the  impact  of  foreign  currency  exchange  rate  movements  on  our  operating
+expenses. The foreign currency forward contracts for operating expenses are designated as accounting hedges. Gains or losses on the
+contracts  are  recorded  in  accumulated  other  comprehensive  income  or  loss  and  reclassified  to  operating  expense  when  the  related
+operating  expenses  are  recognized  in  earnings.  In  fiscal  years  2025  and  2024,  the  impact  of  foreign  currency  forward  contracts
+designated as accounting hedges on other comprehensive income or loss was not significant and all such instruments were determined
+to be highly effective.
+
+We also entered into foreign currency forward contracts mitigating the impact of foreign currency movements on monetary assets and
+liabilities.  For  our  foreign  currency  contracts  for  assets  and  liabilities,  the  change  in  fair  value  of  these  non-designated  contracts  was
+recorded in other income or expense and offsets the change in fair value of the hedged foreign currency denominated monetary assets
+and liabilities, which was also recorded in other income or expense.
+
+The table below presents the notional value of our foreign currency contracts outstanding:
+
+Designated as accounting hedges
+Not designated as accounting hedges
+
+Jan 26, 2025
+
+Jan 28, 2024
+
+$
+$
+
+(In millions)
+
+1,424  $
+1,297  $
+
+1,168
+597
+
+The  unrealized  gains  and  losses  or  fair  value  of  our  foreign  currency  contracts  were  not  significant  as  of  January  26,  2025  and
+January 28, 2024.
+
+As of January 26, 2025, all foreign currency contracts mature within 18 months. The expected realized gains and losses deferred into
+accumulated other comprehensive income or loss related to foreign currency forward contracts within the next twelve months were not
+significant.
+
+71
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+101/119
+
+nvda-20250126
+
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+(Continued)
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+Note 11 - Debt
+
+Long-Term Debt
+
+0.584% Notes Due 2024 (1)
+3.20% Notes Due 2026
+1.55% Notes Due 2028
+2.85% Notes Due 2030
+2.00% Notes Due 2031
+3.50% Notes Due 2040
+3.50% Notes Due 2050
+3.70% Notes Due 2060
+Unamortized debt discount and issuance costs
+
+Net carrying amount
+Less short-term portion
+Total long-term portion
+
+(1)    In fiscal year 2025, we repaid the 0.584% Notes Due 2024.
+
+Expected
+Remaining Term
+(years)
+
+Effective
+Interest
+Rate
+
+Jan 26, 2025
+
+Jan 28, 2024
+
+—
+1.6
+3.4
+5.2
+6.4
+15.2
+25.2
+35.2
+
+0.66%
+3.31%
+1.64%
+2.93%
+2.09%
+3.54%
+3.54%
+3.73%
+
+$
+
+$
+
+(In millions)
+—  $
+
+1,000
+1,250
+1,500
+1,250
+1,000
+2,000
+500
+(37)
+8,463
+—
+8,463  $
+
+1,250
+1,000
+1,250
+1,500
+1,250
+1,000
+2,000
+500
+(41)
+9,709
+(1,250)
+8,459
+
+Our notes are unsecured senior obligations. Existing and future liabilities of our subsidiaries will be effectively senior to the notes. Our
+notes pay interest semi-annually. We may redeem each of our notes prior to maturity, subject to a make-whole premium. The maturity of
+the notes is calendar year.
+
+As of January 26, 2025, we complied with the required covenants, which are non-financial in nature, under the outstanding notes.
+
+Commercial Paper
+
+We  have  a  $575  million  commercial  paper  program  to  support  general  corporate  purposes.  As  of  January  26,  2025,  we  had  no
+commercial paper outstanding.
+
+Note 12 - Commitments and Contingencies
+
+Purchase Obligations
+
+Our purchase obligations reflect our commitment to purchase components used to manufacture our products, including long-term supply
+and capacity agreements, certain software and technology licenses, other goods and services and long-lived assets.
+
+As of January 26, 2025, we had outstanding inventory purchase and long-term supply and capacity obligations totaling $30.8 billion, an
+increase from the prior year led by commitments, capacity and components for new product introductions, including our new Blackwell
+architecture. We enter into agreements with contract manufacturers that allow them to procure inventory based upon our defined criteria,
+and in certain instances, these agreements are cancellable, able to be rescheduled, or adjustable for our business needs prior to placing
+firm orders. Though, changes to these agreements may result in additional costs. Other non-inventory purchase obligations were $14.3
+billion, including $10.9 billion of multi-year cloud service agreements. We expect our cloud service agreements to primarily be used to
+support our research and development efforts, as well as our DGX Cloud offerings.
+
+72
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+102/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+(Continued)
+
+Total future purchase commitments as of January 26, 2025 are as follows:
+
+Fiscal Year:
+2026
+2027
+2028
+2029
+2030
+2031 and thereafter
+
+Total
+
+Commitments
+(In millions)
+
+$
+
+$
+
+35,727
+3,666
+2,992
+2,054
+422
+218
+45,079
+
+Accrual for Product Warranty Liabilities
+
+The  estimated  amount  of  product  warranty  liabilities  was  $1.3  billion  and  $306  million  as  of  January  26,  2025  and  January  28,  2024,
+respectively. The estimated product returns and product warranty activity consisted of the following:
+
+Balance at beginning of period
+Additions
+Utilization
+
+Balance at end of period
+
+Jan 26, 2025
+
+$
+
+$
+
+306  $
+
+1,203
+(219)
+
+1,290  $
+
+Year Ended
+
+Jan 28, 2024
+(In millions)
+
+Jan 29, 2023
+
+82  $
+
+278
+(54)
+
+306  $
+
+46
+145
+(109)
+
+82
+
+In fiscal years 2025, 2024, and 2023 the additions in product warranty liabilities primarily related to Compute & Networking segment.
+
+We  have  provided  indemnities  for  matters  such  as  tax,  product,  and  employee  liabilities.  We  have  included  intellectual  property
+indemnification  provisions  in  our  technology-related  agreements  with  third  parties.  Maximum  potential  future  payments  cannot  be
+estimated  because  many  of  these  agreements  do  not  have  a  maximum  stated  liability.  We  have  not  recorded  any  liability  in  our
+Consolidated Financial Statements for such indemnifications.
+
+Litigation
+
+Securities Class Action and Derivative Lawsuits
+
+The  plaintiffs  in  the  putative  securities  class  action  lawsuit,  captioned  4:18-cv-07669-HSG,  initially  filed  on  December  21,  2018  in  the
+United  States  District  Court  for  the  Northern  District  of  California,  and  titled  In  Re  NVIDIA  Corporation  Securities  Litigation,  filed  an
+amended  complaint  on  May  13,  2020. The  amended  complaint  asserted  that  NVIDIA  and  certain  NVIDIA  executives  violated  Section
+10(b) of the Securities Exchange Act of 1934, as amended, or the Exchange Act, and SEC Rule 10b-5, by making materially false or
+misleading statements related to channel inventory and the impact of cryptocurrency mining on GPU demand between May 10, 2017
+and November 14, 2018. Plaintiffs also alleged that the NVIDIA executives who they named as defendants violated Section 20(a) of the
+Exchange Act. Plaintiffs sought class certification, an award of unspecified compensatory damages, an award of reasonable costs and
+expenses, including attorneys’ fees and expert fees, and further relief as the Court may deem just and proper. On March 2, 2021, the
+district court granted NVIDIA’s motion to dismiss the complaint without leave to amend, entered judgment in favor of NVIDIA and closed
+the case. On March 30, 2021, plaintiffs filed an appeal from judgment in the United States Court of Appeals for the Ninth Circuit, case
+number 21-15604. On August 25, 2023, a majority of a three-judge Ninth Circuit panel affirmed in part and reversed in part the district
+court’s  dismissal  of  the  case,  with  a  third  judge  dissenting  on  the  basis  that  the  district  court  did  not  err  in  dismissing  the  case.  On
+November  15,  2023,  the  Ninth  Circuit  denied  NVIDIA’s  petition  for  rehearing  en  banc  of  the  Ninth  Circuit  panel’s  majority  decision  to
+reverse in part the dismissal of the case, which NVIDIA had filed on October 10, 2023. On December 5, 2023, the Ninth Circuit granted
+NVIDIA’s motion to stay the mandate pending NVIDIA’s petition for a writ of certiorari in the Supreme Court of the United States and the
+Supreme Court’s final disposition of the matter. NVIDIA filed a petition for a writ of certiorari on March 4, 2024. On June 17, 2024, the
+Supreme Court of the United States granted NVIDIA’s petition for a writ of certiorari. After briefing and argument, the Supreme
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+103/119
+
+73
+
+3/10/25, 4:53 PM
+
+nvda-20250126
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+104/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+(Continued)
+
+Court dismissed NVIDIA’s writ of certiorari as improvidently granted on December 11, 2024, and issued judgment on January 13, 2025.
+On February 20, 2025, the Ninth Circuit’s judgment, entered August 25, 2023 and corrected August 28, 2023, took effect, and the case
+was remanded to the district court for further proceedings.
+
+The  putative  derivative  lawsuit  pending  in  the  United  States  District  Court  for  the  Northern  District  of  California,  captioned  4:19-cv-
+00341-HSG, initially filed January 18, 2019 and titled In re NVIDIA Corporation Consolidated Derivative Litigation, was stayed pending
+resolution  of  the  plaintiffs’  appeal  in  the  In  Re  NVIDIA  Corporation  Securities  Litigation  action.  On  February  22,  2022,  the  court
+administratively closed the case, but stated that it would reopen the case once the appeal in the In Re NVIDIA Corporation Securities
+Litigation action is resolved. The case has not yet been reopened by the court. The lawsuit asserts claims, purportedly on behalf of us,
+against  certain  officers  and  directors  of  the  Company  for  breach  of  fiduciary  duty,  unjust  enrichment,  waste  of  corporate  assets,  and
+violations  of  Sections  14(a),  10(b),  and  20(a)  of  the  Exchange  Act  based  on  the  dissemination  of  allegedly  false  and  misleading
+statements related to channel inventory and the impact of cryptocurrency mining on GPU demand. The plaintiffs are seeking unspecified
+damages and other relief, including reforms and improvements to NVIDIA’s corporate governance and internal procedures.
+
+The  putative  derivative  actions  initially  filed  September  24,  2019  and  pending  in  the  United  States  District  Court  for  the  District  of
+Delaware,  Lipchitz  v.  Huang,  et  al.  (Case  No.  1:19-cv-01795-MN)  and  Nelson  v.  Huang,  et.  al.  (Case  No.  1:19-cv-01798-MN),  were
+stayed pending resolution of the plaintiffs’ appeal in the In Re NVIDIA Corporation Securities Litigation action. On February 5, 2025, after
+the  Supreme  Court  issued  its  judgment  dismissing  the  Company’s  petition  for  writ  of  certiorari  as  improvidently  granted  in  the  In  Re
+NVIDIA Corporation Securities Litigation action, the district court extended the stay for 30 days while the parties discuss next steps and
+ordered the parties to file a joint status report by March 7, 2025. The lawsuits assert claims, purportedly on behalf of us, against certain
+officers  and  directors  of  the  Company  for  breach  of  fiduciary  duty,  unjust  enrichment,  insider  trading,  misappropriation  of  information,
+corporate waste and violations of Sections 14(a), 10(b), and 20(a) of the Exchange Act based on the dissemination of allegedly false,
+and misleading statements related to channel inventory and the impact of cryptocurrency mining on GPU demand. The plaintiffs seek
+unspecified  damages  and  other  relief,  including  disgorgement  of  profits  from  the  sale  of  NVIDIA  stock  and  unspecified  corporate
+governance measures.
+
+Another putative derivative action was filed on October 30, 2023 in the Court of Chancery of the State of Delaware, captioned Horanic v.
+Huang, et al. (Case No. 2023-1096-KSJM). This lawsuit asserts claims, purportedly on behalf of us, against certain officers and directors
+of the Company for breach of fiduciary duty and insider trading based on the dissemination of allegedly false and misleading statements
+related  to  channel  inventory  and  the  impact  of  cryptocurrency  mining  on  GPU  demand.  The  plaintiffs  seek  unspecified  damages  and
+other relief, including disgorgement of profits from the sale of NVIDIA stock and reform of unspecified corporate governance measures.
+This derivative matter is stayed pending the final resolution of In Re NVIDIA Corporation Securities Litigation action.
+
+Accounting for Loss Contingencies
+
+As of January 26, 2025, there are no accrued contingent liabilities associated with the legal proceedings described above based on our
+belief that liabilities, while reasonably possible, are not probable. Further, any possible loss or range of loss in these matters cannot be
+reasonably estimated at this time. We are engaged in legal actions not described above arising in the ordinary course of business and,
+while there can be no assurance of favorable outcomes, we believe that the ultimate outcome of these actions will not have a material
+adverse effect on our operating results, liquidity or financial position.
+
+74
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+105/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+(Continued)
+
+Note 13 - Income Taxes
+
+The income tax expense (benefit) applicable to income before income taxes consists of the following:
+
+Current income taxes:
+Federal
+State
+Foreign
+Total current
+Deferred income taxes:
+Federal
+State
+Foreign
+Total deferred
+Income tax expense (benefit)
+
+Income before income tax consists of the following:
+
+U.S.
+Foreign
+Income before income tax
+
+Jan 26, 2025
+
+Jan 28, 2024
+
+Jan 29, 2023
+
+Year Ended
+
+(In millions)
+
+5,710
+335
+502
+6,547
+
+(2,499)
+(206)
+216
+(2,489)
+4,058
+
+14,032  $
+892
+699
+15,623
+
+(4,515)
+(242)
+280
+(4,477)
+11,146  $
+
+$
+
+$
+
+$
+
+$
+
+1,703
+46
+228
+1,977
+
+(2,165)
+—
+1
+(2,164)
+(187)
+
+Year Ended
+
+Jan 26, 2025
+
+Jan 28, 2024
+
+Jan 29, 2023
+
+$
+
+$
+
+(In millions)
+
+77,456  $
+6,570
+84,026  $
+
+29,495  $
+4,323
+33,818  $
+
+3,477
+704
+4,181
+
+The income tax expense (benefit) differs from the amount computed by applying the U.S. federal statutory rate of 21% to income before
+income taxes as follows:
+
+Jan 26, 2025
+
+Year Ended
+
+Jan 28, 2024
+
+(In millions, except percentages)
+21.0 % $
+
+7,102
+
+21.0 % $
+
+Jan 29, 2023
+
+878
+
+21.0 %
+
+0.7 %
+(3.5)%
+(2.5)%
+(1.2)%
+(1.2)%
+— %
+— %
+13.3 % $
+
+120
+(1,408)
+(741)
+(431)
+(467)
+—
+(117)
+4,058
+
+0.4 %
+(4.2)%
+(2.2)%
+(1.3)%
+(1.4)%
+— %
+(0.3)%
+12.0 % $
+
+50
+(739)
+(309)
+(278)
+(83)
+261
+33
+(187)
+
+1.2 %
+(17.7)%
+(7.4)%
+(6.6)%
+(2.0)%
+6.2 %
+0.8 %
+(4.5)%
+
+Tax expense computed at federal statutory rate
+Expense (benefit) resulting from:
+
+$
+
+17,645
+
+State income taxes, net of federal tax effect
+Foreign-derived intangible income
+Stock-based compensation
+U.S. federal research and development tax credit
+Foreign tax rate differential
+Acquisition termination cost
+Other
+
+Income tax expense (benefit)
+
+$
+
+554
+(2,976)
+(2,097)
+(990)
+(984)
+—
+(6)
+11,146
+
+75
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+106/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+(Continued)
+
+The tax effect of temporary differences that gives rise to significant portions of the deferred tax assets and liabilities are presented below:
+
+Deferred tax assets:
+
+Capitalized research and development expenditure
+GILTI deferred tax assets
+Accruals and reserves, not currently deductible for tax purposes
+Research and other tax credit carryforwards
+Net operating loss and capital loss carryforwards
+Operating lease liabilities
+Stock-based compensation
+Property, equipment and intangible assets
+Other deferred tax assets
+
+Gross deferred tax assets
+Less valuation allowance
+Total deferred tax assets
+Deferred tax liabilities:
+
+Unremitted earnings of foreign subsidiaries
+Operating lease assets
+Equity investments
+Acquired intangibles
+Gross deferred tax liabilities
+
+Net deferred tax asset (1)
+
+Jan 26, 2025
+
+Jan 28, 2024
+
+(In millions)
+
+$
+
+$
+
+6,256  $
+2,820
+2,058
+759
+456
+299
+124
+82
+360
+13,214
+(1,610)
+11,604
+
+(891)
+(286)
+(264)
+(70)
+(1,511)
+10,093  $
+
+3,376
+1,576
+1,121
+936
+439
+263
+106
+64
+179
+8,060
+(1,552)
+6,508
+
+(502)
+(255)
+(60)
+(74)
+(891)
+5,617
+
+(1)    Net deferred tax asset includes long-term deferred tax assets of $11 billion and $6.1 billion and long-term deferred tax liabilities of $886 million and $462 million for fiscal
+
+years 2025 and 2024, respectively. Long-term deferred tax liabilities are included in other long-term liabilities on our Consolidated Balance Sheets.
+
+As of January 26, 2025, we intend to indefinitely reinvest approximately $1.4 billion of cumulative undistributed earnings held by certain
+subsidiaries.  We  have  not  provided  the  amount  of  unrecognized  deferred  tax  liabilities  for  temporary  differences  related  to  these
+investments as the determination of such amount is not practicable.
+
+As of both January 26, 2025 and January 28, 2024, we had a valuation allowance of $1.6 billion related to capital loss carryforwards,
+and certain state and other deferred tax assets that management determined are not likely to be realized due, in part, to jurisdictional
+projections  of  future  taxable  income,  including  capital  gains. To  the  extent  realization  of  the  deferred  tax  assets  becomes  more-likely-
+than-not, we would recognize such deferred tax assets as income tax benefits during the period.
+
+Given our current and possible future earnings, we believe that we may release the valuation allowance associated with certain state
+deferred tax assets in the near term, which would decrease our income tax expense for the period the release is recorded. The timing
+and amount of the valuation allowance release could vary based on our assessment of all available information.
+
+As  of  January  26,  2025,  we  had  U.S.  federal,  state  and  foreign  net  operating  loss  carryforwards  of  $479  million,  $332  million  and
+$349  million,  respectively.  The  federal  and  state  carryforwards  will  begin  to  expire  in  fiscal  years  2026  and  2027,  respectively.  The
+foreign  net  operating  loss  carryforwards  of  $349  million  may  be  carried  forward  indefinitely. As  of  January  26,  2025,  we  had  federal
+research tax credit carryforwards of $46 million, before the impact of uncertain tax positions, that will begin to expire in fiscal year 2026.
+We have state research tax credit carryforwards of $1.5 billion, before the impact of uncertain tax positions. $1.4 billion is attributable to
+the State of California and may be carried over indefinitely and $98 million is attributable to various other states and will begin to expire
+in fiscal year 2026. As of January 26, 2025, we had federal capital loss carryforwards of $1.3 billion that will begin to expire in fiscal year
+2028.
+
+76
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+107/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+(Continued)
+
+Our tax attributes remain subject to audit and may be adjusted for changes or modification in tax laws, other authoritative interpretations
+thereof, or other facts and circumstances. Utilization of tax attributes may also be subject to limitations due to ownership changes and
+other limitations provided by the Internal Revenue Code and similar state and foreign tax provisions. If any such limitations apply, the tax
+attributes may expire or be denied before utilization.
+
+A reconciliation of gross unrecognized tax benefits is as follows:
+
+Balance at beginning of period
+Increases in tax positions for current year
+Increases in tax positions for prior years
+Decreases in tax positions for prior years
+Lapse in statute of limitations
+Settlements
+Balance at end of period
+
+Jan 26, 2025
+
+Jan 28, 2024
+
+Jan 29, 2023
+
+(In millions)
+
+$
+
+$
+
+1,670  $
+1,268
+48
+(88)
+(27)
+(10)
+2,861  $
+
+1,238  $
+616
+87
+(148)
+(19)
+(104)
+1,670  $
+
+1,013
+268
+1
+(15)
+(20)
+(9)
+1,238
+
+Included in the balance of unrecognized tax benefits as of January 26, 2025 are $2 billion of tax benefits that would affect our effective
+tax rate if recognized.
+
+We classify an unrecognized tax benefit as a current liability, or amount refundable, to the extent that we anticipate payment or receipt of
+cash for income taxes within one year. The amount is classified as a long-term liability, or reduction of long-term amount refundable, if
+we anticipate payment or receipt of cash for income taxes during a period beyond a year.
+
+We  include  interest  and  penalties  related  to  unrecognized  tax  benefits  as  a  component  of  income  tax  expense.  We  recognized  net
+interest and penalties related to unrecognized tax benefits in the income tax expense line of our consolidated statements of income of
+$92 million, $42 million, and $33 million during fiscal years 2025, 2024, and 2023, respectively. As of January 26, 2025 and January 28,
+2024, we have accrued $251 million and $140 million, respectively, for the payment of interest and penalties related to unrecognized tax
+benefits, which is not included as a component of our gross unrecognized tax benefits.
+
+While we believe that we have adequately provided for all tax positions, amounts asserted by tax authorities could be greater or less
+than our accrued position. Accordingly, our provisions on federal, state and foreign tax-related matters to be recorded in the future may
+change as revised estimates are made or the underlying matters are settled or otherwise resolved. As of January 26, 2025, we have not
+identified any positions for which it is reasonably possible that the total amounts of unrecognized tax benefits will significantly increase or
+decrease within the next twelve months.
+
+We are subject to taxation by taxing authorities both in the United States and other countries. As of January 26, 2025, the significant tax
+jurisdictions that may be subject to examination include the United States for fiscal years after 2021, as well as China, Germany, Hong
+Kong,  India,  Israel,  Taiwan,  and  the  United  Kingdom  for  fiscal  years  2014  through  2024. As  of  January  26,  2025,  the  significant  tax
+jurisdictions for which we are currently under examination include Germany, Hong Kong, India, Israel, and Taiwan for fiscal years 2014
+through 2024, and the State of California for fiscal years 2020 to 2022.
+
+Note 14 - Shareholders’ Equity
+
+Capital Return Program
+
+On August 26, 2024, our Board of Directors approved an additional $50 billion to our share repurchase authorization, without expiration.
+In fiscal years 2025 and 2024, we repurchased 310 million and 210 million shares of our common stock for $34.0 billion and $9.7 billion,
+respectively.  As  of  January  26,  2025,  we  were  authorized,  subject  to  certain  specifications,  to  repurchase  up  to  $38.7  billion  of  our
+common  stock.  Our  share  repurchase  program  aims  to  offset  dilution  from  shares  issued  to  employees  while  maintaining  adequate
+liquidity  to  meet  our  operating  requirements.  We  may  pursue  additional  share  repurchases  as  we  weigh  market  factors  and  other
+investment opportunities.
+
+From  January  27,  2025  through  February  21,  2025,  we  repurchased  29  million  shares  for  $3.7  billion  pursuant  to  a  pre-established
+trading plan.
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+108/119
+
+77
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+(Continued)
+
+In  fiscal  years  2025,  2024,  and  2023,  we  paid  cash  dividends  to  our  shareholders  of  $834  million,  $395  million,  and  $398  million,
+respectively. The payment of future cash dividends is subject to our Board of Directors' continuing determination that the declaration of
+dividends is in the best interests of our shareholders.
+
+Note 15 - Employee Retirement Plans
+
+We  provide  tax-qualified  defined  contribution  plans  to  eligible  employees  in  the  U.S.  and  certain  other  countries.  Our  contribution
+expense for fiscal years 2025, 2024, and 2023 was $314 million, $255 million, and $227 million, respectively.
+
+Note 16 - Segment Information
+
+Our Chief Executive Officer is our chief operating decision maker, or CODM, and reviews financial information presented on an operating
+segment basis for purposes of making decisions and assessing financial performance. Our CODM assesses operating performance of
+each  segment  based  on  regularly  provided  segment  revenue  and  segment  operating  income.  Operating  results  by  segment  include
+costs or expenses directly attributable to each segment, and costs or expenses that are leveraged across our unified architecture and
+therefore  allocated  between  our  two  segments.  Our  CODM  reviews  expenses  on  a  consolidated  basis,  and  expenses  attributable  to
+each segment are not regularly provided to our CODM.
+
+The  Compute  &  Networking  segment  includes  our  Data  Center  accelerated  computing  platforms  and  AI  solutions  and  software;
+networking; automotive platforms and autonomous and electric vehicle solutions; Jetson for robotics and other embedded platforms; and
+DGX Cloud computing services.
+
+The  Graphics  segment  includes  GeForce  GPUs  for  gaming  and  PCs,  the  GeForce  NOW  game  streaming  service  and  related
+infrastructure,  and  solutions  for  gaming  platforms;  Quadro/NVIDIA  RTX  GPUs  for  enterprise  workstation  graphics;  vGPU  software  for
+cloud-based visual and virtual computing; automotive platforms for infotainment systems; and Omniverse Enterprise software for building
+and operating industrial AI and digital twin applications.
+
+The  “All  Other”  category  includes  the  expenses  that  are  not  allocated  to  either  Compute  &  Networking  or  Graphics  for  purposes  of
+making operating decisions or assessing financial performance. The expenses include stock-based compensation expense, corporate
+infrastructure  and  support  costs,  acquisition-related  and  other  costs,  and  other  non-recurring  charges  and  benefits  that  our  CODM
+deems to be enterprise in nature.
+
+Our  CODM  does  not  review  any  information  regarding  total  assets  on  a  reportable  segment  basis.  There  are  no  intersegment
+transactions. The accounting policies for segment reporting are the same as for our consolidated financial statements. The table below
+presents details of our reportable segments and the “All Other” category.
+
+Compute &
+Networking
+
+Graphics
+
+All Other
+
+Consolidated
+
+Year Ended Jan 26, 2025
+Revenue
+Other segment items (1)
+Operating income (loss)
+
+Year Ended Jan 28, 2024
+Revenue
+Other segment items (1)
+Operating income (loss)
+
+Year Ended Jan 29, 2023
+Revenue
+Other segment items (1)
+Operating income (loss)
+
+(In millions)
+
+14,304  $
+9,219
+5,085  $
+
+13,517  $
+7,671
+5,846  $
+
+11,906  $
+7,354
+4,552  $
+
+—  $
+
+130,497
+
+(6,507) $
+
+81,453
+
+—  $
+
+60,922
+
+(4,890) $
+
+32,972
+
+—  $
+
+26,974
+
+(5,411) $
+
+4,224
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+116,193  $
+33,318
+82,875  $
+
+47,405  $
+15,389
+32,016  $
+
+15,068  $
+9,985
+5,083  $
+
+78
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+109/119
+
+3/10/25, 4:53 PM
+
+nvda-20250126
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+110/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+(Continued)
+
+(1) Other  segment  items  for  the  Compute  &  Networking  and  Graphics  reportable  segments  primarily  include  product  costs  and  inventory  provisions,  compensation  and
+
+benefits excluding stock-based compensation expense, compute and infrastructure expenses, and engineering development costs.
+
+Depreciation and amortization expense attributable to our Compute and Networking segment for fiscal years 2025, 2024, and 2023 was
+$732 million, $457 million, and $377 million, respectively. Depreciation and amortization expense attributable to our Graphics segment
+for  fiscal  years  2025,  2024,  and  2023  was  $372  million,  $307  million,  and  $315  million,  respectively.  Acquisition-related  intangible
+amortization  expense  is  not  allocated  to  either  Compute  &  Networking  or  Graphics  for  purposes  of  making  operating  decisions  or
+assessing financial performance and is included in “All Other”.
+
+Reconciling items included in "All Other" category:
+Stock-based compensation expense
+Unallocated cost of revenue and operating expenses
+Acquisition-related and other costs
+Acquisition termination cost
+Other
+Total
+
+Jan 26, 2025
+
+Year Ended
+Jan 28, 2024
+
+(In millions)
+
+Jan 29, 2023
+
+$
+
+$
+
+(4,737) $
+(1,171)
+(602)
+—
+3
+(6,507) $
+
+(3,549) $
+(728)
+(583)
+—
+(30)
+(4,890) $
+
+(2,710)
+(595)
+(674)
+(1,353)
+(79)
+(5,411)
+
+Revenue by geographic area is based upon the billing location of the customer. The end customer and shipping location may be different
+from our customer’s billing location.
+
+Geographic Revenue based upon Customer Billing Location:
+
+United States
+Singapore (1)
+Taiwan
+China (including Hong Kong)
+Other
+
+Total revenue
+
+Jan 26, 2025
+
+$
+
+$
+
+61,257  $
+23,684
+20,573
+17,108
+7,875
+130,497  $
+
+Year Ended
+Jan 28, 2024
+
+(In millions)
+
+Jan 29, 2023
+
+26,966  $
+6,831
+13,405
+10,306
+3,414
+60,922  $
+
+8,292
+2,288
+6,986
+5,785
+3,623
+26,974
+
+(1)  Singapore  represented  18%  of  fiscal  year  2025  total  revenue  based  upon  customer  billing  location.  Customers  use  Singapore  to
+centralize  invoicing  while  our  products  are  almost  always  shipped  elsewhere.  Shipments  to  Singapore  were  less  than  2%  of  fiscal
+year 2025 total revenue.
+
+Revenue from sales to customers outside of the United States accounted for 53%, 56%, and 69% of total revenue for fiscal years 2025,
+2024, and 2023, respectively. The increase in revenue to the United States for fiscal years 2025 and 2024 was primarily due to higher
+U.S.-based Compute & Networking segment demand.
+
+We refer to customers who purchase products directly from NVIDIA as direct customers, such as AIBs, distributors, ODMs, OEMs, and
+system integrators. We have certain customers that may purchase products directly from NVIDIA and may use either internal resources
+or  third-party  system  integrators  to  complete  their  build.  We  also  have  indirect  customers,  who  purchase  products  through  our  direct
+customers; indirect customers include CSPs, consumer internet companies, enterprises, and public sector entities.
+
+79
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+111/119
+
+3/10/25, 4:53 PM
+
+Table of Contents
+
+nvda-20250126
+
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+(Continued)
+
+Sales  to  direct  customers  which  represented  10%  or  more  of  total  revenue,  all  of  which  were  primarily  attributable  to  the  Compute  &
+Networking segment, are presented in the following table:
+
+Direct Customer A
+Direct Customer B
+Direct Customer C
+
+* Less than 10% of total revenue.
+
+No customer represented 10% or more of total revenue for fiscal year 2023.
+
+The following table summarizes revenue by specialized markets:
+
+Year Ended
+
+Jan 26, 2025
+
+Jan 28, 2024
+
+12 %
+11 %
+11 %
+
+*
+13 %
+*
+
+Revenue by End Market:
+
+Data Center
+Compute
+Networking
+
+Gaming
+Professional Visualization
+Automotive
+OEM and Other
+
+Total revenue
+
+Jan 26, 2025
+
+Year Ended
+
+Jan 28, 2024
+
+(In millions)
+
+Jan 29, 2023
+
+$
+
+$
+
+115,186  $
+102,196
+12,990
+11,350
+1,878
+1,694
+389
+130,497  $
+
+47,525  $
+38,950
+8,575
+10,447
+1,553
+1,091
+306
+60,922  $
+
+15,005
+11,317
+3,688
+9,067
+1,544
+903
+455
+26,974
+
+The  following  table  presents  summarized  information  for  long-lived  assets  by  country.  Long-lived  assets  consist  of  property  and
+equipment and exclude other assets, operating lease assets, goodwill, and intangible assets.
+
+Long-lived assets:
+United States
+Taiwan
+Israel
+Other
 
 Total long-lived assets
 
-2022
+Note 17 - Leases
 
-2021
+Jan 26, 2025
 
-2020
-
-$
-
-$
-
-147,859  $
-74,200
-172,269
-394,328  $
-
-133,803  $
-68,366
-163,648
-365,817  $
-
-109,197
-40,308
-125,010
-274,515
-
-2022
-
-2021
+Jan 28, 2024
 
 $
 
 $
 
-31,119  $
-7,260
-3,738
-42,117  $
+(In millions)
 
-28,203
-7,521
-3,716
-39,440
+3,626  $
+1,481
+840
+336
+6,283  $
 
-(1) China  includes  Hong  Kong  and  Taiwan.  Long-lived  assets  located  in  China  consist  primarily  of  assets  related  to  product
+2,595
+773
+325
+221
+3,914
 
-manufacturing, retail stores and related infrastructure.
+Our lease obligations primarily consist of operating leases for our headquarters' campus and domestic and international offices and data
+centers, with lease periods expiring between fiscal years 2026 and 2037.
 
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
+Future minimum lease obligations under our non-cancelable lease agreements as of January 26, 2025 were as follows:
 
-65/78
+80
 
-3/4/25, 11:08 PM
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
 
-aapl-20220924
+112/119
 
-Apple Inc. | 2022 Form 10-K | 49
+3/10/25, 4:53 PM
 
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
+Table of Contents
 
-66/78
+nvda-20250126
 
-3/4/25, 11:08 PM
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+(Continued)
 
-aapl-20220924
+Fiscal Year:
+2026
+2027
+2028
+2029
+2030
+2031 and thereafter
 
-Report of Independent Registered Public Accounting Firm
+Total
 
-To the Shareholders and the Board of Directors of Apple Inc.
+Less imputed interest
+Present value of net future minimum lease payments
+Less short-term operating lease liabilities
+Long-term operating lease liabilities
 
-Opinion on the Financial Statements
+Operating Lease
+Obligations
 
-We have audited the accompanying consolidated balance sheets of Apple Inc. as of September 24, 2022 and September 25, 2021, the
-related consolidated statements of operations, comprehensive income, shareholders’ equity and cash flows for each of the three years in
-the period ended September 24, 2022, and the related notes (collectively referred to as the “financial statements”). In our opinion, the
-financial statements present fairly, in all material respects, the financial position of Apple Inc. at September 24, 2022 and September 25,
-2021,  and  the  results  of  its  operations  and  its  cash  flows  for  each  of  the  three  years  in  the  period  ended  September  24,  2022,  in
-conformity with U.S. generally accepted accounting principles.
+(In millions)
 
-We  also  have  audited,  in  accordance  with  the  standards  of  the  Public  Company  Accounting  Oversight  Board  (United  States)  (the
-“PCAOB”),  Apple  Inc.’s  internal  control  over  financial  reporting  as  of  September  24,  2022,  based  on  criteria  established  in  Internal
-Control – Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework)
-and our report dated October 27, 2022 expressed an unqualified opinion thereon.
+$
 
-Basis for Opinion
+$
 
-These financial statements are the responsibility of Apple Inc.’s management. Our responsibility is to express an opinion on Apple Inc.’s
-financial  statements  based  on  our  audits.  We  are  a  public  accounting  firm  registered  with  the  PCAOB  and  are  required  to  be
-independent with respect to Apple Inc. in accordance with the U.S. federal securities laws and the applicable rules and regulations of the
-U.S. Securities and Exchange Commission and the PCAOB.
+354
+331
+337
+301
+226
+537
+2,086
+279
+1,807
+288
+1,519
 
-We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit
-to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud.
-Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error
-or  fraud,  and  performing  procedures  that  respond  to  those  risks.  Such  procedures  included  examining,  on  a  test  basis,  evidence
-regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used
-and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe
-that our audits provide a reasonable basis for our opinion.
+Between fiscal years 2026 and 2030, we expect to commence leases with future obligations of $7.6 billion primarily of data center and
+office operating leases, with lease terms of 3 to 15.5 years.
 
-Critical Audit Matter
+Operating lease expenses for fiscal years 2025, 2024, and 2023 were $356 million, $269 million, and $193 million, respectively. Short-
+term and variable lease expenses for fiscal years 2025, 2024, and 2023 were not significant.
 
-The  critical  audit  matter  communicated  below  is  a  matter  arising  from  the  current  period  audit  of  the  financial  statements  that  was
-communicated or required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are material
-to  the  financial  statements  and  (2)  involved  our  especially  challenging,  subjective,  or  complex  judgments.  The  communication  of  the
-critical  audit  matter  does  not  alter  in  any  way  our  opinion  on  the  financial  statements,  taken  as  a  whole,  and  we  are  not,  by
-communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the account or disclosure to
-which it relates.
+Other information related to leases was as follows:
 
-Description of the Matter
+Jan 26, 2025
 
-Uncertain Tax Positions
+Year Ended
+Jan 28, 2024
 
-As  discussed  in  Note  5  to  the  financial  statements,  Apple  Inc.  is  subject  to  taxation  and  files
-income tax returns in the U.S. federal jurisdiction and many state and foreign jurisdictions. As of
-September  24,  2022,  the  total  amount  of  gross  unrecognized  tax  benefits  was  $16.8  billion,  of
-which  $8.0  billion,  if  recognized,  would  impact  Apple  Inc.’s  effective  tax  rate.  In  accounting  for
-uncertain tax positions, Apple Inc. uses significant judgment in the interpretation and application of
-complex domestic and international tax laws.
+(In millions)
 
-Auditing management’s evaluation of whether an uncertain tax position is more likely than not to
-be  sustained  and  the  measurement  of  the  benefit  of  various  tax  positions  can  be  complex,
-involves significant judgment, and is based on interpretations of tax laws and legal rulings.
+Jan 29, 2023
 
-Apple Inc. | 2022 Form 10-K | 50
+Supplemental cash flows information
+Operating cash flow used for operating leases
+Operating lease assets obtained in exchange for
+lease obligations
 
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
+$
 
-67/78
+$
 
-3/4/25, 11:08 PM
+313  $
 
-aapl-20220924
+877  $
 
-How We Addressed the
-Matter in Our Audit
+286  $
 
-We  tested  controls  relating  to  the  evaluation  of  uncertain  tax  positions,  including  controls  over
-management’s assessment as to whether tax positions are more likely than not to be sustained,
-management’s  process  to  measure  the  benefit  of  its  tax  positions,  and  the  development  of  the
-related disclosures.
+531  $
 
-To  evaluate  Apple  Inc.’s  assessment  of  which  tax  positions  are  more  likely  than  not  to  be
-sustained,  our  audit  procedures  included,  among  others,  reading  and  evaluating  management’s
-assumptions and analysis, and, as applicable, Apple Inc.’s communications with taxing authorities,
-that  detailed  the  basis  and  technical  merits  of  the  uncertain  tax  positions.  We  involved  our  tax
-subject matter resources in assessing the technical merits of certain of Apple Inc.’s tax positions
-based on our knowledge of relevant tax laws and experience with related taxing authorities. For
-certain  tax  positions,  we  also  received  external  legal  counsel  confirmation  letters  and  discussed
-the matters with external advisors and Apple Inc. tax personnel. In addition, we evaluated Apple
-Inc.’s disclosure in relation to these matters included in Note 5 to the financial statements.
+184
 
-/s/ Ernst & Young LLP
+358
 
-We have served as Apple Inc.’s auditor since 2009.
+As  of  January  26,  2025,  our  operating  leases  have  a  weighted  average  remaining  lease  term  of  6.5  years  and  a  weighted  average
+discount rate of 4.16%. As of January 28, 2024, our operating leases had a weighted average remaining lease term of 6.1 years and a
+weighted average discount rate of 3.76%.
 
-San Jose, California
-October 27, 2022
+81
 
-Apple Inc. | 2022 Form 10-K | 51
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
 
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
+113/119
 
-68/78
+3/10/25, 4:53 PM
 
-3/4/25, 11:08 PM
+nvda-20250126
 
-aapl-20220924
+Description
 
-Report of Independent Registered Public Accounting Firm
+Fiscal year 2025
+Allowance for doubtful accounts
+Sales return allowance
+Deferred tax valuation allowance
+Fiscal year 2024
+Allowance for doubtful accounts
+Sales return allowance
+Deferred tax valuation allowance
+Fiscal year 2023
+Allowance for doubtful accounts
+Sales return allowance
+Deferred tax valuation allowance
 
-To the Shareholders and the Board of Directors of Apple Inc.
+NVIDIA Corporation and Subsidiaries
+Schedule II – Valuation and Qualifying Accounts
 
-Opinion on Internal Control Over Financial Reporting
+Balance at
+Beginning of
+Period
 
-We have audited Apple Inc.’s internal control over financial reporting as of September 24, 2022, based on criteria established in Internal
-Control – Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework)
-(the “COSO criteria”). In our opinion, Apple Inc. maintained, in all material respects, effective internal control over financial reporting as of
-September 24, 2022, based on the COSO criteria.
+Additions
 
-We  also  have  audited,  in  accordance  with  the  standards  of  the  Public  Company  Accounting  Oversight  Board  (United  States)  (the
-“PCAOB”), the consolidated balance sheets of Apple Inc. as of September 24, 2022 and September 25, 2021, the related consolidated
-statements of operations, comprehensive income, shareholders’ equity and cash flows for each of the three years in the period ended
-September 24, 2022, and the related notes and our report dated October 27, 2022 expressed an unqualified opinion thereon.
+Deductions
 
-Basis for Opinion
+(In millions)
 
-Apple Inc.’s management is responsible for maintaining effective internal control over financial reporting, and for its assessment of the
-effectiveness of internal control over financial reporting included in the accompanying Management’s Annual Report on Internal Control
-over Financial Reporting. Our responsibility is to express an opinion on Apple Inc.’s internal control over financial reporting based on our
-audit.  We  are  a  public  accounting  firm  registered  with  the  PCAOB  and  are  required  to  be  independent  with  respect  to Apple  Inc.  in
-accordance  with  the  U.S.  federal  securities  laws  and  the  applicable  rules  and  regulations  of  the  U.S.  Securities  and  Exchange
-Commission and the PCAOB.
+Balance at
+End of Period
 
-We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to
-obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects.
+$
+$
+$
 
-Our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness
-exists, testing and evaluating the design and operating effectiveness of internal control based on the assessed risk, and performing such
-other  procedures  as  we  considered  necessary  in  the  circumstances.  We  believe  that  our  audit  provides  a  reasonable  basis  for  our
-opinion.
+$
+$
+$
 
-Definition and Limitations of Internal Control Over Financial Reporting
+$
+$
+$
 
-A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of
-financial  reporting  and  the  preparation  of  financial  statements  for  external  purposes  in  accordance  with  U.S.  generally  accepted
-accounting principles. A company’s internal control over financial reporting includes those policies and procedures that (1) pertain to the
-maintenance  of  records  that,  in  reasonable  detail,  accurately  and  fairly  reflect  the  transactions  and  dispositions  of  the  assets  of  the
-company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in
-accordance with U.S. generally accepted accounting principles, and that receipts and expenditures of the company are being made only
-in  accordance  with  authorizations  of  management  and  directors  of  the  company;  and  (3)  provide  reasonable  assurance  regarding
-prevention or timely detection of unauthorized acquisition, use, or disposition of the company’s assets that could have a material effect
-on the financial statements.
+4  $
+109  $
+1,552  $
 
-Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of
-any  evaluation  of  effectiveness  to  future  periods  are  subject  to  the  risk  that  controls  may  become  inadequate  because  of  changes  in
-conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+4  $
+26  $
+1,484  $
 
-/s/ Ernst & Young LLP
+4  $
+13  $
+907  $
 
-San Jose, California
-October 27, 2022
+—  (1) $
+151  (2) $
+58  (3) $
 
-Apple Inc. | 2022 Form 10-K | 52
+—  (1) $
+213  (2) $
+162  (3) $
 
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
+—  (1) $
+104  (2) $
+577  (3) $
 
-69/78
+—  (1) $
+(178) (4) $
+$
 
-3/4/25, 11:08 PM
+—
 
-aapl-20220924
+—  (1) $
+(130) (4) $
+(94) (3) $
 
-Item 9.    Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+—  (1) $
+(91) (4) $
+$
 
-None.
+—
 
-Item 9A.    Controls and Procedures
+4
+82
+1,610
 
-Evaluation of Disclosure Controls and Procedures
+4
+109
+1,552
 
-Based  on  an  evaluation  under  the  supervision  and  with  the  participation  of  the  Company’s  management,  the  Company’s  principal
-executive  officer  and  principal  financial  officer  have  concluded  that  the  Company’s  disclosure  controls  and  procedures  as  defined  in
-Rules 13a-15(e) and 15d-15(e) under the Exchange Act were effective as of September 24, 2022 to provide reasonable assurance that
-information required to be disclosed by the Company in reports that it files or submits under the Exchange Act is (i) recorded, processed,
-summarized and reported within the time periods specified in the SEC rules and forms and (ii) accumulated and communicated to the
-Company’s management, including its principal executive officer and principal financial officer, as appropriate to allow timely decisions
-regarding required disclosure.
-
-Inherent Limitations over Internal Controls
-
-The Company’s internal control over financial reporting is designed to provide reasonable assurance regarding the reliability of financial
-reporting  and  the  preparation  of  financial  statements  for  external  purposes  in  accordance  with  U.S.  generally  accepted  accounting
-principles (“GAAP”). The Company’s internal control over financial reporting includes those policies and procedures that:
-
-(i)
-
-(ii)
-
-(iii)
-
-pertain  to  the  maintenance  of  records  that,  in  reasonable  detail,  accurately  and  fairly  reflect  the  transactions  and
-dispositions of the Company’s assets;
-
-provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements
-in accordance with GAAP, and that the Company’s receipts and expenditures are being made only in accordance with
-authorizations of the Company’s management and directors; and
-
-provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of
-the Company’s assets that could have a material effect on the financial statements.
-
-Management, including the Company’s Chief Executive Officer and Chief Financial Officer, does not expect that the Company’s internal
-controls  will  prevent  or  detect  all  errors  and  all  fraud. A  control  system,  no  matter  how  well  designed  and  operated,  can  provide  only
-reasonable,  not  absolute,  assurance  that  the  objectives  of  the  control  system  are  met.  Further,  the  design  of  a  control  system  must
-reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs. Because of the
-inherent limitations in all control systems, no evaluation of internal controls can provide absolute assurance that all control issues and
-instances of fraud, if any, have been detected. Also, any evaluation of the effectiveness of controls in future periods are subject to the
-risk that those internal controls may become inadequate because of changes in business conditions, or that the degree of compliance
-with the policies or procedures may deteriorate.
-
-Management’s Annual Report on Internal Control over Financial Reporting
-
-The  Company’s  management  is  responsible  for  establishing  and  maintaining  adequate  internal  control  over  financial  reporting  (as
-defined  in  Rule  13a-15(f)  under  the  Exchange  Act).  Management  conducted  an  assessment  of  the  effectiveness  of  the  Company’s
-internal  control  over  financial  reporting  based  on  the  criteria  set  forth  in  Internal  Control  –  Integrated  Framework  issued  by  the
-Committee  of  Sponsoring  Organizations  of  the  Treadway  Commission  (2013  framework).  Based  on  the  Company’s  assessment,
-management  has  concluded  that  its  internal  control  over  financial  reporting  was  effective  as  of  September  24,  2022  to  provide
-reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements in accordance with GAAP.
-The Company’s independent registered public accounting firm, Ernst & Young LLP, has issued an audit report on the Company’s internal
-control over financial reporting, which appears in Part II, Item 8 of this Form 10-K.
-
-Changes in Internal Control over Financial Reporting
-
-There were no changes in the Company’s internal control over financial reporting during the fourth quarter of 2022, which were identified
-in connection with management’s evaluation required by paragraph (d) of Rules 13a-15 and 15d-15 under the Exchange Act, that have
-materially affected, or are reasonably likely to materially affect, the Company’s internal control over financial reporting.
-
-Apple Inc. | 2022 Form 10-K | 53
-
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-70/78
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-Item 9B.    Other Information
-
-Rule 10b5-1 Trading Plans
-
-During the three months ended September 24, 2022, Katherine L. Adams, Timothy D. Cook, Luca Maestri, Deirdre O’Brien and Jeffrey
-Williams,  each  an  officer  for  purposes  of  Section  16  of  the  Exchange Act,  had  equity  trading  plans  in  place  in  accordance  with  Rule
-10b5-1(c)(1) under the Exchange Act. An equity trading plan is a written document that preestablishes the amounts, prices and dates (or
-formula for determining the amounts, prices and dates) of future purchases or sales of the Company’s stock, including sales of shares
-acquired under the Company’s employee and director equity plans.
-
-Item 9C.    Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
-
-Not applicable.
-
-PART III
-
-Item 10.    Directors, Executive Officers and Corporate Governance
-
-The information required by this Item will be included in the Company’s definitive proxy statement to be filed with the SEC within 120
-days after September 24, 2022, in connection with the solicitation of proxies for the Company’s 2023 annual meeting of shareholders
-(the “2023 Proxy Statement”), and is incorporated herein by reference.
-
-Item 11.    Executive Compensation
-
-The information required by this Item will be included in the 2023 Proxy Statement, and is incorporated herein by reference.
-
-Item 12.    Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
-
-The information required by this Item will be included in the 2023 Proxy Statement, and is incorporated herein by reference.
-
-Item 13.    Certain Relationships and Related Transactions, and Director Independence
-
-The information required by this Item will be included in the 2023 Proxy Statement, and is incorporated herein by reference.
-
-Item 14.    Principal Accountant Fees and Services
-
-The information required by this Item will be included in the 2023 Proxy Statement, and is incorporated herein by reference.
-
-Apple Inc. | 2022 Form 10-K | 54
-
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-71/78
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-PART IV
-
-Item 15.    Exhibit and Financial Statement Schedules
-
-(a) Documents filed as part of this report
-
-(1) All financial statements
-
-Index to Consolidated Financial Statements
-Consolidated Statements of Operations for the years ended September 24, 2022, September 25, 2021 and
-
-September 26, 2020
-
-Consolidated Statements of Comprehensive Income for the years ended September 24, 2022, September 25, 2021 and
-
-September 26, 2020
-
-Consolidated Balance Sheets as of September 24, 2022 and September 25, 2021
-Consolidated Statements of Shareholders’ Equity for the years ended September 24, 2022, September 25, 2021 and
-
-September 26, 2020
-
-Consolidated Statements of Cash Flows for the years ended September 24, 2022, September 25, 2021 and
-
-September 26, 2020
-
-Notes to Consolidated Financial Statements
-Reports of Independent Registered Public Accounting Firm*
-
-*
-
-Ernst & Young LLP, PCAOB Firm ID No. 00042.
-
-(2) Financial Statement Schedules
-
-Page
-
-29
-
-30
-31
-
-32
-
-33
-34
-50
-
-All  financial  statement  schedules  have  been  omitted,  since  the  required  information  is  not  applicable  or  is  not  present  in  amounts
-sufficient to require submission of the schedule, or because the information required is included in the consolidated financial statements
-and accompanying notes included in this Form 10-K.
-
-(3) Exhibits required by Item 601 of Regulation S-K
+4
+26
+1,484
 
 (1)
 
-Exhibit
-Number
+(2)
+
+(3)
+
+Additions represent either expense or acquired balances and deductions represent write-offs.
+
+Additions represent estimated product returns charged as a reduction to revenue or an acquired balance.
+
+Additional valuation allowance on deferred tax assets not likely to be realized. Additions represent additional valuation allowance on capital loss carryforwards, and
+certain state and other deferred tax assets. Deductions represent the release of valuation allowance on certain state deferred tax assets. Refer to Note 13 of the Notes to
+the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for additional information.
+
+(4) Represents sales returns.
+
+82
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+114/119
+
+3/10/25, 4:53 PM
+
+nvda-20250126
+
+Exhibit Index
+
+Exhibit Description
+Share Purchase Agreement, dated September 13, 2020, by and
+among NVIDIA, NVIDIA Holdings, Arm, SoftBank, and Vision
+Fund
+Restated Certificate of Incorporation
+Amendment to Restated Certificate of Incorporation of NVIDIA
+Corporation
+Amendment to Restated Certificate of Incorporation of NVIDIA
+Corporation
+Bylaws of NVIDIA Corporation, Amended and Restated as of
+March 12, 2024
+Reference is made to Exhibits 3.1, 3.2, 3.3 and 3.4
+Specimen Stock Certificate
+Indenture, dated as of September 16, 2016, by and between the
+Company and Computershare Trust Company, N.A., as
+successor to Wells Fargo Bank, National Association, as Trustee
+Officers’ Certificate, dated as of September 16, 2016
+Form of 2026 Note
+
+Description of Securities
+Officers’ Certificate, dated as of March 31, 2020
+Form of 2030 Note
+
+Form of 2040 Note
+
+Exhibit No.
+2.1^
+
 3.1
 3.2
-4.1**
-4.2
 
+3.3
+
+3.4
+
+4.1
+4.2
 4.3
 
 4.4
-
 4.5
 
-4.6
-
+4.6*
 4.7
-
 4.8
 
 4.9
 
-Exhibit Description
-Restated Articles of Incorporation of the Registrant filed on August 3, 2020.
-Amended and Restated Bylaws of the Registrant effective as of August 17, 2022.
-Description of Securities of the Registrant.
-Indenture, dated as of April 29, 2013, between the Registrant and The Bank of New
-
-York Mellon Trust Company, N.A., as Trustee.
-
-Officer’s  Certificate  of  the  Registrant,  dated  as  of  May  3,  2013,  including  forms  of
-global notes representing the Floating Rate Notes due 2016, Floating Rate Notes
-due 2018, 0.45% Notes due 2016, 1.00% Notes due 2018, 2.40% Notes due 2023
-and 3.85% Notes due 2043.
-
-Officer’s  Certificate  of  the  Registrant,  dated  as  of  May  6,  2014,  including  forms  of
-global notes representing the Floating Rate Notes due 2017, Floating Rate Notes
-due  2019,  1.05%  Notes  due  2017,  2.10%  Notes  due  2019,  2.85%  Notes  due
-2021, 3.45% Notes due 2024 and 4.45% Notes due 2044.
-
-Officer’s  Certificate  of  the  Registrant,  dated  as  of  November  10,  2014,  including
-forms of global notes representing the 1.000% Notes due 2022 and 1.625% Notes
-due 2026.
-
-Officer’s Certificate of the Registrant, dated as of February 9, 2015, including forms
-of global notes representing the Floating Rate Notes due 2020, 1.55% Notes due
-2020, 2.15% Notes due 2022, 2.50% Notes due 2025 and 3.45% Notes due 2045.
-Officer’s Certificate of the Registrant, dated as of May 13, 2015, including forms of
-global notes representing the Floating Rate Notes due 2017, Floating Rate Notes
-due 2020, 0.900% Notes due 2017, 2.000% Notes due 2020, 2.700% Notes due
-2022, 3.200% Notes due 2025, and 4.375% Notes due 2045.
-
-Incorporated by Reference
-
-Form
-8-K
-8-K
-
-S-3
-
-8-K
-
-Exhibit
-3.1
-3.2
-
-4.1
-
-4.1
-
-Filing Date/
-Period End
-Date
-8/7/20
-8/19/22
-
-4/29/13
-
-5/3/13
-
-8-K
-
-4.1
-
-5/6/14
-
-8-K
-
-4.1
-
-11/10/14
-
-8-K
-
-4.1
-
-2/9/15
-
-8-K
-
-4.1
-
-5/13/15
-
-Officer’s  Certificate  of  the  Registrant,  dated  as  of  July  31,  2015,  including  forms  of
-global notes representing the 3.05% Notes due 2029 and 3.60% Notes due 2042.
-Officer’s  Certificate  of  the  Registrant,  dated  as  of  September  17,  2015,  including
-forms of global notes representing the 1.375% Notes due 2024 and 2.000% Notes
-due 2027.
-
-8-K
-
-8-K
-
-4.1
-
-4.1
-
-7/31/15
-
-9/17/15
-
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-72/78
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-Apple Inc. | 2022 Form 10-K | 55
-
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-73/78
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-Exhibit
-Number
 4.10
+
+Form of 2050 Note
 
 4.11
 
-4.12
+Form of 2060 Note
 
+4.12
 4.13
+
+Officers' Certificate, dated as of June 16, 2021
+Form of 2023 Note
 
 4.14
 
+Form of 2024 Note
+
 4.15
+
+Form of 2028 Note
 
 4.16
 
-4.17
+Form of 2031 Note
 
-4.18
+10.1
 
-4.19
+10.2+
+10.3+
 
-4.20
+10.4+
 
-4.21
+10.5+
 
-4.22
+10.6+
 
-4.23
+Form of Indemnity Agreement between NVIDIA Corporation and
+each of its directors and officers
+Amended and Restated 2007 Equity Incentive Plan
+Amended and Restated 2007 Equity Incentive Plan - Non-
+Employee Director Deferred Restricted Stock Unit Grant Notice
+and Deferred Restricted Stock Unit Agreement (2016)
+Amended and Restated 2007 Equity Incentive Plan - Non-
+Employee Director Restricted Stock Unit Grant Notice and
+Restricted Stock Unit Agreement (2016)
+Amended and Restated 2007 Equity Incentive Plan - Global
+Performance-Based Restricted Stock Unit Grant Notice and
+Performance-Based Restricted Stock Unit Agreement (2019)
+Amended and Restated 2007 Equity Incentive Plan – Global
+Restricted Stock Unit Grant Notice and Global Restricted Stock
+Unit Agreement (2020)
 
-4.24
-
-4.25
-
-4.26
-
-4.27
-
-4.28
-
-Exhibit Description
-Officer’s Certificate of the Registrant, dated as of February 23, 2016, including forms
-of  global  notes  representing  the  Floating  Rate  Notes  due  2019,  Floating  Rate
-Notes due 2021, 1.300% Notes due 2018, 1.700% Notes due 2019, 2.250% Notes
-due 2021, 2.850% Notes due 2023, 3.250% Notes due 2026, 4.500% Notes due
-2036 and 4.650% Notes due 2046.
-
-Supplement No. 1 to the Officer’s Certificate of the Registrant, dated as of March 24,
-
-2016.
-
-Officer’s Certificate of the Registrant, dated as of August 4, 2016, including forms of
-global  notes  representing  the  Floating  Rate  Notes  due  2019,  1.100%  Notes  due
-2019,  1.550%  Notes  due  2021,  2.450%  Notes  due  2026  and  3.850%  Notes  due
-2046.
-
-Officer’s Certificate of the Registrant, dated as of February 9, 2017, including forms
-of  global  notes  representing  the  Floating  Rate  Notes  due  2019,  Floating  Rate
-Notes due 2020, Floating Rate Notes due 2022, 1.550% Notes due 2019, 1.900%
-Notes due 2020, 2.500% Notes due 2022, 3.000% Notes due 2024, 3.350% Notes
-due 2027 and 4.250% Notes due 2047.
-
-Officer’s  Certificate  of  the  Registrant,  dated  as  of  May  11,  2017,  including  forms  of
-global notes representing the Floating Rate Notes due 2020, Floating Rate Notes
-due 2022, 1.800% Notes due 2020, 2.300% Notes due 2022, 2.850% Notes due
-2024 and 3.200% Notes due 2027.
-
-Officer’s Certificate of the Registrant, dated as of May 24, 2017, including forms of
-global  notes  representing  the  0.875%  Notes  due  2025  and  1.375%  Notes  due
-2029.
+83
 
 Incorporated by Reference
 
-Form
+Schedule/Form
 8-K
 
 Exhibit
-4.1
+2.1
 
-Filing Date/
-Period End
-Date
-2/23/16
+Filing Date
+9/14/2020
+
+10-K
+8-K
+
+8-K
+
+8-K
+
+S-1/A
+8-K
+
+8-K
+8-K
+
+8-K
+8-K
+
+8-K
 
 8-K
 
 8-K
 
-4.1
-
-4.1
-
-3/24/16
-
-8/4/16
+8-K
+8-K
 
 8-K
 
-4.1
-
-2/9/17
+8-K
 
 8-K
 
-4.1
-
-5/11/17
-
 8-K
-
-4.1
-
-5/24/17
-
-Officer’s  Certificate  of  the  Registrant,  dated  as  of  June  20,  2017,  including  form  of
-
-global note representing the 3.000% Notes due 2027.
-
-8-K
-
-Officer’s Certificate of the Registrant, dated as of August 18, 2017, including form of
-
-8-K
-
-global note representing the 2.513% Notes due 2024.
-
-Officer’s  Certificate  of  the  Registrant,  dated  as  of  September  12,  2017,  including
-forms  of  global  notes  representing  the  1.500%  Notes  due  2019,  2.100%  Notes
-due 2022, 2.900% Notes due 2027 and 3.750% Notes due 2047.
-
-8-K
-
-4.1
-
-4.1
-
-4.1
-
-6/20/17
-
-8/18/17
-
-9/12/17
-
-Officer’s  Certificate  of  the  Registrant,  dated  as  of  November  13,  2017,  including
-forms  of  global  notes  representing  the  1.800%  Notes  due  2019,  2.000%  Notes
-due 2020, 2.400% Notes due 2023, 2.750% Notes due 2025, 3.000% Notes due
-2027 and 3.750% Notes due 2047.
-
-8-K
-
-4.1
-
-11/13/17
-
-Indenture, dated as of November 5, 2018, between the Registrant and The Bank of
-
-S-3
-
-New York Mellon Trust Company, N.A., as Trustee.
-
-Officer’s  Certificate  of  the  Registrant,  dated  as  of  September  11,  2019,  including
-forms  of  global  notes  representing  the  1.700%  Notes  due  2022,  1.800%  Notes
-due  2024,  2.050%  Notes  due  2026,  2.200%  Notes  due  2029  and  2.950%  Notes
-due 2049.
-
-8-K
-
-4.1
-
-4.1
-
-11/5/18
-
-9/11/19
-
-Officer’s  Certificate  of  the  Registrant,  dated  as  of  November  15,  2019,  including
-forms of global notes representing the 0.000% Notes due 2025 and 0.500% Notes
-due 2031.
-
-Officer’s  Certificate  of  the  Registrant,  dated  as  of  May  11,  2020,  including  forms  of
-global notes representing the 0.750% Notes due 2023, 1.125% Notes due 2025,
-1.650% Notes due 2030 and 2.650% Notes due 2050.
-
-Officer’s Certificate of the Registrant, dated as of August 20, 2020, including forms of
-global  notes  representing  the  0.550%  Notes  due  2025,  1.25%  Notes  due  2030,
-2.400% Notes due 2050 and 2.550% Notes due 2060.
-
-Officer’s Certificate of the Registrant, dated as of February 8, 2021, including forms
-of  global  notes  representing  the  0.700%  Notes  due  2026,  1.200%  Notes  due
-2028, 1.650% Notes due 2031, 2.375% Notes due 2041, 2.650% Notes due 2051
-and 2.800% Notes due 2061.
-
-Officer’s Certificate of the Registrant, dated as of August 5, 2021, including forms of
-global notes representing the 1.400% Notes due 2028, 1.700% Notes due 2031,
-2.700% Notes due 2051 and 2.850% Notes due 2061.
-
-8-K
-
-4.1
-
-11/15/19
-
-8-K
-
-4.1
-
-5/11/20
-
-8-K
-
-4.1
-
-8/20/20
-
-8-K
-
-4.1
-
-2/8/21
-
-8-K
-
-4.1
-
-8/5/21
-
-Indenture,  dated  as  of  October  28,  2021,  between  the  Registrant  and The  Bank  of
-
-S-3
-
-New York Mellon Trust Company, N.A., as Trustee.
-
-Officer’s Certificate of the Registrant, dated as of August 8, 2022, including forms of
-global notes representing the 3.250% Notes due 2029, 3.350% Notes due 2032,
-3.950% Notes due 2052 and 4.100% Notes due 2062.
-
-8-K
-
-4.1
-
-4.1
-
-10/29/21
-
-8/8/22
-
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-74/78
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-Apple Inc. | 2022 Form 10-K | 56
-
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
-
-75/78
-
-3/4/25, 11:08 PM
-
-aapl-20220924
-
-Exhibit
-Number
-4.29*
-10.1*
-10.2*
-
-10.3*
-10.4*
-10.5*
-
-10.6*
-
-10.7*
-
-10.8*
-
-10.9*
-
-10.10*
-
-Exhibit Description
-Apple Inc. Deferred Compensation Plan.
-Employee Stock Purchase Plan, as amended and restated as of March 10, 2015.
-Form  of  Indemnification Agreement  between  the  Registrant  and  each  director  and
-
-executive officer of the Registrant.
-
-Apple Inc. Non-Employee Director Stock Plan, as amended November 9, 2021.
-2014 Employee Stock Plan, as amended and restated as of October 1, 2017.
-Form  of  Restricted  Stock  Unit Award Agreement  under  2014  Employee  Stock  Plan
-
-effective as of September 26, 2017.
-
-Form of Restricted Stock Unit Award Agreement under Non-Employee Director Stock
-
-Plan effective as of February 13, 2018.
-
-Form  of  Restricted  Stock  Unit Award Agreement  under  2014  Employee  Stock  Plan
-
-effective as of August 21, 2018.
-
-Form of Performance Award Agreement under 2014 Employee Stock Plan effective
-
-as of August 21, 2018.
-
-Form  of  Restricted  Stock  Unit Award Agreement  under  2014  Employee  Stock  Plan
-
-effective as of September 29, 2019.
-
-Form of Performance Award Agreement under 2014 Employee Stock Plan effective
-
-as of September 29, 2019.
-
-Incorporated by Reference
-
-Form
-S-8
-8-K
-10-Q
 
 10-Q
 10-K
+
 10-K
 
-Exhibit
+8-K
+
+3.1
+3.1
+
+3.1
+
+3.1
+
+4.2
 4.1
+
+4.2
+Annex B-1 to
+Exhibit 4.2
+
+4.2
+Annex A-1 to
+Exhibit 4.2
+Annex B-1 to
+Exhibit 4.2
+Annex C-1 to
+Exhibit 4.2
+Annex D-1 to
+Exhibit 4.2
+4.2
+Annex A-1 to
+Exhibit 4.2
+Annex B-1 to
+Exhibit 4.2
+Annex C-1 to
+Exhibit 4.2
+Annex D-1 to
+Exhibit 4.2
 10.1
-10.2
 
 10.1
-10.8
-10.20
+10.26
 
-Filing Date/
-Period End
-Date
-8/23/18
-3/13/15
-6/27/09
+3/18/2022
+6/6/2022
 
-12/25/21
-9/30/17
-9/30/17
+6/7/2024
+
+3/14/2024
+
+4/24/1998
+9/16/2016
+
+9/16/2016
+9/16/2016
+
+3/31/2020
+3/31/2020
+
+3/31/2020
+
+3/31/2020
+
+3/31/2020
+
+6/16/2021
+6/16/2021
+
+6/16/2021
+
+6/16/2021
+
+6/16/2021
+
+3/7/2006
+
+8/28/2024
+3/12/2015
+
+10.27
+
+3/12/2015
+
+10.1
+
+3/11/2019
 
 10-Q
 
 10.2
 
-3/31/18
+5/21/2020
 
-10-K
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
 
-10.17
+115/119
 
-9/29/18
+3/10/25, 4:53 PM
 
-10-K
+nvda-20250126
 
-10.18
+11/20/2024
 
-9/29/18
+5/29/2024
 
-10-K
+5/26/2021
 
-10.15
+3/18/2022
 
-9/28/19
+2/24/2023
 
-10-K
-
-10.16
-
-9/28/19
-
-10.11*
-
-Form  of  Restricted  Stock  Unit Award Agreement  under  2014  Employee  Stock  Plan
-
-10-K
-
-10.16
-
-9/26/20
-
-effective as of August 18, 2020.
-
-10.12*
-
-Form of Performance Award Agreement under 2014 Employee Stock Plan effective
-
-10-K
-
-10.17
-
-9/26/20
-
-as of August 18, 2020.
-
-10.13*
-
-Form of CEO Restricted Stock Unit Award Agreement under 2014 Employee Stock
-
-10-Q
-
-10.1
-
-12/26/20
-
-Plan effective as of September 27, 2020.
-
-10.14*
-
-Form  of  CEO  Performance  Award  Agreement  under  2014  Employee  Stock  Plan
-
-10-Q
-
-10.2
-
-12/26/20
-
-effective as of September 27, 2020.
-
-2022 Employee Stock Plan.
-Form  of  Restricted  Stock  Unit Award Agreement  under  2022  Employee  Stock  Plan
-
-effective as of March 4, 2022.
-
-Form of Performance Award Agreement under 2022 Employee Stock Plan effective
-
-as of March 4, 2022.
-
-Apple Inc. Executive Cash Incentive Plan.
-Subsidiaries of the Registrant.
-Consent of Independent Registered Public Accounting Firm.
-Power of Attorney (included on the Signatures page of this Annual Report on Form
-
-10-K).
-
-8-K
-8-K
-
-8-K
-
-8-K
-
-10.1
-10.2
+5/29/2024
 
 10.3
 
 10.1
 
-3/4/22
-3/4/22
+10.2
 
-3/4/22
+10.2
 
-8/19/22
+10-K
 
-Rule 13a-14(a) / 15d-14(a) Certification of Chief Executive Officer.
-Rule 13a-14(a) / 15d-14(a) Certification of Chief Financial Officer.
-Section 1350 Certifications of Chief Executive Officer and Chief Financial Officer.
-Inline  XBRL  Document  Set
+10-K
 
-financial  statements  and
-accompanying notes in Part II, Item 8, “Financial Statements and Supplementary
-Data” of this Annual Report on Form 10-K.
+10-Q
 
-the  consolidated
+10-Q
 
-for
+10-Q
 
-Inline XBRL for the cover page of this Annual Report on Form 10-K, included in the
+10-Q
 
-Exhibit 101 Inline XBRL Document Set.
+10.14
 
-Indicates management contract or compensatory plan or arrangement.
+10.16
 
-Filed herewith.
+Amended and Restated 2007 Equity Incentive Plan – Global
+Restricted Stock Unit Grant Notice and Global Restricted Stock
+Unit Agreement (2021)
+Amended and Restated 2007 Equity Incentive Plan – Global
+Restricted Stock Unit Grant Notice and Global Restricted Stock
+Unit Agreement (2022)
+Amended and Restated 2007 Equity Incentive Plan – Global
+Restricted Stock Unit Grant Notice and Global Restricted Stock
+Unit Agreement (2023)
+Amended and Restated 2007 Equity Incentive Plan – Global
+Restricted Stock Unit Grant Notice and Global Restricted Stock
+Unit Agreement (2024) (version 1)
+Amended  and  Restated  2007  Equity  Incentive  Plan  -  Global
+Performance-Based  Restricted  Stock  Unit  Grant  Notice  and
+Performance-Based Restricted Stock Unit Agreement (2024)
+Amended  and  Restated  2007  Equity  Incentive  Plan  –  Global
+Restricted  Stock  Unit  Grant  Notice  and  Global  Restricted  Stock
+Unit Agreement (2024) (version 2)
+Amended and Restated 2007 Equity Incentive Plan - Global
+Restricted Stock Unit Grant Notice and Global Restricted Stock
+Unit Agreement (2025)
+Amended and Restated 2007 Equity Incentive Plan - Global
+Performance-Based Restricted Stock Unit Grant Notice and
+Performance-Based Restricted Stock Unit Agreement (2025)
+Amended and Restated 2012 Employee Stock Purchase Plan
+Variable Compensation Plan - Fiscal Year 2024
+Variable Compensation Plan - Fiscal Year 2025
+Form of Commercial Paper Dealer Agreement between NVIDIA
+Corporation, as Issuer, and the Dealer party thereto
+NVIDIA Corporation Insider Trading Policy
+Subsidiaries of Registrant
+Consent of PricewaterhouseCoopers LLP
+Power of Attorney (included in signature page)
+Certification of Chief Executive Officer as required by Rule 13a-14(a) of the Securities Exchange Act of 1934
+Certification of Chief Financial Officer as required by Rule 13a-14(a) of the Securities Exchange Act of 1934
+Certification of Chief Executive Officer as required by Rule 13a-14(b) of the Securities Exchange Act of 1934
+Certification of Chief Financial Officer as required by Rule 13a-14(b) of the Securities Exchange Act of 1934
+Compensation Recovery Policy, as amended and restated
+November 30, 2023
+XBRL Instance Document
+XBRL Taxonomy Extension Schema Document
+XBRL Taxonomy Extension Calculation Linkbase Document
+XBRL Taxonomy Extension Definition Linkbase Document
+XBRL Taxonomy Extension Labels Linkbase Document
+XBRL Taxonomy Extension Presentation Linkbase Document
+Cover Page Interactive Data File - the cover page interactive data file does not appear in the Interactive Data File
+because its XBRL tags are embedded within the Inline XBRL document
 
-10.15*
-10.16*
+10.1
+10.1
+10.1
 
-10.17*
+8-K
+8-K
+8-K
 
-10.18*
-21.1**
-23.1**
-24.1**
+10-K
 
-31.1**
-31.2**
-32.1***
-101**
+97.1
 
-104**
+2/21/2024
 
-*
+3/8/2023
+3/14/2024
+12/15/2017
 
-**
+10.7+
 
-*** Furnished herewith.
+10.8+
 
-(1) Certain instruments defining the rights of holders of long-term debt securities of the Registrant are omitted pursuant to Item 601(b)(4)
+10.9+
 
-(iii) of Regulation S-K. The Registrant hereby undertakes to furnish to the SEC, upon request, copies of any such instruments.
+10.10+
 
-Item 16.    Form 10-K Summary
+10.11+
 
-None.
+10.12+
 
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
+10.13+*
 
-76/78
+10.14+*
 
-Apple Inc. | 2022 Form 10-K | 57
+10.15+*
+10.16+
+10.17+
+10.18
 
-3/4/25, 11:08 PM
+19.1*
+21.1*
+23.1*
+24.1*
+31.1*
+31.2*
+32.1#*
+32.2#*
+97.1+
 
-aapl-20220924
+101.INS*
+101.SCH*
+101.CAL*
+101.DEF*
+101.LAB*
+101.PRE*
+104
+
+*  Filed herewith.
+
++  Management contract or compensatory plan or arrangement.
+
+# In accordance with Item 601(b)(32)(ii) of Regulation S-K and SEC Release Nos. 33-8238 and 34-47986, Final Rule: Management's Reports on Internal Control Over Financial
+Reporting  and  Certification  of  Disclosure  in  Exchange Act  Periodic  Reports,  the  certifications  furnished  in  Exhibits  32.1  and  32.2  hereto  are  deemed  to  accompany  this
+Annual Report on Form 10-K and will not be deemed “filed” for purpose of Section 18 of the Exchange Act. Such certifications will not be deemed to be incorporated by
+reference into any filing under the Securities Act or the Exchange Act, except to the extent that the registrant specifically incorporates it by reference.
+
+84
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+116/119
+
+3/10/25, 4:53 PM
+
+nvda-20250126
+
+^ Certain exhibits and schedules have been omitted in accordance with Regulation S-K Item 601(a)(5).
+
+Copies of above exhibits not contained herein are available to any shareholder upon written request to:
+Investor Relations: NVIDIA Corporation, 2788 San Tomas Expressway, Santa Clara, CA 95051
+
+Item 16. Form 10-K Summary
+
+Not Applicable.
+
+85
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+117/119
+
+3/10/25, 4:53 PM
+
+nvda-20250126
 
 Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to
-be signed on its behalf by the undersigned, thereunto duly authorized.
+be signed on its behalf by the undersigned, thereunto duly authorized, on February 26, 2025.
 
-Date: October 27, 2022
+Signatures
 
-Apple Inc.
-
-SIGNATURES
-
+NVIDIA Corporation
 By:
 
-/s/ Luca Maestri
-Luca Maestri
-Senior Vice President,
-Chief Financial Officer
+/s/ Jen-Hsun Huang
+Jen-Hsun Huang
+President and Chief Executive Officer
 
 Power of Attorney
 
-KNOW ALL PERSONS BY THESE PRESENTS, that each person whose signature appears below constitutes and appoints Timothy D.
-Cook and Luca Maestri, jointly and severally, his or her attorneys-in-fact, each with the power of substitution, for him or her in any and all
-capacities, to sign any amendments to this Annual Report on Form 10-K, and to file the same, with exhibits thereto and other documents
-in connection therewith, with the Securities and Exchange Commission, hereby ratifying and confirming all that each of said attorneys-in-
-fact, or his substitute or substitutes, may do or cause to be done by virtue hereof.
+KNOW ALL PERSONS BY THESE PRESENTS, that each person whose signature appears below constitutes and appoints Jen-Hsun
+Huang and Colette M. Kress, and each or any one of them, his true and lawful attorney-in-fact and agent, with full power of substitution
+and resubstitution, for him and in his name, place and stead, in any and all capacities, to sign any and all amendments to this report, and
+to file the same, with all exhibits thereto, and other documents in connection therewith, with the Securities and Exchange Commission,
+granting unto said attorneys-in-facts and agents, and each of them, full power and authority to do and perform each and every act and
+thing requisite and necessary to be done in connection therewith, as fully to all intents and purposes as he might or could do in person,
+hereby ratifying and confirming all that said attorneys-in-fact and agents, or any of them, or their or his substitutes or substitutes, may
+lawfully do or cause to be done by virtue hereof.
+
+86
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+118/119
+
+3/10/25, 4:53 PM
+
+nvda-20250126
 
 Pursuant  to  the  requirements  of  the  Securities  Exchange Act  of  1934,  this  report  has  been  signed  below  by  the  following  persons  on
-behalf of the Registrant and in the capacities and on the dates indicated:
+behalf of the registrant and in the capacities and on the dates indicated.
 
-Name
+Signature
+
+/s/ JEN-HSUN HUANG
+Jen-Hsun Huang
+
+/s/ COLETTE M. KRESS
+Colette M. Kress
+
+/s/ DONALD ROBERTSON
+
+Donald Robertson
+/s/ ROBERT K. BURGESS
+
+Robert K. Burgess
+
+/s/ TENCH COXE
+
+Tench Coxe
+/s/ JOHN O. DABIRI
+John O. Dabiri
+/s/ PERSIS S. DRELL
+
+Persis S. Drell
+/s/ DAWN HUDSON
+
+Dawn Hudson
+
+/s/ HARVEY C. JONES
+Harvey C. Jones
+/s/ MELISSA B. LORA
+Melissa B. Lora
+/s/ STEPHEN C. NEAL
+
+Stephen C. Neal
+/s/ ELLEN OCHOA
+Ellen Ochoa
+/s/ A. BROOKE SEAWELL
+
+A. Brooke Seawell
+/s/ AARTI SHAH
+Aarti Shah
+/s/ MARK A. STEVENS
+Mark A. Stevens
 
 Title
+President, Chief Executive Officer and Director
+(Principal Executive Officer)
 
 Date
 
-/s/ Timothy D. Cook
-TIMOTHY D. COOK
+February 26, 2025
 
-/s/ Luca Maestri
-LUCA MAESTRI
-
-/s/ Chris Kondo
-CHRIS KONDO
-
-/s/ James A. Bell
-JAMES A. BELL
-
-/s/ Al Gore
-AL GORE
-
-/s/ Alex Gorsky
-ALEX GORSKY
-
-/s/ Andrea Jung
-ANDREA JUNG
-
-/s/ Arthur D. Levinson
-ARTHUR D. LEVINSON
-
-/s/ Monica Lozano
-MONICA LOZANO
-
-/s/ Ronald D. Sugar
-RONALD D. SUGAR
-
-/s/ Susan L. Wagner
-SUSAN L. WAGNER
-
-Chief Executive Officer and Director
-(Principal Executive Officer)
-
-October 27, 2022
-
-Senior Vice President, Chief Financial Officer
+Executive Vice President and Chief Financial Officer
 (Principal Financial Officer)
 
-October 27, 2022
+February 26, 2025
 
-Senior Director of Corporate Accounting
+Vice President and Chief Accounting Officer
 (Principal Accounting Officer)
 
 Director
@@ -6745,7 +9204,11 @@ Director
 
 Director
 
-Director and Chair of the Board
+Director
+
+Director
+
+Director
 
 Director
 
@@ -6753,35 +9216,39 @@ Director
 
 Director
 
-October 27, 2022
+Director
 
-October 27, 2022
+Director
 
-October 27, 2022
+87
 
-October 27, 2022
+February 26, 2025
 
-October 27, 2022
+February 26, 2025
 
-October 27, 2022
+February 26, 2025
 
-October 27, 2022
+February 26, 2025
 
-October 27, 2022
+February 26, 2025
 
-October 27, 2022
+February 26, 2025
 
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
+February 26, 2025
 
-77/78
+February 26, 2025
 
-3/4/25, 11:08 PM
+February 26, 2025
 
-aapl-20220924
+February 26, 2025
 
-Apple Inc. | 2022 Form 10-K | 58
+February 26, 2025
 
-https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm
+February 26, 2025
 
-78/78
+February 26, 2025
+
+https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+119/119
 
